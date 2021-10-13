@@ -23,7 +23,7 @@
       {
         "packageArtifactId": "azure-search-documents",
         "packageGroupId": "com.azure",
-        "packageVersion": "11.4.3",
+        "packageVersion": "11.4.4",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -113,7 +113,7 @@
       {
         "packageArtifactId": "azure-messaging-eventgrid",
         "packageGroupId": "com.azure",
-        "packageVersion": "4.6.1",
+        "packageVersion": "4.7.0",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -197,7 +197,7 @@
       {
         "packageArtifactId": "azure-storage-common",
         "packageGroupId": "com.azure",
-        "packageVersion": "12.13.0",
+        "packageVersion": "12.14.0",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1378,7 +1378,7 @@
       {
         "packageArtifactId": "azure-resourcemanager-kusto",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.3",
+        "packageVersion": "1.0.0-beta.2",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
