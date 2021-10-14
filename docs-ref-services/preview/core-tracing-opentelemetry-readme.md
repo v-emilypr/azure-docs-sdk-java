@@ -3,7 +3,7 @@ title: Azure OpenTelemetry Tracing plugin library for Java
 keywords: Azure, java, SDK, API, azure-core-tracing-opentelemetry, plugin
 author: maggiepint
 ms.author: magpint
-ms.date: 10/02/2021
+ms.date: 10/14/2021
 ms.topic: reference
 ms.prod: azure
 ms.technology: azure
@@ -11,7 +11,7 @@ ms.devlang: java
 ms.service: plugin
 ---
 
-# Azure OpenTelemetry Tracing plugin library for Java - Version 1.0.0-beta.15 
+# Azure OpenTelemetry Tracing plugin library for Java - Version 1.0.0-alpha.20211014.3 
 
 
 This package enables distributed tracing across Azure SDK Java libraries through [OpenTelemetry][OpenTelemetry]. OpenTelemetry is an open source, vendor-agnostic, single distribution of libraries to provide metrics collection and distributed tracing for services.
@@ -53,7 +53,7 @@ A span represents a single operation in a trace. A span could be representative 
 
 ## Examples
 
-The following sections provides examples of using the azure-core-tracing-opentelemetry plugin with some of the Azure Java SDK libraries:
+The following sections provides examples of using the azure-core-tracing-opentelemetry plugin with a few Azure Java SDK libraries:
 
 ### Using the plugin package with HTTP client libraries
 
@@ -63,35 +63,35 @@ The following sections provides examples of using the azure-core-tracing-opentel
     The plugin package creates a root span to encapsulate all the child spans created in the calling methods when no parent span is passed in the context.
     This [sample][sample_key_vault] provides an example when no user parent span is passed.
 
-    ```java
-    // Get the Tracer Provider
-    static TracerSdkProvider tracerProvider = OpenTelemetrySdk.getTracerProvider();
-    private static final Tracer TRACER = configureOpenTelemetryAndLoggingExporter();
+```java
+// Get the Tracer Provider
+static TracerSdkProvider tracerProvider = OpenTelemetrySdk.getTracerProvider();
+private static final Tracer TRACER = configureOpenTelemetryAndLoggingExporter();
 
-    public static void main(String[] args) {
-       doClientWork();
-    }
+public static void main(String[] args) {
+   doClientWork();
+}
 
-    public static void doClientWork() {
-       SecretClient client = new SecretClientBuilder()
-         .endpoint("<your-vault-url>")
-         .credential(new DefaultAzureCredentialBuilder().build())
-         .buildClient();
+public static void doClientWork() {
+   SecretClient client = new SecretClientBuilder()
+     .endpoint("<your-vault-url>")
+     .credential(new DefaultAzureCredentialBuilder().build())
+     .buildClient();
 
-       Span span = TRACER.spanBuilder("user-parent-span").startSpan();
-       try (Scope scope = TRACER.withSpan(span)) {
+   Span span = TRACER.spanBuilder("user-parent-span").startSpan();
+   try (Scope scope = TRACER.withSpan(span)) {
 
-           // Thread bound (sync) calls will automatically pick up the parent span and you don't need to pass it explicitly.
-           secretClient.setSecret(new Secret("secret_name", "secret_value));
+       // Thread bound (sync) calls will automatically pick up the parent span and you don't need to pass it explicitly.
+       secretClient.setSecret(new Secret("secret_name", "secret_value));
 
-           // Optionally, to specify the context you can use
-           // final Context traceContext = new Context(PARENT_SPAN_KEY, span);
-           // secretClient.setSecretWithResponse(new Secret("secret_name", "secret_value", traceContext));
-       } finally {
-           span.end();
-       }
-    }
-    ```
+       // Optionally, to specify the context you can use
+       // final Context traceContext = new Context(PARENT_SPAN_KEY, span);
+       // secretClient.setSecretWithResponse(new Secret("secret_name", "secret_value", traceContext));
+   } finally {
+       span.end();
+   }
+}
+```
 
 ### Using the plugin package with AMQP client libraries
 
@@ -167,19 +167,19 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 [azure_data_app_configuration]: https://mvnrepository.com/artifact/com.azure/azure-data-appconfiguration/
 [azure_keyvault_secrets]: https://mvnrepository.com/artifact/com.azure/azure-security-keyvault-secrets
 [azure_messaging_eventhubs_mvn]: https://mvnrepository.com/artifact/com.azure/azure-messaging-eventhubs/
-[azure-messaging-eventhubs]: https://github.com/Azure/azure-sdk-for-java/blob/azure-core-tracing-opentelemetry_1.0.0-beta.15/sdk/eventhubs/azure-messaging-eventhubs
-[azure-security-keyvault-secrets]: https://github.com/Azure/azure-sdk-for-java/blob/azure-core-tracing-opentelemetry_1.0.0-beta.15/sdk/keyvault/azure-security-keyvault-secrets
-[context]: https://github.com/Azure/azure-sdk-for-java/blob/azure-core-tracing-opentelemetry_1.0.0-beta.15/sdk/core/azure-core/src/main/java/com/azure/core/util/Context.java
+[azure-messaging-eventhubs]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/eventhubs/azure-messaging-eventhubs
+[azure-security-keyvault-secrets]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/keyvault/azure-security-keyvault-secrets
+[context]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/core/azure-core/src/main/java/com/azure/core/util/Context.java
 [jdk_link]: https://docs.microsoft.com/java/azure/jdk/?view=azure-java-stable
 [logging]: https://github.com/Azure/azure-sdk-for-java/wiki/Logging-with-Azure-SDK
 [OpenTelemetry-quickstart]: https://github.com/open-telemetry/opentelemetry-java/blob/main/QUICKSTART.md
 [OpenTelemetry]: https://github.com/open-telemetry/opentelemetry-java#opentelemetry-for-java
-[sample_app_config]: https://github.com/Azure/azure-sdk-for-java/blob/azure-core-tracing-opentelemetry_1.0.0-beta.15/sdk/core/azure-core-tracing-opentelemetry/src/samples/java/com/azure/core/tracing/opentelemetry/CreateConfigurationSettingLoggingExporterSample.java
-[sample_async_key_vault]: https://github.com/Azure/azure-sdk-for-java/blob/azure-core-tracing-opentelemetry_1.0.0-beta.15/sdk/core/azure-core-tracing-opentelemetry/src/samples/java/com/azure/core/tracing/opentelemetry/AsyncListKeyVaultSecretsLoggingExporterSample.java
-[sample_eventhubs]: https://github.com/Azure/azure-sdk-for-java/blob/azure-core-tracing-opentelemetry_1.0.0-beta.15/sdk/core/azure-core-tracing-opentelemetry/src/samples/java/com/azure/core/tracing/opentelemetry/PublishEventsJaegerExporterSample.java
-[sample_key_vault]: https://github.com/Azure/azure-sdk-for-java/blob/azure-core-tracing-opentelemetry_1.0.0-beta.15/sdk/core/azure-core-tracing-opentelemetry/src/samples/java/com/azure/core/tracing/opentelemetry/ListKeyVaultSecretsJaegerExporterSample.java
-[samples]: https://github.com/Azure/azure-sdk-for-java/blob/azure-core-tracing-opentelemetry_1.0.0-beta.15/sdk/core/azure-core-tracing-opentelemetry/src/samples/
-[source_code]: https://github.com/Azure/azure-sdk-for-java/blob/azure-core-tracing-opentelemetry_1.0.0-beta.15/sdk/core/azure-core-tracing-opentelemetry/src
+[sample_app_config]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/core/azure-core-tracing-opentelemetry/src/samples/java/com/azure/core/tracing/opentelemetry/CreateConfigurationSettingLoggingExporterSample.java
+[sample_async_key_vault]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/core/azure-core-tracing-opentelemetry/src/samples/java/com/azure/core/tracing/opentelemetry/AsyncListKeyVaultSecretsLoggingExporterSample.java
+[sample_eventhubs]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/core/azure-core-tracing-opentelemetry/src/samples/java/com/azure/core/tracing/opentelemetry/PublishEventsJaegerExporterSample.java
+[sample_key_vault]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/core/azure-core-tracing-opentelemetry/src/samples/java/com/azure/core/tracing/opentelemetry/ListKeyVaultSecretsJaegerExporterSample.java
+[samples]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/core/azure-core-tracing-opentelemetry/src/samples/
+[source_code]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/core/azure-core-tracing-opentelemetry/src
 
 ![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-java%2Fsdk%2Fcore%2Fazure-core-tracing-opentelemetry%2FREADME.png)
 
