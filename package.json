@@ -1759,7 +1759,7 @@
         "excludePath": [],
         "inputPath": [],
         "packageGroupId": "com.azure",
-        "packageVersion": "1.2.1-alpha.20211019.37",
+        "packageVersion": "1.2.1-alpha.20211019.38",
         "packageArtifactId": "azure-sdk-template",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
