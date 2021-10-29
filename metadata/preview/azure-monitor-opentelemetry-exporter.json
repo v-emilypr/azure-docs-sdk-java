@@ -1,0 +1,14 @@
+{
+  "Name": "azure-monitor-opentelemetry-exporter",
+  "Version": "1.0.0-alpha.20211028.1",
+  "DevVersion": "1.0.0-alpha.20211028.1",
+  "DirectoryPath": "sdk/monitor/azure-monitor-opentelemetry-exporter",
+  "ServiceDirectory": "monitor",
+  "ReadMePath": "sdk/monitor/azure-monitor-opentelemetry-exporter/README.md",
+  "ChangeLogPath": "sdk/monitor/azure-monitor-opentelemetry-exporter/CHANGELOG.md",
+  "Group": "com.azure",
+  "SdkType": "client",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-monitor-opentelemetry-exporter",
+  "ReleaseStatus": "Unreleased"
+}
