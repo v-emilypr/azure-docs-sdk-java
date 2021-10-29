@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-signalr",
+  "Version": "1.0.0-alpha.20211028.1",
+  "DevVersion": "1.0.0-alpha.20211028.1",
+  "DirectoryPath": "sdk/signalr/azure-resourcemanager-signalr",
+  "ServiceDirectory": "signalr",
+  "ReadMePath": "sdk/signalr/azure-resourcemanager-signalr/README.md",
+  "ChangeLogPath": "sdk/signalr/azure-resourcemanager-signalr/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-signalr",
+  "ReleaseStatus": "Unreleased"
+}
