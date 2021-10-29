@@ -1,0 +1,14 @@
+{
+  "Name": "azure-authentication-msi-token-provider",
+  "Version": "1.1.0-alpha.20211029.1",
+  "DevVersion": "1.1.0-alpha.20211029.1",
+  "DirectoryPath": "sdk/authorization/microsoft-azure-authentication-msi-token-provider",
+  "ServiceDirectory": "authorization",
+  "ReadMePath": "sdk/authorization/microsoft-azure-authentication-msi-token-provider/README.md",
+  "ChangeLogPath": "",
+  "Group": "com.microsoft.azure.msi_auth_token_provider",
+  "SdkType": "client",
+  "IsNewSdk": false,
+  "ArtifactName": "azure-authentication-msi-token-provider",
+  "ReleaseStatus": null
+}
