@@ -90,6 +90,16 @@
       children:
       - com.azure.resourcemanager.kusto*
       - com.microsoft.azure.management.kusto*
+  - name: Event Grid
+    uid: azure.java.sdk.landingpage.services.eventGrid.pre
+    href: ~/docs-ref-services/preview/eventgrid.md
+    items:
+    - name: Client
+      uid: azure.java.sdk.landingpage.services.eventGrid.Client.pre
+      landingPageType: Service
+      children:
+      - com.azure.messaging.eventgrid*
+      - com.microsoft.azure.eventgrid*
   - name: Form Recognizer
     uid: azure.java.sdk.landingpage.preview.services.formrecognizer.pre
     href: ~/docs-ref-services/preview/ai-formrecognizer-readme.md
@@ -153,6 +163,11 @@
       - com.azure.security.keyvault.administration*
       landingPageType: Service
     landingPageType: Service
+  - name: Metrics Advisor
+    uid: azure.java.sdk.landingpage.services.metricsadvisor.pre
+    href: ~/docs-ref-services/preview/ai-metricsadvisor-readme.md
+    children:
+    - com.azure.ai.metricsadvisor*
   - name: Mixed Reality
     uid: azure.java.sdk.landingpage.service.mixedreality.pre
     landingPageType: Service
