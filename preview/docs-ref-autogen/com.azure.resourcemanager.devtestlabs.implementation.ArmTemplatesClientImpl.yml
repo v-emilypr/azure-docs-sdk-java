@@ -29,4 +29,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.devtestlabs.fluent.ArmTemplatesClient?alt=com.azure.resourcemanager.devtestlabs.fluent.ArmTemplatesClient&text=ArmTemplatesClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.devtestlabs.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-devtestlabs:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-devtestlabs:1.0.0-alpha.20211028.1

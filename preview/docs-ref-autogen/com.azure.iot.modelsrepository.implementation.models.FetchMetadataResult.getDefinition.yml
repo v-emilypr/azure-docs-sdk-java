@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.getDefinition*"
+fullName: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.getDefinition"
+name: "getDefinition"
+nameWithType: "FetchMetadataResult.getDefinition"
+members:
+- uid: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.getDefinition()"
+  fullName: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.getDefinition()"
+  name: "getDefinition()"
+  nameWithType: "FetchMetadataResult.getDefinition()"
+  summary: "Gets the model repository's metadata definition"
+  syntax: "public ModelsRepositoryMetadata getDefinition()"
+  returns:
+    description: "Repository metadata definition"
+    type: "<xref href=\"com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata?alt=com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata&text=ModelsRepositoryMetadata\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211028.1

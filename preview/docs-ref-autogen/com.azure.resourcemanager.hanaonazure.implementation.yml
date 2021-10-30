@@ -14,4 +14,4 @@ classes:
 - "com.azure.resourcemanager.hanaonazure.implementation.OperationsImpl"
 metadata: {}
 package: "com.azure.resourcemanager.hanaonazure.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-hanaonazure:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-hanaonazure:1.0.0-alpha.20211028.1

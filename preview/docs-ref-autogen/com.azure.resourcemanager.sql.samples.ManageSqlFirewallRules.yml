@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.sql.samples.ManageSqlFirewallRules"
+fullName: "com.azure.resourcemanager.sql.samples.ManageSqlFirewallRules"
+name: "ManageSqlFirewallRules"
+nameWithType: "ManageSqlFirewallRules"
+summary: "Azure SQL sample for managing SQL Database - - Create a SQL Server along with 2 firewalls. - Add another firewall in the SQL Server - List all firewalls. - Get a firewall. - Update a firewall. - Delete a firewall. - Add and delete a firewall as part of update of SQL Server - Delete Sql Server"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageSqlFirewallRules"
+methods:
+- "com.azure.resourcemanager.sql.samples.ManageSqlFirewallRules.main(java.lang.String[])"
+- "com.azure.resourcemanager.sql.samples.ManageSqlFirewallRules.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.sql.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211028.1

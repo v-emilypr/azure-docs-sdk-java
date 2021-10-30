@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.quota.QuotaManager.operations*"
+fullName: "com.azure.resourcemanager.quota.QuotaManager.operations"
+name: "operations"
+nameWithType: "QuotaManager.operations"
+members:
+- uid: "com.azure.resourcemanager.quota.QuotaManager.operations()"
+  fullName: "com.azure.resourcemanager.quota.QuotaManager.operations()"
+  name: "operations()"
+  nameWithType: "QuotaManager.operations()"
+  syntax: "public Operations operations()"
+  returns:
+    description: "Resource collection API of Operations."
+    type: "<xref href=\"com.azure.resourcemanager.quota.models.Operations?alt=com.azure.resourcemanager.quota.models.Operations&text=Operations\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.quota"
+artifact: com.azure.resourcemanager:azure-resourcemanager-quota:1.0.0-alpha.20211028.1

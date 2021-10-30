@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.DockerUtils.DockerSSLConfig.DockerSSLConfig*"
+fullName: "com.azure.resourcemanager.samples.DockerUtils.DockerSSLConfig.DockerSSLConfig"
+name: "DockerSSLConfig"
+nameWithType: "DockerUtils.DockerSSLConfig.DockerSSLConfig"
+members:
+- uid: "com.azure.resourcemanager.samples.DockerUtils.DockerSSLConfig.DockerSSLConfig(java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.DockerUtils.DockerSSLConfig.DockerSSLConfig(String caPem, String keyPem, String certPem)"
+  name: "DockerSSLConfig(String caPem, String keyPem, String certPem)"
+  nameWithType: "DockerUtils.DockerSSLConfig.DockerSSLConfig(String caPem, String keyPem, String certPem)"
+  summary: "Constructor for the class."
+  parameters:
+  - description: "- content of the ca.pem certificate file"
+    name: "caPem"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- content of the key.pem certificate file"
+    name: "keyPem"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- content of the cert.pem certificate file"
+    name: "certPem"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DockerSSLConfig(String caPem, String keyPem, String certPem)"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211028.1

@@ -10,4 +10,4 @@ classes:
 - "com.azure.resourcemanager.resourcehealth.fluent.models.OperationListResultInner"
 metadata: {}
 package: "com.azure.resourcemanager.resourcehealth.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-resourcehealth:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-resourcehealth:1.0.0-alpha.20211029.1

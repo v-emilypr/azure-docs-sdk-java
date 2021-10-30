@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.sql.samples.ManageSqlVirtualNetworkRules"
+fullName: "com.azure.resourcemanager.sql.samples.ManageSqlVirtualNetworkRules"
+name: "ManageSqlVirtualNetworkRules"
+nameWithType: "ManageSqlVirtualNetworkRules"
+summary: "Azure SQL sample for managing SQL Virtual Network Rules - Create a Virtual Network with two subnets. - Create a SQL Server along with one virtual network rule. - Add another virtual network rule in the SQL Server - Get a virtual network rule. - Update a virtual network rule. - List all virtual network rules. - Delete a virtual network. - Delete Sql Server"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ManageSqlVirtualNetworkRules"
+constructors:
+- "com.azure.resourcemanager.sql.samples.ManageSqlVirtualNetworkRules.ManageSqlVirtualNetworkRules()"
+methods:
+- "com.azure.resourcemanager.sql.samples.ManageSqlVirtualNetworkRules.main(java.lang.String[])"
+- "com.azure.resourcemanager.sql.samples.ManageSqlVirtualNetworkRules.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.sql.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211028.1

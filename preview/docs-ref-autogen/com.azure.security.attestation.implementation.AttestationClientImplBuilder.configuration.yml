@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.configuration*"
+fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.configuration"
+name: "configuration"
+nameWithType: "AttestationClientImplBuilder.configuration"
+members:
+- uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.configuration(com.azure.core.util.Configuration)"
+  fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.configuration(Configuration configuration)"
+  name: "configuration(Configuration configuration)"
+  nameWithType: "AttestationClientImplBuilder.configuration(Configuration configuration)"
+  summary: "Sets The configuration store that is used during construction of the service client."
+  parameters:
+  - description: "the configuration value."
+    name: "configuration"
+    type: "<xref href=\"com.azure.core.util.Configuration?alt=com.azure.core.util.Configuration&text=Configuration\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationClientImplBuilder configuration(Configuration configuration)"
+  returns:
+    description: "the AttestationClientImplBuilder."
+    type: "<xref href=\"com.azure.security.attestation.implementation.AttestationClientImplBuilder?alt=com.azure.security.attestation.implementation.AttestationClientImplBuilder&text=AttestationClientImplBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211029.1

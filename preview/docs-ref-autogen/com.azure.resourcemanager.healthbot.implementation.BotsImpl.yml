@@ -39,4 +39,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.healthbot.models.Bots?alt=com.azure.resourcemanager.healthbot.models.Bots&text=Bots\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.healthbot.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-healthbot:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-healthbot:1.0.0-alpha.20211028.1

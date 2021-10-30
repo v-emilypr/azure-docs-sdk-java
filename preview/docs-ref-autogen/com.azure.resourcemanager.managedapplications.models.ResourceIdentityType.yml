@@ -72,4 +72,4 @@ methods:
     type: "<xref href=\"com.azure.resourcemanager.managedapplications.models.ResourceIdentityType?alt=com.azure.resourcemanager.managedapplications.models.ResourceIdentityType&text=ResourceIdentityType\" data-throw-if-not-resolved=\"False\" />[]"
 metadata: {}
 package: "com.azure.resourcemanager.managedapplications.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-managedapplications:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-managedapplications:1.0.0-alpha.20211028.1

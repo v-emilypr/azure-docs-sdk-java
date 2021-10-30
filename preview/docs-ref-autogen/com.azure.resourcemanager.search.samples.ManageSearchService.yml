@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.search.samples.ManageSearchService"
+fullName: "com.azure.resourcemanager.search.samples.ManageSearchService"
+name: "ManageSearchService"
+nameWithType: "ManageSearchService"
+summary: "Azure Cognitive Search sample for managing search service. - Create a Search service resource with a free SKU - Create a Search service resource with a standard SKU, one replica and one partition - Create a new query key and delete a query key - Update the Search service with three replicas and three partitions - Regenerate the primary and secondary admin keys - Delete the Search service"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ManageSearchService"
+constructors:
+- "com.azure.resourcemanager.search.samples.ManageSearchService.ManageSearchService()"
+methods:
+- "com.azure.resourcemanager.search.samples.ManageSearchService.main(java.lang.String[])"
+- "com.azure.resourcemanager.search.samples.ManageSearchService.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.search.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211028.1

@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.compute.samples.CreateVirtualMachinesAsyncTrackingRelatedResources"
+fullName: "com.azure.resourcemanager.compute.samples.CreateVirtualMachinesAsyncTrackingRelatedResources"
+name: "CreateVirtualMachinesAsyncTrackingRelatedResources"
+nameWithType: "CreateVirtualMachinesAsyncTrackingRelatedResources"
+summary: "Making use of the reactive pattern in a complex virtual machine creation scenario This sample shows how the reactive pattern (RXJava's Observables) supported by the Azure Libraries for Java in their asynchronous API can be used for handling some more complex real world scenarios involving distributed computation in the cloud with relative ease. The specific example here shows how Observables enable real time tracking of the creation of many virtual machines in parallel and all their related resources. Since Azure does not support transactional creation of virtual machines (no automatic rollback in case of failure), this could be useful for example for the purposes of deleting \"orphaned\" resources, whenever the creation of some other resources fails. Or simply showing real-time progress in some UI to the end user. The sample goes through the following steps: 1. Define a number of virtual machines and their related required resources (such as virtual networks, etc) 2. Start the parallel creation of those virtual machines with observer logic keeping track of the created resources and reporting them on the console in real time 3. Clean up the \"orphaned\" resources, i.e. those that were created successfully but whose associated virtual machine failed to be created for some reason."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class CreateVirtualMachinesAsyncTrackingRelatedResources"
+methods:
+- "com.azure.resourcemanager.compute.samples.CreateVirtualMachinesAsyncTrackingRelatedResources.main(java.lang.String[])"
+- "com.azure.resourcemanager.compute.samples.CreateVirtualMachinesAsyncTrackingRelatedResources.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.compute.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211028.1

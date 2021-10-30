@@ -1,0 +1,11 @@
+### YamlMime:JavaPackage
+uid: "com.azure.core.http.jdk.httpclient"
+fullName: "com.azure.core.http.jdk.httpclient"
+name: "com.azure.core.http.jdk.httpclient"
+summary: "Package containing an HTTP client for azure-core using the JDK HttpClient APIs."
+classes:
+- "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder"
+- "com.azure.core.http.jdk.httpclient.JdkHttpClientProvider"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211029.1

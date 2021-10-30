@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getInitTimeClaims*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getInitTimeClaims"
+name: "getInitTimeClaims"
+nameWithType: "AttestationResultImpl.getInitTimeClaims"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getInitTimeClaims()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getInitTimeClaims()"
+  name: "getInitTimeClaims()"
+  nameWithType: "AttestationResultImpl.getInitTimeClaims()"
+  summary: "Get the inittimeClaims property: Inittime Claims."
+  syntax: "public Object getInitTimeClaims()"
+  returns:
+    description: "the inittimeClaims value."
+    type: "<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211029.1

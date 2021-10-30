@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.compute.samples.ManageScaleSetUserAssignedMSIFromServicePrincipal"
+fullName: "com.azure.resourcemanager.compute.samples.ManageScaleSetUserAssignedMSIFromServicePrincipal"
+name: "ManageScaleSetUserAssignedMSIFromServicePrincipal"
+nameWithType: "ManageScaleSetUserAssignedMSIFromServicePrincipal"
+summary: "Azure Compute sample for assigning service identity to virtual machine scale set using newly created service principal - Create a VM scale-set - Create a managed service identity \\#1 and create a service principal. Configure the service principal to have 2 permissions, to update the scale set and assign the managed service identity \\#1 to the scale set - Create a managed service identity \\#2 - Login using created service principle and verify it can assign/remove identity \\#1, but not \\#2"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageScaleSetUserAssignedMSIFromServicePrincipal"
+methods:
+- "com.azure.resourcemanager.compute.samples.ManageScaleSetUserAssignedMSIFromServicePrincipal.main(java.lang.String[])"
+- "com.azure.resourcemanager.compute.samples.ManageScaleSetUserAssignedMSIFromServicePrincipal.runSample(com.azure.resourcemanager.AzureResourceManager.Authenticated)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.compute.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211028.1

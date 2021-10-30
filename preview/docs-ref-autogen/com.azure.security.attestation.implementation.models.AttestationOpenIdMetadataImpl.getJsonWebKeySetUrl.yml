@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getJsonWebKeySetUrl*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getJsonWebKeySetUrl"
+name: "getJsonWebKeySetUrl"
+nameWithType: "AttestationOpenIdMetadataImpl.getJsonWebKeySetUrl"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getJsonWebKeySetUrl()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getJsonWebKeySetUrl()"
+  name: "getJsonWebKeySetUrl()"
+  nameWithType: "AttestationOpenIdMetadataImpl.getJsonWebKeySetUrl()"
+  summary: "Returns the URL of the location which can be used to retrieve the keys which can be used to verify the signature of tokens returned by the attestatiom service. Contains the \"jwks\\_uri\" metadata value from the OpenId Metadata. See [OpenId Provider Metadata][] for more information.\n\n\n[OpenId Provider Metadata]: https://openid.net/specs/openid-connect-discovery-1_0.html#ProviderMetadata"
+  syntax: "public String getJsonWebKeySetUrl()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211029.1

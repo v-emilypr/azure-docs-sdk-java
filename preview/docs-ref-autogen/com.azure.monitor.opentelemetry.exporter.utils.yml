@@ -1,0 +1,10 @@
+### YamlMime:JavaPackage
+uid: "com.azure.monitor.opentelemetry.exporter.utils"
+fullName: "com.azure.monitor.opentelemetry.exporter.utils"
+name: "com.azure.monitor.opentelemetry.exporter.utils"
+summary: "Package containing the util classes for OpenTelemetry Exporter  for Azure Monitor."
+classes:
+- "com.azure.monitor.opentelemetry.exporter.utils.FormattedDuration"
+metadata: {}
+package: "com.azure.monitor.opentelemetry.exporter.utils"
+artifact: com.azure:azure-monitor-opentelemetry-exporter:1.0.0-alpha.20211028.1

@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueAdvanceFeatures"
+fullName: "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueAdvanceFeatures"
+name: "ServiceBusQueueAdvanceFeatures"
+nameWithType: "ServiceBusQueueAdvanceFeatures"
+summary: "Azure Service Bus basic scenario sample. - Create namespace. - Add a queue in namespace with features session and dead-lettering. - Create another queue with auto-forwarding to first queue. \\[Remove\\] - Create another queue with dead-letter auto-forwarding to first queue. \\[Remove\\] - Create second queue with Deduplication and AutoDeleteOnIdle feature - Update second queue to change time for AutoDeleteOnIdle. - Update first queue to disable dead-letter forwarding and with new Send authorization rule - Update queue to remove the Send Authorization rule. - Get default authorization rule. - Get the keys from authorization rule to connect to queue. - Send a \"Hello\" message to queue using Data plan sdk for Service Bus. - Delete queue - Delete namespace"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ServiceBusQueueAdvanceFeatures"
+constructors:
+- "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueAdvanceFeatures.ServiceBusQueueAdvanceFeatures()"
+methods:
+- "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueAdvanceFeatures.main(java.lang.String[])"
+- "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueAdvanceFeatures.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.servicebus.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211028.1

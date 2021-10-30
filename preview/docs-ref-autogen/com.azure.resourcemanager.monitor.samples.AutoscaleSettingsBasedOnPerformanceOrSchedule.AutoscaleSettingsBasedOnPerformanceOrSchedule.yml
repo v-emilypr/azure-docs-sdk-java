@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.monitor.samples.AutoscaleSettingsBasedOnPerformanceOrSchedule.AutoscaleSettingsBasedOnPerformanceOrSchedule*"
+fullName: "com.azure.resourcemanager.monitor.samples.AutoscaleSettingsBasedOnPerformanceOrSchedule.AutoscaleSettingsBasedOnPerformanceOrSchedule"
+name: "AutoscaleSettingsBasedOnPerformanceOrSchedule"
+nameWithType: "AutoscaleSettingsBasedOnPerformanceOrSchedule.AutoscaleSettingsBasedOnPerformanceOrSchedule"
+members:
+- uid: "com.azure.resourcemanager.monitor.samples.AutoscaleSettingsBasedOnPerformanceOrSchedule.AutoscaleSettingsBasedOnPerformanceOrSchedule()"
+  fullName: "com.azure.resourcemanager.monitor.samples.AutoscaleSettingsBasedOnPerformanceOrSchedule.AutoscaleSettingsBasedOnPerformanceOrSchedule()"
+  name: "AutoscaleSettingsBasedOnPerformanceOrSchedule()"
+  nameWithType: "AutoscaleSettingsBasedOnPerformanceOrSchedule.AutoscaleSettingsBasedOnPerformanceOrSchedule()"
+  syntax: "public AutoscaleSettingsBasedOnPerformanceOrSchedule()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.monitor.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211028.1

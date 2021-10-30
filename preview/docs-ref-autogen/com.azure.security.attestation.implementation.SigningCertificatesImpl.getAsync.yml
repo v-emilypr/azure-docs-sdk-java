@@ -12,7 +12,7 @@ members:
   syntax: "public Mono<JsonWebKeySet> getAsync()"
   returns:
     description: "the response."
-    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.JsonWebKeySet?alt=com.azure.security.attestation.models.JsonWebKeySet&text=JsonWebKeySet\" data-throw-if-not-resolved=\"False\" />&gt;"
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.implementation.models.JsonWebKeySet?alt=com.azure.security.attestation.implementation.models.JsonWebKeySet&text=JsonWebKeySet\" data-throw-if-not-resolved=\"False\" />&gt;"
 - uid: "com.azure.security.attestation.implementation.SigningCertificatesImpl.getAsync(com.azure.core.util.Context)"
   fullName: "com.azure.security.attestation.implementation.SigningCertificatesImpl.getAsync(Context context)"
   name: "getAsync(Context context)"
@@ -25,8 +25,8 @@ members:
   syntax: "public Mono<JsonWebKeySet> getAsync(Context context)"
   returns:
     description: "the response."
-    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.JsonWebKeySet?alt=com.azure.security.attestation.models.JsonWebKeySet&text=JsonWebKeySet\" data-throw-if-not-resolved=\"False\" />&gt;"
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.implementation.models.JsonWebKeySet?alt=com.azure.security.attestation.implementation.models.JsonWebKeySet&text=JsonWebKeySet\" data-throw-if-not-resolved=\"False\" />&gt;"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation.implementation"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211029.1

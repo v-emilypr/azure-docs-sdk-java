@@ -39,4 +39,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.powerbidedicated.models.AutoScaleVCores?alt=com.azure.resourcemanager.powerbidedicated.models.AutoScaleVCores&text=AutoScaleVCores\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.powerbidedicated.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-powerbidedicated:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-powerbidedicated:1.0.0-alpha.20211029.1

@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppCosmosDbByMsi.runSample*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppCosmosDbByMsi.runSample"
+name: "runSample"
+nameWithType: "ManageLinuxWebAppCosmosDbByMsi.runSample"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppCosmosDbByMsi.runSample(com.azure.resourcemanager.AzureResourceManager,java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppCosmosDbByMsi.runSample(AzureResourceManager azure, String clientId)"
+  name: "runSample(AzureResourceManager azure, String clientId)"
+  nameWithType: "ManageLinuxWebAppCosmosDbByMsi.runSample(AzureResourceManager azure, String clientId)"
+  summary: "Main function which runs the actual sample."
+  parameters:
+  - description: "instance of the azure client"
+    name: "azure"
+    type: "<xref href=\"com.azure.resourcemanager.AzureResourceManager?alt=com.azure.resourcemanager.AzureResourceManager&text=AzureResourceManager\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the client ID"
+    name: "clientId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static boolean runSample(AzureResourceManager azure, String clientId)"
+  exceptions:
+  - type: "<xref href=\"java.io.IOException?alt=java.io.IOException&text=IOException\" data-throw-if-not-resolved=\"False\" />"
+  - type: "<xref href=\"java.lang.InterruptedException?alt=java.lang.InterruptedException&text=InterruptedException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "true if sample runs successfully"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211028.1

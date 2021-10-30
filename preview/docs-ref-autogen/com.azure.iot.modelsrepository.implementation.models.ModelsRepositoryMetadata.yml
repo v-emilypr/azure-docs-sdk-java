@@ -1,0 +1,34 @@
+### YamlMime:JavaType
+uid: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata"
+fullName: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata"
+name: "ModelsRepositoryMetadata"
+nameWithType: "ModelsRepositoryMetadata"
+summary: "<xref uid=\"com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata\" data-throw-if-not-resolved=\"false\" data-raw-source=\"ModelsRepositoryMetadata\"></xref> is designated to store information about models repository."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ModelsRepositoryMetadata"
+constructors:
+- "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.ModelsRepositoryMetadata()"
+- "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.ModelsRepositoryMetadata(java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures)"
+methods:
+- "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.getCommitId()"
+- "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.getFeatures()"
+- "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.getPublishDateUtc()"
+- "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.getSourceRepo()"
+- "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.getTotalModelCount()"
+type: "class"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211028.1

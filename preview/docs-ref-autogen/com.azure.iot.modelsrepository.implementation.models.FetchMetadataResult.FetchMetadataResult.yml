@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.FetchMetadataResult*"
+fullName: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.FetchMetadataResult"
+name: "FetchMetadataResult"
+nameWithType: "FetchMetadataResult.FetchMetadataResult"
+members:
+- uid: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.FetchMetadataResult()"
+  fullName: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.FetchMetadataResult()"
+  name: "FetchMetadataResult()"
+  nameWithType: "FetchMetadataResult.FetchMetadataResult()"
+  syntax: "public FetchMetadataResult()"
+type: "constructor"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211028.1

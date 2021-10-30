@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixResponseImpl.privateDnsZoneSuffix*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixResponseImpl.privateDnsZoneSuffix"
+name: "privateDnsZoneSuffix"
+nameWithType: "GetPrivateDnsZoneSuffixResponseImpl.privateDnsZoneSuffix"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixResponseImpl.privateDnsZoneSuffix()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixResponseImpl.privateDnsZoneSuffix()"
+  name: "privateDnsZoneSuffix()"
+  nameWithType: "GetPrivateDnsZoneSuffixResponseImpl.privateDnsZoneSuffix()"
+  summary: "Gets the privateDnsZoneSuffix property: Represents the private DNS zone suffix."
+  syntax: "public String privateDnsZoneSuffix()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211028.1

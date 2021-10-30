@@ -35,4 +35,4 @@ methods:
 type: "class"
 metadata: {}
 package: "com.azure.resourcemanager.attestation.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-attestation:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-attestation:1.0.0-alpha.20211029.1

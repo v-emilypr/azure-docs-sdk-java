@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.monitor.samples.SecurityBreachOrRiskActivityLogAlerts"
+fullName: "com.azure.resourcemanager.monitor.samples.SecurityBreachOrRiskActivityLogAlerts"
+name: "SecurityBreachOrRiskActivityLogAlerts"
+nameWithType: "SecurityBreachOrRiskActivityLogAlerts"
+summary: "This sample shows examples of configuring Activity Log Alerts for potential security breach or risk notifications. - Create a storage account - Setup an action group to trigger a notification to the security teams - Create an activity log alerts for storage account access key retrievals - List Storage account keys to trigger an alert. - Retrieve and show all activity logs that contains \"List Storage Account Keys\" operation name in the resource group for the past 7 days for the same Storage account."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class SecurityBreachOrRiskActivityLogAlerts"
+constructors:
+- "com.azure.resourcemanager.monitor.samples.SecurityBreachOrRiskActivityLogAlerts.SecurityBreachOrRiskActivityLogAlerts()"
+methods:
+- "com.azure.resourcemanager.monitor.samples.SecurityBreachOrRiskActivityLogAlerts.main(java.lang.String[])"
+- "com.azure.resourcemanager.monitor.samples.SecurityBreachOrRiskActivityLogAlerts.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.monitor.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211028.1

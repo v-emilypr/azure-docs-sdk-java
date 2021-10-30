@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.Utils.randomUuid*"
+fullName: "com.azure.resourcemanager.samples.Utils.randomUuid"
+name: "randomUuid"
+nameWithType: "Utils.randomUuid"
+members:
+- uid: "com.azure.resourcemanager.samples.Utils.randomUuid(com.azure.resourcemanager.AzureResourceManager)"
+  fullName: "com.azure.resourcemanager.samples.Utils.randomUuid(AzureResourceManager azure)"
+  name: "randomUuid(AzureResourceManager azure)"
+  nameWithType: "Utils.randomUuid(AzureResourceManager azure)"
+  summary: "Creates a random UUID. Please provider your own implementation, or avoid using the method, if code is to be used in production."
+  parameters:
+  - description: "the AzureResourceManager instance."
+    name: "azure"
+    type: "<xref href=\"com.azure.resourcemanager.AzureResourceManager?alt=com.azure.resourcemanager.AzureResourceManager&text=AzureResourceManager\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static String randomUuid(AzureResourceManager azure)"
+  returns:
+    description: "the random UUID."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211028.1

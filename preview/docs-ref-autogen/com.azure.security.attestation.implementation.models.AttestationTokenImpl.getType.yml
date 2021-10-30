@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getType*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getType"
+name: "getType"
+nameWithType: "AttestationTokenImpl.getType"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getType()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getType()"
+  name: "getType()"
+  nameWithType: "AttestationTokenImpl.getType()"
+  summary: "Returns the \"typ\" header property from the JWS. See [RFC 7515 section 4.1.9][] for more information.\n\n\n[RFC 7515 section 4.1.9]: https://datatracker.ietf.org/doc/html/rfc7515#section-4.1.9"
+  syntax: "public String getType()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211029.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.DtmiConventions.getMetadataUri*"
+fullName: "com.azure.iot.modelsrepository.DtmiConventions.getMetadataUri"
+name: "getMetadataUri"
+nameWithType: "DtmiConventions.getMetadataUri"
+members:
+- uid: "com.azure.iot.modelsrepository.DtmiConventions.getMetadataUri(java.net.URI)"
+  fullName: "com.azure.iot.modelsrepository.DtmiConventions.getMetadataUri(URI repositoryUri)"
+  name: "getMetadataUri(URI repositoryUri)"
+  nameWithType: "DtmiConventions.getMetadataUri(URI repositoryUri)"
+  summary: "Generates the model repository's metadata URI."
+  parameters:
+  - description: "The repository uri"
+    name: "repositoryUri"
+    type: "<xref href=\"java.net.URI?alt=java.net.URI&text=URI\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static URI getMetadataUri(URI repositoryUri)"
+  returns:
+    description: "The repository metadata uri."
+    type: "<xref href=\"java.net.URI?alt=java.net.URI&text=URI\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.iot.modelsrepository"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211028.1
