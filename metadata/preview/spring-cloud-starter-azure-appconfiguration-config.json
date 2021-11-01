@@ -1,0 +1,14 @@
+{
+  "Name": "spring-cloud-starter-azure-appconfiguration-config",
+  "Version": "1.4.0-alpha.20211101.1",
+  "DevVersion": "1.4.0-alpha.20211101.1",
+  "DirectoryPath": "sdk/appconfiguration/spring-cloud-starter-azure-appconfiguration-config",
+  "ServiceDirectory": "appconfiguration",
+  "ReadMePath": "sdk/appconfiguration/spring-cloud-starter-azure-appconfiguration-config/README.md",
+  "ChangeLogPath": "sdk/appconfiguration/spring-cloud-starter-azure-appconfiguration-config/CHANGELOG.md",
+  "Group": "com.microsoft.azure",
+  "SdkType": "spring",
+  "IsNewSdk": false,
+  "ArtifactName": "spring-cloud-starter-azure-appconfiguration-config",
+  "ReleaseStatus": "Unreleased"
+}
