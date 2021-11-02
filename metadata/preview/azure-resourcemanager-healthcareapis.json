@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-healthcareapis",
+  "Version": "1.0.0-alpha.20211101.1",
+  "DevVersion": "1.0.0-alpha.20211101.1",
+  "DirectoryPath": "sdk/healthcareapis/azure-resourcemanager-healthcareapis",
+  "ServiceDirectory": "healthcareapis",
+  "ReadMePath": "sdk/healthcareapis/azure-resourcemanager-healthcareapis/README.md",
+  "ChangeLogPath": "sdk/healthcareapis/azure-resourcemanager-healthcareapis/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-healthcareapis",
+  "ReleaseStatus": "Unreleased"
+}
