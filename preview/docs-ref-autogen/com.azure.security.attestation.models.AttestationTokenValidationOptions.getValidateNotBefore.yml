@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateNotBefore*"
+fullName: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateNotBefore"
+name: "getValidateNotBefore"
+nameWithType: "AttestationTokenValidationOptions.getValidateNotBefore"
+members:
+- uid: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateNotBefore()"
+  fullName: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateNotBefore()"
+  name: "getValidateNotBefore()"
+  nameWithType: "AttestationTokenValidationOptions.getValidateNotBefore()"
+  summary: "Returns whether expiration time should be validated."
+  syntax: "public boolean getValidateNotBefore()"
+  returns:
+    description: "the current state of the ExpiresOn validation."
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211101.1

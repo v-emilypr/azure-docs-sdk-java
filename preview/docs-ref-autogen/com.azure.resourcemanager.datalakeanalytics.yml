@@ -8,4 +8,4 @@ classes:
 - "com.azure.resourcemanager.datalakeanalytics.DataLakeAnalyticsManager.Configurable"
 metadata: {}
 package: "com.azure.resourcemanager.datalakeanalytics"
-artifact: com.azure.resourcemanager:azure-resourcemanager-datalakeanalytics:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-datalakeanalytics:1.0.0-alpha.20211101.1

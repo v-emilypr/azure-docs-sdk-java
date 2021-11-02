@@ -17,4 +17,4 @@ members:
 type: "constructor"
 metadata: {}
 package: "com.azure.resourcemanager.mariadb.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-mariadb:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-mariadb:1.0.0-alpha.20211101.1

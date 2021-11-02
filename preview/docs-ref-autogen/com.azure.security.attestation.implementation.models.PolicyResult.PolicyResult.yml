@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.PolicyResult.PolicyResult*"
+fullName: "com.azure.security.attestation.implementation.models.PolicyResult.PolicyResult"
+name: "PolicyResult"
+nameWithType: "PolicyResult.PolicyResult"
+members:
+- uid: "com.azure.security.attestation.implementation.models.PolicyResult.PolicyResult()"
+  fullName: "com.azure.security.attestation.implementation.models.PolicyResult.PolicyResult()"
+  name: "PolicyResult()"
+  nameWithType: "PolicyResult.PolicyResult()"
+  syntax: "public PolicyResult()"
+type: "constructor"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211101.1

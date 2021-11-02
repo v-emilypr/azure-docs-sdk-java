@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationOptionsImpl.getInternalAttestSgxRequest*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationOptionsImpl.getInternalAttestSgxRequest"
+name: "getInternalAttestSgxRequest"
+nameWithType: "AttestationOptionsImpl.getInternalAttestSgxRequest"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationOptionsImpl.getInternalAttestSgxRequest()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationOptionsImpl.getInternalAttestSgxRequest()"
+  name: "getInternalAttestSgxRequest()"
+  nameWithType: "AttestationOptionsImpl.getInternalAttestSgxRequest()"
+  summary: "Returns an internal type from a public type."
+  syntax: "public AttestSgxEnclaveRequest getInternalAttestSgxRequest()"
+  returns:
+    description: "implementation type."
+    type: "<xref href=\"com.azure.security.attestation.implementation.models.AttestSgxEnclaveRequest?alt=com.azure.security.attestation.implementation.models.AttestSgxEnclaveRequest&text=AttestSgxEnclaveRequest\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211101.1

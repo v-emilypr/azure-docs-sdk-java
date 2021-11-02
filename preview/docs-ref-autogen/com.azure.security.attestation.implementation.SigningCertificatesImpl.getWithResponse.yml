@@ -16,8 +16,8 @@ members:
   syntax: "public Response<JsonWebKeySet> getWithResponse(Context context)"
   returns:
     description: "the response."
-    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.JsonWebKeySet?alt=com.azure.security.attestation.models.JsonWebKeySet&text=JsonWebKeySet\" data-throw-if-not-resolved=\"False\" />&gt;"
+    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.implementation.models.JsonWebKeySet?alt=com.azure.security.attestation.implementation.models.JsonWebKeySet&text=JsonWebKeySet\" data-throw-if-not-resolved=\"False\" />&gt;"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation.implementation"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211101.1

@@ -4,20 +4,33 @@ fullName: "com.azure.security.attestation.AttestationClient.attestSgxEnclave"
 name: "attestSgxEnclave"
 nameWithType: "AttestationClient.attestSgxEnclave"
 members:
-- uid: "com.azure.security.attestation.AttestationClient.attestSgxEnclave(com.azure.security.attestation.models.AttestSgxEnclaveRequest)"
-  fullName: "com.azure.security.attestation.AttestationClient.attestSgxEnclave(AttestSgxEnclaveRequest request)"
-  name: "attestSgxEnclave(AttestSgxEnclaveRequest request)"
-  nameWithType: "AttestationClient.attestSgxEnclave(AttestSgxEnclaveRequest request)"
+- uid: "com.azure.security.attestation.AttestationClient.attestSgxEnclave(com.azure.core.util.BinaryData)"
+  fullName: "com.azure.security.attestation.AttestationClient.attestSgxEnclave(BinaryData quote)"
+  name: "attestSgxEnclave(BinaryData quote)"
+  nameWithType: "AttestationClient.attestSgxEnclave(BinaryData quote)"
   summary: "Processes an SGX enclave quote, producing an artifact. The type of artifact produced is dependent upon attestation policy."
   parameters:
-  - description: "Attestation request for Intel SGX enclaves."
-    name: "request"
-    type: "<xref href=\"com.azure.security.attestation.models.AttestSgxEnclaveRequest?alt=com.azure.security.attestation.models.AttestSgxEnclaveRequest&text=AttestSgxEnclaveRequest\" data-throw-if-not-resolved=\"False\" />"
-  syntax: "public AttestationResponse attestSgxEnclave(AttestSgxEnclaveRequest request)"
+  - description: "SGX Quote to attest."
+    name: "quote"
+    type: "<xref href=\"com.azure.core.util.BinaryData?alt=com.azure.core.util.BinaryData&text=BinaryData\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationResult attestSgxEnclave(BinaryData quote)"
   returns:
     description: "the result of an attestation operation."
-    type: "<xref href=\"com.azure.security.attestation.models.AttestationResponse?alt=com.azure.security.attestation.models.AttestationResponse&text=AttestationResponse\" data-throw-if-not-resolved=\"False\" />"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationResult?alt=com.azure.security.attestation.models.AttestationResult&text=AttestationResult\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.security.attestation.AttestationClient.attestSgxEnclave(com.azure.security.attestation.models.AttestationOptions)"
+  fullName: "com.azure.security.attestation.AttestationClient.attestSgxEnclave(AttestationOptions options)"
+  name: "attestSgxEnclave(AttestationOptions options)"
+  nameWithType: "AttestationClient.attestSgxEnclave(AttestationOptions options)"
+  summary: "Processes an SGX enclave quote, producing an artifact. The type of artifact produced is dependent upon attestation policy."
+  parameters:
+  - description: "Attestation options for Intel SGX enclaves."
+    name: "options"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationOptions?alt=com.azure.security.attestation.models.AttestationOptions&text=AttestationOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationResult attestSgxEnclave(AttestationOptions options)"
+  returns:
+    description: "the result of an attestation operation."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationResult?alt=com.azure.security.attestation.models.AttestationResult&text=AttestationResult\" data-throw-if-not-resolved=\"False\" />"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211101.1

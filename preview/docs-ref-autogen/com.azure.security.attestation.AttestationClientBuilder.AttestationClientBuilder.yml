@@ -8,8 +8,9 @@ members:
   fullName: "com.azure.security.attestation.AttestationClientBuilder.AttestationClientBuilder()"
   name: "AttestationClientBuilder()"
   nameWithType: "AttestationClientBuilder.AttestationClientBuilder()"
+  summary: "Creates a new instance of the AttestationClientBuilder class."
   syntax: "public AttestationClientBuilder()"
 type: "constructor"
 metadata: {}
 package: "com.azure.security.attestation"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211101.1

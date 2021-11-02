@@ -4,20 +4,33 @@ fullName: "com.azure.security.attestation.AttestationClient.attestOpenEnclave"
 name: "attestOpenEnclave"
 nameWithType: "AttestationClient.attestOpenEnclave"
 members:
-- uid: "com.azure.security.attestation.AttestationClient.attestOpenEnclave(com.azure.security.attestation.models.AttestOpenEnclaveRequest)"
-  fullName: "com.azure.security.attestation.AttestationClient.attestOpenEnclave(AttestOpenEnclaveRequest request)"
-  name: "attestOpenEnclave(AttestOpenEnclaveRequest request)"
-  nameWithType: "AttestationClient.attestOpenEnclave(AttestOpenEnclaveRequest request)"
+- uid: "com.azure.security.attestation.AttestationClient.attestOpenEnclave(com.azure.core.util.BinaryData)"
+  fullName: "com.azure.security.attestation.AttestationClient.attestOpenEnclave(BinaryData report)"
+  name: "attestOpenEnclave(BinaryData report)"
+  nameWithType: "AttestationClient.attestOpenEnclave(BinaryData report)"
   summary: "Processes an OpenEnclave report , producing an artifact. The type of artifact produced is dependent upon attestation policy."
   parameters:
-  - description: "Attestation request for Intel SGX enclaves."
-    name: "request"
-    type: "<xref href=\"com.azure.security.attestation.models.AttestOpenEnclaveRequest?alt=com.azure.security.attestation.models.AttestOpenEnclaveRequest&text=AttestOpenEnclaveRequest\" data-throw-if-not-resolved=\"False\" />"
-  syntax: "public AttestationResponse attestOpenEnclave(AttestOpenEnclaveRequest request)"
+  - description: "- OpenEnclave generated report."
+    name: "report"
+    type: "<xref href=\"com.azure.core.util.BinaryData?alt=com.azure.core.util.BinaryData&text=BinaryData\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationResult attestOpenEnclave(BinaryData report)"
   returns:
     description: "the result of an attestation operation."
-    type: "<xref href=\"com.azure.security.attestation.models.AttestationResponse?alt=com.azure.security.attestation.models.AttestationResponse&text=AttestationResponse\" data-throw-if-not-resolved=\"False\" />"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationResult?alt=com.azure.security.attestation.models.AttestationResult&text=AttestationResult\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.security.attestation.AttestationClient.attestOpenEnclave(com.azure.security.attestation.models.AttestationOptions)"
+  fullName: "com.azure.security.attestation.AttestationClient.attestOpenEnclave(AttestationOptions options)"
+  name: "attestOpenEnclave(AttestationOptions options)"
+  nameWithType: "AttestationClient.attestOpenEnclave(AttestationOptions options)"
+  summary: "Processes an OpenEnclave report , producing an artifact. The type of artifact produced is dependent upon attestation policy."
+  parameters:
+  - description: "Attestation options for Intel SGX enclaves."
+    name: "options"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationOptions?alt=com.azure.security.attestation.models.AttestationOptions&text=AttestationOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationResult attestOpenEnclave(AttestationOptions options)"
+  returns:
+    description: "the result of an attestation operation."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationResult?alt=com.azure.security.attestation.models.AttestationResult&text=AttestationResult\" data-throw-if-not-resolved=\"False\" />"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211101.1
