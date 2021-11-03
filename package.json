@@ -335,7 +335,7 @@
       {
         "packageArtifactId": "azure-resourcemanager-iothub",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.1.0",
+        "packageVersion": "1.1.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -964,25 +964,25 @@
       {
         "packageArtifactId": "azure-verticals-agrifood-farming",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-ai-anomalydetector",
         "packageGroupId": "com.azure",
-        "packageVersion": "3.0.0-beta.2",
+        "packageVersion": "3.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-security-attestation",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-media-videoanalyzer-edge",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.5",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -994,7 +994,7 @@
       {
         "packageArtifactId": "azure-security-confidentialledger",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1006,7 +1006,7 @@
       {
         "packageArtifactId": "azure-core-serializer-avro-apache",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.15",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1018,19 +1018,19 @@
       {
         "packageArtifactId": "azure-cosmos-encryption",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-beta.9",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-ai-documenttranslator",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-data-schemaregistry",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.6",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1042,13 +1042,13 @@
       {
         "packageArtifactId": "azure-iot-deviceupdate",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-security-keyvault-keys",
         "packageGroupId": "com.azure",
-        "packageVersion": "4.4.0-beta.4",
+        "packageVersion": "4.4.0-alpha.20211102.3",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1060,13 +1060,13 @@
       {
         "packageArtifactId": "azure-storage-blob-changefeed",
         "packageGroupId": "com.azure",
-        "packageVersion": "12.0.0-beta.10",
+        "packageVersion": "12.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-storage-blob-nio",
         "packageGroupId": "com.azure",
-        "packageVersion": "12.0.0-beta.10",
+        "packageVersion": "12.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1102,7 +1102,7 @@
       {
         "packageArtifactId": "azure-core-tracing-opentelemetry",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.15",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1114,13 +1114,13 @@
       {
         "packageArtifactId": "azure-resourcemanager-advisor",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-healthcareapis",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1132,31 +1132,31 @@
       {
         "packageArtifactId": "azure-resourcemanager-appconfiguration",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.3",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-applicationinsights",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-azurearcdata",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-attestation",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-automation",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1174,7 +1174,7 @@
       {
         "packageArtifactId": "azure-resourcemanager-batch",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1210,7 +1210,7 @@
       {
         "packageArtifactId": "azure-resourcemanager-confluent",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1228,97 +1228,97 @@
       {
         "packageArtifactId": "azure-resourcemanager-costmanagement",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.3",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-customerinsights",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-databox",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-databoxedge",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-datafactory",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.6",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-datalakeanalytics",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-datalakestore",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-datamigration",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-databricks",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-datadog",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.3",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-delegatednetwork",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-deploymentmanager",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-devspaces",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-devtestlabs",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-digitaltwins",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-elastic",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1330,13 +1330,13 @@
       {
         "packageArtifactId": "azure-resourcemanager-frontdoor",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-hanaonazure",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1348,19 +1348,19 @@
       {
         "packageArtifactId": "azure-resourcemanager-healthbot",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-hybridcompute",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-imagebuilder",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1372,19 +1372,19 @@
       {
         "packageArtifactId": "azure-resourcemanager-kubernetesconfiguration",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-kusto",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-labservices",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1396,43 +1396,43 @@
       {
         "packageArtifactId": "azure-resourcemanager-logic",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-machinelearningservices",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-maintenance",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-managedapplications",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-maps",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-mariadb",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-marketplaceordering",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1444,61 +1444,61 @@
       {
         "packageArtifactId": "azure-resourcemanager-mixedreality",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-netapp",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.6",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-notificationhubs",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-operationsmanagement",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-peering",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-policyinsights",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-postgresqlflexibleserver",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.4",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-powerbidedicated",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-recoveryservices",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-recoveryservicesbackup",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1516,7 +1516,7 @@
       {
         "packageArtifactId": "azure-resourcemanager-resourcehealth",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1528,13 +1528,13 @@
       {
         "packageArtifactId": "azure-resourcemanager-security",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-servicefabric",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1552,31 +1552,31 @@
       {
         "packageArtifactId": "azure-resourcemanager-storagecache",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.4",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-storageimportexport",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-streamanalytics",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-subscription",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-support",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1588,13 +1588,13 @@
       {
         "packageArtifactId": "azure-resourcemanager-timeseriesinsights",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-videoanalyzer",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.4",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2",
         "excludepackages": "com.azure.resourcemanager.videoanalyzer.implementation"
       },
@@ -1748,7 +1748,7 @@
         "inputPath": []
       },
       {
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "excludePath": [],
         "packageGroupId": "com.azure",
         "inputPath": [],
@@ -1759,7 +1759,7 @@
         "excludePath": [],
         "inputPath": [],
         "packageGroupId": "com.azure",
-        "packageVersion": "1.2.1-beta.808400",
+        "packageVersion": "1.2.1-beta.1174159",
         "packageArtifactId": "azure-sdk-template",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
@@ -1767,7 +1767,7 @@
         "packageDownloadUrl": "https://repo1.maven.org/maven2",
         "packageArtifactId": "azure-iot-modelsrepository",
         "excludePath": [],
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "inputPath": [],
         "packageGroupId": "com.azure"
       },
@@ -1791,7 +1791,7 @@
       {
         "packageArtifactId": "azure-ai-textanalytics",
         "packageGroupId": "com.azure",
-        "packageVersion": "5.2.0-beta.1",
+        "packageVersion": "5.2.0-alpha.20211102.5",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1804,19 +1804,19 @@
       {
         "packageArtifactId": "azure-security-keyvault-administration",
         "packageGroupId": "com.azure",
-        "packageVersion": "4.1.0-beta.2",
+        "packageVersion": "4.1.0-alpha.20211102.3",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-security-keyvault-certificates",
         "packageGroupId": "com.azure",
-        "packageVersion": "4.3.0-beta.2",
+        "packageVersion": "4.3.0-alpha.20211102.3",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-security-keyvault-secrets",
         "packageGroupId": "com.azure",
-        "packageVersion": "4.4.0-beta.2",
+        "packageVersion": "4.4.0-alpha.20211102.3",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1840,19 +1840,19 @@
       {
         "packageArtifactId": "azure-ai-formrecognizer",
         "packageGroupId": "com.azure",
-        "packageVersion": "4.0.0-beta.1",
+        "packageVersion": "4.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-data-schemaregistry-apacheavro",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.6",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-core",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.22.0-beta.1",
+        "packageVersion": "1.22.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1864,19 +1864,19 @@
       {
         "packageArtifactId": "azure-resourcemanager-extendedlocation",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-hybridnetwork",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-logz",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1888,13 +1888,331 @@
       {
         "packageArtifactId": "azure-resourcemanager-storagepool",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211102.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-communication-identity",
         "packageGroupId": "com.azure",
         "packageVersion": "1.2.0-beta.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-data-appconfiguration",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.3.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-mixedreality-authentication",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.2.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-mixedreality-remoterendering",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.2.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-core-amqp",
+        "packageGroupId": "com.azure",
+        "packageVersion": "2.4.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-core-http-netty",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.12.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-core-http-okhttp",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.8.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-core-test",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.8.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-core-serializer-json-gson",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.2.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-core-serializer-json-jackson",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.3.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-digitaltwins-core",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.2.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-messaging-eventhubs",
+        "packageGroupId": "com.azure",
+        "packageVersion": "5.11.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-messaging-eventhubs-checkpointstore-blob",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.11.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-identity",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.5.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-storage-blob-batch",
+        "packageGroupId": "com.azure",
+        "packageVersion": "12.12.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-storage-blob-cryptography",
+        "packageGroupId": "com.azure",
+        "packageVersion": "12.15.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-storage-common",
+        "packageGroupId": "com.azure",
+        "packageVersion": "12.15.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-storage-file-datalake",
+        "packageGroupId": "com.azure",
+        "packageVersion": "12.8.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-storage-file-share",
+        "packageGroupId": "com.azure",
+        "packageVersion": "12.12.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-storage-internal-avro",
+        "packageGroupId": "com.azure",
+        "packageVersion": "12.2.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-storage-queue",
+        "packageGroupId": "com.azure",
+        "packageVersion": "12.12.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-data-tables",
+        "packageGroupId": "com.azure",
+        "packageVersion": "12.2.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-core-management",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.5.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-appservice",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-authorization",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-changeanalysis",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "1.1.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-search",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-compute",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-containerinstance",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-containerregistry",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-containerservice",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-cdn",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-cosmos",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-deviceprovisioningservices",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "1.1.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-dns",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-eventhubs",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-keyvault",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-msi",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-monitor",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-mysql",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "1.1.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-network",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-privatedns",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-redis",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-redisenterprise",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "1.1.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-resources",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-servicebus",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-appplatform",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-sql",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-storage",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-trafficmanager",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.10.0-alpha.20211101.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-core-http-jdk-httpclient",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.0.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-core-amqp-experimental",
+        "packageGroupId": "com.azure",
+        "packageVersion": "1.0.0-alpha.20211102.1",
+        "packageDownloadUrl": "https://repo1.maven.org/maven2"
+      },
+      {
+        "packageArtifactId": "azure-resourcemanager-samples",
+        "packageGroupId": "com.azure.resourcemanager",
+        "packageVersion": "2.0.0-alpha.20211101.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       }
     ],
