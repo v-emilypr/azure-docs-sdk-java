@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSqlConnection.ManageLinuxWebAppSqlConnection*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSqlConnection.ManageLinuxWebAppSqlConnection"
+name: "ManageLinuxWebAppSqlConnection"
+nameWithType: "ManageLinuxWebAppSqlConnection.ManageLinuxWebAppSqlConnection"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSqlConnection.ManageLinuxWebAppSqlConnection()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSqlConnection.ManageLinuxWebAppSqlConnection()"
+  name: "ManageLinuxWebAppSqlConnection()"
+  nameWithType: "ManageLinuxWebAppSqlConnection.ManageLinuxWebAppSqlConnection()"
+  syntax: "public ManageLinuxWebAppSqlConnection()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211101.1

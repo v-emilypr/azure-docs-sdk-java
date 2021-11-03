@@ -4,23 +4,39 @@ fullName: "com.azure.security.attestation.AttestationClient.attestSgxEnclaveWith
 name: "attestSgxEnclaveWithResponse"
 nameWithType: "AttestationClient.attestSgxEnclaveWithResponse"
 members:
-- uid: "com.azure.security.attestation.AttestationClient.attestSgxEnclaveWithResponse(com.azure.security.attestation.models.AttestSgxEnclaveRequest,com.azure.core.util.Context)"
-  fullName: "com.azure.security.attestation.AttestationClient.attestSgxEnclaveWithResponse(AttestSgxEnclaveRequest request, Context context)"
-  name: "attestSgxEnclaveWithResponse(AttestSgxEnclaveRequest request, Context context)"
-  nameWithType: "AttestationClient.attestSgxEnclaveWithResponse(AttestSgxEnclaveRequest request, Context context)"
+- uid: "com.azure.security.attestation.AttestationClient.attestSgxEnclaveWithResponse(com.azure.core.util.BinaryData,com.azure.core.util.Context)"
+  fullName: "com.azure.security.attestation.AttestationClient.attestSgxEnclaveWithResponse(BinaryData quote, Context context)"
+  name: "attestSgxEnclaveWithResponse(BinaryData quote, Context context)"
+  nameWithType: "AttestationClient.attestSgxEnclaveWithResponse(BinaryData quote, Context context)"
+  summary: "Processes an SGX enclave quote, producing an artifact. The type of artifact produced is dependent upon attestation policy."
+  parameters:
+  - description: "Intel SGX Quote to validate."
+    name: "quote"
+    type: "<xref href=\"com.azure.core.util.BinaryData?alt=com.azure.core.util.BinaryData&text=BinaryData\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Context for the operation."
+    name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Response<AttestationResult> attestSgxEnclaveWithResponse(BinaryData quote, Context context)"
+  returns:
+    description: "the result of an attestation operation."
+    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.AttestationResult?alt=com.azure.security.attestation.models.AttestationResult&text=AttestationResult\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.security.attestation.AttestationClient.attestSgxEnclaveWithResponse(com.azure.security.attestation.models.AttestationOptions,com.azure.core.util.Context)"
+  fullName: "com.azure.security.attestation.AttestationClient.attestSgxEnclaveWithResponse(AttestationOptions request, Context context)"
+  name: "attestSgxEnclaveWithResponse(AttestationOptions request, Context context)"
+  nameWithType: "AttestationClient.attestSgxEnclaveWithResponse(AttestationOptions request, Context context)"
   summary: "Processes an SGX enclave quote, producing an artifact. The type of artifact produced is dependent upon attestation policy."
   parameters:
   - description: "Attestation request for Intel SGX enclaves."
     name: "request"
-    type: "<xref href=\"com.azure.security.attestation.models.AttestSgxEnclaveRequest?alt=com.azure.security.attestation.models.AttestSgxEnclaveRequest&text=AttestSgxEnclaveRequest\" data-throw-if-not-resolved=\"False\" />"
-  - description: "The context to associate with this operation."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationOptions?alt=com.azure.security.attestation.models.AttestationOptions&text=AttestationOptions\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Context for the operation."
     name: "context"
     type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
-  syntax: "public Response<AttestationResponse> attestSgxEnclaveWithResponse(AttestSgxEnclaveRequest request, Context context)"
+  syntax: "public Response<AttestationResult> attestSgxEnclaveWithResponse(AttestationOptions request, Context context)"
   returns:
     description: "the result of an attestation operation."
-    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.AttestationResponse?alt=com.azure.security.attestation.models.AttestationResponse&text=AttestationResponse\" data-throw-if-not-resolved=\"False\" />&gt;"
+    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.AttestationResult?alt=com.azure.security.attestation.models.AttestationResult&text=AttestationResult\" data-throw-if-not-resolved=\"False\" />&gt;"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211102.1

@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventhubs.samples.ManageEventHubGeoDisasterRecovery.ManageEventHubGeoDisasterRecovery*"
+fullName: "com.azure.resourcemanager.eventhubs.samples.ManageEventHubGeoDisasterRecovery.ManageEventHubGeoDisasterRecovery"
+name: "ManageEventHubGeoDisasterRecovery"
+nameWithType: "ManageEventHubGeoDisasterRecovery.ManageEventHubGeoDisasterRecovery"
+members:
+- uid: "com.azure.resourcemanager.eventhubs.samples.ManageEventHubGeoDisasterRecovery.ManageEventHubGeoDisasterRecovery()"
+  fullName: "com.azure.resourcemanager.eventhubs.samples.ManageEventHubGeoDisasterRecovery.ManageEventHubGeoDisasterRecovery()"
+  name: "ManageEventHubGeoDisasterRecovery()"
+  nameWithType: "ManageEventHubGeoDisasterRecovery.ManageEventHubGeoDisasterRecovery()"
+  syntax: "public ManageEventHubGeoDisasterRecovery()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.eventhubs.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211101.1

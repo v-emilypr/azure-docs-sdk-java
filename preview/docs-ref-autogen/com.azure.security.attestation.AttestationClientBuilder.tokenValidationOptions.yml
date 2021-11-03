@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationClientBuilder.tokenValidationOptions*"
+fullName: "com.azure.security.attestation.AttestationClientBuilder.tokenValidationOptions"
+name: "tokenValidationOptions"
+nameWithType: "AttestationClientBuilder.tokenValidationOptions"
+members:
+- uid: "com.azure.security.attestation.AttestationClientBuilder.tokenValidationOptions(com.azure.security.attestation.models.AttestationTokenValidationOptions)"
+  fullName: "com.azure.security.attestation.AttestationClientBuilder.tokenValidationOptions(AttestationTokenValidationOptions tokenValidationOptions)"
+  name: "tokenValidationOptions(AttestationTokenValidationOptions tokenValidationOptions)"
+  nameWithType: "AttestationClientBuilder.tokenValidationOptions(AttestationTokenValidationOptions tokenValidationOptions)"
+  summary: "Sets <xref uid=\"com.azure.security.attestation.models.AttestationToken\" data-throw-if-not-resolved=\"false\" data-raw-source=\"com.azure.security.attestation.models.AttestationToken\"></xref> validation options for clients created from this builder."
+  parameters:
+  - description: "- Validation options to use on APIs which interact with the attestation service."
+    name: "tokenValidationOptions"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationTokenValidationOptions?alt=com.azure.security.attestation.models.AttestationTokenValidationOptions&text=AttestationTokenValidationOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationClientBuilder tokenValidationOptions(AttestationTokenValidationOptions tokenValidationOptions)"
+  returns:
+    description: "this <xref uid=\"com.azure.security.attestation.AttestationClientBuilder\" data-throw-if-not-resolved=\"false\" data-raw-source=\"AttestationClientBuilder\"></xref>"
+    type: "<xref href=\"com.azure.security.attestation.AttestationClientBuilder?alt=com.azure.security.attestation.AttestationClientBuilder&text=AttestationClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211102.1

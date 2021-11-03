@@ -28,4 +28,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.maintenance.models.ApplyUpdateForResourceGroups?alt=com.azure.resourcemanager.maintenance.models.ApplyUpdateForResourceGroups&text=ApplyUpdateForResourceGroups\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.maintenance.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-maintenance:1.0.0-beta.2
+artifact: com.azure.resourcemanager:azure-resourcemanager-maintenance:1.0.0-alpha.20211102.1

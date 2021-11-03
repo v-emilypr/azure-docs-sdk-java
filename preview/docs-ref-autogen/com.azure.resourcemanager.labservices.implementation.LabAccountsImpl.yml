@@ -43,4 +43,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.labservices.models.LabAccounts?alt=com.azure.resourcemanager.labservices.models.LabAccounts&text=LabAccounts\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.labservices.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-labservices:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-labservices:1.0.0-alpha.20211102.1

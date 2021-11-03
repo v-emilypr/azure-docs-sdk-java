@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.network.samples.ManageInternetFacingLoadBalancer"
+fullName: "com.azure.resourcemanager.network.samples.ManageInternetFacingLoadBalancer"
+name: "ManageInternetFacingLoadBalancer"
+nameWithType: "ManageInternetFacingLoadBalancer"
+summary: "Azure Network sample for managing Internet facing load balancers -\n\nHigh-level ...\n\n\\- Create an Internet facing load balancer that receives network traffic on port 80 & 443 and sends load-balanced traffic to two virtual machines\n\n\\- Create NAT rules for SSH and TELNET access to virtual machines behind the load balancer\n\n\\- Create health probes\n\nDetails ...\n\nCreate an Internet facing load balancer with ... - A frontend public IP address - Two backend address pools which contain network interfaces for the virtual machines to receive HTTP and HTTPS network traffic from the load balancer - Two load balancing rules for HTTP and HTTPS to map public ports on the load balancer to ports in the backend address pool - Two probes which contain HTTP and HTTPS health probes used to check availability of virtual machines in the backend address pool - Two inbound NAT rules which contain rules that map a public port on the load balancer to a port for a specific virtual machine in the backend address pool - this provides direct VM connectivity for SSH to port 22 and TELNET to port 23\n\nCreate two network interfaces in the frontend subnet ... - And associate network interfaces to backend pools and NAT rules\n\nCreate two virtual machines in the frontend subnet ... - And assign network interfaces\n\nUpdate an existing load balancer, configure TCP idle timeout Create another load balancer Remove an existing load balancer"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageInternetFacingLoadBalancer"
+methods:
+- "com.azure.resourcemanager.network.samples.ManageInternetFacingLoadBalancer.main(java.lang.String[])"
+- "com.azure.resourcemanager.network.samples.ManageInternetFacingLoadBalancer.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.network.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211101.1

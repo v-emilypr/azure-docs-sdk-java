@@ -33,4 +33,4 @@ classes:
 - "com.azure.resourcemanager.logic.fluent.models.WorkflowVersionInner"
 metadata: {}
 package: "com.azure.resourcemanager.logic.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-logic:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-logic:1.0.0-alpha.20211102.1

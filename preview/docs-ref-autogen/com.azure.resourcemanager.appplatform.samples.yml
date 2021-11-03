@@ -1,0 +1,10 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.appplatform.samples"
+fullName: "com.azure.resourcemanager.appplatform.samples"
+name: "com.azure.resourcemanager.appplatform.samples"
+summary: "This package contains the classes for app platform samples."
+classes:
+- "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud"
+metadata: {}
+package: "com.azure.resourcemanager.appplatform.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211101.1

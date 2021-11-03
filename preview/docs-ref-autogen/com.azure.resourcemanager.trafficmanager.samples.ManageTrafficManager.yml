@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.trafficmanager.samples.ManageTrafficManager"
+fullName: "com.azure.resourcemanager.trafficmanager.samples.ManageTrafficManager"
+name: "ManageTrafficManager"
+nameWithType: "ManageTrafficManager"
+summary: "Azure traffic manager sample for managing profiles. - Create a domain - Create a self-signed certificate for the domain - Create 5 app service plans in 5 different regions - Create 5 web apps under the each plan, bound to the domain and the certificate - Create a traffic manager in front of the web apps - Disable an endpoint - Delete an endpoint - Enable an endpoint - Change/configure traffic manager routing method - Disable traffic manager profile - Enable traffic manager profile"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageTrafficManager"
+constructors:
+- "com.azure.resourcemanager.trafficmanager.samples.ManageTrafficManager.ManageTrafficManager()"
+methods:
+- "com.azure.resourcemanager.trafficmanager.samples.ManageTrafficManager.main(java.lang.String[])"
+- "com.azure.resourcemanager.trafficmanager.samples.ManageTrafficManager.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.trafficmanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211101.1

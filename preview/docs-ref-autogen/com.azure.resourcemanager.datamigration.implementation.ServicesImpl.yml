@@ -52,4 +52,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.datamigration.models.Services?alt=com.azure.resourcemanager.datamigration.models.Services&text=Services\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.datamigration.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-datamigration:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-datamigration:1.0.0-alpha.20211101.1

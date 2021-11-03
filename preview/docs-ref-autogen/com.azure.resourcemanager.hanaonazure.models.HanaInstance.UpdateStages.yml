@@ -8,4 +8,4 @@ syntax: "public static interface HanaInstance.UpdateStages"
 type: "interface"
 metadata: {}
 package: "com.azure.resourcemanager.hanaonazure.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-hanaonazure:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-hanaonazure:1.0.0-alpha.20211101.1

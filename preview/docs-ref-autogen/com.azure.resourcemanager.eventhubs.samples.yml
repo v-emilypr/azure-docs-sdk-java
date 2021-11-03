@@ -1,0 +1,12 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.eventhubs.samples"
+fullName: "com.azure.resourcemanager.eventhubs.samples"
+name: "com.azure.resourcemanager.eventhubs.samples"
+summary: "This package contains the classes for eventhubs samples."
+classes:
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHub"
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHubEvents"
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHubGeoDisasterRecovery"
+metadata: {}
+package: "com.azure.resourcemanager.eventhubs.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211101.1

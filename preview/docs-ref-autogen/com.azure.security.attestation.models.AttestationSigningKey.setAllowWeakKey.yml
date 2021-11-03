@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.AttestationSigningKey.setAllowWeakKey*"
+fullName: "com.azure.security.attestation.models.AttestationSigningKey.setAllowWeakKey"
+name: "setAllowWeakKey"
+nameWithType: "AttestationSigningKey.setAllowWeakKey"
+members:
+- uid: "com.azure.security.attestation.models.AttestationSigningKey.setAllowWeakKey(boolean)"
+  fullName: "com.azure.security.attestation.models.AttestationSigningKey.setAllowWeakKey(boolean allowWeakKey)"
+  name: "setAllowWeakKey(boolean allowWeakKey)"
+  nameWithType: "AttestationSigningKey.setAllowWeakKey(boolean allowWeakKey)"
+  summary: "Sets whether the privateKey is allowed to be a weak key (less than 1024 bits)."
+  parameters:
+  - description: "- boolean indicating if weak keys should be allowed (default False)."
+    name: "allowWeakKey"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationSigningKey setAllowWeakKey(boolean allowWeakKey)"
+  returns:
+    description: "Returns the AttestationSigningKey."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationSigningKey?alt=com.azure.security.attestation.models.AttestationSigningKey&text=AttestationSigningKey\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211102.1

@@ -1,0 +1,36 @@
+### YamlMime:JavaType
+uid: "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector"
+fullName: "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector"
+name: "JdkHttpClientProxySelector"
+nameWithType: "JdkHttpClientProxySelector"
+summary: "This class handles selecting the proxy during a request."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+- "<xref href=\"java.net.ProxySelector\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+- "java.net.ProxySelector.connectFailed(java.net.URI,java.net.SocketAddress,java.io.IOException)"
+- "java.net.ProxySelector.getDefault()"
+- "java.net.ProxySelector.of(java.net.InetSocketAddress)"
+- "java.net.ProxySelector.select(java.net.URI)"
+- "java.net.ProxySelector.setDefault(java.net.ProxySelector)"
+syntax: "public final class JdkHttpClientProxySelector extends ProxySelector"
+constructors:
+- "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector.JdkHttpClientProxySelector(java.net.Proxy.Type,java.net.SocketAddress,java.lang.String)"
+methods:
+- "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector.connectFailed(java.net.URI,java.net.SocketAddress,java.io.IOException)"
+- "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector.select(java.net.URI)"
+type: "class"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient.implementation"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211102.1

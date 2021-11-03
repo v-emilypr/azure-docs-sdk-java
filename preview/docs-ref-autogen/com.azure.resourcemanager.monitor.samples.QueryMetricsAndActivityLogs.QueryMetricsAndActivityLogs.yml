@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.monitor.samples.QueryMetricsAndActivityLogs.QueryMetricsAndActivityLogs*"
+fullName: "com.azure.resourcemanager.monitor.samples.QueryMetricsAndActivityLogs.QueryMetricsAndActivityLogs"
+name: "QueryMetricsAndActivityLogs"
+nameWithType: "QueryMetricsAndActivityLogs.QueryMetricsAndActivityLogs"
+members:
+- uid: "com.azure.resourcemanager.monitor.samples.QueryMetricsAndActivityLogs.QueryMetricsAndActivityLogs()"
+  fullName: "com.azure.resourcemanager.monitor.samples.QueryMetricsAndActivityLogs.QueryMetricsAndActivityLogs()"
+  name: "QueryMetricsAndActivityLogs()"
+  nameWithType: "QueryMetricsAndActivityLogs.QueryMetricsAndActivityLogs()"
+  syntax: "public QueryMetricsAndActivityLogs()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.monitor.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211101.1

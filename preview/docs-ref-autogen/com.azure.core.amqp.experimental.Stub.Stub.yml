@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.amqp.experimental.Stub.Stub*"
+fullName: "com.azure.core.amqp.experimental.Stub.Stub"
+name: "Stub"
+nameWithType: "Stub.Stub"
+members:
+- uid: "com.azure.core.amqp.experimental.Stub.Stub()"
+  fullName: "com.azure.core.amqp.experimental.Stub.Stub()"
+  name: "Stub()"
+  nameWithType: "Stub.Stub()"
+  syntax: "public Stub()"
+type: "constructor"
+metadata: {}
+package: "com.azure.core.amqp.experimental"
+artifact: com.azure:azure-core-amqp-experimental:1.0.0-alpha.20211102.1

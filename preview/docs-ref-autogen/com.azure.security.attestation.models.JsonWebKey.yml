@@ -22,6 +22,7 @@ syntax: "public final class JsonWebKey"
 constructors:
 - "com.azure.security.attestation.models.JsonWebKey.JsonWebKey(java.lang.String)"
 methods:
+- "com.azure.security.attestation.models.JsonWebKey.fromGenerated(com.azure.security.attestation.implementation.models.JsonWebKey)"
 - "com.azure.security.attestation.models.JsonWebKey.getAlg()"
 - "com.azure.security.attestation.models.JsonWebKey.getCrv()"
 - "com.azure.security.attestation.models.JsonWebKey.getD()"
@@ -59,4 +60,4 @@ methods:
 type: "class"
 metadata: {}
 package: "com.azure.security.attestation.models"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211102.1

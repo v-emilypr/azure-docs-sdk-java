@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.JdkAsyncHttpClientBuilder*"
+fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.JdkAsyncHttpClientBuilder"
+name: "JdkAsyncHttpClientBuilder"
+nameWithType: "JdkAsyncHttpClientBuilder.JdkAsyncHttpClientBuilder"
+members:
+- uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.JdkAsyncHttpClientBuilder()"
+  fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.JdkAsyncHttpClientBuilder()"
+  name: "JdkAsyncHttpClientBuilder()"
+  nameWithType: "JdkAsyncHttpClientBuilder.JdkAsyncHttpClientBuilder()"
+  summary: "Creates JdkAsyncHttpClientBuilder."
+  syntax: "public JdkAsyncHttpClientBuilder()"
+- uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.JdkAsyncHttpClientBuilder(java.net.http.HttpClient.Builder)"
+  fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.JdkAsyncHttpClientBuilder(HttpClient.Builder httpClientBuilder)"
+  name: "JdkAsyncHttpClientBuilder(HttpClient.Builder httpClientBuilder)"
+  nameWithType: "JdkAsyncHttpClientBuilder.JdkAsyncHttpClientBuilder(HttpClient.Builder httpClientBuilder)"
+  summary: "Creates JdkAsyncHttpClientBuilder from the builder of an existing <xref uid=\"java.net.http.HttpClient.Builder\" data-throw-if-not-resolved=\"false\" data-raw-source=\"java.net.http.HttpClient.Builder\"></xref>."
+  parameters:
+  - description: "the HttpClient builder to use"
+    name: "httpClientBuilder"
+    type: "<xref href=\"java.net.http.HttpClient.Builder?alt=java.net.http.HttpClient.Builder&text=Builder\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public JdkAsyncHttpClientBuilder(HttpClient.Builder httpClientBuilder)"
+type: "constructor"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211102.1

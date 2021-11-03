@@ -35,4 +35,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.support.models.SupportTickets?alt=com.azure.resourcemanager.support.models.SupportTickets&text=SupportTickets\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.support.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-support:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-support:1.0.0-alpha.20211102.1

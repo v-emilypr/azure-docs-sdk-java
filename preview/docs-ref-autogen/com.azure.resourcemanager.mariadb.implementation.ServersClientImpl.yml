@@ -55,4 +55,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.mariadb.fluent.ServersClient?alt=com.azure.resourcemanager.mariadb.fluent.ServersClient&text=ServersClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.mariadb.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-mariadb:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-mariadb:1.0.0-alpha.20211102.1

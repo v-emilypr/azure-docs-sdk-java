@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector.select*"
+fullName: "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector.select"
+name: "select"
+nameWithType: "JdkHttpClientProxySelector.select"
+members:
+- uid: "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector.select(java.net.URI)"
+  fullName: "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector.select(URI uri)"
+  name: "select(URI uri)"
+  nameWithType: "JdkHttpClientProxySelector.select(URI uri)"
+  overridden: "java.net.ProxySelector.select(java.net.URI)"
+  parameters:
+  - name: "uri"
+    type: "<xref href=\"java.net.URI?alt=java.net.URI&text=URI\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public List<Proxy> select(URI uri)"
+  returns:
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.net.Proxy?alt=java.net.Proxy&text=Proxy\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient.implementation"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211102.1

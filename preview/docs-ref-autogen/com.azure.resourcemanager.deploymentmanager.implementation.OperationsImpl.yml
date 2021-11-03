@@ -28,4 +28,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.deploymentmanager.models.Operations?alt=com.azure.resourcemanager.deploymentmanager.models.Operations&text=Operations\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.deploymentmanager.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-deploymentmanager:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-deploymentmanager:1.0.0-alpha.20211102.1

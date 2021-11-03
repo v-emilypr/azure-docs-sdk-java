@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.sql.samples.GettingSqlServerMetrics"
+fullName: "com.azure.resourcemanager.sql.samples.GettingSqlServerMetrics"
+name: "GettingSqlServerMetrics"
+nameWithType: "GettingSqlServerMetrics"
+summary: "Azure SQL sample for getting SQL Server and Databases metrics - Create a primary SQL Server with a sample database. - Run some queries on the sample database. - Create a new table and insert some values into the database. - List the SQL subscription usage metrics, the database usage metrics and the other database metrics - Use the Monitor Service Fluent APIs to list the SQL Server metrics and the SQL Database metrics - Delete Sql Server"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class GettingSqlServerMetrics"
+constructors:
+- "com.azure.resourcemanager.sql.samples.GettingSqlServerMetrics.GettingSqlServerMetrics()"
+methods:
+- "com.azure.resourcemanager.sql.samples.GettingSqlServerMetrics.main(java.lang.String[])"
+- "com.azure.resourcemanager.sql.samples.GettingSqlServerMetrics.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.sql.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211101.1
