@@ -1,0 +1,14 @@
+{
+  "Name": "spring-cloud-azure-feature-management-web",
+  "Version": "1.4.0-alpha.20211103.1",
+  "DevVersion": "1.4.0-alpha.20211103.1",
+  "DirectoryPath": "sdk/appconfiguration/spring-cloud-azure-feature-management-web",
+  "ServiceDirectory": "appconfiguration",
+  "ReadMePath": "sdk/appconfiguration/spring-cloud-azure-feature-management-web/README.md",
+  "ChangeLogPath": "sdk/appconfiguration/spring-cloud-azure-feature-management-web/CHANGELOG.md",
+  "Group": "com.microsoft.azure",
+  "SdkType": "spring",
+  "IsNewSdk": false,
+  "ArtifactName": "spring-cloud-azure-feature-management-web",
+  "ReleaseStatus": "Unreleased"
+}
