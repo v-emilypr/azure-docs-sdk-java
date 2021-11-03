@@ -1,0 +1,14 @@
+{
+  "Name": "azure-core-serializer-avro-apache",
+  "Version": "1.0.0-alpha.20211103.1",
+  "DevVersion": "1.0.0-alpha.20211103.1",
+  "DirectoryPath": "sdk/core/azure-core-serializer-avro-apache",
+  "ServiceDirectory": "core",
+  "ReadMePath": "sdk/core/azure-core-serializer-avro-apache/README.md",
+  "ChangeLogPath": "sdk/core/azure-core-serializer-avro-apache/CHANGELOG.md",
+  "Group": "com.azure",
+  "SdkType": "client",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-core-serializer-avro-apache",
+  "ReleaseStatus": "Unreleased"
+}
