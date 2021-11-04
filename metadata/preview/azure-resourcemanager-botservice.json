@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-botservice",
+  "Version": "1.0.0-alpha.20211104.1",
+  "DevVersion": "1.0.0-alpha.20211104.1",
+  "DirectoryPath": "sdk/botservice/azure-resourcemanager-botservice",
+  "ServiceDirectory": "botservice",
+  "ReadMePath": "sdk/botservice/azure-resourcemanager-botservice/README.md",
+  "ChangeLogPath": "sdk/botservice/azure-resourcemanager-botservice/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-botservice",
+  "ReleaseStatus": "Unreleased"
+}
