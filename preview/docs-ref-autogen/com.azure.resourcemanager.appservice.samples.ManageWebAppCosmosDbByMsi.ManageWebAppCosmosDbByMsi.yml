@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppCosmosDbByMsi.ManageWebAppCosmosDbByMsi*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppCosmosDbByMsi.ManageWebAppCosmosDbByMsi"
+name: "ManageWebAppCosmosDbByMsi"
+nameWithType: "ManageWebAppCosmosDbByMsi.ManageWebAppCosmosDbByMsi"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppCosmosDbByMsi.ManageWebAppCosmosDbByMsi()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppCosmosDbByMsi.ManageWebAppCosmosDbByMsi()"
+  name: "ManageWebAppCosmosDbByMsi()"
+  nameWithType: "ManageWebAppCosmosDbByMsi.ManageWebAppCosmosDbByMsi()"
+  syntax: "public ManageWebAppCosmosDbByMsi()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211102.2

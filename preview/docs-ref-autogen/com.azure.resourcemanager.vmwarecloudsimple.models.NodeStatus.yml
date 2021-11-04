@@ -77,4 +77,4 @@ methods:
     type: "<xref href=\"com.azure.resourcemanager.vmwarecloudsimple.models.NodeStatus?alt=com.azure.resourcemanager.vmwarecloudsimple.models.NodeStatus&text=NodeStatus\" data-throw-if-not-resolved=\"False\" />[]"
 metadata: {}
 package: "com.azure.resourcemanager.vmwarecloudsimple.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-vmwarecloudsimple:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-vmwarecloudsimple:1.0.0-alpha.20211103.1

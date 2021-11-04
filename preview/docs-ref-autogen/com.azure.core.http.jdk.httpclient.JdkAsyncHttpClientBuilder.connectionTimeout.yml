@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.connectionTimeout*"
+fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.connectionTimeout"
+name: "connectionTimeout"
+nameWithType: "JdkAsyncHttpClientBuilder.connectionTimeout"
+members:
+- uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.connectionTimeout(java.time.Duration)"
+  fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.connectionTimeout(Duration connectionTimeout)"
+  name: "connectionTimeout(Duration connectionTimeout)"
+  nameWithType: "JdkAsyncHttpClientBuilder.connectionTimeout(Duration connectionTimeout)"
+  summary: "Sets the connection timeout.\n\n**Code Samples**\n\n```java\nHttpClient client = new JdkAsyncHttpClientBuilder()\n         .connectionTimeout(Duration.ofSeconds(250)) // connection timeout of 250 seconds\n         .build();\n```\n\nThe default connection timeout is 60 seconds."
+  parameters:
+  - description: "the connection timeout"
+    name: "connectionTimeout"
+    type: "<xref href=\"java.time.Duration?alt=java.time.Duration&text=Duration\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public JdkAsyncHttpClientBuilder connectionTimeout(Duration connectionTimeout)"
+  returns:
+    description: "the updated JdkAsyncHttpClientBuilder object"
+    type: "<xref href=\"com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder?alt=com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder&text=JdkAsyncHttpClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211103.1

@@ -1,0 +1,29 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.compute.samples.CreateVirtualMachineUsingCustomImageFromVHD"
+fullName: "com.azure.resourcemanager.compute.samples.CreateVirtualMachineUsingCustomImageFromVHD"
+name: "CreateVirtualMachineUsingCustomImageFromVHD"
+nameWithType: "CreateVirtualMachineUsingCustomImageFromVHD"
+summary: "Azure Compute sample for managing virtual machines - - Create an un-managed virtual machine from PIR image with data disks - Deallocate the virtual machine - Generalize the virtual machine - Create a virtual machine custom image from OS and Data disk VHDs of virtual machine - Create a second virtual machine using the custom image - Create a second virtual machine using the custom image and configure the data disks - Deletes the custom image - Get SAS Uri to the virtual machine's managed disks."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class CreateVirtualMachineUsingCustomImageFromVHD"
+methods:
+- "com.azure.resourcemanager.compute.samples.CreateVirtualMachineUsingCustomImageFromVHD.deprovisionAgentInLinuxVM(com.azure.resourcemanager.compute.models.VirtualMachine)"
+- "com.azure.resourcemanager.compute.samples.CreateVirtualMachineUsingCustomImageFromVHD.main(java.lang.String[])"
+- "com.azure.resourcemanager.compute.samples.CreateVirtualMachineUsingCustomImageFromVHD.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.compute.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211102.2

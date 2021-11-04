@@ -10,4 +10,4 @@ classes:
 - "com.azure.resourcemanager.resourcegraph.fluent.models.ResourceChangeListInner"
 metadata: {}
 package: "com.azure.resourcemanager.resourcegraph.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-resourcegraph:1.0.0-beta.2
+artifact: com.azure.resourcemanager:azure-resourcemanager-resourcegraph:1.0.0-alpha.20211102.1

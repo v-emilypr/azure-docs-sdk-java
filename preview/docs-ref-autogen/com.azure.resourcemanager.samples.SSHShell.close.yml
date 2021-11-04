@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.SSHShell.close*"
+fullName: "com.azure.resourcemanager.samples.SSHShell.close"
+name: "close"
+nameWithType: "SSHShell.close"
+members:
+- uid: "com.azure.resourcemanager.samples.SSHShell.close()"
+  fullName: "com.azure.resourcemanager.samples.SSHShell.close()"
+  name: "close()"
+  nameWithType: "SSHShell.close()"
+  summary: "Closes shell."
+  syntax: "public void close()"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211102.2

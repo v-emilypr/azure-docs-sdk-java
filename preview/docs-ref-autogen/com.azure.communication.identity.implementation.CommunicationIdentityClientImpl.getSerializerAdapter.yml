@@ -16,4 +16,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.communication.identity.implementation"
-artifact: com.azure:azure-communication-identity:1.2.0-beta.1
+artifact: com.azure:azure-communication-identity:1.2.0-alpha.20211103.1

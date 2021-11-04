@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.kubernetescluster.samples.DeployImageFromContainerRegistryToKubernetes.DeployImageFromContainerRegistryToKubernetes*"
+fullName: "com.azure.resourcemanager.kubernetescluster.samples.DeployImageFromContainerRegistryToKubernetes.DeployImageFromContainerRegistryToKubernetes"
+name: "DeployImageFromContainerRegistryToKubernetes"
+nameWithType: "DeployImageFromContainerRegistryToKubernetes.DeployImageFromContainerRegistryToKubernetes"
+members:
+- uid: "com.azure.resourcemanager.kubernetescluster.samples.DeployImageFromContainerRegistryToKubernetes.DeployImageFromContainerRegistryToKubernetes()"
+  fullName: "com.azure.resourcemanager.kubernetescluster.samples.DeployImageFromContainerRegistryToKubernetes.DeployImageFromContainerRegistryToKubernetes()"
+  name: "DeployImageFromContainerRegistryToKubernetes()"
+  nameWithType: "DeployImageFromContainerRegistryToKubernetes.DeployImageFromContainerRegistryToKubernetes()"
+  syntax: "public DeployImageFromContainerRegistryToKubernetes()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.kubernetescluster.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211102.2

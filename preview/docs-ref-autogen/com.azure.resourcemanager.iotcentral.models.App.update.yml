@@ -17,4 +17,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.iotcentral.models.App.UpdateStages.WithTags?alt=com.azure.resourcemanager.iotcentral.models.App.UpdateStages.WithTags&text=WithTags\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.iotcentral.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-iotcentral:1.0.0-beta.2
+artifact: com.azure.resourcemanager:azure-resourcemanager-iotcentral:1.0.0-alpha.20211103.1

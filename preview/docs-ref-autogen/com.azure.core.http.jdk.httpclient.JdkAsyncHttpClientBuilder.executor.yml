@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.executor*"
+fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.executor"
+name: "executor"
+nameWithType: "JdkAsyncHttpClientBuilder.executor"
+members:
+- uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.executor(java.util.concurrent.Executor)"
+  fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.executor(Executor executor)"
+  name: "executor(Executor executor)"
+  nameWithType: "JdkAsyncHttpClientBuilder.executor(Executor executor)"
+  summary: "Sets the executor to be used for asynchronous and dependent tasks. This cannot be null.\n\nIf this method is not invoked prior to <xref uid=\"com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.build()\" data-throw-if-not-resolved=\"false\" data-raw-source=\"building\"></xref>, a default executor is created for each newly built `HttpClient`."
+  parameters:
+  - description: "the executor to be used for asynchronous and dependent tasks"
+    name: "executor"
+    type: "<xref href=\"java.util.concurrent.Executor?alt=java.util.concurrent.Executor&text=Executor\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public JdkAsyncHttpClientBuilder executor(Executor executor)"
+  returns:
+    description: "the updated JdkAsyncHttpClientBuilder object"
+    type: "<xref href=\"com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder?alt=com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder&text=JdkAsyncHttpClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211103.1

@@ -22,7 +22,9 @@ constructors:
 - "com.azure.iot.modelsrepository.implementation.StatusStrings.StatusStrings()"
 fields:
 - "com.azure.iot.modelsrepository.implementation.StatusStrings.DISCOVERED_DEPENDENCIES"
+- "com.azure.iot.modelsrepository.implementation.StatusStrings.ERROR_FETCHING_METADATA_CONTENT"
 - "com.azure.iot.modelsrepository.implementation.StatusStrings.ERROR_FETCHING_MODEL_CONTENT"
+- "com.azure.iot.modelsrepository.implementation.StatusStrings.FETCHING_METADATA_CONTENT"
 - "com.azure.iot.modelsrepository.implementation.StatusStrings.FETCHING_MODEL_CONTENT"
 - "com.azure.iot.modelsrepository.implementation.StatusStrings.GENERIC_GET_MODELS_ERROR"
 - "com.azure.iot.modelsrepository.implementation.StatusStrings.INCORRECT_DTMI_CASING"
@@ -31,4 +33,4 @@ fields:
 type: "class"
 metadata: {}
 package: "com.azure.iot.modelsrepository.implementation"
-artifact: com.azure:azure-iot-modelsrepository:1.0.0-beta.1
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211102.1

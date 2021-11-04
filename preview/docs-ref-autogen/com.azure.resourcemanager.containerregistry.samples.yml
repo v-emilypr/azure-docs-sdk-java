@@ -1,0 +1,11 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.containerregistry.samples"
+fullName: "com.azure.resourcemanager.containerregistry.samples"
+name: "com.azure.resourcemanager.containerregistry.samples"
+summary: "This package contains the classes for container registry samples."
+classes:
+- "com.azure.resourcemanager.containerregistry.samples.ManageContainerRegistry"
+- "com.azure.resourcemanager.containerregistry.samples.ManageContainerRegistryWithWebhooks"
+metadata: {}
+package: "com.azure.resourcemanager.containerregistry.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211102.2

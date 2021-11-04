@@ -27,4 +27,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.vmwarecloudsimple.fluent.SkusAvailabilitiesClient?alt=com.azure.resourcemanager.vmwarecloudsimple.fluent.SkusAvailabilitiesClient&text=SkusAvailabilitiesClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.vmwarecloudsimple.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-vmwarecloudsimple:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-vmwarecloudsimple:1.0.0-alpha.20211103.1

@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueBasic.ServiceBusQueueBasic*"
+fullName: "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueBasic.ServiceBusQueueBasic"
+name: "ServiceBusQueueBasic"
+nameWithType: "ServiceBusQueueBasic.ServiceBusQueueBasic"
+members:
+- uid: "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueBasic.ServiceBusQueueBasic()"
+  fullName: "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueBasic.ServiceBusQueueBasic()"
+  name: "ServiceBusQueueBasic()"
+  nameWithType: "ServiceBusQueueBasic.ServiceBusQueueBasic()"
+  syntax: "public ServiceBusQueueBasic()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.servicebus.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211102.2

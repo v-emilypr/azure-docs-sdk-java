@@ -1,0 +1,37 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.quota.models.LimitValue"
+fullName: "com.azure.resourcemanager.quota.models.LimitValue"
+name: "LimitValue"
+nameWithType: "LimitValue"
+summary: "The resource quota limit."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+- "<xref href=\"com.azure.resourcemanager.quota.models.LimitJsonObject\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "com.azure.resourcemanager.quota.models.LimitJsonObject.validate()"
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class LimitValue extends LimitJsonObject"
+constructors:
+- "com.azure.resourcemanager.quota.models.LimitValue.LimitValue()"
+methods:
+- "com.azure.resourcemanager.quota.models.LimitValue.limitObjectType()"
+- "com.azure.resourcemanager.quota.models.LimitValue.limitType()"
+- "com.azure.resourcemanager.quota.models.LimitValue.validate()"
+- "com.azure.resourcemanager.quota.models.LimitValue.value()"
+- "com.azure.resourcemanager.quota.models.LimitValue.withLimitObjectType(com.azure.resourcemanager.quota.models.LimitType)"
+- "com.azure.resourcemanager.quota.models.LimitValue.withLimitType(com.azure.resourcemanager.quota.models.QuotaLimitTypes)"
+- "com.azure.resourcemanager.quota.models.LimitValue.withValue(int)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.quota.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-quota:1.0.0-alpha.20211102.1

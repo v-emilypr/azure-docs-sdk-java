@@ -1,0 +1,31 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl"
+name: "CheckVirtualNetworkSubnetUsagesImpl"
+nameWithType: "CheckVirtualNetworkSubnetUsagesImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class CheckVirtualNetworkSubnetUsagesImpl implements CheckVirtualNetworkSubnetUsages"
+constructors:
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl.CheckVirtualNetworkSubnetUsagesImpl(com.azure.resourcemanager.mysqlflexibleserver.fluent.CheckVirtualNetworkSubnetUsagesClient,com.azure.resourcemanager.mysqlflexibleserver.MySqlManager)"
+methods:
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl.execute(java.lang.String,com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageParameter)"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl.executeWithResponse(java.lang.String,com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageParameter,com.azure.core.util.Context)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.CheckVirtualNetworkSubnetUsages?alt=com.azure.resourcemanager.mysqlflexibleserver.models.CheckVirtualNetworkSubnetUsages&text=CheckVirtualNetworkSubnetUsages\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211102.1

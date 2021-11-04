@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.sql.samples.ManageSqlDatabaseInElasticPool"
+fullName: "com.azure.resourcemanager.sql.samples.ManageSqlDatabaseInElasticPool"
+name: "ManageSqlDatabaseInElasticPool"
+nameWithType: "ManageSqlDatabaseInElasticPool"
+summary: "Azure SQL sample for managing SQL Database - - Create a SQL Server with elastic pool and 2 databases - Create another database and add it to elastic pool through database update - Create one more database and add it to elastic pool through elastic pool update. - List and print databases in the elastic pool - Remove a database from elastic pool. - List and print elastic pool activities - List and print elastic pool database activities - Add another elastic pool in existing SQL Server. - Delete database, elastic pools and SQL Server"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageSqlDatabaseInElasticPool"
+methods:
+- "com.azure.resourcemanager.sql.samples.ManageSqlDatabaseInElasticPool.main(java.lang.String[])"
+- "com.azure.resourcemanager.sql.samples.ManageSqlDatabaseInElasticPool.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.sql.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211102.2

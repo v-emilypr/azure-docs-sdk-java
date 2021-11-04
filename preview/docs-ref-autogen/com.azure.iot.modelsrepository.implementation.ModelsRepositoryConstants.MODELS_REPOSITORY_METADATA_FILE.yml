@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.implementation.ModelsRepositoryConstants.MODELS_REPOSITORY_METADATA_FILE*"
+fullName: "com.azure.iot.modelsrepository.implementation.ModelsRepositoryConstants.MODELS_REPOSITORY_METADATA_FILE"
+name: "MODELS_REPOSITORY_METADATA_FILE"
+nameWithType: "ModelsRepositoryConstants.MODELS_REPOSITORY_METADATA_FILE"
+members:
+- uid: "com.azure.iot.modelsrepository.implementation.ModelsRepositoryConstants.MODELS_REPOSITORY_METADATA_FILE"
+  fullName: "com.azure.iot.modelsrepository.implementation.ModelsRepositoryConstants.MODELS_REPOSITORY_METADATA_FILE"
+  name: "MODELS_REPOSITORY_METADATA_FILE"
+  nameWithType: "ModelsRepositoryConstants.MODELS_REPOSITORY_METADATA_FILE"
+  syntax: "public static final String MODELS_REPOSITORY_METADATA_FILE"
+type: "field"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211102.1

@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.network.samples.VerifyNetworkPeeringWithNetworkWatcher"
+fullName: "com.azure.resourcemanager.network.samples.VerifyNetworkPeeringWithNetworkWatcher"
+name: "VerifyNetworkPeeringWithNetworkWatcher"
+nameWithType: "VerifyNetworkPeeringWithNetworkWatcher"
+summary: "Azure Network sample for verifying connectivity between two peered virtual networks using Azure Network Watcher.\n\nSummary ...\n\n\\- This sample uses Azure Network Watcher's connectivity check to verify connectivity between two peered virtual networks.\n\nDetails ...\n\n1. Define two virtual networks network \"A\" and network \"B\" with one subnet each\n\n2. Create two virtual machines, each within a separate network - The virtual machines currently must use a special extension to support Network Watcher\n\n3. Peer the networks... - the peering will initially have default settings: - each network's IP address spaces will be accessible from the other network - no traffic forwarding will be enabled between the networks - no gateway transit between one network and the other will be enabled\n\n4. Use Network Watcher to check connectivity between the virtual machines in different peering scenarios: - both virtual machines accessible to each other (bi-directional) - virtual machine A accessible to virtual machine B, but not the other way"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class VerifyNetworkPeeringWithNetworkWatcher"
+methods:
+- "com.azure.resourcemanager.network.samples.VerifyNetworkPeeringWithNetworkWatcher.main(java.lang.String[])"
+- "com.azure.resourcemanager.network.samples.VerifyNetworkPeeringWithNetworkWatcher.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.network.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211102.2

@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSourceControl"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSourceControl"
+name: "ManageLinuxWebAppSourceControl"
+nameWithType: "ManageLinuxWebAppSourceControl"
+summary: "Azure App Service basic sample for managing web apps. - Create 4 web apps under the same new app service plan: - Deploy to 1 using FTP - Deploy to 2 using local Git repository - Deploy to 3 using a publicly available Git repository - Deploy to 4 using a GitHub repository with continuous integration"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageLinuxWebAppSourceControl"
+constructors:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSourceControl.ManageLinuxWebAppSourceControl()"
+methods:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSourceControl.main(java.lang.String[])"
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSourceControl.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211102.2

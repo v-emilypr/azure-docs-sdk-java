@@ -1,0 +1,31 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.ModelsRepositoryMetadata*"
+fullName: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.ModelsRepositoryMetadata"
+name: "ModelsRepositoryMetadata"
+nameWithType: "ModelsRepositoryMetadata.ModelsRepositoryMetadata"
+members:
+- uid: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.ModelsRepositoryMetadata()"
+  fullName: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.ModelsRepositoryMetadata()"
+  name: "ModelsRepositoryMetadata()"
+  nameWithType: "ModelsRepositoryMetadata.ModelsRepositoryMetadata()"
+  syntax: "public ModelsRepositoryMetadata()"
+- uid: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.ModelsRepositoryMetadata(java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures)"
+  fullName: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.ModelsRepositoryMetadata(String commitId, String publishDateUtc, String sourceRepo, Integer totalModelCount, RepositoryFeatures features)"
+  name: "ModelsRepositoryMetadata(String commitId, String publishDateUtc, String sourceRepo, Integer totalModelCount, RepositoryFeatures features)"
+  nameWithType: "ModelsRepositoryMetadata.ModelsRepositoryMetadata(String commitId, String publishDateUtc, String sourceRepo, Integer totalModelCount, RepositoryFeatures features)"
+  parameters:
+  - name: "commitId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "publishDateUtc"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "sourceRepo"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "totalModelCount"
+    type: "<xref href=\"java.lang.Integer?alt=java.lang.Integer&text=Integer\" data-throw-if-not-resolved=\"False\" />"
+  - name: "features"
+    type: "<xref href=\"com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures?alt=com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures&text=RepositoryFeatures\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ModelsRepositoryMetadata(String commitId, String publishDateUtc, String sourceRepo, Integer totalModelCount, RepositoryFeatures features)"
+type: "constructor"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211102.1

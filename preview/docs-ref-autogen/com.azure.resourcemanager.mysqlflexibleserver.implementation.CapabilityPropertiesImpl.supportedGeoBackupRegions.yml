@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.supportedGeoBackupRegions*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.supportedGeoBackupRegions"
+name: "supportedGeoBackupRegions"
+nameWithType: "CapabilityPropertiesImpl.supportedGeoBackupRegions"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.supportedGeoBackupRegions()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.supportedGeoBackupRegions()"
+  name: "supportedGeoBackupRegions()"
+  nameWithType: "CapabilityPropertiesImpl.supportedGeoBackupRegions()"
+  summary: "Gets the supportedGeoBackupRegions property: supported geo backup regions."
+  syntax: "public List<String> supportedGeoBackupRegions()"
+  returns:
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211102.1

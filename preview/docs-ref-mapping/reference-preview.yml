@@ -3,16 +3,67 @@
   landingPageType: Root
   expanded: false
   items:
+  - name: Active Directory
+    uid: azure.java.sdk.landingpage.services.activedirectory.pre
+    href: ~/docs-ref-services/preview/resourcemanager-msi-readme.md
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.activedirectory.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.msi*
   - name: AgriFood
     uid: azure.java.sdk.landingpage.services.agrifood.pre
     href: ~/docs-ref-services/preview/verticals-agrifood-farming-readme.md
     children:
     - com.azure.verticals.agrifood.farming*
+  - name: App Configuration
+    uid: azure.java.sdk.landingpage.services.appconfig.pre
+    href: ~/docs-ref-services/preview/data-appconfiguration-readme.md
+    children:
+    - com.azure.data.appconfiguration*
+  - name: App Service
+    uid: azure.java.sdk.landingpage.services.appservice.pre
+    href: ~/docs-ref-services/preview/resourcemanager-appservice-readme.md
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.appservice.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.appservice*
   - name: Anomaly Detector
     uid: azure.java.sdk.landingpage.services.anomalydetector.pre
     href: ~/docs-ref-services/preview/ai-anomalydetector-readme.md
     children:
     - com.azure.ai.anomalydetector*
+  - name: Authorization
+    uid: azure.java.sdk.landingpage.services.authorization.pre
+    landingPageType: Service
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.authorization.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.authorization*
+  - name: CDN
+    uid: azure.java.sdk.landingpage.services.cdn.pre
+    href: ~/docs-ref-services/preview/resourcemanager-cdn-readme.md
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.cdn.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.cdn*
+  - name: Compute
+    uid: azure.java.sdk.landingpage.services.compute.pre
+    href: ~/docs-ref-services/preview/resourcemanager-compute-readme.md
+    landingPageType: Service
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.compute.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.compute*
   - name: Communication
     uid: azure.java.sdk.landingpage.services.communication.pre
     landingPageType: Service
@@ -23,12 +74,36 @@
       landingPageType: Service
       children:
       - com.azure.communication.callingserver*
+    - name: Chat
+      uid: azure.java.sdk.landingpage.services.communication.Chat.pre
+      href: ~/docs-ref-services/preview/communication-chat-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.chat*
+    - name: Common
+      uid: azure.java.sdk.landingpage.services.communication.Common.pre
+      href: ~/docs-ref-services/preview/communication-common-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.common*
     - name: Identity
       uid: azure.java.sdk.landingpage.services.communication.Identity.pre
       href: ~/docs-ref-services/preview/communication-identity-readme.md
       landingPageType: Service
       children:
       - com.azure.communication.identity*
+    - name: Phone Numbers
+      uid: azure.java.sdk.landingpage.services.communication.PhoneNumbers.pre
+      href: ~/docs-ref-services/preview/communication-phonenumbers-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.phonenumbers*
+    - name: SMS
+      uid: azure.java.sdk.landingpage.services.communication.SMS.pre
+      href: ~/docs-ref-services/preview/communication-sms-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.sms*
   - name: Cognitive Services
     uid: azure.java.sdk.landingpage.services.cognitiveservices.pre
     landingPageType: Service
@@ -42,6 +117,36 @@
         landingPageType: Service
         children:
         - com.microsoft.azure.cognitiveservices.vision.computervision*
+  - name: Container Instance
+    uid: azure.java.sdk.landingpage.services.containerinstance.pre
+    href: ~/docs-ref-services/preview/resourcemanager-containerinstance-readme.md
+    landingPageType: Service
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.containerinstance.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.containerinstance*
+  - name: Container Registry
+    uid: azure.java.sdk.landingpage.services.containerregistry.pre
+    href: ~/docs-ref-services/preview/resourcemanager-containerregistry-readme.md
+    landingPageType: Service
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.containerregistry.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.containerregistry*
+  - name: Container Service
+    uid: azure.java.sdk.landingpage.services.containerservice.pre
+    landingPageType: Service
+    href: ~/docs-ref-services/preview/resourcemanager-containerservice-readme.md
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.containerservice.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.containerservice*
   - name: Core
     uid: azure.java.sdk.landingpage.services.sdk.core.pre
     landingPageType: Service
@@ -63,6 +168,31 @@
       - com.azure.core.util.serializer
       - com.azure.core.util.tracing
       - com.azure.core.util
+    - name: AMQP
+      uid: azure.java.sdk.landingpage.services.sdk.core.AMQP.pre
+      href: ~/docs-ref-services/preview/core-amqp-readme.md
+      children:
+      - com.azure.core.amqp*
+    - name: OkHttp
+      uid: azure.java.sdk.landingpage.services.sdk.core.OkHttp.pre
+      href: ~/docs-ref-services/preview/core-http-okhttp-readme.md
+      children:
+      - com.azure.core.http.okhttp*
+    - name: Netty
+      uid: azure.java.sdk.landingpage.services.sdk.core.Netty.pre
+      href: ~/docs-ref-services/preview/core-http-netty-readme.md
+      children:
+      - com.azure.core.http.netty*
+    - name: Gson Serializer
+      uid: azure.java.sdk.landingpage.services.sdk.core.GsonSerializer.pre
+      href: ~/docs-ref-services/preview/core-serializer-json-gson-readme.md
+      children:
+      - com.azure.core.serializer.json.gson
+    - name: Jackson Serializer
+      uid: azure.java.sdk.landingpage.services.sdk.core.JacksonSerializer.pre
+      href: ~/docs-ref-services/preview/core-serializer-json-jackson-readme.md
+      children:
+      - com.azure.core.serializer.json.jackson
     - name: Avro Apache Serializer
       uid: azure.java.sdk.landingpage.services.sdk.core.AvroSerializer.pre
       children:
@@ -73,6 +203,16 @@
       href: ~/docs-ref-services/preview/core-tracing-opentelemetry-readme.md
       children:
       - com.azure.core.tracing.opentelemetry
+    - name: Test
+      uid: azure.java.sdk.landingpage.services.sdk.core.Test.pre
+      href: ~/docs-ref-services/preview/core-test-readme.md
+      children:
+      - com.azure.core.test*
+    - name: Management
+      uid: azure.java.sdk.landingpage.services.sdk.core.Management.pre
+      href: ~/docs-ref-services/preview/core-management-readme.md
+      children:
+      - com.azure.core.management*
   - name: Cosmos DB
     uid: azure.java.sdk.landingpage.services.cosmosdb.pre
     href: ~/docs-ref-services/preview/cosmosdb.md
@@ -86,6 +226,12 @@
         href: ~/docs-ref-services/preview/cosmos-readme.md
         children:
         - com.azure.cosmos*
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.cosmosdb.ResourceManagement.pre
+      href: ~/docs-ref-services/preview/resourcemanager-cosmos-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.cosmos*
   - name: Kusto
     uid: azure.java.sdk.landingpage.services.dataexplorer.pre
     landingPageType: Service
@@ -96,6 +242,55 @@
       children:
       - com.azure.resourcemanager.kusto*
       - com.microsoft.azure.management.kusto*
+  - name: DNS
+    uid: azure.java.sdk.landingpage.services.dns.pre
+    href: ~/docs-ref-services/preview/resourcemanager-dns-readme.md
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.dns.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.dns*
+  - name: Digital Twins
+    uid: azure.java.sdk.landingpage.services.digitaltwins.pre
+    landingPageType: Service
+    items:
+    - name: Client
+      uid: azure.java.sdk.landingpage.services.digitaltwins.client.pre
+      landingPageType: Service
+      children:
+      - com.azure.digitaltwins.core*
+  - name: Event Grid
+    uid: azure.java.sdk.landingpage.services.eventGrid.pre
+    href: ~/docs-ref-services/preview/eventgrid.md
+    items:
+    - name: Client
+      uid: azure.java.sdk.landingpage.services.eventGrid.Client.pre
+      landingPageType: Service
+      children:
+      - com.azure.messaging.eventgrid*
+      - com.microsoft.azure.eventgrid*
+  - name: Event Hubs
+    uid: azure.java.sdk.landingpage.services.eventhub.pre
+    href: ~/docs-ref-services/preview/eventhub.md
+    items:
+    - name: Event Hubs
+      uid: azure.java.sdk.landingpage.services.eventhub.Client.pre
+      href: ~/docs-ref-services/preview/messaging-eventhubs-readme.md
+      children:
+      - com.azure.messaging.eventhubs
+      - com.azure.messaging.eventhubs.models
+    - name: Event Hubs Checkpoint Store Extension
+      uid: azure.java.sdk.landingpage.services.eventhub.Checkpoint.pre
+      href: ~/docs-ref-services/preview/messaging-eventhubs-checkpointstore-blob-readme.md
+      children:
+      - com.azure.messaging.eventhubs.checkpointstore.blob
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.eventhub.ResourceManagement.pre
+      href: ~/docs-ref-services/preview/resourcemanager-eventhubs-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.eventhubs*
   - name: Form Recognizer
     uid: azure.java.sdk.landingpage.preview.services.formrecognizer.pre
     href: ~/docs-ref-services/preview/ai-formrecognizer-readme.md
@@ -119,6 +314,11 @@
       children:
       - com.microsoft.azure.management.hybridcompute.v2020_08_02*
     landingPageType: Service
+  - name: Identity
+    uid: azure.java.sdk.landingpage.services.identity.pre
+    href: ~/docs-ref-services/preview/identity-readme.md
+    children:
+    - com.azure.identity
   - name: IoT
     uid: azure.java.sdk.landingpage.services.iot.pre
     href: ~/docs-ref-services/preview/iot.md
@@ -158,7 +358,18 @@
       children:
       - com.azure.security.keyvault.administration*
       landingPageType: Service
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.keyvault.ResourceManagement.pre
+      href: ~/docs-ref-services/preview/resourcemanager-keyvault-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.keyvault*
     landingPageType: Service
+  - name: Metrics Advisor
+    uid: azure.java.sdk.landingpage.services.metricsadvisor.pre
+    href: ~/docs-ref-services/preview/ai-metricsadvisor-readme.md
+    children:
+    - com.azure.ai.metricsadvisor*
   - name: Mixed Reality
     uid: azure.java.sdk.landingpage.service.mixedreality.pre
     landingPageType: Service
@@ -177,6 +388,32 @@
       href: ~/docs-ref-services/preview/opentelemetry-exporters-azuremonitor-readme.md
       children:
       - com.azure.opentelemetry.exporters.azuremonitor*
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.monitor.ResourceManagement.pre
+      href: ~/docs-ref-services/preview/resourcemanager-monitor-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.monitor*
+  - name: Networking
+    uid: azure.java.sdk.landingpage.services.networking.pre
+    href: ~/docs-ref-services/preview/network.md
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.networking.ResourceManagement.pre
+      href: ~/docs-ref-services/preview/resourcemanager-network-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.network*
+  - name: Private DNS
+    uid: azure.java.sdk.landingpage.services.privatedns.pre
+    href: ~/docs-ref-services/preview/resourcemanager-privatedns-readme.md
+    landingPageType: Service
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.privatedns.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.privatedns*
   - name: Purview Resource Provider
     uid: azure.java.sdk.landingpage.services.purview.pre
     landingPageType: Service
@@ -186,6 +423,25 @@
       landingPageType: Service
       children:
       - com.azure.analytics.purview.account*
+  - name: Redis Cache
+    uid: azure.java.sdk.landingpage.services.rediscache.pre
+    href: ~/docs-ref-services/preview/resourcemanager-redis-readme.md
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.rediscache.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.redis*
+  - name: Resources
+    uid: azure.java.sdk.landingpage.services.resources.pre
+    href: ~/docs-ref-services/preview/resourcemanager-resources-readme.md
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.resources.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager
+      - com.azure.resourcemanager.resources*
   - name: Schema Registry
     uid: azure.java.sdk.landingpage.services.schemaregistry.pre
     landingPageType: Service
@@ -210,6 +466,25 @@
       href: ~/docs-ref-services/preview/search-documents-readme.md
       children:
       - com.azure.search.documents*
+  - name: Service Bus
+    uid: azure.java.sdk.landingpage.services.servicebus.pre
+    href: ~/docs-ref-services/preview/servicebus.md
+    items:
+    - name: Client
+      uid: azure.java.sdk.landingpage.services.servicebus.Client.pre
+      href: ~/docs-ref-services/preview/servicebus.md
+      items:
+      - name: 7.X.X Client (azure-messaging-servicebus)
+        uid: azure.java.sdk.landingpage.services.servicebus.Client.7xx.pre
+        href: ~/docs-ref-services/preview/messaging-servicebus-readme.md
+        children:
+        - com.azure.messaging.servicebus*
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.servicebus.ResourceManagement.pre
+      href: ~/docs-ref-services/preview/resourcemanager-servicebus-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.servicebus*
   - name: Operations management
     uid: azure.java.sdk.landingpage.services.operationsManagement.pre
     landingPageType: Service
@@ -263,11 +538,34 @@
       landingPageType: Service
       children:
       - com.azure.resourcemanager.synapse*
+  - name: Tables
+    uid: azure.java.sdk.landingpage.services.tables.pre
+    href: ~/docs-ref-services/preview/data-tables-readme.md
+    children:
+    - com.azure.data.tables*
   - name: Text Analytics
     uid: azure.java.sdk.landingpage.services.textanalytics.pre
     href: ~/docs-ref-services/preview/ai-textanalytics-readme.md
     children:
     - com.azure.ai.textanalytics*
+  - name: Traffic Manager
+    uid: azure.java.sdk.landingpage.services.trafficmanager.pre
+    href: ~/docs-ref-services/preview/resourcemanager-trafficmanager-readme.md
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.trafficmanager.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.trafficmanager*
+  - name: Virtual Machines
+    uid: azure.java.sdk.landingpage.services.virtualmachines.pre
+    href: ~/docs-ref-services/preview/resourcemanager-compute-readme.md
+    items:
+    - name: Resource Management
+      uid: azure.java.sdk.landingpage.services.virtualmachines.ResourceManagement.pre
+      landingPageType: Service
+      children:
+      - com.azure.resourcemanager.compute*
   - name: Video Analyzer
     uid: azure.java.sdk.landingpage.services.videoanalyzer.pre
     landingPageType: Service
