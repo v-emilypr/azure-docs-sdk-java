@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.monitor.samples.WebAppPerformanceMonitoringAlerts"
+fullName: "com.azure.resourcemanager.monitor.samples.WebAppPerformanceMonitoringAlerts"
+name: "WebAppPerformanceMonitoringAlerts"
+nameWithType: "WebAppPerformanceMonitoringAlerts"
+summary: "This sample shows examples of configuring Metric Alerts for WebApp instance performance monitoring through app service plan. - Create a App Service plan - Setup an action group to trigger a notification to the heavy performance alerts - Create auto-mitigated metric alerts for the App Service plan when - average CPUPercentage on any of Web App instance (where Instance = \\*) over the last 5 minutes is above 80%"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class WebAppPerformanceMonitoringAlerts"
+constructors:
+- "com.azure.resourcemanager.monitor.samples.WebAppPerformanceMonitoringAlerts.WebAppPerformanceMonitoringAlerts()"
+methods:
+- "com.azure.resourcemanager.monitor.samples.WebAppPerformanceMonitoringAlerts.main(java.lang.String[])"
+- "com.azure.resourcemanager.monitor.samples.WebAppPerformanceMonitoringAlerts.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.monitor.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211103.2

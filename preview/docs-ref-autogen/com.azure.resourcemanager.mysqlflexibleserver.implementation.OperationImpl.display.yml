@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.OperationImpl.display*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.OperationImpl.display"
+name: "display"
+nameWithType: "OperationImpl.display"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.OperationImpl.display()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.OperationImpl.display()"
+  name: "display()"
+  nameWithType: "OperationImpl.display()"
+  summary: "Gets the display property: The localized display information for this particular operation or action."
+  syntax: "public OperationDisplay display()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.OperationDisplay?alt=com.azure.resourcemanager.mysqlflexibleserver.models.OperationDisplay&text=OperationDisplay\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211103.1

@@ -47,4 +47,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.managedapplications.fluent.ApplicationDefinitionsClient?alt=com.azure.resourcemanager.managedapplications.fluent.ApplicationDefinitionsClient&text=ApplicationDefinitionsClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.managedapplications.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-managedapplications:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-managedapplications:1.0.0-alpha.20211103.1

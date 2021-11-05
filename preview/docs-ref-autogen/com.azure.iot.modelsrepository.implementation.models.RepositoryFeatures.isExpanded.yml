@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.isExpanded*"
+fullName: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.isExpanded"
+name: "isExpanded"
+nameWithType: "RepositoryFeatures.isExpanded"
+members:
+- uid: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.isExpanded()"
+  fullName: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.isExpanded()"
+  name: "isExpanded()"
+  nameWithType: "RepositoryFeatures.isExpanded()"
+  syntax: "public boolean isExpanded()"
+  returns:
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211103.1

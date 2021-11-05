@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.AttestationClientImplBuilder*"
+fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.AttestationClientImplBuilder"
+name: "AttestationClientImplBuilder"
+nameWithType: "AttestationClientImplBuilder.AttestationClientImplBuilder"
+members:
+- uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.AttestationClientImplBuilder()"
+  fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.AttestationClientImplBuilder()"
+  name: "AttestationClientImplBuilder()"
+  nameWithType: "AttestationClientImplBuilder.AttestationClientImplBuilder()"
+  summary: "Create an instance of the AttestationClientImplBuilder."
+  syntax: "public AttestationClientImplBuilder()"
+type: "constructor"
+metadata: {}
+package: "com.azure.security.attestation.implementation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211104.1

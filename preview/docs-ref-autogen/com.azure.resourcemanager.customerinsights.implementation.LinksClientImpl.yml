@@ -35,4 +35,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.customerinsights.fluent.LinksClient?alt=com.azure.resourcemanager.customerinsights.fluent.LinksClient&text=LinksClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.customerinsights.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-customerinsights:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-customerinsights:1.0.0-alpha.20211103.1

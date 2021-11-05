@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.AttestationResultImpl*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.AttestationResultImpl"
+name: "AttestationResultImpl"
+nameWithType: "AttestationResultImpl.AttestationResultImpl"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.AttestationResultImpl()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.AttestationResultImpl()"
+  name: "AttestationResultImpl()"
+  nameWithType: "AttestationResultImpl.AttestationResultImpl()"
+  syntax: "public AttestationResultImpl()"
+type: "constructor"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211104.1

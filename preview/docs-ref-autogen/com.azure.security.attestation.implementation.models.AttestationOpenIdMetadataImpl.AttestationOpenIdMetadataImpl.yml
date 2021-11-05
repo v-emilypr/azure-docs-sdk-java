@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.AttestationOpenIdMetadataImpl*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.AttestationOpenIdMetadataImpl"
+name: "AttestationOpenIdMetadataImpl"
+nameWithType: "AttestationOpenIdMetadataImpl.AttestationOpenIdMetadataImpl"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.AttestationOpenIdMetadataImpl()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.AttestationOpenIdMetadataImpl()"
+  name: "AttestationOpenIdMetadataImpl()"
+  nameWithType: "AttestationOpenIdMetadataImpl.AttestationOpenIdMetadataImpl()"
+  syntax: "public AttestationOpenIdMetadataImpl()"
+type: "constructor"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211104.1

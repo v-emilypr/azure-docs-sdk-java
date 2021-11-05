@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.Utils.getSecondaryServicePrincipalClientID*"
+fullName: "com.azure.resourcemanager.samples.Utils.getSecondaryServicePrincipalClientID"
+name: "getSecondaryServicePrincipalClientID"
+nameWithType: "Utils.getSecondaryServicePrincipalClientID"
+members:
+- uid: "com.azure.resourcemanager.samples.Utils.getSecondaryServicePrincipalClientID(java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.Utils.getSecondaryServicePrincipalClientID(String envSecondaryServicePrincipal)"
+  name: "getSecondaryServicePrincipalClientID(String envSecondaryServicePrincipal)"
+  nameWithType: "Utils.getSecondaryServicePrincipalClientID(String envSecondaryServicePrincipal)"
+  summary: "Retrieve the secondary service principal client ID."
+  parameters:
+  - description: "an Azure Container Registry"
+    name: "envSecondaryServicePrincipal"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static String getSecondaryServicePrincipalClientID(String envSecondaryServicePrincipal)"
+  exceptions:
+  - description: "exception"
+    type: "<xref href=\"java.io.IOException?alt=java.io.IOException&text=IOException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "a service principal client ID"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211103.2

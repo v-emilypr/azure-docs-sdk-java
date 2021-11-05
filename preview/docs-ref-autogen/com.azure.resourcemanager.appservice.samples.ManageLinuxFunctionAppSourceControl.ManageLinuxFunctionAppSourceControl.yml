@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxFunctionAppSourceControl.ManageLinuxFunctionAppSourceControl*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxFunctionAppSourceControl.ManageLinuxFunctionAppSourceControl"
+name: "ManageLinuxFunctionAppSourceControl"
+nameWithType: "ManageLinuxFunctionAppSourceControl.ManageLinuxFunctionAppSourceControl"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxFunctionAppSourceControl.ManageLinuxFunctionAppSourceControl()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxFunctionAppSourceControl.ManageLinuxFunctionAppSourceControl()"
+  name: "ManageLinuxFunctionAppSourceControl()"
+  nameWithType: "ManageLinuxFunctionAppSourceControl.ManageLinuxFunctionAppSourceControl()"
+  syntax: "public ManageLinuxFunctionAppSourceControl()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211103.2

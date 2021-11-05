@@ -1,0 +1,38 @@
+### YamlMime:JavaType
+uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder"
+fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder"
+name: "AttestationClientImplBuilder"
+nameWithType: "AttestationClientImplBuilder"
+summary: "A builder for creating a new instance of the AttestationClient type."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class AttestationClientImplBuilder"
+constructors:
+- "com.azure.security.attestation.implementation.AttestationClientImplBuilder.AttestationClientImplBuilder()"
+methods:
+- "com.azure.security.attestation.implementation.AttestationClientImplBuilder.addPolicy(com.azure.core.http.policy.HttpPipelinePolicy)"
+- "com.azure.security.attestation.implementation.AttestationClientImplBuilder.apiVersion(java.lang.String)"
+- "com.azure.security.attestation.implementation.AttestationClientImplBuilder.buildClient()"
+- "com.azure.security.attestation.implementation.AttestationClientImplBuilder.configuration(com.azure.core.util.Configuration)"
+- "com.azure.security.attestation.implementation.AttestationClientImplBuilder.httpClient(com.azure.core.http.HttpClient)"
+- "com.azure.security.attestation.implementation.AttestationClientImplBuilder.httpLogOptions(com.azure.core.http.policy.HttpLogOptions)"
+- "com.azure.security.attestation.implementation.AttestationClientImplBuilder.instanceUrl(java.lang.String)"
+- "com.azure.security.attestation.implementation.AttestationClientImplBuilder.pipeline(com.azure.core.http.HttpPipeline)"
+- "com.azure.security.attestation.implementation.AttestationClientImplBuilder.retryPolicy(com.azure.core.http.policy.RetryPolicy)"
+- "com.azure.security.attestation.implementation.AttestationClientImplBuilder.serializerAdapter(com.azure.core.util.serializer.SerializerAdapter)"
+type: "class"
+metadata: {}
+package: "com.azure.security.attestation.implementation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211104.1

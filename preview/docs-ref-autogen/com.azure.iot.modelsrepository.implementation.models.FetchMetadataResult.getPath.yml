@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.getPath*"
+fullName: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.getPath"
+name: "getPath"
+nameWithType: "FetchMetadataResult.getPath"
+members:
+- uid: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.getPath()"
+  fullName: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.getPath()"
+  name: "getPath()"
+  nameWithType: "FetchMetadataResult.getPath()"
+  summary: "Gets the model repository's metadata path."
+  syntax: "public String getPath()"
+  returns:
+    description: "model repository's metadata path."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211103.1

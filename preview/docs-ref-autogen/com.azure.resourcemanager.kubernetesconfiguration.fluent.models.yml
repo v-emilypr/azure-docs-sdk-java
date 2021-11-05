@@ -8,4 +8,4 @@ classes:
 - "com.azure.resourcemanager.kubernetesconfiguration.fluent.models.SourceControlConfigurationInner"
 metadata: {}
 package: "com.azure.resourcemanager.kubernetesconfiguration.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-kubernetesconfiguration:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-kubernetesconfiguration:1.0.0-alpha.20211104.1

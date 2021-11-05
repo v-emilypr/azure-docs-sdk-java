@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getJsonWebKey*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getJsonWebKey"
+name: "getJsonWebKey"
+nameWithType: "AttestationTokenImpl.getJsonWebKey"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getJsonWebKey()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getJsonWebKey()"
+  name: "getJsonWebKey()"
+  nameWithType: "AttestationTokenImpl.getJsonWebKey()"
+  summary: "Returns the signer for this token if the caller provided a JSON Web Key."
+  syntax: "public AttestationSigner getJsonWebKey()"
+  returns:
+    description: "Attestation signer representing the signer of the token."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationSigner?alt=com.azure.security.attestation.models.AttestationSigner&text=AttestationSigner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211104.1

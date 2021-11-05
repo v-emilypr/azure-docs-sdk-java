@@ -1,0 +1,33 @@
+### YamlMime:JavaType
+uid: "com.azure.security.attestation.models.AttestationData"
+fullName: "com.azure.security.attestation.models.AttestationData"
+name: "AttestationData"
+nameWithType: "AttestationData"
+summary: "The AttestationData class represents data sent to the Attestation service as either InitTimeData or RunTimeData."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class AttestationData implements Cloneable"
+constructors:
+- "com.azure.security.attestation.models.AttestationData.AttestationData(com.azure.core.util.BinaryData,com.azure.security.attestation.models.AttestationDataInterpretation)"
+methods:
+- "com.azure.security.attestation.models.AttestationData.clone()"
+- "com.azure.security.attestation.models.AttestationData.getData()"
+- "com.azure.security.attestation.models.AttestationData.getInterpretation()"
+type: "class"
+implements:
+- "<xref href=\"java.lang.Cloneable?alt=java.lang.Cloneable&text=Cloneable\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211104.1

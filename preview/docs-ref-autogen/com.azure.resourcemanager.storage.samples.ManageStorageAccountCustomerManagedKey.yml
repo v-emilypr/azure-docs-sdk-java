@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.storage.samples.ManageStorageAccountCustomerManagedKey"
+fullName: "com.azure.resourcemanager.storage.samples.ManageStorageAccountCustomerManagedKey"
+name: "ManageStorageAccountCustomerManagedKey"
+nameWithType: "ManageStorageAccountCustomerManagedKey"
+summary: "Azure Storage sample for managing storage accounts with customer-managed key. - Create a storage account with system assigned managed service identity - Create a key vault with purge protection enabled and access policy for managed service identity of storage account - Create a RSA key - Create diagnostic setting for audit logs - Update storage account to enable encryption with customer-managed key - Revoke customer-managed key \\{@see http://aka.ms/storagecmkconfiguration\\}"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageStorageAccountCustomerManagedKey"
+methods:
+- "com.azure.resourcemanager.storage.samples.ManageStorageAccountCustomerManagedKey.main(java.lang.String[])"
+- "com.azure.resourcemanager.storage.samples.ManageStorageAccountCustomerManagedKey.runSample(com.azure.resourcemanager.AzureResourceManager,java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.storage.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211103.2

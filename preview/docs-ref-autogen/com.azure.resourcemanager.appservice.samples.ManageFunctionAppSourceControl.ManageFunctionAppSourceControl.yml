@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppSourceControl.ManageFunctionAppSourceControl*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppSourceControl.ManageFunctionAppSourceControl"
+name: "ManageFunctionAppSourceControl"
+nameWithType: "ManageFunctionAppSourceControl.ManageFunctionAppSourceControl"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppSourceControl.ManageFunctionAppSourceControl()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppSourceControl.ManageFunctionAppSourceControl()"
+  name: "ManageFunctionAppSourceControl()"
+  nameWithType: "ManageFunctionAppSourceControl.ManageFunctionAppSourceControl()"
+  syntax: "public ManageFunctionAppSourceControl()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211103.2

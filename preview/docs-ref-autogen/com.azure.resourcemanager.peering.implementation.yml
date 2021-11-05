@@ -51,4 +51,4 @@ classes:
 - "com.azure.resourcemanager.peering.implementation.ResourceProvidersImpl"
 metadata: {}
 package: "com.azure.resourcemanager.peering.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-peering:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-peering:1.0.0-alpha.20211104.1

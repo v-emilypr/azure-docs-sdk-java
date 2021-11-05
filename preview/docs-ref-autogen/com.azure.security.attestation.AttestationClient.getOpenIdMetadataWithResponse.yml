@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationClient.getOpenIdMetadataWithResponse*"
+fullName: "com.azure.security.attestation.AttestationClient.getOpenIdMetadataWithResponse"
+name: "getOpenIdMetadataWithResponse"
+nameWithType: "AttestationClient.getOpenIdMetadataWithResponse"
+members:
+- uid: "com.azure.security.attestation.AttestationClient.getOpenIdMetadataWithResponse(com.azure.core.util.Context)"
+  fullName: "com.azure.security.attestation.AttestationClient.getOpenIdMetadataWithResponse(Context context)"
+  name: "getOpenIdMetadataWithResponse(Context context)"
+  nameWithType: "AttestationClient.getOpenIdMetadataWithResponse(Context context)"
+  summary: "Retrieves the OpenId Metadata for this AttestationClient instance."
+  parameters:
+  - description: "Context for operation."
+    name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Response<AttestationOpenIdMetadata> getOpenIdMetadataWithResponse(Context context)"
+  returns:
+    description: "Object containing the OpenId metadata configuration for this instance."
+    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.AttestationOpenIdMetadata?alt=com.azure.security.attestation.models.AttestationOpenIdMetadata&text=AttestationOpenIdMetadata\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211104.1

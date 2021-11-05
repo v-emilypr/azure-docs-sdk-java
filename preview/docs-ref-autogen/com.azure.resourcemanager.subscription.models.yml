@@ -36,4 +36,4 @@ interfaces:
 - "com.azure.resourcemanager.subscription.models.Tenants"
 metadata: {}
 package: "com.azure.resourcemanager.subscription.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-subscription:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-subscription:1.0.0-alpha.20211104.1

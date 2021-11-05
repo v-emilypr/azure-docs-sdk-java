@@ -1,0 +1,35 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl"
+name: "ServerBackupImpl"
+nameWithType: "ServerBackupImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ServerBackupImpl implements ServerBackup"
+methods:
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.backupType()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.completedTime()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.id()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.innerModel()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.name()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.source()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.systemData()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.type()"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.ServerBackup?alt=com.azure.resourcemanager.mysqlflexibleserver.models.ServerBackup&text=ServerBackup\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211103.1

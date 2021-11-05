@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.authorization.samples.ManageUsersGroupsAndRoles"
+fullName: "com.azure.resourcemanager.authorization.samples.ManageUsersGroupsAndRoles"
+name: "ManageUsersGroupsAndRoles"
+nameWithType: "ManageUsersGroupsAndRoles"
+summary: "Azure Users, Groups and Roles sample. - Create a user - Assign role to AD user - Revoke role from AD user - Get role by scope and role name - Create Service Principal - Assign role to Service Principal - Create 2 Active Directory groups - Add the user, the service principal and the 1st group as members of the 2nd group"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageUsersGroupsAndRoles"
+methods:
+- "com.azure.resourcemanager.authorization.samples.ManageUsersGroupsAndRoles.main(java.lang.String[])"
+- "com.azure.resourcemanager.authorization.samples.ManageUsersGroupsAndRoles.runSample(com.azure.resourcemanager.AzureResourceManager,com.azure.core.management.profile.AzureProfile)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211103.2

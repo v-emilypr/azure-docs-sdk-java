@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.quota.models.LimitValue.withLimitType*"
+fullName: "com.azure.resourcemanager.quota.models.LimitValue.withLimitType"
+name: "withLimitType"
+nameWithType: "LimitValue.withLimitType"
+members:
+- uid: "com.azure.resourcemanager.quota.models.LimitValue.withLimitType(com.azure.resourcemanager.quota.models.QuotaLimitTypes)"
+  fullName: "com.azure.resourcemanager.quota.models.LimitValue.withLimitType(QuotaLimitTypes limitType)"
+  name: "withLimitType(QuotaLimitTypes limitType)"
+  nameWithType: "LimitValue.withLimitType(QuotaLimitTypes limitType)"
+  summary: "Set the limitType property: The quota or usages limit types."
+  parameters:
+  - description: "the limitType value to set."
+    name: "limitType"
+    type: "<xref href=\"com.azure.resourcemanager.quota.models.QuotaLimitTypes?alt=com.azure.resourcemanager.quota.models.QuotaLimitTypes&text=QuotaLimitTypes\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public LimitValue withLimitType(QuotaLimitTypes limitType)"
+  returns:
+    description: "the LimitValue object itself."
+    type: "<xref href=\"com.azure.resourcemanager.quota.models.LimitValue?alt=com.azure.resourcemanager.quota.models.LimitValue&text=LimitValue\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.quota.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-quota:1.0.0-alpha.20211103.1

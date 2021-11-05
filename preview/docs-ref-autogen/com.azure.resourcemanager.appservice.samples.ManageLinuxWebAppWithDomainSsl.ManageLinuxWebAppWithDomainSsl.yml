@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithDomainSsl.ManageLinuxWebAppWithDomainSsl*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithDomainSsl.ManageLinuxWebAppWithDomainSsl"
+name: "ManageLinuxWebAppWithDomainSsl"
+nameWithType: "ManageLinuxWebAppWithDomainSsl.ManageLinuxWebAppWithDomainSsl"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithDomainSsl.ManageLinuxWebAppWithDomainSsl()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithDomainSsl.ManageLinuxWebAppWithDomainSsl()"
+  name: "ManageLinuxWebAppWithDomainSsl()"
+  nameWithType: "ManageLinuxWebAppWithDomainSsl.ManageLinuxWebAppWithDomainSsl()"
+  syntax: "public ManageLinuxWebAppWithDomainSsl()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211103.2

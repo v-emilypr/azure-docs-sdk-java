@@ -1,0 +1,18 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.resources.samples"
+fullName: "com.azure.resourcemanager.resources.samples"
+name: "com.azure.resourcemanager.resources.samples"
+summary: "This package contains the classes for resource samples."
+classes:
+- "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplate"
+- "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplateAsync"
+- "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplateWithDeploymentOperations"
+- "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplateWithProgress"
+- "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplateWithTags"
+- "com.azure.resourcemanager.resources.samples.DeployVirtualMachineUsingARMTemplate"
+- "com.azure.resourcemanager.resources.samples.ManageLocks"
+- "com.azure.resourcemanager.resources.samples.ManageResource"
+- "com.azure.resourcemanager.resources.samples.ManageResourceGroup"
+metadata: {}
+package: "com.azure.resourcemanager.resources.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211103.2

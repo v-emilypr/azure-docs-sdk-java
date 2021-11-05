@@ -82,4 +82,4 @@ methods:
     type: "<xref href=\"com.azure.resourcemanager.datalakeanalytics.models.VirtualNetworkRuleState?alt=com.azure.resourcemanager.datalakeanalytics.models.VirtualNetworkRuleState&text=VirtualNetworkRuleState\" data-throw-if-not-resolved=\"False\" />[]"
 metadata: {}
 package: "com.azure.resourcemanager.datalakeanalytics.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-datalakeanalytics:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-datalakeanalytics:1.0.0-alpha.20211104.1

@@ -11,4 +11,4 @@ classes:
 - "com.azure.resourcemanager.maintenance.fluent.models.UpdateInner"
 metadata: {}
 package: "com.azure.resourcemanager.maintenance.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-maintenance:1.0.0-beta.2
+artifact: com.azure.resourcemanager:azure-resourcemanager-maintenance:1.0.0-alpha.20211104.1

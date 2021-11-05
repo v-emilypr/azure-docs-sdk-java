@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.LocationBasedCapabilitiesImpl.LocationBasedCapabilitiesImpl*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.LocationBasedCapabilitiesImpl.LocationBasedCapabilitiesImpl"
+name: "LocationBasedCapabilitiesImpl"
+nameWithType: "LocationBasedCapabilitiesImpl.LocationBasedCapabilitiesImpl"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.LocationBasedCapabilitiesImpl.LocationBasedCapabilitiesImpl(com.azure.resourcemanager.mysqlflexibleserver.fluent.LocationBasedCapabilitiesClient,com.azure.resourcemanager.mysqlflexibleserver.MySqlManager)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.LocationBasedCapabilitiesImpl.LocationBasedCapabilitiesImpl(LocationBasedCapabilitiesClient innerClient, MySqlManager serviceManager)"
+  name: "LocationBasedCapabilitiesImpl(LocationBasedCapabilitiesClient innerClient, MySqlManager serviceManager)"
+  nameWithType: "LocationBasedCapabilitiesImpl.LocationBasedCapabilitiesImpl(LocationBasedCapabilitiesClient innerClient, MySqlManager serviceManager)"
+  parameters:
+  - name: "innerClient"
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.fluent.LocationBasedCapabilitiesClient?alt=com.azure.resourcemanager.mysqlflexibleserver.fluent.LocationBasedCapabilitiesClient&text=LocationBasedCapabilitiesClient\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serviceManager"
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.MySqlManager?alt=com.azure.resourcemanager.mysqlflexibleserver.MySqlManager&text=MySqlManager\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public LocationBasedCapabilitiesImpl(LocationBasedCapabilitiesClient innerClient, MySqlManager serviceManager)"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211103.1

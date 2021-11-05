@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.resources.samples.DeployVirtualMachineUsingARMTemplate.DeployVirtualMachineUsingARMTemplate*"
+fullName: "com.azure.resourcemanager.resources.samples.DeployVirtualMachineUsingARMTemplate.DeployVirtualMachineUsingARMTemplate"
+name: "DeployVirtualMachineUsingARMTemplate"
+nameWithType: "DeployVirtualMachineUsingARMTemplate.DeployVirtualMachineUsingARMTemplate"
+members:
+- uid: "com.azure.resourcemanager.resources.samples.DeployVirtualMachineUsingARMTemplate.DeployVirtualMachineUsingARMTemplate()"
+  fullName: "com.azure.resourcemanager.resources.samples.DeployVirtualMachineUsingARMTemplate.DeployVirtualMachineUsingARMTemplate()"
+  name: "DeployVirtualMachineUsingARMTemplate()"
+  nameWithType: "DeployVirtualMachineUsingARMTemplate.DeployVirtualMachineUsingARMTemplate()"
+  syntax: "public DeployVirtualMachineUsingARMTemplate()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.resources.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211103.2

@@ -27,4 +27,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.resourcemover.fluent.UnresolvedDependenciesClient?alt=com.azure.resourcemanager.resourcemover.fluent.UnresolvedDependenciesClient&text=UnresolvedDependenciesClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.resourcemover.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-resourcemover:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-resourcemover:1.0.0-alpha.20211103.1

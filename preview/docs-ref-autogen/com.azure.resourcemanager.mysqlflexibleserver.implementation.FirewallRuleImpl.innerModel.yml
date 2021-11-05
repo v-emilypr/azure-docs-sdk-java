@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.FirewallRuleImpl.innerModel*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.FirewallRuleImpl.innerModel"
+name: "innerModel"
+nameWithType: "FirewallRuleImpl.innerModel"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.FirewallRuleImpl.innerModel()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.FirewallRuleImpl.innerModel()"
+  name: "innerModel()"
+  nameWithType: "FirewallRuleImpl.innerModel()"
+  summary: "Gets the inner com.azure.resourcemanager.mysqlflexibleserver.fluent.models.FirewallRuleInner object."
+  syntax: "public FirewallRuleInner innerModel()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.fluent.models.FirewallRuleInner?alt=com.azure.resourcemanager.mysqlflexibleserver.fluent.models.FirewallRuleInner&text=FirewallRuleInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211103.1

@@ -1,0 +1,21 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.sql.samples"
+fullName: "com.azure.resourcemanager.sql.samples"
+name: "com.azure.resourcemanager.sql.samples"
+summary: "This package contains the classes for SQL samples."
+classes:
+- "com.azure.resourcemanager.sql.samples.GettingSqlServerMetrics"
+- "com.azure.resourcemanager.sql.samples.ManageSqlDatabase"
+- "com.azure.resourcemanager.sql.samples.ManageSqlDatabaseInElasticPool"
+- "com.azure.resourcemanager.sql.samples.ManageSqlDatabasesAcrossDifferentDataCenters"
+- "com.azure.resourcemanager.sql.samples.ManageSqlFailoverGroups"
+- "com.azure.resourcemanager.sql.samples.ManageSqlFirewallRules"
+- "com.azure.resourcemanager.sql.samples.ManageSqlImportExportDatabase"
+- "com.azure.resourcemanager.sql.samples.ManageSqlServerDnsAliases"
+- "com.azure.resourcemanager.sql.samples.ManageSqlServerKeysWithAzureKeyVaultKey"
+- "com.azure.resourcemanager.sql.samples.ManageSqlServerSecurityAlertPolicy"
+- "com.azure.resourcemanager.sql.samples.ManageSqlVirtualNetworkRules"
+- "com.azure.resourcemanager.sql.samples.ManageSqlWithRecoveredOrRestoredDatabase"
+metadata: {}
+package: "com.azure.resourcemanager.sql.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211103.2

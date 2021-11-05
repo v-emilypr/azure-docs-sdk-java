@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.serialize*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.serialize"
+name: "serialize"
+nameWithType: "AttestationTokenImpl.serialize"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.serialize()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.serialize()"
+  name: "serialize()"
+  nameWithType: "AttestationTokenImpl.serialize()"
+  summary: "Serializes the attestation token as a string."
+  syntax: "public String serialize()"
+  returns:
+    description: "Returns the serialized attestation token."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211104.1
