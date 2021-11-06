@@ -1,0 +1,38 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.Utils.createCertificate*"
+fullName: "com.azure.resourcemanager.samples.Utils.createCertificate"
+name: "createCertificate"
+nameWithType: "Utils.createCertificate"
+members:
+- uid: "com.azure.resourcemanager.samples.Utils.createCertificate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.Utils.createCertificate(String certPath, String pfxPath, String alias, String password, String cnName, String dnsName)"
+  name: "createCertificate(String certPath, String pfxPath, String alias, String password, String cnName, String dnsName)"
+  nameWithType: "Utils.createCertificate(String certPath, String pfxPath, String alias, String password, String cnName, String dnsName)"
+  summary: "This method creates a certificate for given password."
+  parameters:
+  - description: "location of certificate file"
+    name: "certPath"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "location of pfx file"
+    name: "pfxPath"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "User alias"
+    name: "alias"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "alias password"
+    name: "password"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "domain name"
+    name: "cnName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "dns name in subject alternate name"
+    name: "dnsName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static void createCertificate(String certPath, String pfxPath, String alias, String password, String cnName, String dnsName)"
+  exceptions:
+  - description: "exceptions from the creation"
+    type: "<xref href=\"java.io.IOException?alt=java.io.IOException&text=IOException\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

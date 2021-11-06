@@ -19,8 +19,8 @@ members:
   syntax: "public Response<PolicyResponse> getWithResponse(AttestationType attestationType, Context context)"
   returns:
     description: "the response to an attestation policy operation."
-    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.PolicyResponse?alt=com.azure.security.attestation.models.PolicyResponse&text=PolicyResponse\" data-throw-if-not-resolved=\"False\" />&gt;"
+    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.implementation.models.PolicyResponse?alt=com.azure.security.attestation.implementation.models.PolicyResponse&text=PolicyResponse\" data-throw-if-not-resolved=\"False\" />&gt;"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation.implementation"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211105.1

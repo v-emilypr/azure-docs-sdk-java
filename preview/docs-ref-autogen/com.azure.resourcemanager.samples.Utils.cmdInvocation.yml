@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.Utils.cmdInvocation*"
+fullName: "com.azure.resourcemanager.samples.Utils.cmdInvocation"
+name: "cmdInvocation"
+nameWithType: "Utils.cmdInvocation"
+members:
+- uid: "com.azure.resourcemanager.samples.Utils.cmdInvocation(java.lang.String[],boolean)"
+  fullName: "com.azure.resourcemanager.samples.Utils.cmdInvocation(String[] command, boolean ignoreErrorStream)"
+  name: "cmdInvocation(String[] command, boolean ignoreErrorStream)"
+  nameWithType: "Utils.cmdInvocation(String[] command, boolean ignoreErrorStream)"
+  summary: "This method is used for invoking native commands."
+  parameters:
+  - description: ":- command to invoke."
+    name: "command"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />[]"
+  - description: ": Boolean which controls whether to throw exception or not\n                          based on error stream."
+    name: "ignoreErrorStream"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static String cmdInvocation(String[] command, boolean ignoreErrorStream)"
+  exceptions:
+  - description: "exceptions thrown from the execution"
+    type: "<xref href=\"java.io.IOException?alt=java.io.IOException&text=IOException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "result :- depending on the method invocation."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

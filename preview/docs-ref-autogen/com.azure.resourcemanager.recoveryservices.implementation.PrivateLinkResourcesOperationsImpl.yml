@@ -30,4 +30,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.recoveryservices.models.PrivateLinkResourcesOperations?alt=com.azure.resourcemanager.recoveryservices.models.PrivateLinkResourcesOperations&text=PrivateLinkResourcesOperations\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.recoveryservices.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-recoveryservices:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-recoveryservices:1.0.0-alpha.20211104.1

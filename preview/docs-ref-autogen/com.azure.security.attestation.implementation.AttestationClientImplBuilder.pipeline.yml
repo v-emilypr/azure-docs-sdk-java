@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.pipeline*"
+fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.pipeline"
+name: "pipeline"
+nameWithType: "AttestationClientImplBuilder.pipeline"
+members:
+- uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.pipeline(com.azure.core.http.HttpPipeline)"
+  fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.pipeline(HttpPipeline pipeline)"
+  name: "pipeline(HttpPipeline pipeline)"
+  nameWithType: "AttestationClientImplBuilder.pipeline(HttpPipeline pipeline)"
+  summary: "Sets The HTTP pipeline to send requests through."
+  parameters:
+  - description: "the pipeline value."
+    name: "pipeline"
+    type: "<xref href=\"com.azure.core.http.HttpPipeline?alt=com.azure.core.http.HttpPipeline&text=HttpPipeline\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationClientImplBuilder pipeline(HttpPipeline pipeline)"
+  returns:
+    description: "the AttestationClientImplBuilder."
+    type: "<xref href=\"com.azure.security.attestation.implementation.AttestationClientImplBuilder?alt=com.azure.security.attestation.implementation.AttestationClientImplBuilder&text=AttestationClientImplBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211105.1

@@ -1,0 +1,37 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.SSHShell.open*"
+fullName: "com.azure.resourcemanager.samples.SSHShell.open"
+name: "open"
+nameWithType: "SSHShell.open"
+members:
+- uid: "com.azure.resourcemanager.samples.SSHShell.open(java.lang.String,int,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.SSHShell.open(String host, int port, String userName, String password)"
+  name: "open(String host, int port, String userName, String password)"
+  nameWithType: "SSHShell.open(String host, int port, String userName, String password)"
+  summary: "Opens a SSH shell."
+  parameters:
+  - description: "the host name"
+    name: "host"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the ssh port"
+    name: "port"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the ssh user name"
+    name: "userName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the ssh password"
+    name: "password"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static SSHShell open(String host, int port, String userName, String password)"
+  exceptions:
+  - description: "exception thrown"
+    type: "<xref href=\"com.jcraft.jsch.JSchException?alt=com.jcraft.jsch.JSchException&text=JSchException\" data-throw-if-not-resolved=\"False\" />"
+  - description: "exception thrown"
+    type: "<xref href=\"java.io.IOException?alt=java.io.IOException&text=IOException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "the shell"
+    type: "<xref href=\"com.azure.resourcemanager.samples.SSHShell?alt=com.azure.resourcemanager.samples.SSHShell&text=SSHShell\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

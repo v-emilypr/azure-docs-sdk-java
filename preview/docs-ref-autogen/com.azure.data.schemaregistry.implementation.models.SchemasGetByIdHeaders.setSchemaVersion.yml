@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.setSchemaVersion(Integer schemaVersion)"
   name: "setSchemaVersion(Integer schemaVersion)"
   nameWithType: "SchemasGetByIdHeaders.setSchemaVersion(Integer schemaVersion)"
-  summary: "Set the schemaVersion property: The schema-Version property."
+  summary: "Set the schemaVersion property: The Schema-Version property."
   parameters:
   - description: "the schemaVersion value to set."
     name: "schemaVersion"
@@ -20,4 +20,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.data.schemaregistry.implementation.models"
-artifact: com.azure:azure-data-schemaregistry:1.0.0-beta.6
+artifact: com.azure:azure-data-schemaregistry:1.0.0-alpha.20211105.1

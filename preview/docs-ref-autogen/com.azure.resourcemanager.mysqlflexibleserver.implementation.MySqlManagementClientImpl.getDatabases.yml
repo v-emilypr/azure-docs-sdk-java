@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientImpl.getDatabases*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientImpl.getDatabases"
+name: "getDatabases"
+nameWithType: "MySqlManagementClientImpl.getDatabases"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientImpl.getDatabases()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientImpl.getDatabases()"
+  name: "getDatabases()"
+  nameWithType: "MySqlManagementClientImpl.getDatabases()"
+  summary: "Gets the DatabasesClient object to access its operations."
+  syntax: "public DatabasesClient getDatabases()"
+  returns:
+    description: "the DatabasesClient object."
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.fluent.DatabasesClient?alt=com.azure.resourcemanager.mysqlflexibleserver.fluent.DatabasesClient&text=DatabasesClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211104.1

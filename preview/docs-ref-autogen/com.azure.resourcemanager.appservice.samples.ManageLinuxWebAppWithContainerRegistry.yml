@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithContainerRegistry"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithContainerRegistry"
+name: "ManageLinuxWebAppWithContainerRegistry"
+nameWithType: "ManageLinuxWebAppWithContainerRegistry"
+summary: "Azure App Service sample for deploying from an Azure Container Registry. - Create an Azure Container Registry to be used for holding the Docker images - If a local Docker engine cannot be found, create a Linux virtual machine that will host a Docker engine to be used for this sample - Use Docker Java to create a Docker client that will push/pull an image to/from Azure Container Registry - Pull a test image from the public Docker repo (tomcat:8-jre8) to be used as a sample for pushing/pulling to/from an Azure Container Registry - Deploys to a new web app from the Tomcat image"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ManageLinuxWebAppWithContainerRegistry"
+constructors:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithContainerRegistry.ManageLinuxWebAppWithContainerRegistry()"
+methods:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithContainerRegistry.main(java.lang.String[])"
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithContainerRegistry.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

@@ -22,10 +22,11 @@ syntax: "public final class PolicyResponse"
 constructors:
 - "com.azure.security.attestation.models.PolicyResponse.PolicyResponse()"
 methods:
+- "com.azure.security.attestation.models.PolicyResponse.fromGenerated(com.azure.security.attestation.implementation.models.PolicyResponse)"
 - "com.azure.security.attestation.models.PolicyResponse.getToken()"
 - "com.azure.security.attestation.models.PolicyResponse.setToken(java.lang.String)"
 - "com.azure.security.attestation.models.PolicyResponse.validate()"
 type: "class"
 metadata: {}
 package: "com.azure.security.attestation.models"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211105.1

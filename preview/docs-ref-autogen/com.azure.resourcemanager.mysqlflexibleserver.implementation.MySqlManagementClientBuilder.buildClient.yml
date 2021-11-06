@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientBuilder.buildClient*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientBuilder.buildClient"
+name: "buildClient"
+nameWithType: "MySqlManagementClientBuilder.buildClient"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientBuilder.buildClient()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientBuilder.buildClient()"
+  name: "buildClient()"
+  nameWithType: "MySqlManagementClientBuilder.buildClient()"
+  summary: "Builds an instance of MySqlManagementClientImpl with the provided parameters."
+  syntax: "public MySqlManagementClientImpl buildClient()"
+  returns:
+    description: "an instance of MySqlManagementClientImpl."
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientImpl?alt=com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientImpl&text=MySqlManagementClientImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211104.1

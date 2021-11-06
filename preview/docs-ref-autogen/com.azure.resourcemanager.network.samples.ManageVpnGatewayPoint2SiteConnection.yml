@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.network.samples.ManageVpnGatewayPoint2SiteConnection"
+fullName: "com.azure.resourcemanager.network.samples.ManageVpnGatewayPoint2SiteConnection"
+name: "ManageVpnGatewayPoint2SiteConnection"
+nameWithType: "ManageVpnGatewayPoint2SiteConnection"
+summary: "Azure Network sample for managing virtual network gateway. - Create a virtual network with subnets - Create virtual network gateway - Update virtual network gateway with Point-to-Site connection configuration - Generate and download VPN client configuration package. Now it can be used to create VPN connection to Azure. - Revoke a client certificate\n\nPlease note: in order to run this sample, you need to have: - pre-generated root certificate and public key exported to $CERT\\_PATH file For more details please see https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-certificates-point-to-site for PowerShell instructions and https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-makecert for Makecert instructions. - client certificate generated for this root certificate installed on your machine. Please see: https://docs.microsoft.com/azure/vpn-gateway/point-to-site-how-to-vpn-client-install-azure-cert - thumbprint for client certificate saved to $CLIENT\\_CERT\\_THUMBPRINT"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageVpnGatewayPoint2SiteConnection"
+methods:
+- "com.azure.resourcemanager.network.samples.ManageVpnGatewayPoint2SiteConnection.main(java.lang.String[])"
+- "com.azure.resourcemanager.network.samples.ManageVpnGatewayPoint2SiteConnection.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.network.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

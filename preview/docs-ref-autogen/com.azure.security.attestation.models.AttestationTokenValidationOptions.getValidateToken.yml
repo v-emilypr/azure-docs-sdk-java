@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateToken*"
+fullName: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateToken"
+name: "getValidateToken"
+nameWithType: "AttestationTokenValidationOptions.getValidateToken"
+members:
+- uid: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateToken()"
+  fullName: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateToken()"
+  name: "getValidateToken()"
+  nameWithType: "AttestationTokenValidationOptions.getValidateToken()"
+  summary: "Returns if the returned attestation token should be validated at all."
+  syntax: "public boolean getValidateToken()"
+  returns:
+    description: "a boolean indicating if the attestation token should be validated."
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211105.1

@@ -1,0 +1,27 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.compute.samples.ManageVirtualMachineFromMSIEnabledVirtualMachine"
+fullName: "com.azure.resourcemanager.compute.samples.ManageVirtualMachineFromMSIEnabledVirtualMachine"
+name: "ManageVirtualMachineFromMSIEnabledVirtualMachine"
+nameWithType: "ManageVirtualMachineFromMSIEnabledVirtualMachine"
+summary: "Azure Compute sample for managing virtual machine from Managed Service Identity (MSI) enabled virtual machine - - Create a virtual machine using MSI credentials from System assigned or User Assigned MSI enabled VM."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageVirtualMachineFromMSIEnabledVirtualMachine"
+methods:
+- "com.azure.resourcemanager.compute.samples.ManageVirtualMachineFromMSIEnabledVirtualMachine.main(java.lang.String[])"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.compute.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

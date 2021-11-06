@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppBasic.ManageWebAppBasic*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppBasic.ManageWebAppBasic"
+name: "ManageWebAppBasic"
+nameWithType: "ManageWebAppBasic.ManageWebAppBasic"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppBasic.ManageWebAppBasic()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppBasic.ManageWebAppBasic()"
+  name: "ManageWebAppBasic()"
+  nameWithType: "ManageWebAppBasic.ManageWebAppBasic()"
+  syntax: "public ManageWebAppBasic()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

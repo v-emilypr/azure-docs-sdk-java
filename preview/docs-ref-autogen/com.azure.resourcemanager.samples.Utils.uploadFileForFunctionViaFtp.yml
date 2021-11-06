@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.Utils.uploadFileForFunctionViaFtp*"
+fullName: "com.azure.resourcemanager.samples.Utils.uploadFileForFunctionViaFtp"
+name: "uploadFileForFunctionViaFtp"
+nameWithType: "Utils.uploadFileForFunctionViaFtp"
+members:
+- uid: "com.azure.resourcemanager.samples.Utils.uploadFileForFunctionViaFtp(com.azure.resourcemanager.appservice.models.PublishingProfile,java.lang.String,java.io.InputStream)"
+  fullName: "com.azure.resourcemanager.samples.Utils.uploadFileForFunctionViaFtp(PublishingProfile profile, String fileName, InputStream file)"
+  name: "uploadFileForFunctionViaFtp(PublishingProfile profile, String fileName, InputStream file)"
+  nameWithType: "Utils.uploadFileForFunctionViaFtp(PublishingProfile profile, String fileName, InputStream file)"
+  summary: "Uploads a file to an Azure app service for Function App."
+  parameters:
+  - description: "the publishing profile for the app service."
+    name: "profile"
+    type: "<xref href=\"com.azure.resourcemanager.appservice.models.PublishingProfile?alt=com.azure.resourcemanager.appservice.models.PublishingProfile&text=PublishingProfile\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the name of the file on server"
+    name: "fileName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the local file"
+    name: "file"
+    type: "<xref href=\"java.io.InputStream?alt=java.io.InputStream&text=InputStream\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static void uploadFileForFunctionViaFtp(PublishingProfile profile, String fileName, InputStream file)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

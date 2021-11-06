@@ -1,0 +1,27 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.samples.ManagePrivateLink.runSample*"
+fullName: "com.azure.resourcemanager.network.samples.ManagePrivateLink.runSample"
+name: "runSample"
+nameWithType: "ManagePrivateLink.runSample"
+members:
+- uid: "com.azure.resourcemanager.network.samples.ManagePrivateLink.runSample(com.azure.resourcemanager.AzureResourceManager)"
+  fullName: "com.azure.resourcemanager.network.samples.ManagePrivateLink.runSample(AzureResourceManager azureResourceManager)"
+  name: "runSample(AzureResourceManager azureResourceManager)"
+  nameWithType: "ManagePrivateLink.runSample(AzureResourceManager azureResourceManager)"
+  summary: "Main function which runs the actual sample."
+  parameters:
+  - description: "instance of the azure client"
+    name: "azureResourceManager"
+    type: "<xref href=\"com.azure.resourcemanager.AzureResourceManager?alt=com.azure.resourcemanager.AzureResourceManager&text=AzureResourceManager\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static boolean runSample(AzureResourceManager azureResourceManager)"
+  exceptions:
+  - type: "<xref href=\"com.jcraft.jsch.JSchException?alt=com.jcraft.jsch.JSchException&text=JSchException\" data-throw-if-not-resolved=\"False\" />"
+  - type: "<xref href=\"java.io.UnsupportedEncodingException?alt=java.io.UnsupportedEncodingException&text=UnsupportedEncodingException\" data-throw-if-not-resolved=\"False\" />"
+  - type: "<xref href=\"java.net.MalformedURLException?alt=java.net.MalformedURLException&text=MalformedURLException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "true if sample runs successfully"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.retryPolicy*"
+fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.retryPolicy"
+name: "retryPolicy"
+nameWithType: "AttestationClientImplBuilder.retryPolicy"
+members:
+- uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.retryPolicy(com.azure.core.http.policy.RetryPolicy)"
+  fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.retryPolicy(RetryPolicy retryPolicy)"
+  name: "retryPolicy(RetryPolicy retryPolicy)"
+  nameWithType: "AttestationClientImplBuilder.retryPolicy(RetryPolicy retryPolicy)"
+  summary: "Sets The retry policy that will attempt to retry failed requests, if applicable."
+  parameters:
+  - description: "the retryPolicy value."
+    name: "retryPolicy"
+    type: "<xref href=\"com.azure.core.http.policy.RetryPolicy?alt=com.azure.core.http.policy.RetryPolicy&text=RetryPolicy\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationClientImplBuilder retryPolicy(RetryPolicy retryPolicy)"
+  returns:
+    description: "the AttestationClientImplBuilder."
+    type: "<xref href=\"com.azure.security.attestation.implementation.AttestationClientImplBuilder?alt=com.azure.security.attestation.implementation.AttestationClientImplBuilder&text=AttestationClientImplBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211105.1

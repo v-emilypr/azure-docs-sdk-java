@@ -22,18 +22,21 @@ syntax: "public final class SchemasGetByIdHeaders"
 constructors:
 - "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.SchemasGetByIdHeaders()"
 methods:
+- "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.getContentType()"
 - "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.getLocation()"
+- "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.getSchemaGroupName()"
 - "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.getSchemaId()"
 - "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.getSchemaIdLocation()"
-- "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.getSchemaType()"
+- "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.getSchemaName()"
 - "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.getSchemaVersion()"
+- "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.setContentType(java.lang.String)"
 - "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.setLocation(java.lang.String)"
+- "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.setSchemaGroupName(java.lang.String)"
 - "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.setSchemaId(java.lang.String)"
 - "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.setSchemaIdLocation(java.lang.String)"
-- "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.setSchemaType(java.lang.String)"
+- "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.setSchemaName(java.lang.String)"
 - "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.setSchemaVersion(java.lang.Integer)"
-- "com.azure.data.schemaregistry.implementation.models.SchemasGetByIdHeaders.validate()"
 type: "class"
 metadata: {}
 package: "com.azure.data.schemaregistry.implementation.models"
-artifact: com.azure:azure-data-schemaregistry:1.0.0-beta.6
+artifact: com.azure:azure-data-schemaregistry:1.0.0-alpha.20211105.1

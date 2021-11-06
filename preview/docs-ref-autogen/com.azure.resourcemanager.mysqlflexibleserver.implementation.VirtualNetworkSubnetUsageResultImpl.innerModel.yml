@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.VirtualNetworkSubnetUsageResultImpl.innerModel*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.VirtualNetworkSubnetUsageResultImpl.innerModel"
+name: "innerModel"
+nameWithType: "VirtualNetworkSubnetUsageResultImpl.innerModel"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.VirtualNetworkSubnetUsageResultImpl.innerModel()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.VirtualNetworkSubnetUsageResultImpl.innerModel()"
+  name: "innerModel()"
+  nameWithType: "VirtualNetworkSubnetUsageResultImpl.innerModel()"
+  summary: "Gets the inner com.azure.resourcemanager.mysqlflexibleserver.fluent.models.VirtualNetworkSubnetUsageResultInner object."
+  syntax: "public VirtualNetworkSubnetUsageResultInner innerModel()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.fluent.models.VirtualNetworkSubnetUsageResultInner?alt=com.azure.resourcemanager.mysqlflexibleserver.fluent.models.VirtualNetworkSubnetUsageResultInner&text=VirtualNetworkSubnetUsageResultInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211104.1

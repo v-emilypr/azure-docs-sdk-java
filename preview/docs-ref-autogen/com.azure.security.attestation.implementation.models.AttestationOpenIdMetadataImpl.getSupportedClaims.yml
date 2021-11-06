@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getSupportedClaims*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getSupportedClaims"
+name: "getSupportedClaims"
+nameWithType: "AttestationOpenIdMetadataImpl.getSupportedClaims"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getSupportedClaims()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getSupportedClaims()"
+  name: "getSupportedClaims()"
+  nameWithType: "AttestationOpenIdMetadataImpl.getSupportedClaims()"
+  summary: "Returns the set of supported claims returned by the attestation service. Contains the \"claims\\_supported\" metadata value from the OpenId Metadata. See [OpenId Provider Metadata][] for more information.\n\n\n[OpenId Provider Metadata]: https://openid.net/specs/openid-connect-discovery-1_0.html#ProviderMetadata"
+  syntax: "public String[] getSupportedClaims()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />[]"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211105.1

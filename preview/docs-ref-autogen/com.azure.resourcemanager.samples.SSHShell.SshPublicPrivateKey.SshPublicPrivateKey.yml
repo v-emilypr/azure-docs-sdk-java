@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.SshPublicPrivateKey*"
+fullName: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.SshPublicPrivateKey"
+name: "SshPublicPrivateKey"
+nameWithType: "SSHShell.SshPublicPrivateKey.SshPublicPrivateKey"
+members:
+- uid: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.SshPublicPrivateKey(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.SshPublicPrivateKey(String sshPrivateKey, String sshPublicKey)"
+  name: "SshPublicPrivateKey(String sshPrivateKey, String sshPublicKey)"
+  nameWithType: "SSHShell.SshPublicPrivateKey.SshPublicPrivateKey(String sshPrivateKey, String sshPublicKey)"
+  summary: "Constructor."
+  parameters:
+  - description: "SSH private key"
+    name: "sshPrivateKey"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "SSH public key"
+    name: "sshPublicKey"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SshPublicPrivateKey(String sshPrivateKey, String sshPublicKey)"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

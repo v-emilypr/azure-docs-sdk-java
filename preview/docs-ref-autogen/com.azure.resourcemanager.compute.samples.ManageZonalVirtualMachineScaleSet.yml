@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.compute.samples.ManageZonalVirtualMachineScaleSet"
+fullName: "com.azure.resourcemanager.compute.samples.ManageZonalVirtualMachineScaleSet"
+name: "ManageZonalVirtualMachineScaleSet"
+nameWithType: "ManageZonalVirtualMachineScaleSet"
+summary: "Azure Compute sample for managing virtual machine scale set - - Create a zone resilient public ip address - Create a zone resilient load balancer with - the existing zone resilient ip address - two load balancing rule which is applied to two different backend pools - Create two zone aware virtual machine scale set each associated with one backend pool."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageZonalVirtualMachineScaleSet"
+methods:
+- "com.azure.resourcemanager.compute.samples.ManageZonalVirtualMachineScaleSet.main(java.lang.String[])"
+- "com.azure.resourcemanager.compute.samples.ManageZonalVirtualMachineScaleSet.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.compute.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

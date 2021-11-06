@@ -48,4 +48,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.batchai.models.Workspace?alt=com.azure.resourcemanager.batchai.models.Workspace&text=Workspace\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.batchai.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-batchai:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-batchai:1.0.0-alpha.20211104.1

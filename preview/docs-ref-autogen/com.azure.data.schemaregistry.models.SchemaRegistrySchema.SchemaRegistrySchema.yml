@@ -5,19 +5,19 @@ name: "SchemaRegistrySchema"
 nameWithType: "SchemaRegistrySchema.SchemaRegistrySchema"
 members:
 - uid: "com.azure.data.schemaregistry.models.SchemaRegistrySchema.SchemaRegistrySchema(com.azure.data.schemaregistry.models.SchemaProperties,java.lang.String)"
-  fullName: "com.azure.data.schemaregistry.models.SchemaRegistrySchema.SchemaRegistrySchema(SchemaProperties properties, String schemaDefinition)"
-  name: "SchemaRegistrySchema(SchemaProperties properties, String schemaDefinition)"
-  nameWithType: "SchemaRegistrySchema.SchemaRegistrySchema(SchemaProperties properties, String schemaDefinition)"
+  fullName: "com.azure.data.schemaregistry.models.SchemaRegistrySchema.SchemaRegistrySchema(SchemaProperties properties, String definition)"
+  name: "SchemaRegistrySchema(SchemaProperties properties, String definition)"
+  nameWithType: "SchemaRegistrySchema.SchemaRegistrySchema(SchemaProperties properties, String definition)"
   summary: "Creates a new instance."
   parameters:
   - description: "Schema's properties."
     name: "properties"
     type: "<xref href=\"com.azure.data.schemaregistry.models.SchemaProperties?alt=com.azure.data.schemaregistry.models.SchemaProperties&text=SchemaProperties\" data-throw-if-not-resolved=\"False\" />"
-  - description: "The definition of the schema."
-    name: "schemaDefinition"
+  - description: "The contents of the schema."
+    name: "definition"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
-  syntax: "public SchemaRegistrySchema(SchemaProperties properties, String schemaDefinition)"
+  syntax: "public SchemaRegistrySchema(SchemaProperties properties, String definition)"
 type: "constructor"
 metadata: {}
 package: "com.azure.data.schemaregistry.models"
-artifact: com.azure:azure-data-schemaregistry:1.0.0-beta.6
+artifact: com.azure:azure-data-schemaregistry:1.0.0-alpha.20211105.1

@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithMultipleContainerImages.ManageContainerInstanceWithMultipleContainerImages*"
+fullName: "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithMultipleContainerImages.ManageContainerInstanceWithMultipleContainerImages"
+name: "ManageContainerInstanceWithMultipleContainerImages"
+nameWithType: "ManageContainerInstanceWithMultipleContainerImages.ManageContainerInstanceWithMultipleContainerImages"
+members:
+- uid: "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithMultipleContainerImages.ManageContainerInstanceWithMultipleContainerImages()"
+  fullName: "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithMultipleContainerImages.ManageContainerInstanceWithMultipleContainerImages()"
+  name: "ManageContainerInstanceWithMultipleContainerImages()"
+  nameWithType: "ManageContainerInstanceWithMultipleContainerImages.ManageContainerInstanceWithMultipleContainerImages()"
+  syntax: "public ManageContainerInstanceWithMultipleContainerImages()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.containerinstance.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithMultipleContainerImages"
+fullName: "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithMultipleContainerImages"
+name: "ManageContainerInstanceWithMultipleContainerImages"
+nameWithType: "ManageContainerInstanceWithMultipleContainerImages"
+summary: "Azure Container Instance sample for managing container instances. - Create an Azure container group with two container instances using Docker images \"microsoft/aci-helloworld\" and \"microsoft/aci-tutorial-sidecar\" - Set the container group restart policy to \"never\" - Test that the container app can be reached via \"curl\" like HTTP GET calls - Retrieve container log content - Delete the container group resource"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ManageContainerInstanceWithMultipleContainerImages"
+constructors:
+- "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithMultipleContainerImages.ManageContainerInstanceWithMultipleContainerImages()"
+methods:
+- "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithMultipleContainerImages.main(java.lang.String[])"
+- "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithMultipleContainerImages.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.containerinstance.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

@@ -29,9 +29,9 @@ methods:
 - "com.azure.security.attestation.models.PolicyResult.setPolicy(java.lang.String)"
 - "com.azure.security.attestation.models.PolicyResult.setPolicyResolution(com.azure.security.attestation.models.PolicyModification)"
 - "com.azure.security.attestation.models.PolicyResult.setPolicySigner(com.azure.security.attestation.models.JsonWebKey)"
-- "com.azure.security.attestation.models.PolicyResult.setPolicyTokenHash(byte[])"
+- "com.azure.security.attestation.models.PolicyResult.setPolicyTokenHash(com.azure.core.util.BinaryData)"
 - "com.azure.security.attestation.models.PolicyResult.validate()"
 type: "class"
 metadata: {}
 package: "com.azure.security.attestation.models"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211105.1

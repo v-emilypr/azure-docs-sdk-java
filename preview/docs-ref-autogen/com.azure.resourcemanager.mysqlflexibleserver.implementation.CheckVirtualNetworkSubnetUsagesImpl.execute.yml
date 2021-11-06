@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl.execute*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl.execute"
+name: "execute"
+nameWithType: "CheckVirtualNetworkSubnetUsagesImpl.execute"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl.execute(java.lang.String,com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageParameter)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl.execute(String locationName, VirtualNetworkSubnetUsageParameter parameters)"
+  name: "execute(String locationName, VirtualNetworkSubnetUsageParameter parameters)"
+  nameWithType: "CheckVirtualNetworkSubnetUsagesImpl.execute(String locationName, VirtualNetworkSubnetUsageParameter parameters)"
+  summary: "Get virtual network subnet usage for a given vNet resource id."
+  parameters:
+  - name: "locationName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "parameters"
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageParameter?alt=com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageParameter&text=VirtualNetworkSubnetUsageParameter\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public VirtualNetworkSubnetUsageResult execute(String locationName, VirtualNetworkSubnetUsageParameter parameters)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageResult?alt=com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageResult&text=VirtualNetworkSubnetUsageResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211104.1

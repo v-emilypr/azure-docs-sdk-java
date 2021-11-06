@@ -1,0 +1,28 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppCosmosDbByMsi.runSample*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppCosmosDbByMsi.runSample"
+name: "runSample"
+nameWithType: "ManageWebAppCosmosDbByMsi.runSample"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppCosmosDbByMsi.runSample(com.azure.resourcemanager.AzureResourceManager,java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppCosmosDbByMsi.runSample(AzureResourceManager azureResourceManager, String clientId)"
+  name: "runSample(AzureResourceManager azureResourceManager, String clientId)"
+  nameWithType: "ManageWebAppCosmosDbByMsi.runSample(AzureResourceManager azureResourceManager, String clientId)"
+  summary: "Main function which runs the actual sample."
+  parameters:
+  - description: "instance of the azure client"
+    name: "azureResourceManager"
+    type: "<xref href=\"com.azure.resourcemanager.AzureResourceManager?alt=com.azure.resourcemanager.AzureResourceManager&text=AzureResourceManager\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the client ID"
+    name: "clientId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static boolean runSample(AzureResourceManager azureResourceManager, String clientId)"
+  exceptions:
+  - type: "<xref href=\"java.io.IOException?alt=java.io.IOException&text=IOException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "true if sample runs successfully"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

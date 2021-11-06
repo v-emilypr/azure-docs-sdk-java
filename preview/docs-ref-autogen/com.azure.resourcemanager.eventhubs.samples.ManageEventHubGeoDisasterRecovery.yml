@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.eventhubs.samples.ManageEventHubGeoDisasterRecovery"
+fullName: "com.azure.resourcemanager.eventhubs.samples.ManageEventHubGeoDisasterRecovery"
+name: "ManageEventHubGeoDisasterRecovery"
+nameWithType: "ManageEventHubGeoDisasterRecovery"
+summary: "Azure Event Hub sample for managing geo disaster recovery pairing - - Create two event hub namespaces - Create a pairing between two namespaces - Create an event hub in the primary namespace and retrieve it from the secondary namespace - Retrieve the pairing connection string - Fail over so that secondary namespace become primary."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ManageEventHubGeoDisasterRecovery"
+constructors:
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHubGeoDisasterRecovery.ManageEventHubGeoDisasterRecovery()"
+methods:
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHubGeoDisasterRecovery.main(java.lang.String[])"
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHubGeoDisasterRecovery.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.eventhubs.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

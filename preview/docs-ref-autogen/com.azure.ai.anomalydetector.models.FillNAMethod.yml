@@ -97,4 +97,4 @@ methods:
     type: "<xref href=\"com.azure.ai.anomalydetector.models.FillNAMethod?alt=com.azure.ai.anomalydetector.models.FillNAMethod&text=FillNAMethod\" data-throw-if-not-resolved=\"False\" />[]"
 metadata: {}
 package: "com.azure.ai.anomalydetector.models"
-artifact: com.azure:azure-ai-anomalydetector:3.0.0-beta.2
+artifact: com.azure:azure-ai-anomalydetector:3.0.0-alpha.20211105.1

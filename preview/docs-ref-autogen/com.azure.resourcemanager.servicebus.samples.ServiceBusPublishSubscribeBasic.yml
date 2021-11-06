@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.servicebus.samples.ServiceBusPublishSubscribeBasic"
+fullName: "com.azure.resourcemanager.servicebus.samples.ServiceBusPublishSubscribeBasic"
+name: "ServiceBusPublishSubscribeBasic"
+nameWithType: "ServiceBusPublishSubscribeBasic"
+summary: "Azure Service Bus basic scenario sample. - Create namespace. - Create a topic. - Update topic with new size and a new ServiceBus subscription. - Create another ServiceBus subscription in the topic. - List topic - List ServiceBus subscriptions - Get default authorization rule. - Regenerate the keys in the authorization rule. - Send a message to topic using Data plan sdk for Service Bus. - Delete one ServiceBus subscription as part of update of topic. - Delete another ServiceBus subscription. - Delete topic - Delete namespace"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ServiceBusPublishSubscribeBasic"
+constructors:
+- "com.azure.resourcemanager.servicebus.samples.ServiceBusPublishSubscribeBasic.ServiceBusPublishSubscribeBasic()"
+methods:
+- "com.azure.resourcemanager.servicebus.samples.ServiceBusPublishSubscribeBasic.main(java.lang.String[])"
+- "com.azure.resourcemanager.servicebus.samples.ServiceBusPublishSubscribeBasic.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.servicebus.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3

@@ -62,4 +62,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.mixedreality.models.RemoteRenderingAccount?alt=com.azure.resourcemanager.mixedreality.models.RemoteRenderingAccount&text=RemoteRenderingAccount\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.mixedreality.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-mixedreality:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-mixedreality:1.0.0-alpha.20211104.1

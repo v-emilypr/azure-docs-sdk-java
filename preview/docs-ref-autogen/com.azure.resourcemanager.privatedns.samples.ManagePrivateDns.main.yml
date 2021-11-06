@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.privatedns.samples.ManagePrivateDns.main*"
+fullName: "com.azure.resourcemanager.privatedns.samples.ManagePrivateDns.main"
+name: "main"
+nameWithType: "ManagePrivateDns.main"
+members:
+- uid: "com.azure.resourcemanager.privatedns.samples.ManagePrivateDns.main(java.lang.String[])"
+  fullName: "com.azure.resourcemanager.privatedns.samples.ManagePrivateDns.main(String[] args)"
+  name: "main(String[] args)"
+  nameWithType: "ManagePrivateDns.main(String[] args)"
+  summary: "Main entry point."
+  parameters:
+  - description: "the parameters"
+    name: "args"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />[]"
+  syntax: "public static void main(String[] args)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.privatedns.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211104.3
