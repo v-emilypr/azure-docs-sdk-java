@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-kubernetesconfiguration",
+  "Version": "1.0.0-alpha.20211110.1",
+  "DevVersion": "1.0.0-alpha.20211110.1",
+  "DirectoryPath": "sdk/kubernetesconfiguration/azure-resourcemanager-kubernetesconfiguration",
+  "ServiceDirectory": "kubernetesconfiguration",
+  "ReadMePath": "sdk/kubernetesconfiguration/azure-resourcemanager-kubernetesconfiguration/README.md",
+  "ChangeLogPath": "sdk/kubernetesconfiguration/azure-resourcemanager-kubernetesconfiguration/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-kubernetesconfiguration",
+  "ReleaseStatus": "Unreleased"
+}
