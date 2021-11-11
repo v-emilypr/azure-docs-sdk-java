@@ -1,0 +1,14 @@
+{
+  "Name": "azure-media-videoanalyzer-edge",
+  "Version": "1.0.0-alpha.20211110.1",
+  "DevVersion": "1.0.0-alpha.20211110.1",
+  "DirectoryPath": "sdk/videoanalyzer/azure-media-videoanalyzer-edge",
+  "ServiceDirectory": "videoanalyzer",
+  "ReadMePath": "sdk/videoanalyzer/azure-media-videoanalyzer-edge/README.md",
+  "ChangeLogPath": "sdk/videoanalyzer/azure-media-videoanalyzer-edge/CHANGELOG.md",
+  "Group": "com.azure",
+  "SdkType": "client",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-media-videoanalyzer-edge",
+  "ReleaseStatus": "2021-11-09"
+}
