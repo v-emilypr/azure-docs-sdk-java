@@ -1,17 +1,17 @@
 ---
 title: Azure Communication Network Traversal Package client library for Java
-keywords: Azure, java, SDK, API, azure-communication-networktraversal, 
-author: ramya-rao-a
-ms.author: ramyar
-ms.date: 09/09/2021
+keywords: Azure, java, SDK, API, azure-communication-networktraversal, communication
+author: maggiepint
+ms.author: magpint
+ms.date: 11/11/2021
 ms.topic: reference
 ms.prod: azure
 ms.technology: azure
 ms.devlang: java
-ms.service: 
+ms.service: communication
 ---
 
-# Azure Communication Network Traversal Package client library for Java - Version 1.0.0-beta.1 
+# Azure Communication Network Traversal Package client library for Java - Version 1.0.0-alpha.20211111.4 
 
 
 Azure Communication Network Traversal is managing TURN credentials for Azure Communication Services.
