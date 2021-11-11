@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-automation",
+  "Version": "1.0.0-alpha.20211111.1",
+  "DevVersion": "1.0.0-alpha.20211111.1",
+  "DirectoryPath": "sdk/automation/azure-resourcemanager-automation",
+  "ServiceDirectory": "automation",
+  "ReadMePath": "sdk/automation/azure-resourcemanager-automation/README.md",
+  "ChangeLogPath": "sdk/automation/azure-resourcemanager-automation/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-automation",
+  "ReleaseStatus": "Unreleased"
+}
