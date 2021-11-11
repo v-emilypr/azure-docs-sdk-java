@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-hybridnetwork",
+  "Version": "1.0.0-alpha.20211111.1",
+  "DevVersion": "1.0.0-alpha.20211111.1",
+  "DirectoryPath": "sdk/hybridnetwork/azure-resourcemanager-hybridnetwork",
+  "ServiceDirectory": "hybridnetwork",
+  "ReadMePath": "sdk/hybridnetwork/azure-resourcemanager-hybridnetwork/README.md",
+  "ChangeLogPath": "sdk/hybridnetwork/azure-resourcemanager-hybridnetwork/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-hybridnetwork",
+  "ReleaseStatus": "Unreleased"
+}
