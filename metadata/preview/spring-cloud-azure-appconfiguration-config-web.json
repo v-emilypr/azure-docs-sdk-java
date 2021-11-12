@@ -1,0 +1,14 @@
+{
+  "Name": "spring-cloud-azure-appconfiguration-config-web",
+  "Version": "1.4.0-alpha.20211112.1",
+  "DevVersion": "1.4.0-alpha.20211112.1",
+  "DirectoryPath": "sdk/appconfiguration/spring-cloud-azure-appconfiguration-config-web",
+  "ServiceDirectory": "appconfiguration",
+  "ReadMePath": "sdk/appconfiguration/spring-cloud-azure-appconfiguration-config-web/README.md",
+  "ChangeLogPath": "sdk/appconfiguration/spring-cloud-azure-appconfiguration-config-web/CHANGELOG.md",
+  "Group": "com.microsoft.azure",
+  "SdkType": "spring",
+  "IsNewSdk": false,
+  "ArtifactName": "spring-cloud-azure-appconfiguration-config-web",
+  "ReleaseStatus": "Unreleased"
+}
