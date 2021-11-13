@@ -1,0 +1,10 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.dns.samples"
+fullName: "com.azure.resourcemanager.dns.samples"
+name: "com.azure.resourcemanager.dns.samples"
+summary: "This package contains the classes for dns samples."
+classes:
+- "com.azure.resourcemanager.dns.samples.ManageDns"
+metadata: {}
+package: "com.azure.resourcemanager.dns.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211111.1

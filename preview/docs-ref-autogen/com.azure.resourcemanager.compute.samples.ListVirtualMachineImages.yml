@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.compute.samples.ListVirtualMachineImages"
+fullName: "com.azure.resourcemanager.compute.samples.ListVirtualMachineImages"
+name: "ListVirtualMachineImages"
+nameWithType: "ListVirtualMachineImages"
+summary: "List all virtual machine image publishers and list all virtual machine images published by Canonical, Red Hat and SUSE by browsing through locations, publishers, offers, SKUs and images."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ListVirtualMachineImages"
+methods:
+- "com.azure.resourcemanager.compute.samples.ListVirtualMachineImages.main(java.lang.String[])"
+- "com.azure.resourcemanager.compute.samples.ListVirtualMachineImages.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.compute.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211111.1

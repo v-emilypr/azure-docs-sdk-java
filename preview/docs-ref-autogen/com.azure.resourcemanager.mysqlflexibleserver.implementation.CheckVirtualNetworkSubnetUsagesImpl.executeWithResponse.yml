@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl.executeWithResponse*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl.executeWithResponse"
+name: "executeWithResponse"
+nameWithType: "CheckVirtualNetworkSubnetUsagesImpl.executeWithResponse"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl.executeWithResponse(java.lang.String,com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageParameter,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CheckVirtualNetworkSubnetUsagesImpl.executeWithResponse(String locationName, VirtualNetworkSubnetUsageParameter parameters, Context context)"
+  name: "executeWithResponse(String locationName, VirtualNetworkSubnetUsageParameter parameters, Context context)"
+  nameWithType: "CheckVirtualNetworkSubnetUsagesImpl.executeWithResponse(String locationName, VirtualNetworkSubnetUsageParameter parameters, Context context)"
+  summary: "Get virtual network subnet usage for a given vNet resource id."
+  parameters:
+  - name: "locationName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "parameters"
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageParameter?alt=com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageParameter&text=VirtualNetworkSubnetUsageParameter\" data-throw-if-not-resolved=\"False\" />"
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Response<VirtualNetworkSubnetUsageResult> executeWithResponse(String locationName, VirtualNetworkSubnetUsageParameter parameters, Context context)"
+  returns:
+    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageResult?alt=com.azure.resourcemanager.mysqlflexibleserver.models.VirtualNetworkSubnetUsageResult&text=VirtualNetworkSubnetUsageResult\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211111.1

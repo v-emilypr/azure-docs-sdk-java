@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.setSshPublicKey*"
+fullName: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.setSshPublicKey"
+name: "setSshPublicKey"
+nameWithType: "SSHShell.SshPublicPrivateKey.setSshPublicKey"
+members:
+- uid: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.setSshPublicKey(java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.setSshPublicKey(String sshPublicKey)"
+  name: "setSshPublicKey(String sshPublicKey)"
+  nameWithType: "SSHShell.SshPublicPrivateKey.setSshPublicKey(String sshPublicKey)"
+  summary: "Set SSH public key."
+  parameters:
+  - description: "public key"
+    name: "sshPublicKey"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void setSshPublicKey(String sshPublicKey)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211111.1

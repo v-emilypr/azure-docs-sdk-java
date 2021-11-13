@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueAdvanceFeatures.ServiceBusQueueAdvanceFeatures*"
+fullName: "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueAdvanceFeatures.ServiceBusQueueAdvanceFeatures"
+name: "ServiceBusQueueAdvanceFeatures"
+nameWithType: "ServiceBusQueueAdvanceFeatures.ServiceBusQueueAdvanceFeatures"
+members:
+- uid: "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueAdvanceFeatures.ServiceBusQueueAdvanceFeatures()"
+  fullName: "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueAdvanceFeatures.ServiceBusQueueAdvanceFeatures()"
+  name: "ServiceBusQueueAdvanceFeatures()"
+  nameWithType: "ServiceBusQueueAdvanceFeatures.ServiceBusQueueAdvanceFeatures()"
+  syntax: "public ServiceBusQueueAdvanceFeatures()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.servicebus.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211111.1

@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventhubs.samples.ManageEventHub.main*"
+fullName: "com.azure.resourcemanager.eventhubs.samples.ManageEventHub.main"
+name: "main"
+nameWithType: "ManageEventHub.main"
+members:
+- uid: "com.azure.resourcemanager.eventhubs.samples.ManageEventHub.main(java.lang.String[])"
+  fullName: "com.azure.resourcemanager.eventhubs.samples.ManageEventHub.main(String[] args)"
+  name: "main(String[] args)"
+  nameWithType: "ManageEventHub.main(String[] args)"
+  summary: "Main entry point."
+  parameters:
+  - description: "the parameters"
+    name: "args"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />[]"
+  syntax: "public static void main(String[] args)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventhubs.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211111.1

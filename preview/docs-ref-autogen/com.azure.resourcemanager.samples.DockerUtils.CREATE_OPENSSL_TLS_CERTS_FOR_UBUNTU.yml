@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.DockerUtils.CREATE_OPENSSL_TLS_CERTS_FOR_UBUNTU*"
+fullName: "com.azure.resourcemanager.samples.DockerUtils.CREATE_OPENSSL_TLS_CERTS_FOR_UBUNTU"
+name: "CREATE_OPENSSL_TLS_CERTS_FOR_UBUNTU"
+nameWithType: "DockerUtils.CREATE_OPENSSL_TLS_CERTS_FOR_UBUNTU"
+members:
+- uid: "com.azure.resourcemanager.samples.DockerUtils.CREATE_OPENSSL_TLS_CERTS_FOR_UBUNTU"
+  fullName: "com.azure.resourcemanager.samples.DockerUtils.CREATE_OPENSSL_TLS_CERTS_FOR_UBUNTU"
+  name: "CREATE_OPENSSL_TLS_CERTS_FOR_UBUNTU"
+  nameWithType: "DockerUtils.CREATE_OPENSSL_TLS_CERTS_FOR_UBUNTU"
+  summary: "Linux bash script that creates the TLS certificates for a secured Docker connection."
+  syntax: "public static final String CREATE_OPENSSL_TLS_CERTS_FOR_UBUNTU"
+type: "field"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211111.1

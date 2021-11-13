@@ -19,4 +19,4 @@ classes:
 - "com.azure.resourcemanager.peering.fluent.models.PeeringServiceProviderInner"
 metadata: {}
 package: "com.azure.resourcemanager.peering.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-peering:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-peering:1.0.0-alpha.20211112.1

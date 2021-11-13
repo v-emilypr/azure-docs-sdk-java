@@ -49,4 +49,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.resourcehealth.models.Event?alt=com.azure.resourcemanager.resourcehealth.models.Event&text=Event\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.resourcehealth.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-resourcehealth:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-resourcehealth:1.0.0-alpha.20211112.1

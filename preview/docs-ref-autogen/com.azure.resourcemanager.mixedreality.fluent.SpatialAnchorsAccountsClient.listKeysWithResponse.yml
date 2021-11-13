@@ -26,4 +26,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.resourcemanager.mixedreality.fluent"
-artifact: com.azure.resourcemanager:azure-resourcemanager-mixedreality:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-mixedreality:1.0.0-alpha.20211111.1

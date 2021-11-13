@@ -22,9 +22,9 @@ syntax: "public final class SchemaRegistrySchema"
 constructors:
 - "com.azure.data.schemaregistry.models.SchemaRegistrySchema.SchemaRegistrySchema(com.azure.data.schemaregistry.models.SchemaProperties,java.lang.String)"
 methods:
+- "com.azure.data.schemaregistry.models.SchemaRegistrySchema.getDefinition()"
 - "com.azure.data.schemaregistry.models.SchemaRegistrySchema.getProperties()"
-- "com.azure.data.schemaregistry.models.SchemaRegistrySchema.getSchemaDefinition()"
 type: "class"
 metadata: {}
 package: "com.azure.data.schemaregistry.models"
-artifact: com.azure:azure-data-schemaregistry:1.0.0-beta.6
+artifact: com.azure:azure-data-schemaregistry:1.0.0-alpha.20211112.1

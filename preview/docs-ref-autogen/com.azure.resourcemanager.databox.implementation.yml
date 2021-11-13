@@ -24,4 +24,4 @@ classes:
 - "com.azure.resourcemanager.databox.implementation.ValidationResponseImpl"
 metadata: {}
 package: "com.azure.resourcemanager.databox.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-databox:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-databox:1.0.0-alpha.20211111.1

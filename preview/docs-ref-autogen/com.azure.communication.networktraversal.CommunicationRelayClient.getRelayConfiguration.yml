@@ -4,6 +4,15 @@ fullName: "com.azure.communication.networktraversal.CommunicationRelayClient.get
 name: "getRelayConfiguration"
 nameWithType: "CommunicationRelayClient.getRelayConfiguration"
 members:
+- uid: "com.azure.communication.networktraversal.CommunicationRelayClient.getRelayConfiguration()"
+  fullName: "com.azure.communication.networktraversal.CommunicationRelayClient.getRelayConfiguration()"
+  name: "getRelayConfiguration()"
+  nameWithType: "CommunicationRelayClient.getRelayConfiguration()"
+  summary: "Creates a new CommunicationRelayConfiguration."
+  syntax: "public CommunicationRelayConfiguration getRelayConfiguration()"
+  returns:
+    description: "The obtained Communication Relay Configuration"
+    type: "<xref href=\"com.azure.communication.networktraversal.models.CommunicationRelayConfiguration?alt=com.azure.communication.networktraversal.models.CommunicationRelayConfiguration&text=CommunicationRelayConfiguration\" data-throw-if-not-resolved=\"False\" />"
 - uid: "com.azure.communication.networktraversal.CommunicationRelayClient.getRelayConfiguration(com.azure.communication.common.CommunicationUserIdentifier)"
   fullName: "com.azure.communication.networktraversal.CommunicationRelayClient.getRelayConfiguration(CommunicationUserIdentifier communicationUser)"
   name: "getRelayConfiguration(CommunicationUserIdentifier communicationUser)"
@@ -20,4 +29,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.communication.networktraversal"
-artifact: com.azure:azure-communication-networktraversal:1.0.0-beta.1
+artifact: com.azure:azure-communication-networktraversal:1.0.0-alpha.20211112.1

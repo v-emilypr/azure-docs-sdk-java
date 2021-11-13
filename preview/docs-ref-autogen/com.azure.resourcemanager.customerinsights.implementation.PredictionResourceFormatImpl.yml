@@ -75,4 +75,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.customerinsights.models.PredictionResourceFormat?alt=com.azure.resourcemanager.customerinsights.models.PredictionResourceFormat&text=PredictionResourceFormat\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.customerinsights.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-customerinsights:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-customerinsights:1.0.0-alpha.20211111.1

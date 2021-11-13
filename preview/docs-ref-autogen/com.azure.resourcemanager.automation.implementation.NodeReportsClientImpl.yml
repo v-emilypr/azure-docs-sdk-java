@@ -31,4 +31,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.automation.fluent.NodeReportsClient?alt=com.azure.resourcemanager.automation.fluent.NodeReportsClient&text=NodeReportsClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.automation.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-automation:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-automation:1.0.0-alpha.20211112.1

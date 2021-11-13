@@ -1,0 +1,27 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.BackupsImpl.getWithResponse*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.BackupsImpl.getWithResponse"
+name: "getWithResponse"
+nameWithType: "BackupsImpl.getWithResponse"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.BackupsImpl.getWithResponse(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.BackupsImpl.getWithResponse(String resourceGroupName, String serverName, String backupName, Context context)"
+  name: "getWithResponse(String resourceGroupName, String serverName, String backupName, Context context)"
+  nameWithType: "BackupsImpl.getWithResponse(String resourceGroupName, String serverName, String backupName, Context context)"
+  summary: "List all the backups for a given server."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serverName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "backupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Response<ServerBackup> getWithResponse(String resourceGroupName, String serverName, String backupName, Context context)"
+  returns:
+    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.ServerBackup?alt=com.azure.resourcemanager.mysqlflexibleserver.models.ServerBackup&text=ServerBackup\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211111.1

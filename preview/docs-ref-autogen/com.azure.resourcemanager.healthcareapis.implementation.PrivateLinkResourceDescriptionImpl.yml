@@ -32,4 +32,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.healthcareapis.models.PrivateLinkResourceDescription?alt=com.azure.resourcemanager.healthcareapis.models.PrivateLinkResourceDescription&text=PrivateLinkResourceDescription\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.healthcareapis.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-healthcareapis:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-healthcareapis:1.0.0-alpha.20211111.1

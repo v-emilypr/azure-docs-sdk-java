@@ -16,4 +16,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.iot.modelsrepository.implementation"
-artifact: com.azure:azure-iot-modelsrepository:1.0.0-beta.1
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211111.1

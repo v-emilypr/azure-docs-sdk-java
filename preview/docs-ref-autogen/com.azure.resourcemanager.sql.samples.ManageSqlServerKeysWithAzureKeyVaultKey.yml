@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.sql.samples.ManageSqlServerKeysWithAzureKeyVaultKey"
+fullName: "com.azure.resourcemanager.sql.samples.ManageSqlServerKeysWithAzureKeyVaultKey"
+name: "ManageSqlServerKeysWithAzureKeyVaultKey"
+nameWithType: "ManageSqlServerKeysWithAzureKeyVaultKey"
+summary: "Azure SQL sample for managing SQL secrets (Server Keys) using Azure Key Vault - - Create a SQL Server with \"system assigned\" managed service identity. - Create an Azure Key Vault with giving access to the SQL Server - Create, get, list and delete SQL Server Keys - Delete SQL Server"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ManageSqlServerKeysWithAzureKeyVaultKey"
+constructors:
+- "com.azure.resourcemanager.sql.samples.ManageSqlServerKeysWithAzureKeyVaultKey.ManageSqlServerKeysWithAzureKeyVaultKey()"
+methods:
+- "com.azure.resourcemanager.sql.samples.ManageSqlServerKeysWithAzureKeyVaultKey.main(java.lang.String[])"
+- "com.azure.resourcemanager.sql.samples.ManageSqlServerKeysWithAzureKeyVaultKey.runSample(com.azure.resourcemanager.AzureResourceManager,java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.sql.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211111.1

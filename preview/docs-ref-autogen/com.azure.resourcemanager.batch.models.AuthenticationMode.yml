@@ -82,4 +82,4 @@ methods:
     type: "<xref href=\"com.azure.resourcemanager.batch.models.AuthenticationMode?alt=com.azure.resourcemanager.batch.models.AuthenticationMode&text=AuthenticationMode\" data-throw-if-not-resolved=\"False\" />[]"
 metadata: {}
 package: "com.azure.resourcemanager.batch.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-batch:1.0.0-beta.2
+artifact: com.azure.resourcemanager:azure-resourcemanager-batch:1.0.0-alpha.20211112.1

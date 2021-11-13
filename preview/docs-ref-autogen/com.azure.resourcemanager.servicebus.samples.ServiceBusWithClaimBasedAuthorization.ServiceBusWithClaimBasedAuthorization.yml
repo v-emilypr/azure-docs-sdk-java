@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.servicebus.samples.ServiceBusWithClaimBasedAuthorization.ServiceBusWithClaimBasedAuthorization*"
+fullName: "com.azure.resourcemanager.servicebus.samples.ServiceBusWithClaimBasedAuthorization.ServiceBusWithClaimBasedAuthorization"
+name: "ServiceBusWithClaimBasedAuthorization"
+nameWithType: "ServiceBusWithClaimBasedAuthorization.ServiceBusWithClaimBasedAuthorization"
+members:
+- uid: "com.azure.resourcemanager.servicebus.samples.ServiceBusWithClaimBasedAuthorization.ServiceBusWithClaimBasedAuthorization()"
+  fullName: "com.azure.resourcemanager.servicebus.samples.ServiceBusWithClaimBasedAuthorization.ServiceBusWithClaimBasedAuthorization()"
+  name: "ServiceBusWithClaimBasedAuthorization()"
+  nameWithType: "ServiceBusWithClaimBasedAuthorization.ServiceBusWithClaimBasedAuthorization()"
+  syntax: "public ServiceBusWithClaimBasedAuthorization()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.servicebus.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211111.1

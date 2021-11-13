@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.monitor.opentelemetry.exporter.utils.FormattedDuration.FormattedDuration*"
+fullName: "com.azure.monitor.opentelemetry.exporter.utils.FormattedDuration.FormattedDuration"
+name: "FormattedDuration"
+nameWithType: "FormattedDuration.FormattedDuration"
+members:
+- uid: "com.azure.monitor.opentelemetry.exporter.utils.FormattedDuration.FormattedDuration()"
+  fullName: "com.azure.monitor.opentelemetry.exporter.utils.FormattedDuration.FormattedDuration()"
+  name: "FormattedDuration()"
+  nameWithType: "FormattedDuration.FormattedDuration()"
+  syntax: "public FormattedDuration()"
+type: "constructor"
+metadata: {}
+package: "com.azure.monitor.opentelemetry.exporter.utils"
+artifact: com.azure:azure-monitor-opentelemetry-exporter:1.0.0-alpha.20211111.2

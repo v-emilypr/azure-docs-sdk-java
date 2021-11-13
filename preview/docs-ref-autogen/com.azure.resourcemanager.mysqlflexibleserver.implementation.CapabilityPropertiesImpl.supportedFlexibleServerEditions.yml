@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.supportedFlexibleServerEditions*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.supportedFlexibleServerEditions"
+name: "supportedFlexibleServerEditions"
+nameWithType: "CapabilityPropertiesImpl.supportedFlexibleServerEditions"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.supportedFlexibleServerEditions()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.supportedFlexibleServerEditions()"
+  name: "supportedFlexibleServerEditions()"
+  nameWithType: "CapabilityPropertiesImpl.supportedFlexibleServerEditions()"
+  summary: "Gets the supportedFlexibleServerEditions property: A list of supported flexible server editions."
+  syntax: "public List<ServerEditionCapability> supportedFlexibleServerEditions()"
+  returns:
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.ServerEditionCapability?alt=com.azure.resourcemanager.mysqlflexibleserver.models.ServerEditionCapability&text=ServerEditionCapability\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211111.1

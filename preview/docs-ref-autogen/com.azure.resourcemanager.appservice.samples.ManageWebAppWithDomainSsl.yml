@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppWithDomainSsl"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppWithDomainSsl"
+name: "ManageWebAppWithDomainSsl"
+nameWithType: "ManageWebAppWithDomainSsl"
+summary: "Azure App Service sample for managing web apps. - app service plan, web app - Create 2 web apps under the same new app service plan - domain - Create a domain - certificate - Upload a self-signed wildcard certificate - update both web apps to use the domain and the created wildcard SSL certificate"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageWebAppWithDomainSsl"
+constructors:
+- "com.azure.resourcemanager.appservice.samples.ManageWebAppWithDomainSsl.ManageWebAppWithDomainSsl()"
+methods:
+- "com.azure.resourcemanager.appservice.samples.ManageWebAppWithDomainSsl.main(java.lang.String[])"
+- "com.azure.resourcemanager.appservice.samples.ManageWebAppWithDomainSsl.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211111.1
