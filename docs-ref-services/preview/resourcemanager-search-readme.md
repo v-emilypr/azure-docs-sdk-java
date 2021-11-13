@@ -1,6 +1,6 @@
 ---
-title: Azure Resource Manager dns client library for Java
-keywords: Azure, java, SDK, API, azure-resourcemanager-dns, dns
+title: Azure Resource Manager Cognitive Search client library for Java
+keywords: Azure, java, SDK, API, azure-resourcemanager-search, search
 author: maggiepint
 ms.author: magpint
 ms.date: 11/13/2021
@@ -8,13 +8,13 @@ ms.topic: reference
 ms.prod: azure
 ms.technology: azure
 ms.devlang: java
-ms.service: dns
+ms.service: search
 ---
 
-# Azure Resource Manager dns client library for Java - Version 2.10.0-alpha.20211112.1 
+# Azure Resource Manager Cognitive Search client library for Java - Version 2.10.0-alpha.20211112.1 
 
 
-Azure Resource Manager dns client library for Java
+Azure Resource Manager Cognitive Search client library for Java
 
 For documentation on how to use this package, please see [Azure Management Libraries for Java](https://aka.ms/azsdk/java/mgmt).
 
@@ -27,11 +27,11 @@ For documentation on how to use this package, please see [Azure Management Libra
 
 ### Adding the package to your product
 
-[//]: # ({x-version-update-start;com.azure.resourcemanager:azure-resourcemanager-dns;current})
+[//]: # ({x-version-update-start;com.azure.resourcemanager:azure-resourcemanager-search;current})
 ```xml
 <dependency>
     <groupId>com.azure.resourcemanager</groupId>
-    <artifactId>azure-resourcemanager-dns</artifactId>
+    <artifactId>azure-resourcemanager-search</artifactId>
     <version>2.9.0</version>
 </dependency>
 ```
@@ -55,13 +55,13 @@ In addition, Azure subscription ID can be configured via environment variable `A
 
 With above configuration, `azure` client can be authenticated by following code:
 
-<!-- embedme ./src/samples/java/com/azure/resourcemanager/dns/ReadmeSamples.java#L21-L26 -->
+<!-- embedme ./src/samples/java/com/azure/resourcemanager/search/ReadmeSamples.java#L21-L26 -->
 ```java
 AzureProfile profile = new AzureProfile(AzureEnvironment.AZURE);
 TokenCredential credential = new DefaultAzureCredentialBuilder()
     .authorityHost(profile.getEnvironment().getActiveDirectoryEndpoint())
     .build();
-DnsZoneManager manager = DnsZoneManager
+SearchServiceManager manager = SearchServiceManager
     .authenticate(credential, profile);
 ```
 
