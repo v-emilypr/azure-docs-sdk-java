@@ -1,17 +1,17 @@
 ---
 title: Azure Communication CallingServer Service client library for Java
-keywords: Azure, java, SDK, API, azure-communication-callingserver, 
-author: ramya-rao-a
-ms.author: ramyar
-ms.date: 10/07/2021
+keywords: Azure, java, SDK, API, azure-communication-callingserver, communication
+author: maggiepint
+ms.author: magpint
+ms.date: 11/15/2021
 ms.topic: reference
 ms.prod: azure
 ms.technology: azure
 ms.devlang: java
-ms.service: 
+ms.service: communication
 ---
 
-# Azure Communication CallingServer Service client library for Java - Version 1.0.0-beta.4 
+# Azure Communication CallingServer Service client library for Java - Version 1.0.0-alpha.20211115.1 
 
 
 This package contains a Java SDK for Azure Communication CallingServer Service.
@@ -220,5 +220,5 @@ This project has adopted the [Microsoft Open Source Code of Conduct][coc]. For m
 [call_automation_apis_overview]:https://docs.microsoft.com/azure/communication-services/concepts/voice-video-calling/call-automation-apis
 [call_recording_overview]:https://docs.microsoft.com/azure/communication-services/concepts/voice-video-calling/call-recording
 [record_and_download_calls_with_event_grid]:https://docs.microsoft.com/azure/communication-services/quickstarts/voice-video-calling/download-recording-file-sample
-[source]: https://github.com/Azure/azure-sdk-for-java/tree/azure-communication-callingserver_1.0.0-beta.4/sdk/communication/azure-communication-callingserver/src
+[source]: https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/communication/azure-communication-callingserver/src
 
