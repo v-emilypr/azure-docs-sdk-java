@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-attestation",
+  "Version": "1.0.0-alpha.20211115.1",
+  "DevVersion": "1.0.0-alpha.20211115.1",
+  "DirectoryPath": "sdk/attestation/azure-resourcemanager-attestation",
+  "ServiceDirectory": "attestation",
+  "ReadMePath": "sdk/attestation/azure-resourcemanager-attestation/README.md",
+  "ChangeLogPath": "sdk/attestation/azure-resourcemanager-attestation/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-attestation",
+  "ReleaseStatus": "Unreleased"
+}
