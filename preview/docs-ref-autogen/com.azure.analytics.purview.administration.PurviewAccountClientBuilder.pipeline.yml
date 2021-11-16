@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.pipeline*"
+fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.pipeline"
+name: "pipeline"
+nameWithType: "PurviewAccountClientBuilder.pipeline"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.pipeline(com.azure.core.http.HttpPipeline)"
+  fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.pipeline(HttpPipeline pipeline)"
+  name: "pipeline(HttpPipeline pipeline)"
+  nameWithType: "PurviewAccountClientBuilder.pipeline(HttpPipeline pipeline)"
+  summary: "Sets The HTTP pipeline to send requests through."
+  parameters:
+  - description: "the pipeline value."
+    name: "pipeline"
+    type: "<xref href=\"com.azure.core.http.HttpPipeline?alt=com.azure.core.http.HttpPipeline&text=HttpPipeline\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PurviewAccountClientBuilder pipeline(HttpPipeline pipeline)"
+  returns:
+    description: "the PurviewAccountClientBuilder."
+    type: "<xref href=\"com.azure.analytics.purview.administration.PurviewAccountClientBuilder?alt=com.azure.analytics.purview.administration.PurviewAccountClientBuilder&text=PurviewAccountClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211115.1

@@ -4,6 +4,15 @@ fullName: "com.azure.communication.networktraversal.CommunicationRelayAsyncClien
 name: "getRelayConfigurationWithResponse"
 nameWithType: "CommunicationRelayAsyncClient.getRelayConfigurationWithResponse"
 members:
+- uid: "com.azure.communication.networktraversal.CommunicationRelayAsyncClient.getRelayConfigurationWithResponse()"
+  fullName: "com.azure.communication.networktraversal.CommunicationRelayAsyncClient.getRelayConfigurationWithResponse()"
+  name: "getRelayConfigurationWithResponse()"
+  nameWithType: "CommunicationRelayAsyncClient.getRelayConfigurationWithResponse()"
+  summary: "Creates a new CommunicationRelayConfiguration with response."
+  syntax: "public Mono<Response<CommunicationRelayConfiguration>> getRelayConfigurationWithResponse()"
+  returns:
+    description: "The created Communication Relay Configuration."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.communication.networktraversal.models.CommunicationRelayConfiguration?alt=com.azure.communication.networktraversal.models.CommunicationRelayConfiguration&text=CommunicationRelayConfiguration\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
 - uid: "com.azure.communication.networktraversal.CommunicationRelayAsyncClient.getRelayConfigurationWithResponse(com.azure.communication.common.CommunicationUserIdentifier)"
   fullName: "com.azure.communication.networktraversal.CommunicationRelayAsyncClient.getRelayConfigurationWithResponse(CommunicationUserIdentifier communicationUser)"
   name: "getRelayConfigurationWithResponse(CommunicationUserIdentifier communicationUser)"
@@ -20,4 +29,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.communication.networktraversal"
-artifact: com.azure:azure-communication-networktraversal:1.0.0-beta.1
+artifact: com.azure:azure-communication-networktraversal:1.0.0-alpha.20211115.1

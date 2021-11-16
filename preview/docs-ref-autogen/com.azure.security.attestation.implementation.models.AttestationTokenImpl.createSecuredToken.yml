@@ -1,0 +1,39 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createSecuredToken*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createSecuredToken"
+name: "createSecuredToken"
+nameWithType: "AttestationTokenImpl.createSecuredToken"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createSecuredToken(com.azure.security.attestation.models.AttestationSigningKey)"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createSecuredToken(AttestationSigningKey signingKey)"
+  name: "createSecuredToken(AttestationSigningKey signingKey)"
+  nameWithType: "AttestationTokenImpl.createSecuredToken(AttestationSigningKey signingKey)"
+  summary: "Create a secured attestation token with an empty body. Used to reset attestation policies on Isolated mode attestation instances."
+  parameters:
+  - description: "- Signing key used to sign the attestation token."
+    name: "signingKey"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationSigningKey?alt=com.azure.security.attestation.models.AttestationSigningKey&text=AttestationSigningKey\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static AttestationToken createSecuredToken(AttestationSigningKey signingKey)"
+  returns:
+    description: "Newly created secured attestation token with an empty body."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationToken?alt=com.azure.security.attestation.models.AttestationToken&text=AttestationToken\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createSecuredToken(java.lang.String,com.azure.security.attestation.models.AttestationSigningKey)"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createSecuredToken(String stringBody, AttestationSigningKey signingKey)"
+  name: "createSecuredToken(String stringBody, AttestationSigningKey signingKey)"
+  nameWithType: "AttestationTokenImpl.createSecuredToken(String stringBody, AttestationSigningKey signingKey)"
+  summary: "Create a secured attestation token from the specified string body which is signed with the specified signing key."
+  parameters:
+  - description: "- JSON body of the token in string form."
+    name: "stringBody"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- Private Key and Certificate to be used to sign the token."
+    name: "signingKey"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationSigningKey?alt=com.azure.security.attestation.models.AttestationSigningKey&text=AttestationSigningKey\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static AttestationToken createSecuredToken(String stringBody, AttestationSigningKey signingKey)"
+  returns:
+    description: "Newly created secured attestation token based off the serialized body."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationToken?alt=com.azure.security.attestation.models.AttestationToken&text=AttestationToken\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211115.1

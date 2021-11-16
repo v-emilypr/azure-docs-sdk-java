@@ -27,4 +27,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.hybridnetwork.models.SkuOverview?alt=com.azure.resourcemanager.hybridnetwork.models.SkuOverview&text=SkuOverview\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.hybridnetwork.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-hybridnetwork:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-hybridnetwork:1.0.0-alpha.20211115.1

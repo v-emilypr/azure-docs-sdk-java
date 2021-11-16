@@ -31,4 +31,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.purview.fluent.DefaultAccountsClient?alt=com.azure.resourcemanager.purview.fluent.DefaultAccountsClient&text=DefaultAccountsClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.purview.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-purview:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-purview:1.0.0-alpha.20211115.1

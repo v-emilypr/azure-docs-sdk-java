@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getMetadataPolicies*"
+fullName: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getMetadataPolicies"
+name: "getMetadataPolicies"
+nameWithType: "PurviewMetadataClientImpl.getMetadataPolicies"
+members:
+- uid: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getMetadataPolicies()"
+  fullName: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getMetadataPolicies()"
+  name: "getMetadataPolicies()"
+  nameWithType: "PurviewMetadataClientImpl.getMetadataPolicies()"
+  summary: "Gets the MetadataPoliciesImpl object to access its operations."
+  syntax: "public MetadataPoliciesImpl getMetadataPolicies()"
+  returns:
+    description: "the MetadataPoliciesImpl object."
+    type: "<xref href=\"com.azure.analytics.purview.administration.implementation.MetadataPoliciesImpl?alt=com.azure.analytics.purview.administration.implementation.MetadataPoliciesImpl&text=MetadataPoliciesImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration.implementation"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211115.1

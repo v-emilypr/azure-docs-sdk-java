@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.apiVersion*"
+fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.apiVersion"
+name: "apiVersion"
+nameWithType: "AttestationClientImplBuilder.apiVersion"
+members:
+- uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.apiVersion(java.lang.String)"
+  fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.apiVersion(String apiVersion)"
+  name: "apiVersion(String apiVersion)"
+  nameWithType: "AttestationClientImplBuilder.apiVersion(String apiVersion)"
+  summary: "Sets Api Version."
+  parameters:
+  - description: "the apiVersion value."
+    name: "apiVersion"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationClientImplBuilder apiVersion(String apiVersion)"
+  returns:
+    description: "the AttestationClientImplBuilder."
+    type: "<xref href=\"com.azure.security.attestation.implementation.AttestationClientImplBuilder?alt=com.azure.security.attestation.implementation.AttestationClientImplBuilder&text=AttestationClientImplBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211115.1

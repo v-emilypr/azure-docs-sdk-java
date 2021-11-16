@@ -19,4 +19,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.streamanalytics.models.Output.DefinitionStages.WithTimeWindow?alt=com.azure.resourcemanager.streamanalytics.models.Output.DefinitionStages.WithTimeWindow&text=WithTimeWindow\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.streamanalytics.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-streamanalytics:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-streamanalytics:1.0.0-alpha.20211115.1

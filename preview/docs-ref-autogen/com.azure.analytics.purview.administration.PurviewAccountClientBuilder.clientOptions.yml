@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.clientOptions*"
+fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.clientOptions"
+name: "clientOptions"
+nameWithType: "PurviewAccountClientBuilder.clientOptions"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.clientOptions(com.azure.core.util.ClientOptions)"
+  fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.clientOptions(ClientOptions clientOptions)"
+  name: "clientOptions(ClientOptions clientOptions)"
+  nameWithType: "PurviewAccountClientBuilder.clientOptions(ClientOptions clientOptions)"
+  summary: "Sets The client options such as application ID and custom headers to set on a request."
+  parameters:
+  - description: "the clientOptions value."
+    name: "clientOptions"
+    type: "<xref href=\"com.azure.core.util.ClientOptions?alt=com.azure.core.util.ClientOptions&text=ClientOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PurviewAccountClientBuilder clientOptions(ClientOptions clientOptions)"
+  returns:
+    description: "the PurviewAccountClientBuilder."
+    type: "<xref href=\"com.azure.analytics.purview.administration.PurviewAccountClientBuilder?alt=com.azure.analytics.purview.administration.PurviewAccountClientBuilder&text=PurviewAccountClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211115.1

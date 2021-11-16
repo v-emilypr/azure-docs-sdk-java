@@ -38,4 +38,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.advisor.models.ConfigData?alt=com.azure.resourcemanager.advisor.models.ConfigData&text=ConfigData\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.advisor.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-advisor:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-advisor:1.0.0-alpha.20211115.1

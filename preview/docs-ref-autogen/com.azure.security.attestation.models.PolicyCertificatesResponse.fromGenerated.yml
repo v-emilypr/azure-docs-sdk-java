@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.PolicyCertificatesResponse.fromGenerated*"
+fullName: "com.azure.security.attestation.models.PolicyCertificatesResponse.fromGenerated"
+name: "fromGenerated"
+nameWithType: "PolicyCertificatesResponse.fromGenerated"
+members:
+- uid: "com.azure.security.attestation.models.PolicyCertificatesResponse.fromGenerated(com.azure.security.attestation.implementation.models.PolicyCertificatesResponse)"
+  fullName: "com.azure.security.attestation.models.PolicyCertificatesResponse.fromGenerated(PolicyCertificatesResponse generated)"
+  name: "fromGenerated(PolicyCertificatesResponse generated)"
+  nameWithType: "PolicyCertificatesResponse.fromGenerated(PolicyCertificatesResponse generated)"
+  parameters:
+  - description: "generated"
+    name: "generated"
+    type: "<xref href=\"com.azure.security.attestation.implementation.models.PolicyCertificatesResponse?alt=com.azure.security.attestation.implementation.models.PolicyCertificatesResponse&text=PolicyCertificatesResponse\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static PolicyCertificatesResponse fromGenerated(PolicyCertificatesResponse generated)"
+  returns:
+    description: "implementation type."
+    type: "<xref href=\"com.azure.security.attestation.models.PolicyCertificatesResponse?alt=com.azure.security.attestation.models.PolicyCertificatesResponse&text=PolicyCertificatesResponse\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211115.1

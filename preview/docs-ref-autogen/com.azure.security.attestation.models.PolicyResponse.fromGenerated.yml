@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.PolicyResponse.fromGenerated*"
+fullName: "com.azure.security.attestation.models.PolicyResponse.fromGenerated"
+name: "fromGenerated"
+nameWithType: "PolicyResponse.fromGenerated"
+members:
+- uid: "com.azure.security.attestation.models.PolicyResponse.fromGenerated(com.azure.security.attestation.implementation.models.PolicyResponse)"
+  fullName: "com.azure.security.attestation.models.PolicyResponse.fromGenerated(PolicyResponse generated)"
+  name: "fromGenerated(PolicyResponse generated)"
+  nameWithType: "PolicyResponse.fromGenerated(PolicyResponse generated)"
+  summary: "Returns a public model type from an implementation model type."
+  parameters:
+  - description: "generated"
+    name: "generated"
+    type: "<xref href=\"com.azure.security.attestation.implementation.models.PolicyResponse?alt=com.azure.security.attestation.implementation.models.PolicyResponse&text=PolicyResponse\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static PolicyResponse fromGenerated(PolicyResponse generated)"
+  returns:
+    description: "implementation type."
+    type: "<xref href=\"com.azure.security.attestation.models.PolicyResponse?alt=com.azure.security.attestation.models.PolicyResponse&text=PolicyResponse\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211115.1

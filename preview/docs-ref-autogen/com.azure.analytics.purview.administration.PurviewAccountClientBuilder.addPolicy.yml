@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.addPolicy*"
+fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.addPolicy"
+name: "addPolicy"
+nameWithType: "PurviewAccountClientBuilder.addPolicy"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.addPolicy(com.azure.core.http.policy.HttpPipelinePolicy)"
+  fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.addPolicy(HttpPipelinePolicy customPolicy)"
+  name: "addPolicy(HttpPipelinePolicy customPolicy)"
+  nameWithType: "PurviewAccountClientBuilder.addPolicy(HttpPipelinePolicy customPolicy)"
+  summary: "Adds a custom Http pipeline policy."
+  parameters:
+  - description: "The custom Http pipeline policy to add."
+    name: "customPolicy"
+    type: "<xref href=\"com.azure.core.http.policy.HttpPipelinePolicy?alt=com.azure.core.http.policy.HttpPipelinePolicy&text=HttpPipelinePolicy\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PurviewAccountClientBuilder addPolicy(HttpPipelinePolicy customPolicy)"
+  returns:
+    description: "the PurviewAccountClientBuilder."
+    type: "<xref href=\"com.azure.analytics.purview.administration.PurviewAccountClientBuilder?alt=com.azure.analytics.purview.administration.PurviewAccountClientBuilder&text=PurviewAccountClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211115.1

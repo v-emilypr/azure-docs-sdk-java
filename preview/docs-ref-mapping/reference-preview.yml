@@ -23,12 +23,36 @@
       landingPageType: Service
       children:
       - com.azure.communication.callingserver*
+    - name: Chat
+      uid: azure.java.sdk.landingpage.services.communication.Chat.pre
+      href: ~/docs-ref-services/preview/communication-chat-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.chat*
+    - name: Common
+      uid: azure.java.sdk.landingpage.services.communication.Common.pre
+      href: ~/docs-ref-services/preview/communication-common-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.common*
     - name: Identity
       uid: azure.java.sdk.landingpage.services.communication.Identity.pre
       href: ~/docs-ref-services/preview/communication-identity-readme.md
       landingPageType: Service
       children:
       - com.azure.communication.identity*
+    - name: Phone Numbers
+      uid: azure.java.sdk.landingpage.services.communication.PhoneNumbers.pre
+      href: ~/docs-ref-services/preview/communication-phonenumbers-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.phonenumbers*
+    - name: SMS
+      uid: azure.java.sdk.landingpage.services.communication.SMS.pre
+      href: ~/docs-ref-services/preview/communication-sms-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.sms*
   - name: Cognitive Services
     uid: azure.java.sdk.landingpage.services.cognitiveservices.pre
     landingPageType: Service
@@ -96,6 +120,21 @@
       children:
       - com.azure.resourcemanager.kusto*
       - com.microsoft.azure.management.kusto*
+  - name: Event Hubs
+    uid: azure.java.sdk.landingpage.services.eventhub.pre
+    href: ~/docs-ref-services/preview/eventhub.md
+    items:
+    - name: Event Hubs
+      uid: azure.java.sdk.landingpage.services.eventhub.Client.pre
+      href: ~/docs-ref-services/preview/messaging-eventhubs-readme.md
+      children:
+      - com.azure.messaging.eventhubs
+      - com.azure.messaging.eventhubs.models
+    - name: Event Hubs Checkpoint Store Extension
+      uid: azure.java.sdk.landingpage.services.eventhub.Checkpoint.pre
+      href: ~/docs-ref-services/preview/messaging-eventhubs-checkpointstore-blob-readme.md
+      children:
+      - com.azure.messaging.eventhubs.checkpointstore.blob
   - name: Form Recognizer
     uid: azure.java.sdk.landingpage.preview.services.formrecognizer.pre
     href: ~/docs-ref-services/preview/ai-formrecognizer-readme.md
@@ -119,6 +158,11 @@
       children:
       - com.microsoft.azure.management.hybridcompute.v2020_08_02*
     landingPageType: Service
+  - name: Identity
+    uid: azure.java.sdk.landingpage.services.identity.pre
+    href: ~/docs-ref-services/preview/identity-readme.md
+    children:
+    - com.azure.identity
   - name: IoT
     uid: azure.java.sdk.landingpage.services.iot.pre
     href: ~/docs-ref-services/preview/iot.md
@@ -284,6 +328,11 @@
       landingPageType: Service
       children:
       - com.azure.resourcemanager.synapse*
+  - name: Tables
+    uid: azure.java.sdk.landingpage.services.tables.pre
+    href: ~/docs-ref-services/preview/data-tables-readme.md
+    children:
+    - com.azure.data.tables*
   - name: Text Analytics
     uid: azure.java.sdk.landingpage.services.textanalytics.pre
     href: ~/docs-ref-services/preview/ai-textanalytics-readme.md

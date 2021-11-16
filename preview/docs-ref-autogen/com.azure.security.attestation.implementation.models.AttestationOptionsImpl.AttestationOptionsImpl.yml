@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationOptionsImpl.AttestationOptionsImpl*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationOptionsImpl.AttestationOptionsImpl"
+name: "AttestationOptionsImpl"
+nameWithType: "AttestationOptionsImpl.AttestationOptionsImpl"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationOptionsImpl.AttestationOptionsImpl(com.azure.security.attestation.models.AttestationOptions)"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationOptionsImpl.AttestationOptionsImpl(AttestationOptions options)"
+  name: "AttestationOptionsImpl(AttestationOptions options)"
+  nameWithType: "AttestationOptionsImpl.AttestationOptionsImpl(AttestationOptions options)"
+  parameters:
+  - name: "options"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationOptions?alt=com.azure.security.attestation.models.AttestationOptions&text=AttestationOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationOptionsImpl(AttestationOptions options)"
+type: "constructor"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211115.1

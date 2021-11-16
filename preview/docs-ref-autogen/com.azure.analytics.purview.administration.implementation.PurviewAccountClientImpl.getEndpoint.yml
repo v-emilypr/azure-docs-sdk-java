@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.implementation.PurviewAccountClientImpl.getEndpoint*"
+fullName: "com.azure.analytics.purview.administration.implementation.PurviewAccountClientImpl.getEndpoint"
+name: "getEndpoint"
+nameWithType: "PurviewAccountClientImpl.getEndpoint"
+members:
+- uid: "com.azure.analytics.purview.administration.implementation.PurviewAccountClientImpl.getEndpoint()"
+  fullName: "com.azure.analytics.purview.administration.implementation.PurviewAccountClientImpl.getEndpoint()"
+  name: "getEndpoint()"
+  nameWithType: "PurviewAccountClientImpl.getEndpoint()"
+  summary: "Gets The account endpoint of your Purview account. Example: https://\\{accountName\\}.purview.azure.com/account/."
+  syntax: "public String getEndpoint()"
+  returns:
+    description: "the endpoint value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration.implementation"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211115.1

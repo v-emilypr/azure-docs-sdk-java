@@ -8,4 +8,4 @@ classes:
 - "com.azure.resourcemanager.timeseriesinsights.TimeSeriesInsightsManager.Configurable"
 metadata: {}
 package: "com.azure.resourcemanager.timeseriesinsights"
-artifact: com.azure.resourcemanager:azure-resourcemanager-timeseriesinsights:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-timeseriesinsights:1.0.0-alpha.20211115.1

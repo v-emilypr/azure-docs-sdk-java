@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.serviceVersion*"
+fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.serviceVersion"
+name: "serviceVersion"
+nameWithType: "PurviewMetadataClientBuilder.serviceVersion"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.serviceVersion(com.azure.analytics.purview.administration.PurviewMetadataServiceVersion)"
+  fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.serviceVersion(PurviewMetadataServiceVersion serviceVersion)"
+  name: "serviceVersion(PurviewMetadataServiceVersion serviceVersion)"
+  nameWithType: "PurviewMetadataClientBuilder.serviceVersion(PurviewMetadataServiceVersion serviceVersion)"
+  summary: "Sets Service version."
+  parameters:
+  - description: "the serviceVersion value."
+    name: "serviceVersion"
+    type: "<xref href=\"com.azure.analytics.purview.administration.PurviewMetadataServiceVersion?alt=com.azure.analytics.purview.administration.PurviewMetadataServiceVersion&text=PurviewMetadataServiceVersion\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PurviewMetadataClientBuilder serviceVersion(PurviewMetadataServiceVersion serviceVersion)"
+  returns:
+    description: "the PurviewMetadataClientBuilder."
+    type: "<xref href=\"com.azure.analytics.purview.administration.PurviewMetadataClientBuilder?alt=com.azure.analytics.purview.administration.PurviewMetadataClientBuilder&text=PurviewMetadataClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211115.1

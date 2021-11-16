@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getContentType*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getContentType"
+name: "getContentType"
+nameWithType: "AttestationTokenImpl.getContentType"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getContentType()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getContentType()"
+  name: "getContentType()"
+  nameWithType: "AttestationTokenImpl.getContentType()"
+  summary: "Returns the \"cty\" header property of the JWS. See [RFC 7515 section 4.1.10][] for more information.\n\n\n[RFC 7515 section 4.1.10]: https://datatracker.ietf.org/doc/html/rfc7515#section-4.1.10"
+  syntax: "public String getContentType()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211115.1

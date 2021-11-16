@@ -27,4 +27,4 @@ enums:
 - "com.azure.analytics.purview.scanning.PurviewScanningServiceVersion"
 metadata: {}
 package: "com.azure.analytics.purview.scanning"
-artifact: com.azure:azure-analytics-purview-scanning:1.0.0-beta.2
+artifact: com.azure:azure-analytics-purview-scanning:1.0.0-alpha.20211115.1

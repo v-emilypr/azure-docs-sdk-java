@@ -24,12 +24,10 @@ inheritedMembers:
 - "java.lang.Object.wait()"
 - "java.lang.Object.wait(long)"
 - "java.lang.Object.wait(long,int)"
-syntax: "public final class SchemasQueryIdByContentResponse extends ResponseBase<SchemasQueryIdByContentHeaders,SchemaId>"
+syntax: "public final class SchemasQueryIdByContentResponse extends ResponseBase<SchemasQueryIdByContentHeaders,Void>"
 constructors:
-- "com.azure.data.schemaregistry.implementation.models.SchemasQueryIdByContentResponse.SchemasQueryIdByContentResponse(com.azure.core.http.HttpRequest,int,com.azure.core.http.HttpHeaders,com.azure.data.schemaregistry.implementation.models.SchemaId,com.azure.data.schemaregistry.implementation.models.SchemasQueryIdByContentHeaders)"
-methods:
-- "com.azure.data.schemaregistry.implementation.models.SchemasQueryIdByContentResponse.getValue()"
+- "com.azure.data.schemaregistry.implementation.models.SchemasQueryIdByContentResponse.SchemasQueryIdByContentResponse(com.azure.core.http.HttpRequest,int,com.azure.core.http.HttpHeaders,java.lang.Void,com.azure.data.schemaregistry.implementation.models.SchemasQueryIdByContentHeaders)"
 type: "class"
 metadata: {}
 package: "com.azure.data.schemaregistry.implementation.models"
-artifact: com.azure:azure-data-schemaregistry:1.0.0-beta.6
+artifact: com.azure:azure-data-schemaregistry:1.0.0-alpha.20211115.1

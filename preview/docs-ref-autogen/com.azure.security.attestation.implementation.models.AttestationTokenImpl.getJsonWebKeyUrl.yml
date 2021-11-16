@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getJsonWebKeyUrl*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getJsonWebKeyUrl"
+name: "getJsonWebKeyUrl"
+nameWithType: "AttestationTokenImpl.getJsonWebKeyUrl"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getJsonWebKeyUrl()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getJsonWebKeyUrl()"
+  name: "getJsonWebKeyUrl()"
+  nameWithType: "AttestationTokenImpl.getJsonWebKeyUrl()"
+  summary: "Returns a URI which can be used to retrieve a JSON Web Key which can verify the signature on this token."
+  syntax: "public String getJsonWebKeyUrl()"
+  returns:
+    description: "URI at which a JWK can be retrieved."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211115.1

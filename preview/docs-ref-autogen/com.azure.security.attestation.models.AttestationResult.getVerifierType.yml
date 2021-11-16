@@ -8,12 +8,12 @@ members:
   fullName: "com.azure.security.attestation.models.AttestationResult.getVerifierType()"
   name: "getVerifierType()"
   nameWithType: "AttestationResult.getVerifierType()"
-  summary: "Get the verifierType property: The Attestation type being attested."
-  syntax: "public String getVerifierType()"
+  summary: "Get the verifierType property: The Attestation Type being attested. Normally this will be one of \"sgx\", or \"tpm\""
+  syntax: "public abstract String getVerifierType()"
   returns:
     description: "the verifierType value."
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation.models"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211115.1

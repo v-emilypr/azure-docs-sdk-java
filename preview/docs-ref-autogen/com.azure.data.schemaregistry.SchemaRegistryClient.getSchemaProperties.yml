@@ -24,9 +24,9 @@ members:
     type: "<xref href=\"com.azure.data.schemaregistry.models.SchemaFormat?alt=com.azure.data.schemaregistry.models.SchemaFormat&text=SchemaFormat\" data-throw-if-not-resolved=\"False\" />"
   syntax: "public SchemaProperties getSchemaProperties(String groupName, String name, String schemaDefinition, SchemaFormat format)"
   returns:
-    description: "The unique identifier for this schema."
+    description: "The properties for a matching schema."
     type: "<xref href=\"com.azure.data.schemaregistry.models.SchemaProperties?alt=com.azure.data.schemaregistry.models.SchemaProperties&text=SchemaProperties\" data-throw-if-not-resolved=\"False\" />"
 type: "method"
 metadata: {}
 package: "com.azure.data.schemaregistry"
-artifact: com.azure:azure-data-schemaregistry:1.0.0-beta.6
+artifact: com.azure:azure-data-schemaregistry:1.0.0-alpha.20211115.1

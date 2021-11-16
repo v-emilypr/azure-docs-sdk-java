@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.JsonWebKey.fromGenerated*"
+fullName: "com.azure.security.attestation.models.JsonWebKey.fromGenerated"
+name: "fromGenerated"
+nameWithType: "JsonWebKey.fromGenerated"
+members:
+- uid: "com.azure.security.attestation.models.JsonWebKey.fromGenerated(com.azure.security.attestation.implementation.models.JsonWebKey)"
+  fullName: "com.azure.security.attestation.models.JsonWebKey.fromGenerated(JsonWebKey generated)"
+  name: "fromGenerated(JsonWebKey generated)"
+  nameWithType: "JsonWebKey.fromGenerated(JsonWebKey generated)"
+  summary: "JWK"
+  parameters:
+  - description: "generated key."
+    name: "generated"
+    type: "<xref href=\"com.azure.security.attestation.implementation.models.JsonWebKey?alt=com.azure.security.attestation.implementation.models.JsonWebKey&text=JsonWebKey\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static JsonWebKey fromGenerated(JsonWebKey generated)"
+  returns:
+    description: "implementation type."
+    type: "<xref href=\"com.azure.security.attestation.models.JsonWebKey?alt=com.azure.security.attestation.models.JsonWebKey&text=JsonWebKey\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211115.1
