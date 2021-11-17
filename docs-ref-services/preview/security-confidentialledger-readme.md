@@ -1,23 +1,21 @@
 ---
 title: Azure Confidential Ledger client library for Java
-keywords: Azure, java, SDK, API, azure-security-confidentialledger, 
-author: ramya-rao-a
-ms.author: ramyar
-ms.date: 06/08/2021
+keywords: Azure, java, SDK, API, azure-security-confidentialledger, confidentialledger
+author: maggiepint
+ms.author: magpint
+ms.date: 11/17/2021
 ms.topic: reference
 ms.prod: azure
 ms.technology: azure
 ms.devlang: java
-ms.service: 
+ms.service: confidentialledger
 ---
 
-# Azure Confidential Ledger client library for Java - Version 1.0.0-beta.2 
+# Azure Confidential Ledger client library for Java - Version 1.0.0-alpha.20211117.1 
 
 
 Azure Confidential Ledger provides a service for logging to an immutable, tamper-proof ledger. As part of the [Azure Confidential Computing][azure_confidential_computing]
 portfolio, Azure Confidential Ledger runs in SGX enclaves. It is built on Microsoft Research's [Confidential Consortium Framework][ccf].
-
-**Please rely heavily on the javadocs and our [Low-Level client docs][low_level_client] to use this library**
 
 [Source code][source_code] | [Package (Maven)][package] | [Product Documentation][product_documentation] | [Samples][samples_readme]
 
@@ -155,15 +153,23 @@ This project has adopted the [Microsoft Open Source Code of Conduct][coc]. For m
 [azure_confidential_computing]: https://azure.microsoft.com/solutions/confidential-compute
 [confidential_ledger_docs]: https://aka.ms/confidentialledger-servicedocs
 [samples]: src/samples/java/com/azure/security/confidentialledger
-[source_code]: https://github.com/Azure/azure-sdk-for-java/blob/azure-security-confidentialledger_1.0.0-beta.2/sdk/confidentialledger/azure-security-confidentialledger/src
-[samples_code]: https://github.com/Azure/azure-sdk-for-java/blob/azure-security-confidentialledger_1.0.0-beta.2/sdk/confidentialledger/azure-security-confidentialledger/src/samples/
+[source_code]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/confidentialledger/azure-security-confidentialledger/src
+[samples_code]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/confidentialledger/azure-security-confidentialledger/src/samples/
 [azure_subscription]: https://azure.microsoft.com/free/
 [product_documentation]: https://aka.ms/confidentialledger-servicedocs
-[ledger_base_client_class]: https://github.com/Azure/azure-sdk-for-java/tree/azure-security-confidentialledger_1.0.0-beta.2/sdk/confidentialledger/azure-security-confidentialledger/src/main/java/com/azure/security/confidentialledger/LedgerBaseClient.java
+[ledger_base_client_class]: https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/confidentialledger/azure-security-confidentialledger/src/main/java/com/azure/security/confidentialledger/LedgerBaseClient.java
 [azure_portal]: https://portal.azure.com
 [jdk_link]: https://docs.microsoft.com/java/azure/jdk/?view=azure-java-stable
 [package]: https://mvnrepository.com/artifact/com.azure/azure-security-confidentialledger
-[samples_readme]: https://github.com/Azure/azure-sdk-for-java/tree/azure-security-confidentialledger_1.0.0-beta.2/sdk/confidentialledger/azure-security-confidentialledger/src/samples/README.md
+[samples_readme]: https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/confidentialledger/azure-security-confidentialledger/src/samples/README.md
+[azure_resource_manager]: https://docs.microsoft.com/azure/azure-resource-manager/
+[azure_identity]: https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/identity/azure-identity
+[DefaultAzureCredential]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/identity/azure-identity/README.md#defaultazurecredential
+[logging]: https://github.com/Azure/azure-sdk-for-java/wiki/Logging-with-Azure-SDK
+[cla]: https://cla.opensource.microsoft.com/
+[coc]: https://opensource.microsoft.com/codeofconduct/
+[coc_faq]: https://opensource.microsoft.com/codeofconduct/faq/
+[coc_contact]: mailto:opencode@microsoft.com
 
 
 ![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-java%2Fsdk%2Fconfidentialledger%2Fazure-security-confidentialledger%2FREADME.png)
