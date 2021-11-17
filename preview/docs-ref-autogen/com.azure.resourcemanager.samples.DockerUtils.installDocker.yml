@@ -1,0 +1,38 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.DockerUtils.installDocker*"
+fullName: "com.azure.resourcemanager.samples.DockerUtils.installDocker"
+name: "installDocker"
+nameWithType: "DockerUtils.installDocker"
+members:
+- uid: "com.azure.resourcemanager.samples.DockerUtils.installDocker(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.DockerUtils.installDocker(String dockerHostIP, String vmUserName, String vmPassword, String registryServerUrl, String username, String password)"
+  name: "installDocker(String dockerHostIP, String vmUserName, String vmPassword, String registryServerUrl, String username, String password)"
+  nameWithType: "DockerUtils.installDocker(String dockerHostIP, String vmUserName, String vmPassword, String registryServerUrl, String username, String password)"
+  summary: "Install Docker on a given virtual machine and return a DockerClient."
+  parameters:
+  - description: "- address (IP) of the Docker host machine"
+    name: "dockerHostIP"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- user name to connect with to the Docker host machine"
+    name: "vmUserName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- password to connect with to the Docker host machine"
+    name: "vmPassword"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- address of the private container registry"
+    name: "registryServerUrl"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- user name to connect with to the private container registry"
+    name: "username"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- password to connect with to the private container registry"
+    name: "password"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static DockerClient installDocker(String dockerHostIP, String vmUserName, String vmPassword, String registryServerUrl, String username, String password)"
+  returns:
+    description: "an instance of DockerClient"
+    type: "<xref href=\"com.github.dockerjava.api.DockerClient?alt=com.github.dockerjava.api.DockerClient&text=DockerClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211115.2

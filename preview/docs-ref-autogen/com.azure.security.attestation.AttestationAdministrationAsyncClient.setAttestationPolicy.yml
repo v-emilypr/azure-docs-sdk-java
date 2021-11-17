@@ -1,0 +1,42 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationAdministrationAsyncClient.setAttestationPolicy*"
+fullName: "com.azure.security.attestation.AttestationAdministrationAsyncClient.setAttestationPolicy"
+name: "setAttestationPolicy"
+nameWithType: "AttestationAdministrationAsyncClient.setAttestationPolicy"
+members:
+- uid: "com.azure.security.attestation.AttestationAdministrationAsyncClient.setAttestationPolicy(com.azure.security.attestation.models.AttestationType,com.azure.security.attestation.models.AttestationPolicySetOptions)"
+  fullName: "com.azure.security.attestation.AttestationAdministrationAsyncClient.setAttestationPolicy(AttestationType attestationType, AttestationPolicySetOptions options)"
+  name: "setAttestationPolicy(AttestationType attestationType, AttestationPolicySetOptions options)"
+  nameWithType: "AttestationAdministrationAsyncClient.setAttestationPolicy(AttestationType attestationType, AttestationPolicySetOptions options)"
+  summary: "Sets the current policy for an attestation type."
+  parameters:
+  - description: "Specifies the trusted execution environment to be used to validate the evidence."
+    name: "attestationType"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationType?alt=com.azure.security.attestation.models.AttestationType&text=AttestationType\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Options for the setPolicy operation, including the new policy to be set."
+    name: "options"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationPolicySetOptions?alt=com.azure.security.attestation.models.AttestationPolicySetOptions&text=AttestationPolicySetOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<PolicyResult> setAttestationPolicy(AttestationType attestationType, AttestationPolicySetOptions options)"
+  returns:
+    description: "the response to an attestation policy operation."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.PolicyResult?alt=com.azure.security.attestation.models.PolicyResult&text=PolicyResult\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.security.attestation.AttestationAdministrationAsyncClient.setAttestationPolicy(com.azure.security.attestation.models.AttestationType,java.lang.String)"
+  fullName: "com.azure.security.attestation.AttestationAdministrationAsyncClient.setAttestationPolicy(AttestationType attestationType, String newAttestationPolicy)"
+  name: "setAttestationPolicy(AttestationType attestationType, String newAttestationPolicy)"
+  nameWithType: "AttestationAdministrationAsyncClient.setAttestationPolicy(AttestationType attestationType, String newAttestationPolicy)"
+  summary: "Sets the current policy for an attestation type with an unsecured attestation policy.\n\nNote that this API will only work on AAD mode attestation instances, because it sets the policy using an unsecured attestation token."
+  parameters:
+  - description: "Specifies the trusted execution environment to be used to validate the evidence."
+    name: "attestationType"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationType?alt=com.azure.security.attestation.models.AttestationType&text=AttestationType\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Specifies the policy to be set on the instance."
+    name: "newAttestationPolicy"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<PolicyResult> setAttestationPolicy(AttestationType attestationType, String newAttestationPolicy)"
+  returns:
+    description: "the response to an attestation policy operation."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.PolicyResult?alt=com.azure.security.attestation.models.PolicyResult&text=PolicyResult\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1

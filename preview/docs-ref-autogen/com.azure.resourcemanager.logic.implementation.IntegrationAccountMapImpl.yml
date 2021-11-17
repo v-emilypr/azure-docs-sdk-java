@@ -60,4 +60,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.logic.models.IntegrationAccountMap?alt=com.azure.resourcemanager.logic.models.IntegrationAccountMap&text=IntegrationAccountMap\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.logic.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-logic:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-logic:1.0.0-alpha.20211116.1

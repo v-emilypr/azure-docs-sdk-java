@@ -1,0 +1,34 @@
+### YamlMime:JavaType
+uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder"
+fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder"
+name: "JdkAsyncHttpClientBuilder"
+nameWithType: "JdkAsyncHttpClientBuilder"
+summary: "Builder to configure and build an instance of the azure-core <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\" data-raw-source=\"HttpClient\"></xref> type using the JDK HttpClient APIs, first introduced as preview in JDK 9, but made generally available from JDK 11 onwards."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class JdkAsyncHttpClientBuilder"
+constructors:
+- "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.JdkAsyncHttpClientBuilder()"
+- "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.JdkAsyncHttpClientBuilder(java.net.http.HttpClient.Builder)"
+methods:
+- "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.build()"
+- "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.configuration(com.azure.core.util.Configuration)"
+- "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.connectionTimeout(java.time.Duration)"
+- "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.executor(java.util.concurrent.Executor)"
+- "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.proxy(com.azure.core.http.ProxyOptions)"
+type: "class"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211116.1

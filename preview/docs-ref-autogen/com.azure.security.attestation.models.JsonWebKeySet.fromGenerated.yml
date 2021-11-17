@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.JsonWebKeySet.fromGenerated*"
+fullName: "com.azure.security.attestation.models.JsonWebKeySet.fromGenerated"
+name: "fromGenerated"
+nameWithType: "JsonWebKeySet.fromGenerated"
+members:
+- uid: "com.azure.security.attestation.models.JsonWebKeySet.fromGenerated(com.azure.security.attestation.implementation.models.JsonWebKeySet)"
+  fullName: "com.azure.security.attestation.models.JsonWebKeySet.fromGenerated(JsonWebKeySet generated)"
+  name: "fromGenerated(JsonWebKeySet generated)"
+  nameWithType: "JsonWebKeySet.fromGenerated(JsonWebKeySet generated)"
+  summary: "Create from generated"
+  parameters:
+  - description: "generated key set"
+    name: "generated"
+    type: "<xref href=\"com.azure.security.attestation.implementation.models.JsonWebKeySet?alt=com.azure.security.attestation.implementation.models.JsonWebKeySet&text=JsonWebKeySet\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static JsonWebKeySet fromGenerated(JsonWebKeySet generated)"
+  returns:
+    description: "public key set."
+    type: "<xref href=\"com.azure.security.attestation.models.JsonWebKeySet?alt=com.azure.security.attestation.models.JsonWebKeySet&text=JsonWebKeySet\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1

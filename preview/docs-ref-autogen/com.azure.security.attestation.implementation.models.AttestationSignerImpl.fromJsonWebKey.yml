@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromJsonWebKey*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromJsonWebKey"
+name: "fromJsonWebKey"
+nameWithType: "AttestationSignerImpl.fromJsonWebKey"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromJsonWebKey(com.azure.security.attestation.implementation.models.JsonWebKey)"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromJsonWebKey(JsonWebKey jsonWebKey)"
+  name: "fromJsonWebKey(JsonWebKey jsonWebKey)"
+  nameWithType: "AttestationSignerImpl.fromJsonWebKey(JsonWebKey jsonWebKey)"
+  parameters:
+  - name: "jsonWebKey"
+    type: "<xref href=\"com.azure.security.attestation.implementation.models.JsonWebKey?alt=com.azure.security.attestation.implementation.models.JsonWebKey&text=JsonWebKey\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static AttestationSigner fromJsonWebKey(JsonWebKey jsonWebKey)"
+  returns:
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationSigner?alt=com.azure.security.attestation.models.AttestationSigner&text=AttestationSigner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1

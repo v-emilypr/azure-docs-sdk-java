@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.file.datalake.models.FileSystemListDetails.getRetrieveSystem*"
+fullName: "com.azure.storage.file.datalake.models.FileSystemListDetails.getRetrieveSystem"
+name: "getRetrieveSystem"
+nameWithType: "FileSystemListDetails.getRetrieveSystem"
+members:
+- uid: "com.azure.storage.file.datalake.models.FileSystemListDetails.getRetrieveSystem()"
+  fullName: "com.azure.storage.file.datalake.models.FileSystemListDetails.getRetrieveSystem()"
+  name: "getRetrieveSystem()"
+  nameWithType: "FileSystemListDetails.getRetrieveSystem()"
+  summary: "Whether system fileSystems should be returned."
+  syntax: "public boolean getRetrieveSystem()"
+  returns:
+    description: "a flag indicating whether system fileSystems should be returned in the listing"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.file.datalake.models"
+artifact: com.azure:azure-storage-file-datalake:12.8.0-alpha.20211116.1

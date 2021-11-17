@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.getFeatures*"
+fullName: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.getFeatures"
+name: "getFeatures"
+nameWithType: "ModelsRepositoryMetadata.getFeatures"
+members:
+- uid: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.getFeatures()"
+  fullName: "com.azure.iot.modelsrepository.implementation.models.ModelsRepositoryMetadata.getFeatures()"
+  name: "getFeatures()"
+  nameWithType: "ModelsRepositoryMetadata.getFeatures()"
+  syntax: "public RepositoryFeatures getFeatures()"
+  returns:
+    type: "<xref href=\"com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures?alt=com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures&text=RepositoryFeatures\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211115.1

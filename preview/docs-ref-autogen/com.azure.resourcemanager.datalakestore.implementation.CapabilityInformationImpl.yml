@@ -30,4 +30,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.datalakestore.models.CapabilityInformation?alt=com.azure.resourcemanager.datalakestore.models.CapabilityInformation&text=CapabilityInformation\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.datalakestore.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-datalakestore:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-datalakestore:1.0.0-alpha.20211116.1

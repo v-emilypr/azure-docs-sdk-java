@@ -1,0 +1,9 @@
+### YamlMime:JavaPackage
+uid: "com.azure.core.http.jdk.httpclient.implementation"
+fullName: "com.azure.core.http.jdk.httpclient.implementation"
+name: "com.azure.core.http.jdk.httpclient.implementation"
+classes:
+- "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient.implementation"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211116.1

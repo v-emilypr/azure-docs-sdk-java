@@ -33,4 +33,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.security.fluent.AdaptiveNetworkHardeningsClient?alt=com.azure.resourcemanager.security.fluent.AdaptiveNetworkHardeningsClient&text=AdaptiveNetworkHardeningsClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.security.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-security:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-security:1.0.0-alpha.20211116.1

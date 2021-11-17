@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.AttestationTokenImpl*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.AttestationTokenImpl"
+name: "AttestationTokenImpl"
+nameWithType: "AttestationTokenImpl.AttestationTokenImpl"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.AttestationTokenImpl(java.lang.String)"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.AttestationTokenImpl(String serializedToken)"
+  name: "AttestationTokenImpl(String serializedToken)"
+  nameWithType: "AttestationTokenImpl.AttestationTokenImpl(String serializedToken)"
+  summary: "Creates a new instance of an AttestationToken object."
+  parameters:
+  - description: "- Serialized JSON Web Token/JSON Web Signature object."
+    name: "serializedToken"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationTokenImpl(String serializedToken)"
+type: "constructor"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1

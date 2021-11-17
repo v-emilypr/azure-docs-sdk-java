@@ -3,7 +3,7 @@ uid: "com.azure.iot.modelsrepository.implementation.models.ModelMetadata"
 fullName: "com.azure.iot.modelsrepository.implementation.models.ModelMetadata"
 name: "ModelMetadata"
 nameWithType: "ModelMetadata"
-summary: "ModelMetadata is designated to store KPIs from model parsing."
+summary: "<xref uid=\"com.azure.iot.modelsrepository.implementation.models.ModelMetadata\" data-throw-if-not-resolved=\"false\" data-raw-source=\"ModelMetadata\"></xref> is designated to store KPIs from model parsing."
 inheritances:
 - "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
 inheritedMembers:
@@ -29,4 +29,4 @@ methods:
 type: "class"
 metadata: {}
 package: "com.azure.iot.modelsrepository.implementation.models"
-artifact: com.azure:azure-iot-modelsrepository:1.0.0-beta.1
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211115.1

@@ -26,16 +26,11 @@ inheritedMembers:
 - "java.lang.Object.wait(long,int)"
 syntax: "public enum SchemaRegistryVersion extends Enum<SchemaRegistryVersion> implements ServiceVersion"
 fields:
-- uid: "com.azure.data.schemaregistry.SchemaRegistryVersion.V2017_04"
-  fullName: "com.azure.data.schemaregistry.SchemaRegistryVersion.V2017_04"
-  name: "V2017_04"
-  nameWithType: "SchemaRegistryVersion.V2017_04"
-  summary: "2017 version"
-- uid: "com.azure.data.schemaregistry.SchemaRegistryVersion.V2020_09_01_PREVIEW"
-  fullName: "com.azure.data.schemaregistry.SchemaRegistryVersion.V2020_09_01_PREVIEW"
-  name: "V2020_09_01_PREVIEW"
-  nameWithType: "SchemaRegistryVersion.V2020_09_01_PREVIEW"
-  summary: "2020 version."
+- uid: "com.azure.data.schemaregistry.SchemaRegistryVersion.V2021_10"
+  fullName: "com.azure.data.schemaregistry.SchemaRegistryVersion.V2021_10"
+  name: "V2021_10"
+  nameWithType: "SchemaRegistryVersion.V2021_10"
+  summary: "2021 version."
 methods:
 - uid: "com.azure.data.schemaregistry.SchemaRegistryVersion.getLatest()"
   fullName: "com.azure.data.schemaregistry.SchemaRegistryVersion.getLatest()"
@@ -74,4 +69,4 @@ implements:
 - "<xref href=\"com.azure.core.util.ServiceVersion?alt=com.azure.core.util.ServiceVersion&text=ServiceVersion\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.data.schemaregistry"
-artifact: com.azure:azure-data-schemaregistry:1.0.0-beta.6
+artifact: com.azure:azure-data-schemaregistry:1.1.0-alpha.20211116.1

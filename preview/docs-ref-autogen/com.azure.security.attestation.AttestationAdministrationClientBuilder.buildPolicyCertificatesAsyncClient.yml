@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationAdministrationClientBuilder.buildPolicyCertificatesAsyncClient*"
+fullName: "com.azure.security.attestation.AttestationAdministrationClientBuilder.buildPolicyCertificatesAsyncClient"
+name: "buildPolicyCertificatesAsyncClient"
+nameWithType: "AttestationAdministrationClientBuilder.buildPolicyCertificatesAsyncClient"
+members:
+- uid: "com.azure.security.attestation.AttestationAdministrationClientBuilder.buildPolicyCertificatesAsyncClient()"
+  fullName: "com.azure.security.attestation.AttestationAdministrationClientBuilder.buildPolicyCertificatesAsyncClient()"
+  name: "buildPolicyCertificatesAsyncClient()"
+  nameWithType: "AttestationAdministrationClientBuilder.buildPolicyCertificatesAsyncClient()"
+  summary: "Builds an instance of PolicyCertificatesAsyncClient async client."
+  syntax: "public PolicyCertificatesAsyncClient buildPolicyCertificatesAsyncClient()"
+  returns:
+    description: "an instance of PolicyCertificatesAsyncClient."
+    type: "<xref href=\"com.azure.security.attestation.PolicyCertificatesAsyncClient?alt=com.azure.security.attestation.PolicyCertificatesAsyncClient&text=PolicyCertificatesAsyncClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1

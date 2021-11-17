@@ -1,0 +1,35 @@
+### YamlMime:JavaType
+uid: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl"
+fullName: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl"
+name: "AttestationOpenIdMetadataImpl"
+nameWithType: "AttestationOpenIdMetadataImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class AttestationOpenIdMetadataImpl implements AttestationOpenIdMetadata"
+constructors:
+- "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.AttestationOpenIdMetadataImpl()"
+methods:
+- "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.fromGenerated(java.lang.Object)"
+- "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getIssuer()"
+- "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getJsonWebKeySetUrl()"
+- "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getResponseTypesSupported()"
+- "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getSupportedClaims()"
+- "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getTokenSigningAlgorithmsSupported()"
+type: "class"
+implements:
+- "<xref href=\"com.azure.security.attestation.models.AttestationOpenIdMetadata?alt=com.azure.security.attestation.models.AttestationOpenIdMetadata&text=AttestationOpenIdMetadata\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1

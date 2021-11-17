@@ -1,0 +1,11 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.cdn.samples"
+fullName: "com.azure.resourcemanager.cdn.samples"
+name: "com.azure.resourcemanager.cdn.samples"
+summary: "This package contains the classes for cdn samples."
+classes:
+- "com.azure.resourcemanager.cdn.samples.ManageCdn"
+- "com.azure.resourcemanager.cdn.samples.ManageCdnWithCustomDomain"
+metadata: {}
+package: "com.azure.resourcemanager.cdn.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211115.2

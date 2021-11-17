@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSourceControl.ManageLinuxWebAppSourceControl*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSourceControl.ManageLinuxWebAppSourceControl"
+name: "ManageLinuxWebAppSourceControl"
+nameWithType: "ManageLinuxWebAppSourceControl.ManageLinuxWebAppSourceControl"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSourceControl.ManageLinuxWebAppSourceControl()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSourceControl.ManageLinuxWebAppSourceControl()"
+  name: "ManageLinuxWebAppSourceControl()"
+  nameWithType: "ManageLinuxWebAppSourceControl.ManageLinuxWebAppSourceControl()"
+  syntax: "public ManageLinuxWebAppSourceControl()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211115.2

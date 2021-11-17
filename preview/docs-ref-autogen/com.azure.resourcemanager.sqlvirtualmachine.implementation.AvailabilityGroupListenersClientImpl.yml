@@ -37,4 +37,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.sqlvirtualmachine.fluent.AvailabilityGroupListenersClient?alt=com.azure.resourcemanager.sqlvirtualmachine.fluent.AvailabilityGroupListenersClient&text=AvailabilityGroupListenersClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.sqlvirtualmachine.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-sqlvirtualmachine:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-sqlvirtualmachine:1.0.0-alpha.20211115.1

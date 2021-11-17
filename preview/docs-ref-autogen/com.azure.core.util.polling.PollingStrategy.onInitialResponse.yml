@@ -8,9 +8,9 @@ members:
   fullName: "com.azure.core.util.polling.PollingStrategy<T,U>.onInitialResponse(Response<?> response, PollingContext<T> pollingContext, TypeReference<T> pollResponseType)"
   name: "onInitialResponse(Response<?> response, PollingContext<T> pollingContext, TypeReference<T> pollResponseType)"
   nameWithType: "PollingStrategy<T,U>.onInitialResponse(Response<?> response, PollingContext<T> pollingContext, TypeReference<T> pollResponseType)"
-  summary: "Parses the initial response into a <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LongRunningOperationStatus\"></xref>, and stores information useful for polling in the <xref uid=\"com.azure.core.util.polling.PollingContext\" data-throw-if-not-resolved=\"false\" data-raw-source=\"PollingContext\"></xref>. If the result is anything other than <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus.IN_PROGRESS\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LongRunningOperationStatus#IN_PROGRESS\"></xref>, the long running operation will be terminated and none of the other methods will be invoked."
+  summary: "Parses the initial response into a <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LongRunningOperationStatus\"></xref>, and stores information useful for polling in the <xref uid=\"com.azure.core.util.polling.PollingContext\" data-throw-if-not-resolved=\"false\" data-raw-source=\"PollingContext\"></xref>. If the result is anything other than <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus.IN_PROGRESS\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LongRunningOperationStatus#IN_PROGRESS\"></xref>, the long-running operation will be terminated and none of the other methods will be invoked."
   parameters:
-  - description: "the response from the initial method call to activate the long running operation"
+  - description: "the response from the initial method call to activate the long-running operation"
     name: "response"
     type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"
   - description: "the <xref uid=\"com.azure.core.util.polling.PollingContext\" data-throw-if-not-resolved=\"false\" data-raw-source=\"PollingContext\"></xref> for the current polling operation"
@@ -26,4 +26,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.core.util.polling"
-artifact: com.azure:azure-core:1.22.0-beta.1
+artifact: com.azure:azure-core:1.23.0-alpha.20211116.1

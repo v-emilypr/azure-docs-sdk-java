@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.implementation.StatusStrings.FETCHING_METADATA_CONTENT*"
+fullName: "com.azure.iot.modelsrepository.implementation.StatusStrings.FETCHING_METADATA_CONTENT"
+name: "FETCHING_METADATA_CONTENT"
+nameWithType: "StatusStrings.FETCHING_METADATA_CONTENT"
+members:
+- uid: "com.azure.iot.modelsrepository.implementation.StatusStrings.FETCHING_METADATA_CONTENT"
+  fullName: "com.azure.iot.modelsrepository.implementation.StatusStrings.FETCHING_METADATA_CONTENT"
+  name: "FETCHING_METADATA_CONTENT"
+  nameWithType: "StatusStrings.FETCHING_METADATA_CONTENT"
+  syntax: "public static final String FETCHING_METADATA_CONTENT"
+type: "field"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211115.1

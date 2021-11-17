@@ -9,11 +9,11 @@ members:
   name: "getPolicyResolution()"
   nameWithType: "PolicyResult.getPolicyResolution()"
   summary: "Get the policyResolution property: The result of the operation."
-  syntax: "public PolicyModification getPolicyResolution()"
+  syntax: "public abstract PolicyModification getPolicyResolution()"
   returns:
     description: "the policyResolution value."
     type: "<xref href=\"com.azure.security.attestation.models.PolicyModification?alt=com.azure.security.attestation.models.PolicyModification&text=PolicyModification\" data-throw-if-not-resolved=\"False\" />"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation.models"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1

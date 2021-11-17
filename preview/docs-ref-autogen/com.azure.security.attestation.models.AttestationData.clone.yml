@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.AttestationData.clone*"
+fullName: "com.azure.security.attestation.models.AttestationData.clone"
+name: "clone"
+nameWithType: "AttestationData.clone"
+members:
+- uid: "com.azure.security.attestation.models.AttestationData.clone()"
+  fullName: "com.azure.security.attestation.models.AttestationData.clone()"
+  name: "clone()"
+  nameWithType: "AttestationData.clone()"
+  overridden: "java.lang.Object.clone()"
+  syntax: "public AttestationData clone()"
+  returns:
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationData?alt=com.azure.security.attestation.models.AttestationData&text=AttestationData\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1

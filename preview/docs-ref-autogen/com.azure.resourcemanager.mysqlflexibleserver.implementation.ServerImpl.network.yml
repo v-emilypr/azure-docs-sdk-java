@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.network*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.network"
+name: "network"
+nameWithType: "ServerImpl.network"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.network()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.network()"
+  name: "network()"
+  nameWithType: "ServerImpl.network()"
+  summary: "Gets the network property: Network related properties of a server."
+  syntax: "public Network network()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.Network?alt=com.azure.resourcemanager.mysqlflexibleserver.models.Network&text=Network\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211115.1

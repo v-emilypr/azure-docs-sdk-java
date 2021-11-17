@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.AttestationSignerImpl*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.AttestationSignerImpl"
+name: "AttestationSignerImpl"
+nameWithType: "AttestationSignerImpl.AttestationSignerImpl"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.AttestationSignerImpl()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.AttestationSignerImpl()"
+  name: "AttestationSignerImpl()"
+  nameWithType: "AttestationSignerImpl.AttestationSignerImpl()"
+  syntax: "public AttestationSignerImpl()"
+type: "constructor"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1

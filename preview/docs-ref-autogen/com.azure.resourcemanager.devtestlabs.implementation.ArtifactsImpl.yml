@@ -32,4 +32,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.devtestlabs.models.Artifacts?alt=com.azure.resourcemanager.devtestlabs.models.Artifacts&text=Artifacts\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.devtestlabs.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-devtestlabs:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-devtestlabs:1.0.0-alpha.20211115.1

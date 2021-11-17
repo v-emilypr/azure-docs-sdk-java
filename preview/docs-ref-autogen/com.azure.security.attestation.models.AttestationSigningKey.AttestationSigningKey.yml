@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.AttestationSigningKey.AttestationSigningKey*"
+fullName: "com.azure.security.attestation.models.AttestationSigningKey.AttestationSigningKey"
+name: "AttestationSigningKey"
+nameWithType: "AttestationSigningKey.AttestationSigningKey"
+members:
+- uid: "com.azure.security.attestation.models.AttestationSigningKey.AttestationSigningKey()"
+  fullName: "com.azure.security.attestation.models.AttestationSigningKey.AttestationSigningKey()"
+  name: "AttestationSigningKey()"
+  nameWithType: "AttestationSigningKey.AttestationSigningKey()"
+  summary: "Creates a new instance of an AttestationSigningKey."
+  syntax: "public AttestationSigningKey()"
+type: "constructor"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1

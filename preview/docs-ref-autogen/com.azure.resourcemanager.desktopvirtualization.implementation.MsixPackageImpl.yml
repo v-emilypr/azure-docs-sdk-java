@@ -61,4 +61,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.desktopvirtualization.models.MsixPackage?alt=com.azure.resourcemanager.desktopvirtualization.models.MsixPackage&text=MsixPackage\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.desktopvirtualization.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-desktopvirtualization:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-desktopvirtualization:1.0.0-alpha.20211116.1

@@ -1,0 +1,35 @@
+### YamlMime:JavaType
+uid: "com.azure.security.attestation.AttestationAdministrationClient"
+fullName: "com.azure.security.attestation.AttestationAdministrationClient"
+name: "AttestationAdministrationClient"
+nameWithType: "AttestationAdministrationClient"
+summary: "The AttestationAdministrationClient provides access to the administrative policy APIs implemented by the Attestation Service. More information on attestation policies can be found [here][] There are two main families of APIs available from the Administration client.\n\n *  Attestation Policy Management\n *  Attestation Policy Management Certificate Management\n\nAttestation service instances operate in three different modes:\n\n *  Shared - a shared instance is a regional instance which is available to all customers. It does NOT support customer specified policy documents - there is only a default policy available for each attestation type\n *  AAD - An attestation instance where the customer trusts Azure Active Directory (and Azure Role Based Access Control) to manage the security of their enclave.\n *  Isolated - an attestation instance where the customer does \\*not\\* trust Azure Active Directory (and RBAC) to manage the security of their enclave\n\nWhen an attestation instance is in Isolated mode, additional proof needs to be provided by the customer to verify that they are authorized to perform the operation specified. This additional proof is\n\n\n[here]: https://docs.microsoft.com/azure/attestation/basic-concepts#attestation-policy"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class AttestationAdministrationClient"
+methods:
+- "com.azure.security.attestation.AttestationAdministrationClient.calculatePolicyTokenHash(java.lang.String,com.azure.security.attestation.models.AttestationSigningKey)"
+- "com.azure.security.attestation.AttestationAdministrationClient.getAttestationPolicy(com.azure.security.attestation.models.AttestationType)"
+- "com.azure.security.attestation.AttestationAdministrationClient.getAttestationPolicyWithResponse(com.azure.security.attestation.models.AttestationType,com.azure.core.util.Context)"
+- "com.azure.security.attestation.AttestationAdministrationClient.resetAttestationPolicy(com.azure.security.attestation.models.AttestationType)"
+- "com.azure.security.attestation.AttestationAdministrationClient.resetAttestationPolicy(com.azure.security.attestation.models.AttestationType,com.azure.security.attestation.models.AttestationPolicySetOptions)"
+- "com.azure.security.attestation.AttestationAdministrationClient.resetAttestationPolicyWithResponse(com.azure.security.attestation.models.AttestationType,com.azure.security.attestation.models.AttestationPolicySetOptions,com.azure.core.util.Context)"
+- "com.azure.security.attestation.AttestationAdministrationClient.setAttestationPolicy(com.azure.security.attestation.models.AttestationType,com.azure.security.attestation.models.AttestationPolicySetOptions)"
+- "com.azure.security.attestation.AttestationAdministrationClient.setAttestationPolicy(com.azure.security.attestation.models.AttestationType,java.lang.String)"
+- "com.azure.security.attestation.AttestationAdministrationClient.setAttestationPolicyWithResponse(com.azure.security.attestation.models.AttestationType,com.azure.security.attestation.models.AttestationPolicySetOptions,com.azure.core.util.Context)"
+type: "class"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1

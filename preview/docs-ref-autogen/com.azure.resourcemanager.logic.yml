@@ -8,4 +8,4 @@ classes:
 - "com.azure.resourcemanager.logic.LogicManager.Configurable"
 metadata: {}
 package: "com.azure.resourcemanager.logic"
-artifact: com.azure.resourcemanager:azure-resourcemanager-logic:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-logic:1.0.0-alpha.20211116.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.AttestationSigningKey.setCertificate*"
+fullName: "com.azure.security.attestation.models.AttestationSigningKey.setCertificate"
+name: "setCertificate"
+nameWithType: "AttestationSigningKey.setCertificate"
+members:
+- uid: "com.azure.security.attestation.models.AttestationSigningKey.setCertificate(java.security.cert.X509Certificate)"
+  fullName: "com.azure.security.attestation.models.AttestationSigningKey.setCertificate(X509Certificate certificate)"
+  name: "setCertificate(X509Certificate certificate)"
+  nameWithType: "AttestationSigningKey.setCertificate(X509Certificate certificate)"
+  summary: "Sets the certificate in the signing key."
+  parameters:
+  - description: "Certificate to sign."
+    name: "certificate"
+    type: "<xref href=\"java.security.cert.X509Certificate?alt=java.security.cert.X509Certificate&text=X509Certificate\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationSigningKey setCertificate(X509Certificate certificate)"
+  returns:
+    description: "AttestationSigningKey"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationSigningKey?alt=com.azure.security.attestation.models.AttestationSigningKey&text=AttestationSigningKey\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211116.1
