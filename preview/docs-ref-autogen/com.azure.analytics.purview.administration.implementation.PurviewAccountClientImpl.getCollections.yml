@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.implementation.PurviewAccountClientImpl.getCollections*"
+fullName: "com.azure.analytics.purview.administration.implementation.PurviewAccountClientImpl.getCollections"
+name: "getCollections"
+nameWithType: "PurviewAccountClientImpl.getCollections"
+members:
+- uid: "com.azure.analytics.purview.administration.implementation.PurviewAccountClientImpl.getCollections()"
+  fullName: "com.azure.analytics.purview.administration.implementation.PurviewAccountClientImpl.getCollections()"
+  name: "getCollections()"
+  nameWithType: "PurviewAccountClientImpl.getCollections()"
+  summary: "Gets the CollectionsImpl object to access its operations."
+  syntax: "public CollectionsImpl getCollections()"
+  returns:
+    description: "the CollectionsImpl object."
+    type: "<xref href=\"com.azure.analytics.purview.administration.implementation.CollectionsImpl?alt=com.azure.analytics.purview.administration.implementation.CollectionsImpl&text=CollectionsImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration.implementation"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211118.1

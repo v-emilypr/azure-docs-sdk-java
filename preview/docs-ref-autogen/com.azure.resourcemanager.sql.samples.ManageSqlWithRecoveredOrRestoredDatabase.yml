@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.sql.samples.ManageSqlWithRecoveredOrRestoredDatabase"
+fullName: "com.azure.resourcemanager.sql.samples.ManageSqlWithRecoveredOrRestoredDatabase"
+name: "ManageSqlWithRecoveredOrRestoredDatabase"
+nameWithType: "ManageSqlWithRecoveredOrRestoredDatabase"
+summary: "Azure SQL sample for managing point in time restore and recover a deleted SQL Database - - Create a SQL Server with two database from a pre-existing sample. - Create a new database from a point in time restore - Delete a database then restore it from a recoverable dropped database automatic backup - Delete databases and SQL Server"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageSqlWithRecoveredOrRestoredDatabase"
+constructors:
+- "com.azure.resourcemanager.sql.samples.ManageSqlWithRecoveredOrRestoredDatabase.ManageSqlWithRecoveredOrRestoredDatabase()"
+methods:
+- "com.azure.resourcemanager.sql.samples.ManageSqlWithRecoveredOrRestoredDatabase.main(java.lang.String[])"
+- "com.azure.resourcemanager.sql.samples.ManageSqlWithRecoveredOrRestoredDatabase.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.sql.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211117.1

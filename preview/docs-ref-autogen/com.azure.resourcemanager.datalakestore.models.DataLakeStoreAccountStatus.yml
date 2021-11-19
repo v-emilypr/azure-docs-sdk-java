@@ -122,4 +122,4 @@ methods:
     type: "<xref href=\"com.azure.resourcemanager.datalakestore.models.DataLakeStoreAccountStatus?alt=com.azure.resourcemanager.datalakestore.models.DataLakeStoreAccountStatus&text=DataLakeStoreAccountStatus\" data-throw-if-not-resolved=\"False\" />[]"
 metadata: {}
 package: "com.azure.resourcemanager.datalakestore.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-datalakestore:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-datalakestore:1.0.0-alpha.20211118.1

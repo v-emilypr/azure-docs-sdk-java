@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientBuilder.pipeline*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientBuilder.pipeline"
+name: "pipeline"
+nameWithType: "MySqlManagementClientBuilder.pipeline"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientBuilder.pipeline(com.azure.core.http.HttpPipeline)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientBuilder.pipeline(HttpPipeline pipeline)"
+  name: "pipeline(HttpPipeline pipeline)"
+  nameWithType: "MySqlManagementClientBuilder.pipeline(HttpPipeline pipeline)"
+  summary: "Sets The HTTP pipeline to send requests through."
+  parameters:
+  - description: "the pipeline value."
+    name: "pipeline"
+    type: "<xref href=\"com.azure.core.http.HttpPipeline?alt=com.azure.core.http.HttpPipeline&text=HttpPipeline\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public MySqlManagementClientBuilder pipeline(HttpPipeline pipeline)"
+  returns:
+    description: "the MySqlManagementClientBuilder."
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientBuilder?alt=com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientBuilder&text=MySqlManagementClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211117.1

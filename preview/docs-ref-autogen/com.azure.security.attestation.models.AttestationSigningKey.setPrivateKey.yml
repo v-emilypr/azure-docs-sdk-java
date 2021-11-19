@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.AttestationSigningKey.setPrivateKey*"
+fullName: "com.azure.security.attestation.models.AttestationSigningKey.setPrivateKey"
+name: "setPrivateKey"
+nameWithType: "AttestationSigningKey.setPrivateKey"
+members:
+- uid: "com.azure.security.attestation.models.AttestationSigningKey.setPrivateKey(java.security.PrivateKey)"
+  fullName: "com.azure.security.attestation.models.AttestationSigningKey.setPrivateKey(PrivateKey privateKey)"
+  name: "setPrivateKey(PrivateKey privateKey)"
+  nameWithType: "AttestationSigningKey.setPrivateKey(PrivateKey privateKey)"
+  summary: "Sets the private key for the signing key."
+  parameters:
+  - description: "Private key to sign the certificate."
+    name: "privateKey"
+    type: "<xref href=\"java.security.PrivateKey?alt=java.security.PrivateKey&text=PrivateKey\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationSigningKey setPrivateKey(PrivateKey privateKey)"
+  returns:
+    description: "AttestationSigningKey."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationSigningKey?alt=com.azure.security.attestation.models.AttestationSigningKey&text=AttestationSigningKey\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211118.1

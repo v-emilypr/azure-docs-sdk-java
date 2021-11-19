@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.DtmiConventions.getModelPath*"
+fullName: "com.azure.iot.modelsrepository.DtmiConventions.getModelPath"
+name: "getModelPath"
+nameWithType: "DtmiConventions.getModelPath"
+members:
+- uid: "com.azure.iot.modelsrepository.DtmiConventions.getModelPath(java.lang.String,boolean)"
+  fullName: "com.azure.iot.modelsrepository.DtmiConventions.getModelPath(String dtmi, boolean expanded)"
+  name: "getModelPath(String dtmi, boolean expanded)"
+  nameWithType: "DtmiConventions.getModelPath(String dtmi, boolean expanded)"
+  summary: "Generates the model path."
+  parameters:
+  - description: "DigitalTwin Model Id."
+    name: "dtmi"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Is model from precomputed values"
+    name: "expanded"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static String getModelPath(String dtmi, boolean expanded)"
+  returns:
+    description: "The model path."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.iot.modelsrepository"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211117.1

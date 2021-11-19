@@ -62,6 +62,10 @@ fields:
   fullName: "com.azure.storage.file.share.ShareServiceVersion.V2020_12_06"
   name: "V2020_12_06"
   nameWithType: "ShareServiceVersion.V2020_12_06"
+- uid: "com.azure.storage.file.share.ShareServiceVersion.V2021_02_12"
+  fullName: "com.azure.storage.file.share.ShareServiceVersion.V2021_02_12"
+  name: "V2021_02_12"
+  nameWithType: "ShareServiceVersion.V2021_02_12"
 methods:
 - uid: "com.azure.storage.file.share.ShareServiceVersion.getLatest()"
   fullName: "com.azure.storage.file.share.ShareServiceVersion.getLatest()"
@@ -100,4 +104,4 @@ implements:
 - "<xref href=\"com.azure.core.util.ServiceVersion?alt=com.azure.core.util.ServiceVersion&text=ServiceVersion\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.storage.file.share"
-artifact: com.azure:azure-storage-file-share:12.12.0-beta.1
+artifact: com.azure:azure-storage-file-share:12.12.0-alpha.20211118.1

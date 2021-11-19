@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.innerModel*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.innerModel"
+name: "innerModel"
+nameWithType: "ServerBackupImpl.innerModel"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.innerModel()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.innerModel()"
+  name: "innerModel()"
+  nameWithType: "ServerBackupImpl.innerModel()"
+  summary: "Gets the inner com.azure.resourcemanager.mysqlflexibleserver.fluent.models.ServerBackupInner object."
+  syntax: "public ServerBackupInner innerModel()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.fluent.models.ServerBackupInner?alt=com.azure.resourcemanager.mysqlflexibleserver.fluent.models.ServerBackupInner&text=ServerBackupInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211117.1

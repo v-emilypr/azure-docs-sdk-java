@@ -33,7 +33,8 @@ fields:
 - "com.azure.iot.modelsrepository.implementation.ModelsRepositoryConstants.HTTP"
 - "com.azure.iot.modelsrepository.implementation.ModelsRepositoryConstants.JSON_EXPANDED_EXTENSION"
 - "com.azure.iot.modelsrepository.implementation.ModelsRepositoryConstants.JSON_EXTENSION"
+- "com.azure.iot.modelsrepository.implementation.ModelsRepositoryConstants.MODELS_REPOSITORY_METADATA_FILE"
 type: "class"
 metadata: {}
 package: "com.azure.iot.modelsrepository.implementation"
-artifact: com.azure:azure-iot-modelsrepository:1.0.0-beta.1
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211117.1

@@ -15,9 +15,9 @@ members:
     type: "<xref href=\"com.azure.core.http.policy.HttpPipelinePolicy?alt=com.azure.core.http.policy.HttpPipelinePolicy&text=HttpPipelinePolicy\" data-throw-if-not-resolved=\"False\" />"
   syntax: "public AttestationClientBuilder addPolicy(HttpPipelinePolicy customPolicy)"
   returns:
-    description: "the AttestationClientBuilder."
+    description: "this <xref uid=\"com.azure.security.attestation.AttestationClientBuilder\" data-throw-if-not-resolved=\"false\" data-raw-source=\"AttestationClientBuilder\"></xref>."
     type: "<xref href=\"com.azure.security.attestation.AttestationClientBuilder?alt=com.azure.security.attestation.AttestationClientBuilder&text=AttestationClientBuilder\" data-throw-if-not-resolved=\"False\" />"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211118.1

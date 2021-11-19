@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.fromGeneratedAttestationResult*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.fromGeneratedAttestationResult"
+name: "fromGeneratedAttestationResult"
+nameWithType: "AttestationResultImpl.fromGeneratedAttestationResult"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.fromGeneratedAttestationResult(com.azure.security.attestation.implementation.models.AttestationResult)"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.fromGeneratedAttestationResult(AttestationResult generated)"
+  name: "fromGeneratedAttestationResult(AttestationResult generated)"
+  nameWithType: "AttestationResultImpl.fromGeneratedAttestationResult(AttestationResult generated)"
+  summary: "Return a public attestation result from the generated result."
+  parameters:
+  - description: "- Generated result."
+    name: "generated"
+    type: "<xref href=\"com.azure.security.attestation.implementation.models.AttestationResult?alt=com.azure.security.attestation.implementation.models.AttestationResult&text=AttestationResult\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static AttestationResult fromGeneratedAttestationResult(AttestationResult generated)"
+  returns:
+    description: "Public result."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationResult?alt=com.azure.security.attestation.models.AttestationResult&text=AttestationResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211118.1

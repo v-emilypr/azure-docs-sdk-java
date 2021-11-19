@@ -1,0 +1,33 @@
+### YamlMime:JavaType
+uid: "com.azure.iot.modelsrepository.implementation.models.FetchModelResult"
+fullName: "com.azure.iot.modelsrepository.implementation.models.FetchModelResult"
+name: "FetchModelResult"
+nameWithType: "FetchModelResult"
+summary: "The <xref uid=\"com.azure.iot.modelsrepository.implementation.models.FetchModelResult\" data-throw-if-not-resolved=\"false\" data-raw-source=\"FetchModelResult\"></xref> class has the purpose of containing key elements of an IModelFetcher Fetch() operation including model definition, path and whether it was from an expanded (pre-calculated) fetch."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class FetchModelResult"
+constructors:
+- "com.azure.iot.modelsrepository.implementation.models.FetchModelResult.FetchModelResult()"
+methods:
+- "com.azure.iot.modelsrepository.implementation.models.FetchModelResult.getDefinition()"
+- "com.azure.iot.modelsrepository.implementation.models.FetchModelResult.getPath()"
+- "com.azure.iot.modelsrepository.implementation.models.FetchModelResult.isFromExpanded()"
+- "com.azure.iot.modelsrepository.implementation.models.FetchModelResult.setDefinition(java.lang.String)"
+- "com.azure.iot.modelsrepository.implementation.models.FetchModelResult.setPath(java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211117.1

@@ -36,4 +36,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.resourcemanager.datamigration.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-datamigration:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-datamigration:1.0.0-alpha.20211117.1

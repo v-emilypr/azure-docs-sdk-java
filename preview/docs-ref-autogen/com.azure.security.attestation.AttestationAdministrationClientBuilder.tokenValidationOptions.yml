@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationAdministrationClientBuilder.tokenValidationOptions*"
+fullName: "com.azure.security.attestation.AttestationAdministrationClientBuilder.tokenValidationOptions"
+name: "tokenValidationOptions"
+nameWithType: "AttestationAdministrationClientBuilder.tokenValidationOptions"
+members:
+- uid: "com.azure.security.attestation.AttestationAdministrationClientBuilder.tokenValidationOptions(com.azure.security.attestation.models.AttestationTokenValidationOptions)"
+  fullName: "com.azure.security.attestation.AttestationAdministrationClientBuilder.tokenValidationOptions(AttestationTokenValidationOptions tokenValidationOptions)"
+  name: "tokenValidationOptions(AttestationTokenValidationOptions tokenValidationOptions)"
+  nameWithType: "AttestationAdministrationClientBuilder.tokenValidationOptions(AttestationTokenValidationOptions tokenValidationOptions)"
+  summary: "Sets <xref uid=\"com.azure.security.attestation.models.AttestationToken\" data-throw-if-not-resolved=\"false\" data-raw-source=\"com.azure.security.attestation.models.AttestationToken\"></xref> validation options for clients created from this builder."
+  parameters:
+  - description: "- Validation options to use on APIs which interact with the attestation service."
+    name: "tokenValidationOptions"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationTokenValidationOptions?alt=com.azure.security.attestation.models.AttestationTokenValidationOptions&text=AttestationTokenValidationOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationAdministrationClientBuilder tokenValidationOptions(AttestationTokenValidationOptions tokenValidationOptions)"
+  returns:
+    description: "this <xref uid=\"com.azure.security.attestation.AttestationAdministrationClientBuilder\" data-throw-if-not-resolved=\"false\" data-raw-source=\"AttestationAdministrationClientBuilder\"></xref>"
+    type: "<xref href=\"com.azure.security.attestation.AttestationAdministrationClientBuilder?alt=com.azure.security.attestation.AttestationAdministrationClientBuilder&text=AttestationAdministrationClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211118.1

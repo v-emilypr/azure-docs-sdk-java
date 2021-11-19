@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getCertificateChain*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getCertificateChain"
+name: "getCertificateChain"
+nameWithType: "AttestationTokenImpl.getCertificateChain"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getCertificateChain()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getCertificateChain()"
+  name: "getCertificateChain()"
+  nameWithType: "AttestationTokenImpl.getCertificateChain()"
+  summary: "Returns the signing certificate chain as an AttestationSigner."
+  syntax: "public AttestationSigner getCertificateChain()"
+  returns:
+    description: "an AttestationSigner encapsulating the certificate chain."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationSigner?alt=com.azure.security.attestation.models.AttestationSigner&text=AttestationSigner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211118.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.serviceVersion*"
+fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.serviceVersion"
+name: "serviceVersion"
+nameWithType: "PurviewAccountClientBuilder.serviceVersion"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.serviceVersion(com.azure.analytics.purview.administration.PurviewAccountServiceVersion)"
+  fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.serviceVersion(PurviewAccountServiceVersion serviceVersion)"
+  name: "serviceVersion(PurviewAccountServiceVersion serviceVersion)"
+  nameWithType: "PurviewAccountClientBuilder.serviceVersion(PurviewAccountServiceVersion serviceVersion)"
+  summary: "Sets Service version."
+  parameters:
+  - description: "the serviceVersion value."
+    name: "serviceVersion"
+    type: "<xref href=\"com.azure.analytics.purview.administration.PurviewAccountServiceVersion?alt=com.azure.analytics.purview.administration.PurviewAccountServiceVersion&text=PurviewAccountServiceVersion\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PurviewAccountClientBuilder serviceVersion(PurviewAccountServiceVersion serviceVersion)"
+  returns:
+    description: "the PurviewAccountClientBuilder."
+    type: "<xref href=\"com.azure.analytics.purview.administration.PurviewAccountClientBuilder?alt=com.azure.analytics.purview.administration.PurviewAccountClientBuilder&text=PurviewAccountClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211118.1

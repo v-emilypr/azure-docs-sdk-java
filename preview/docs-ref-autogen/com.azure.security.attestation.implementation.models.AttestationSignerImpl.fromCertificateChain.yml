@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromCertificateChain*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromCertificateChain"
+name: "fromCertificateChain"
+nameWithType: "AttestationSignerImpl.fromCertificateChain"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromCertificateChain(java.util.List<com.nimbusds.jose.util.Base64>)"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromCertificateChain(List<Base64> certificateChain)"
+  name: "fromCertificateChain(List<Base64> certificateChain)"
+  nameWithType: "AttestationSignerImpl.fromCertificateChain(List<Base64> certificateChain)"
+  summary: "Create this signer from a base64 encoded certificate chain."
+  parameters:
+  - description: "Certificate chain holding the certificates to return."
+    name: "certificateChain"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.nimbusds.jose.util.Base64?alt=com.nimbusds.jose.util.Base64&text=Base64\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public static AttestationSigner fromCertificateChain(List<Base64> certificateChain)"
+  returns:
+    description: "An attestation signer associated with the specified certificate chain."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationSigner?alt=com.azure.security.attestation.models.AttestationSigner&text=AttestationSigner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211118.1

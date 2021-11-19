@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getExpiresOn*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getExpiresOn"
+name: "getExpiresOn"
+nameWithType: "AttestationResultImpl.getExpiresOn"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getExpiresOn()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getExpiresOn()"
+  name: "getExpiresOn()"
+  nameWithType: "AttestationResultImpl.getExpiresOn()"
+  summary: "Get the exp property: The expiration time after which the token is no longer valid, in the number of seconds since 1970-01-0T00:00:00Z UTC."
+  syntax: "public Instant getExpiresOn()"
+  returns:
+    description: "the exp value."
+    type: "<xref href=\"java.time.Instant?alt=java.time.Instant&text=Instant\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211118.1

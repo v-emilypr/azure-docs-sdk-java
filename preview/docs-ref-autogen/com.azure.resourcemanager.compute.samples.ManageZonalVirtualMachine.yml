@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.compute.samples.ManageZonalVirtualMachine"
+fullName: "com.azure.resourcemanager.compute.samples.ManageZonalVirtualMachine"
+name: "ManageZonalVirtualMachine"
+nameWithType: "ManageZonalVirtualMachine"
+summary: "Azure Compute sample for managing virtual machines - - Create a zonal virtual machine with implicitly zoned related resources (PublicIP, Disk) - Creates a zonal PublicIP address - Creates a zonal managed data disk - Create a zonal virtual machine and associate explicitly created zonal PublicIP and data disk."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageZonalVirtualMachine"
+methods:
+- "com.azure.resourcemanager.compute.samples.ManageZonalVirtualMachine.main(java.lang.String[])"
+- "com.azure.resourcemanager.compute.samples.ManageZonalVirtualMachine.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.compute.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211117.1

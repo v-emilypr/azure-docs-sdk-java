@@ -27,4 +27,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.azurestackhci.fluent.OperationsClient?alt=com.azure.resourcemanager.azurestackhci.fluent.OperationsClient&text=OperationsClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.azurestackhci.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-azurestackhci:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-azurestackhci:1.0.0-alpha.20211118.1

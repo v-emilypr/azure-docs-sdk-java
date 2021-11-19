@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.failover*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.failover"
+name: "failover"
+nameWithType: "ServerImpl.failover"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.failover()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.failover()"
+  name: "failover()"
+  nameWithType: "ServerImpl.failover()"
+  summary: "Manual failover a server."
+  syntax: "public void failover()"
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.failover(com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.failover(Context context)"
+  name: "failover(Context context)"
+  nameWithType: "ServerImpl.failover(Context context)"
+  summary: "Manual failover a server."
+  parameters:
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void failover(Context context)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211117.1

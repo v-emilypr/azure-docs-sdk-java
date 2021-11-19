@@ -1,0 +1,32 @@
+### YamlMime:JavaType
+uid: "com.azure.analytics.purview.administration.CollectionsAsyncClient"
+fullName: "com.azure.analytics.purview.administration.CollectionsAsyncClient"
+name: "CollectionsAsyncClient"
+nameWithType: "CollectionsAsyncClient"
+summary: "Initializes a new instance of the asynchronous PurviewAccountClient type."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class CollectionsAsyncClient"
+methods:
+- "com.azure.analytics.purview.administration.CollectionsAsyncClient.createOrUpdateCollectionWithResponse(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.CollectionsAsyncClient.deleteCollectionWithResponse(java.lang.String,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.CollectionsAsyncClient.getCollectionPathWithResponse(java.lang.String,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.CollectionsAsyncClient.getCollectionWithResponse(java.lang.String,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.CollectionsAsyncClient.listChildCollectionNames(java.lang.String,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.CollectionsAsyncClient.listCollections(com.azure.core.http.rest.RequestOptions)"
+type: "class"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211118.1

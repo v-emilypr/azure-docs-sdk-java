@@ -56,4 +56,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.peering.models.PeeringService?alt=com.azure.resourcemanager.peering.models.PeeringService&text=PeeringService\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.peering.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-peering:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-peering:1.0.0-alpha.20211118.1

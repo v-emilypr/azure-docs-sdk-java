@@ -1,0 +1,32 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey"
+fullName: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey"
+name: "SSHShell.SshPublicPrivateKey"
+nameWithType: "SSHShell.SshPublicPrivateKey"
+summary: "Internal class to retain the generate SSH keys."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public static class SSHShell.SshPublicPrivateKey"
+constructors:
+- "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.SshPublicPrivateKey(java.lang.String,java.lang.String)"
+methods:
+- "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.getSshPrivateKey()"
+- "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.getSshPublicKey()"
+- "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.setSshPrivateKey(java.lang.String)"
+- "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.setSshPublicKey(java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211117.1

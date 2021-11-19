@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.retryPolicy*"
+fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.retryPolicy"
+name: "retryPolicy"
+nameWithType: "PurviewMetadataClientBuilder.retryPolicy"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.retryPolicy(com.azure.core.http.policy.RetryPolicy)"
+  fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.retryPolicy(RetryPolicy retryPolicy)"
+  name: "retryPolicy(RetryPolicy retryPolicy)"
+  nameWithType: "PurviewMetadataClientBuilder.retryPolicy(RetryPolicy retryPolicy)"
+  summary: "Sets The retry policy that will attempt to retry failed requests, if applicable."
+  parameters:
+  - description: "the retryPolicy value."
+    name: "retryPolicy"
+    type: "<xref href=\"com.azure.core.http.policy.RetryPolicy?alt=com.azure.core.http.policy.RetryPolicy&text=RetryPolicy\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PurviewMetadataClientBuilder retryPolicy(RetryPolicy retryPolicy)"
+  returns:
+    description: "the PurviewMetadataClientBuilder."
+    type: "<xref href=\"com.azure.analytics.purview.administration.PurviewMetadataClientBuilder?alt=com.azure.analytics.purview.administration.PurviewMetadataClientBuilder&text=PurviewMetadataClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211118.1

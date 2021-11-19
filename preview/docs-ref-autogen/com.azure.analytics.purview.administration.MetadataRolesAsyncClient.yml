@@ -1,0 +1,27 @@
+### YamlMime:JavaType
+uid: "com.azure.analytics.purview.administration.MetadataRolesAsyncClient"
+fullName: "com.azure.analytics.purview.administration.MetadataRolesAsyncClient"
+name: "MetadataRolesAsyncClient"
+nameWithType: "MetadataRolesAsyncClient"
+summary: "Initializes a new instance of the asynchronous PurviewMetadataClient type."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class MetadataRolesAsyncClient"
+methods:
+- "com.azure.analytics.purview.administration.MetadataRolesAsyncClient.list(com.azure.core.http.rest.RequestOptions)"
+type: "class"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211118.1

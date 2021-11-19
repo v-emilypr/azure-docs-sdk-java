@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.monitor.samples.WebAppPerformanceMonitoringAlerts.WebAppPerformanceMonitoringAlerts*"
+fullName: "com.azure.resourcemanager.monitor.samples.WebAppPerformanceMonitoringAlerts.WebAppPerformanceMonitoringAlerts"
+name: "WebAppPerformanceMonitoringAlerts"
+nameWithType: "WebAppPerformanceMonitoringAlerts.WebAppPerformanceMonitoringAlerts"
+members:
+- uid: "com.azure.resourcemanager.monitor.samples.WebAppPerformanceMonitoringAlerts.WebAppPerformanceMonitoringAlerts()"
+  fullName: "com.azure.resourcemanager.monitor.samples.WebAppPerformanceMonitoringAlerts.WebAppPerformanceMonitoringAlerts()"
+  name: "WebAppPerformanceMonitoringAlerts()"
+  nameWithType: "WebAppPerformanceMonitoringAlerts.WebAppPerformanceMonitoringAlerts()"
+  syntax: "public WebAppPerformanceMonitoringAlerts()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.monitor.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211117.1

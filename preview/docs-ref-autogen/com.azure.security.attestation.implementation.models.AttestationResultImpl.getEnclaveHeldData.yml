@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getEnclaveHeldData*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getEnclaveHeldData"
+name: "getEnclaveHeldData"
+nameWithType: "AttestationResultImpl.getEnclaveHeldData"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getEnclaveHeldData()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getEnclaveHeldData()"
+  name: "getEnclaveHeldData()"
+  nameWithType: "AttestationResultImpl.getEnclaveHeldData()"
+  summary: "Get the enclaveHeldData property: A copy of the RuntimeData specified as an input to the attest call."
+  syntax: "public BinaryData getEnclaveHeldData()"
+  returns:
+    description: "the enclaveHeldData value."
+    type: "<xref href=\"com.azure.core.util.BinaryData?alt=com.azure.core.util.BinaryData&text=BinaryData\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211118.1

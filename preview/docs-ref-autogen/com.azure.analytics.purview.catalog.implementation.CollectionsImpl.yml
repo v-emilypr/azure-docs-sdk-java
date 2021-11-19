@@ -20,16 +20,16 @@ inheritedMembers:
 - "java.lang.Object.wait(long,int)"
 syntax: "public final class CollectionsImpl"
 methods:
-- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.moveEntitiesToCollectionWithResponse(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.createOrUpdateBulkWithResponse(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.createOrUpdateBulkWithResponseAsync(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.createOrUpdateBulkWithResponseAsync(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.createOrUpdateWithResponse(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.createOrUpdateWithResponseAsync(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.createOrUpdateWithResponseAsync(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.moveEntitiesToCollectionWithResponse(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
 - "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.moveEntitiesToCollectionWithResponseAsync(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
 - "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.moveEntitiesToCollectionWithResponseAsync(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.upsertBulkWithResponse(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.upsertBulkWithResponseAsync(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
-- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.upsertBulkWithResponseAsync(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.upsertWithResponse(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.upsertWithResponseAsync(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
-- "com.azure.analytics.purview.catalog.implementation.CollectionsImpl.upsertWithResponseAsync(java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
 type: "class"
 metadata: {}
 package: "com.azure.analytics.purview.catalog.implementation"
-artifact: com.azure:azure-analytics-purview-catalog:1.0.0-beta.2
+artifact: com.azure:azure-analytics-purview-catalog:1.0.0-alpha.20211118.1

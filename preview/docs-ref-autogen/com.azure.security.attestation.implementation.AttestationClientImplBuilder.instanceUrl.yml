@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.instanceUrl*"
+fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.instanceUrl"
+name: "instanceUrl"
+nameWithType: "AttestationClientImplBuilder.instanceUrl"
+members:
+- uid: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.instanceUrl(java.lang.String)"
+  fullName: "com.azure.security.attestation.implementation.AttestationClientImplBuilder.instanceUrl(String instanceUrl)"
+  name: "instanceUrl(String instanceUrl)"
+  nameWithType: "AttestationClientImplBuilder.instanceUrl(String instanceUrl)"
+  summary: "Sets The attestation instance base URI, for example https://mytenant.attest.azure.net."
+  parameters:
+  - description: "the instanceUrl value."
+    name: "instanceUrl"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationClientImplBuilder instanceUrl(String instanceUrl)"
+  returns:
+    description: "the AttestationClientImplBuilder."
+    type: "<xref href=\"com.azure.security.attestation.implementation.AttestationClientImplBuilder?alt=com.azure.security.attestation.implementation.AttestationClientImplBuilder&text=AttestationClientImplBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211118.1

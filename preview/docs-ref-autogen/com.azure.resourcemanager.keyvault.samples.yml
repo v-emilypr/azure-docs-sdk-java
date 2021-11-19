@@ -1,0 +1,10 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.keyvault.samples"
+fullName: "com.azure.resourcemanager.keyvault.samples"
+name: "com.azure.resourcemanager.keyvault.samples"
+summary: "This package contains the classes for key vault samples."
+classes:
+- "com.azure.resourcemanager.keyvault.samples.ManageKeyVault"
+metadata: {}
+package: "com.azure.resourcemanager.keyvault.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211117.1

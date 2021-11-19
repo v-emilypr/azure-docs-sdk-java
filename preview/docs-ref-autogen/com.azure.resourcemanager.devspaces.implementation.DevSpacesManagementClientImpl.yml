@@ -37,4 +37,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.devspaces.fluent.DevSpacesManagementClient?alt=com.azure.resourcemanager.devspaces.fluent.DevSpacesManagementClient&text=DevSpacesManagementClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.devspaces.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-devspaces:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-devspaces:1.0.0-alpha.20211117.1

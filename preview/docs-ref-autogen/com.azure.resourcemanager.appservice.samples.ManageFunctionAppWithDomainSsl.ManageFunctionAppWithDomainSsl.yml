@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppWithDomainSsl.ManageFunctionAppWithDomainSsl*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppWithDomainSsl.ManageFunctionAppWithDomainSsl"
+name: "ManageFunctionAppWithDomainSsl"
+nameWithType: "ManageFunctionAppWithDomainSsl.ManageFunctionAppWithDomainSsl"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppWithDomainSsl.ManageFunctionAppWithDomainSsl()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppWithDomainSsl.ManageFunctionAppWithDomainSsl()"
+  name: "ManageFunctionAppWithDomainSsl()"
+  nameWithType: "ManageFunctionAppWithDomainSsl.ManageFunctionAppWithDomainSsl()"
+  syntax: "public ManageFunctionAppWithDomainSsl()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211117.1

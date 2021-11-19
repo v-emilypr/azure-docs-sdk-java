@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppStorageAccountConnection"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppStorageAccountConnection"
+name: "ManageLinuxWebAppStorageAccountConnection"
+nameWithType: "ManageLinuxWebAppStorageAccountConnection"
+summary: "Azure App Service basic sample for managing web apps. - Create a storage account and upload a couple blobs - Create a web app that contains the connection string to the storage account - Deploy a Tomcat application that reads from the storage account - Clean up"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageLinuxWebAppStorageAccountConnection"
+constructors:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppStorageAccountConnection.ManageLinuxWebAppStorageAccountConnection()"
+methods:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppStorageAccountConnection.main(java.lang.String[])"
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppStorageAccountConnection.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211117.1

@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withReplicationRole*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withReplicationRole"
+name: "withReplicationRole"
+nameWithType: "ServerImpl.withReplicationRole"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withReplicationRole(com.azure.resourcemanager.mysqlflexibleserver.models.ReplicationRole)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withReplicationRole(ReplicationRole replicationRole)"
+  name: "withReplicationRole(ReplicationRole replicationRole)"
+  nameWithType: "ServerImpl.withReplicationRole(ReplicationRole replicationRole)"
+  summary: "Specifies the replicationRole property: The replication role.."
+  parameters:
+  - name: "replicationRole"
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.ReplicationRole?alt=com.azure.resourcemanager.mysqlflexibleserver.models.ReplicationRole&text=ReplicationRole\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ServerImpl withReplicationRole(ReplicationRole replicationRole)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl?alt=com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl&text=ServerImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211117.1

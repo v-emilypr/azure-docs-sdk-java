@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppStorageAccountConnection.ManageLinuxWebAppStorageAccountConnection*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppStorageAccountConnection.ManageLinuxWebAppStorageAccountConnection"
+name: "ManageLinuxWebAppStorageAccountConnection"
+nameWithType: "ManageLinuxWebAppStorageAccountConnection.ManageLinuxWebAppStorageAccountConnection"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppStorageAccountConnection.ManageLinuxWebAppStorageAccountConnection()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppStorageAccountConnection.ManageLinuxWebAppStorageAccountConnection()"
+  name: "ManageLinuxWebAppStorageAccountConnection()"
+  nameWithType: "ManageLinuxWebAppStorageAccountConnection.ManageLinuxWebAppStorageAccountConnection()"
+  syntax: "public ManageLinuxWebAppStorageAccountConnection()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211117.1

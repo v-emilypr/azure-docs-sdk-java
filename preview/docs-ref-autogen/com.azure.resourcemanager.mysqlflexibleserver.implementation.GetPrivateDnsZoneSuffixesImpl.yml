@@ -1,0 +1,31 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixesImpl"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixesImpl"
+name: "GetPrivateDnsZoneSuffixesImpl"
+nameWithType: "GetPrivateDnsZoneSuffixesImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class GetPrivateDnsZoneSuffixesImpl implements GetPrivateDnsZoneSuffixes"
+constructors:
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixesImpl.GetPrivateDnsZoneSuffixesImpl(com.azure.resourcemanager.mysqlflexibleserver.fluent.GetPrivateDnsZoneSuffixesClient,com.azure.resourcemanager.mysqlflexibleserver.MySqlManager)"
+methods:
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixesImpl.execute()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixesImpl.executeWithResponse(com.azure.core.util.Context)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.GetPrivateDnsZoneSuffixes?alt=com.azure.resourcemanager.mysqlflexibleserver.models.GetPrivateDnsZoneSuffixes&text=GetPrivateDnsZoneSuffixes\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211117.1

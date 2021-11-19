@@ -30,4 +30,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.commerce.models.ResourceRateCardInfo?alt=com.azure.resourcemanager.commerce.models.ResourceRateCardInfo&text=ResourceRateCardInfo\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.commerce.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-commerce:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-commerce:1.0.0-alpha.20211117.1

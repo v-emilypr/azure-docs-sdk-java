@@ -72,4 +72,4 @@ methods:
     type: "<xref href=\"com.azure.resourcemanager.mixedreality.models.ResourceIdentityType?alt=com.azure.resourcemanager.mixedreality.models.ResourceIdentityType&text=ResourceIdentityType\" data-throw-if-not-resolved=\"False\" />[]"
 metadata: {}
 package: "com.azure.resourcemanager.mixedreality.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-mixedreality:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-mixedreality:1.0.0-alpha.20211117.1

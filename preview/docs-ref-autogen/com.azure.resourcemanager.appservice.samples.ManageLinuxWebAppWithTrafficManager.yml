@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithTrafficManager"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithTrafficManager"
+name: "ManageLinuxWebAppWithTrafficManager"
+nameWithType: "ManageLinuxWebAppWithTrafficManager"
+summary: "Azure App Service sample for managing web apps. - Create a domain - Create a self-signed certificate for the domain - Create 3 app service plans in 3 different regions - Create 5 web apps under the 3 plans, bound to the domain and the certificate - Create a traffic manager in front of the web apps - Scale up the app service plans to twice the capacity"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageLinuxWebAppWithTrafficManager"
+constructors:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithTrafficManager.ManageLinuxWebAppWithTrafficManager()"
+methods:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithTrafficManager.main(java.lang.String[])"
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppWithTrafficManager.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211117.1

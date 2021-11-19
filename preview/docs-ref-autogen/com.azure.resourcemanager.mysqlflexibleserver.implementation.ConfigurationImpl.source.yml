@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationImpl.source*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationImpl.source"
+name: "source"
+nameWithType: "ConfigurationImpl.source"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationImpl.source()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationImpl.source()"
+  name: "source()"
+  nameWithType: "ConfigurationImpl.source()"
+  summary: "Gets the source property: Source of the configuration."
+  syntax: "public ConfigurationSource source()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationSource?alt=com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationSource&text=ConfigurationSource\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211117.1

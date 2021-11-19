@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationClient.listAttestationSigners*"
+fullName: "com.azure.security.attestation.AttestationClient.listAttestationSigners"
+name: "listAttestationSigners"
+nameWithType: "AttestationClient.listAttestationSigners"
+members:
+- uid: "com.azure.security.attestation.AttestationClient.listAttestationSigners()"
+  fullName: "com.azure.security.attestation.AttestationClient.listAttestationSigners()"
+  name: "listAttestationSigners()"
+  nameWithType: "AttestationClient.listAttestationSigners()"
+  summary: "Retrieves the list of <xref uid=\"com.azure.security.attestation.models.AttestationSigner\" data-throw-if-not-resolved=\"false\" data-raw-source=\"AttestationSigner\"></xref> objects associated with this attestation instance. An <xref uid=\"com.azure.security.attestation.models.AttestationSigner\" data-throw-if-not-resolved=\"false\" data-raw-source=\"AttestationSigner\"></xref> represents an X.509 certificate chain and KeyId which can be used to validate an attestation token returned by the service."
+  syntax: "public List<AttestationSigner> listAttestationSigners()"
+  returns:
+    description: "Returns an array of <xref uid=\"com.azure.security.attestation.models.AttestationSigner\" data-throw-if-not-resolved=\"false\" data-raw-source=\"AttestationSigner\"></xref> objects."
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.AttestationSigner?alt=com.azure.security.attestation.models.AttestationSigner&text=AttestationSigner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211118.1

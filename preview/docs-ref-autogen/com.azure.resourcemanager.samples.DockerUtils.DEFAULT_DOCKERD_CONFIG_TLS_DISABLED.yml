@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.DockerUtils.DEFAULT_DOCKERD_CONFIG_TLS_DISABLED*"
+fullName: "com.azure.resourcemanager.samples.DockerUtils.DEFAULT_DOCKERD_CONFIG_TLS_DISABLED"
+name: "DEFAULT_DOCKERD_CONFIG_TLS_DISABLED"
+nameWithType: "DockerUtils.DEFAULT_DOCKERD_CONFIG_TLS_DISABLED"
+members:
+- uid: "com.azure.resourcemanager.samples.DockerUtils.DEFAULT_DOCKERD_CONFIG_TLS_DISABLED"
+  fullName: "com.azure.resourcemanager.samples.DockerUtils.DEFAULT_DOCKERD_CONFIG_TLS_DISABLED"
+  name: "DEFAULT_DOCKERD_CONFIG_TLS_DISABLED"
+  nameWithType: "DockerUtils.DEFAULT_DOCKERD_CONFIG_TLS_DISABLED"
+  summary: "Docker daemon config file allowing connections from any Docker client."
+  syntax: "public static final String DEFAULT_DOCKERD_CONFIG_TLS_DISABLED"
+type: "field"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211117.1

@@ -37,4 +37,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.dataprotection.models.BackupPolicies?alt=com.azure.resourcemanager.dataprotection.models.BackupPolicies&text=BackupPolicies\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.dataprotection.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-dataprotection:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-dataprotection:1.0.0-alpha.20211117.1

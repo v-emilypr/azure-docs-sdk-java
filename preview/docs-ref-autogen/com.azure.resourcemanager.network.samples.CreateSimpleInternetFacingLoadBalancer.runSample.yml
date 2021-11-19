@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.samples.CreateSimpleInternetFacingLoadBalancer.runSample*"
+fullName: "com.azure.resourcemanager.network.samples.CreateSimpleInternetFacingLoadBalancer.runSample"
+name: "runSample"
+nameWithType: "CreateSimpleInternetFacingLoadBalancer.runSample"
+members:
+- uid: "com.azure.resourcemanager.network.samples.CreateSimpleInternetFacingLoadBalancer.runSample(com.azure.resourcemanager.AzureResourceManager)"
+  fullName: "com.azure.resourcemanager.network.samples.CreateSimpleInternetFacingLoadBalancer.runSample(AzureResourceManager azureResourceManager)"
+  name: "runSample(AzureResourceManager azureResourceManager)"
+  nameWithType: "CreateSimpleInternetFacingLoadBalancer.runSample(AzureResourceManager azureResourceManager)"
+  summary: "Main function which runs the actual sample."
+  parameters:
+  - description: "instance of the azure client"
+    name: "azureResourceManager"
+    type: "<xref href=\"com.azure.resourcemanager.AzureResourceManager?alt=com.azure.resourcemanager.AzureResourceManager&text=AzureResourceManager\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static boolean runSample(AzureResourceManager azureResourceManager)"
+  returns:
+    description: "true if sample runs successfully"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211117.1

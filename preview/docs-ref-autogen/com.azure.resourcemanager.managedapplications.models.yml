@@ -92,4 +92,4 @@ interfaces:
 - "com.azure.resourcemanager.managedapplications.models.ResourceProviders"
 metadata: {}
 package: "com.azure.resourcemanager.managedapplications.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-managedapplications:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-managedapplications:1.0.0-alpha.20211117.1
