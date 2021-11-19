@@ -1,17 +1,17 @@
 ---
 title: Azure Purview Administration client library for Java
-keywords: Azure, java, SDK, API, azure-analytics-purview-administration, 
-author: ramya-rao-a
-ms.author: ramyar
-ms.date: 10/15/2021
+keywords: Azure, java, SDK, API, azure-analytics-purview-administration, purview
+author: maggiepint
+ms.author: magpint
+ms.date: 11/19/2021
 ms.topic: reference
 ms.prod: azure
 ms.technology: azure
 ms.devlang: java
-ms.service: 
+ms.service: purview
 ---
 
-# Azure Purview Administration client library for Java - Version 1.0.0-beta.1 
+# Azure Purview Administration client library for Java - Version 1.0.0-alpha.20211119.1 
 
 
 Azure Purview data plane administration. It supports data plane operations. It can manage account, collections, keys, resource set rule, metadata policy, metadata roles.
@@ -89,7 +89,7 @@ AccountsClient client = new PurviewAccountClientBuilder()
     .endpoint(System.getenv("ACCOUNT_ENDPOINT"))
     .credential(new DefaultAzureCredentialBuilder().build())
     .buildAccountsClient();
-BinaryData response = client.getAccountPropertiesWithResponse(null, null).getValue();
+BinaryData response = client.getAccountPropertiesWithResponse(null).getValue();
 ```
 
 ## Troubleshooting
@@ -114,8 +114,8 @@ This project has adopted the [Microsoft Open Source Code of Conduct][coc]. For m
 [azure_subscription]: https://azure.microsoft.com/free/
 [api_reference_doc]: https://azure.github.io/azure-sdk-for-java
 [product_documentation]: https://azure.microsoft.com/services/purview/
-[azure_identity]: https://github.com/Azure/azure-sdk-for-java/tree/azure-analytics-purview-administration_1.0.0-beta.1/sdk/identity/azure-identity
-[DefaultAzureCredential]: https://github.com/Azure/azure-sdk-for-java/blob/azure-analytics-purview-administration_1.0.0-beta.1/sdk/identity/azure-identity/README.md#defaultazurecredential
+[azure_identity]: https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/identity/azure-identity
+[DefaultAzureCredential]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/identity/azure-identity/README.md#defaultazurecredential
 [jdk_link]: https://docs.microsoft.com/java/azure/jdk/?view=azure-java-stable
 [package]: https://mvnrepository.com/artifact/com.azure/azure-analytics-purview-administration
 [protocol_method]: https://github.com/Azure/azure-sdk-for-java/wiki/Protocol-Methods
