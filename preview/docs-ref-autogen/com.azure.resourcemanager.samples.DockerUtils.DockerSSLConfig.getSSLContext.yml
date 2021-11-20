@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.DockerUtils.DockerSSLConfig.getSSLContext*"
+fullName: "com.azure.resourcemanager.samples.DockerUtils.DockerSSLConfig.getSSLContext"
+name: "getSSLContext"
+nameWithType: "DockerUtils.DockerSSLConfig.getSSLContext"
+members:
+- uid: "com.azure.resourcemanager.samples.DockerUtils.DockerSSLConfig.getSSLContext()"
+  fullName: "com.azure.resourcemanager.samples.DockerUtils.DockerSSLConfig.getSSLContext()"
+  name: "getSSLContext()"
+  nameWithType: "DockerUtils.DockerSSLConfig.getSSLContext()"
+  syntax: "public SSLContext getSSLContext()"
+  returns:
+    type: "<xref href=\"javax.net.ssl.SSLContext?alt=javax.net.ssl.SSLContext&text=SSLContext\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

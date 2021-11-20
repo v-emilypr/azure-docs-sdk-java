@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataPolicyAsyncClient*"
+fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataPolicyAsyncClient"
+name: "buildMetadataPolicyAsyncClient"
+nameWithType: "PurviewMetadataClientBuilder.buildMetadataPolicyAsyncClient"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataPolicyAsyncClient()"
+  fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataPolicyAsyncClient()"
+  name: "buildMetadataPolicyAsyncClient()"
+  nameWithType: "PurviewMetadataClientBuilder.buildMetadataPolicyAsyncClient()"
+  summary: "Builds an instance of MetadataPolicyAsyncClient async client."
+  syntax: "public MetadataPolicyAsyncClient buildMetadataPolicyAsyncClient()"
+  returns:
+    description: "an instance of MetadataPolicyAsyncClient."
+    type: "<xref href=\"com.azure.analytics.purview.administration.MetadataPolicyAsyncClient?alt=com.azure.analytics.purview.administration.MetadataPolicyAsyncClient&text=MetadataPolicyAsyncClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211119.1

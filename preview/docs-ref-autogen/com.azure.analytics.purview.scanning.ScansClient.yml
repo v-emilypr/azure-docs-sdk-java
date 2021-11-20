@@ -20,11 +20,11 @@ inheritedMembers:
 - "java.lang.Object.wait(long,int)"
 syntax: "public final class ScansClient"
 methods:
-- "com.azure.analytics.purview.scanning.ScansClient.deleteWithResponse(java.lang.String,java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.scanning.ScansClient.getWithResponse(java.lang.String,java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.scanning.ScansClient.listByDataSource(java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.scanning.ScansClient.upsertWithResponse(java.lang.String,java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+- "com.azure.analytics.purview.scanning.ScansClient.createOrUpdateWithResponse(java.lang.String,java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.scanning.ScansClient.deleteWithResponse(java.lang.String,java.lang.String,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.scanning.ScansClient.getWithResponse(java.lang.String,java.lang.String,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.scanning.ScansClient.listByDataSource(java.lang.String,com.azure.core.http.rest.RequestOptions)"
 type: "class"
 metadata: {}
 package: "com.azure.analytics.purview.scanning"
-artifact: com.azure:azure-analytics-purview-scanning:1.0.0-beta.2
+artifact: com.azure:azure-analytics-purview-scanning:1.0.0-alpha.20211119.1

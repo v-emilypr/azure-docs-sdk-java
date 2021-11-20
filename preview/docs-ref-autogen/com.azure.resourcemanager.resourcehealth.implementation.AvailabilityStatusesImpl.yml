@@ -34,4 +34,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.resourcehealth.models.AvailabilityStatuses?alt=com.azure.resourcemanager.resourcehealth.models.AvailabilityStatuses&text=AvailabilityStatuses\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.resourcehealth.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-resourcehealth:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-resourcehealth:1.0.0-alpha.20211119.1

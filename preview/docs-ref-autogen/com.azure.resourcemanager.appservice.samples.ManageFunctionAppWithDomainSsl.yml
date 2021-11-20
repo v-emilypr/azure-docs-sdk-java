@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppWithDomainSsl"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppWithDomainSsl"
+name: "ManageFunctionAppWithDomainSsl"
+nameWithType: "ManageFunctionAppWithDomainSsl"
+summary: "Azure App Service sample for managing function apps. - app service plan, function app - Create 2 function apps under the same new app service plan - domain - Create a domain - certificate - Upload a self-signed wildcard certificate - update both function apps to use the domain and the created wildcard SSL certificate"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageFunctionAppWithDomainSsl"
+constructors:
+- "com.azure.resourcemanager.appservice.samples.ManageFunctionAppWithDomainSsl.ManageFunctionAppWithDomainSsl()"
+methods:
+- "com.azure.resourcemanager.appservice.samples.ManageFunctionAppWithDomainSsl.main(java.lang.String[])"
+- "com.azure.resourcemanager.appservice.samples.ManageFunctionAppWithDomainSsl.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

@@ -1,0 +1,11 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.authorization.samples"
+fullName: "com.azure.resourcemanager.authorization.samples"
+name: "com.azure.resourcemanager.authorization.samples"
+summary: "This package contains the classes for service principal and user management samples."
+classes:
+- "com.azure.resourcemanager.authorization.samples.ManageServicePrincipalCredentials"
+- "com.azure.resourcemanager.authorization.samples.ManageUsersGroupsAndRoles"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

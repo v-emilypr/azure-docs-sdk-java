@@ -39,4 +39,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.storageimportexport.models.Location?alt=com.azure.resourcemanager.storageimportexport.models.Location&text=Location\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.storageimportexport.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-storageimportexport:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-storageimportexport:1.0.0-alpha.20211119.1

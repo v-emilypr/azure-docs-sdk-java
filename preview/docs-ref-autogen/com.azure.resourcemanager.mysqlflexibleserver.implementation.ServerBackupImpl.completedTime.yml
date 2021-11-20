@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.completedTime*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.completedTime"
+name: "completedTime"
+nameWithType: "ServerBackupImpl.completedTime"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.completedTime()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerBackupImpl.completedTime()"
+  name: "completedTime()"
+  nameWithType: "ServerBackupImpl.completedTime()"
+  summary: "Gets the completedTime property: Backup completed time (ISO8601 format)."
+  syntax: "public OffsetDateTime completedTime()"
+  returns:
+    type: "<xref href=\"java.time.OffsetDateTime?alt=java.time.OffsetDateTime&text=OffsetDateTime\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211118.1

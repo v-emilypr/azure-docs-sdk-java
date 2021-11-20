@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixResponseImpl.innerModel*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixResponseImpl.innerModel"
+name: "innerModel"
+nameWithType: "GetPrivateDnsZoneSuffixResponseImpl.innerModel"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixResponseImpl.innerModel()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.GetPrivateDnsZoneSuffixResponseImpl.innerModel()"
+  name: "innerModel()"
+  nameWithType: "GetPrivateDnsZoneSuffixResponseImpl.innerModel()"
+  summary: "Gets the inner com.azure.resourcemanager.mysqlflexibleserver.fluent.models.GetPrivateDnsZoneSuffixResponseInner object."
+  syntax: "public GetPrivateDnsZoneSuffixResponseInner innerModel()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.fluent.models.GetPrivateDnsZoneSuffixResponseInner?alt=com.azure.resourcemanager.mysqlflexibleserver.fluent.models.GetPrivateDnsZoneSuffixResponseInner&text=GetPrivateDnsZoneSuffixResponseInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211118.1

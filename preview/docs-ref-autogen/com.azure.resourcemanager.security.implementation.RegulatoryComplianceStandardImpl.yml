@@ -33,4 +33,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.security.models.RegulatoryComplianceStandard?alt=com.azure.resourcemanager.security.models.RegulatoryComplianceStandard&text=RegulatoryComplianceStandard\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.security.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-security:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-security:1.0.0-alpha.20211119.1

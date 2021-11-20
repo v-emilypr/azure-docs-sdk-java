@@ -29,4 +29,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.delegatednetwork.fluent.DelegatedNetworksClient?alt=com.azure.resourcemanager.delegatednetwork.fluent.DelegatedNetworksClient&text=DelegatedNetworksClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.delegatednetwork.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-delegatednetwork:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-delegatednetwork:1.0.0-alpha.20211118.1

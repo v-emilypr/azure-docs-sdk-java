@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.Utils.sendPostRequest*"
+fullName: "com.azure.resourcemanager.samples.Utils.sendPostRequest"
+name: "sendPostRequest"
+nameWithType: "Utils.sendPostRequest"
+members:
+- uid: "com.azure.resourcemanager.samples.Utils.sendPostRequest(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.Utils.sendPostRequest(String urlString, String body)"
+  name: "sendPostRequest(String urlString, String body)"
+  nameWithType: "Utils.sendPostRequest(String urlString, String body)"
+  summary: "Sends a POST request to target URL.\n\nRetry logic tuned for AppService."
+  parameters:
+  - description: "the target URL."
+    name: "urlString"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the request body."
+    name: "body"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static String sendPostRequest(String urlString, String body)"
+  returns:
+    description: "Content of the HTTP response."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

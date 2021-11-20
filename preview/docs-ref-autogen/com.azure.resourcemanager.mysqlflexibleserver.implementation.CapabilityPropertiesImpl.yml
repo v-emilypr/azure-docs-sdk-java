@@ -1,0 +1,32 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl"
+name: "CapabilityPropertiesImpl"
+nameWithType: "CapabilityPropertiesImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class CapabilityPropertiesImpl implements CapabilityProperties"
+methods:
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.innerModel()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.supportedFlexibleServerEditions()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.supportedGeoBackupRegions()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.supportedHAMode()"
+- "com.azure.resourcemanager.mysqlflexibleserver.implementation.CapabilityPropertiesImpl.zone()"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.CapabilityProperties?alt=com.azure.resourcemanager.mysqlflexibleserver.models.CapabilityProperties&text=CapabilityProperties\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211118.1

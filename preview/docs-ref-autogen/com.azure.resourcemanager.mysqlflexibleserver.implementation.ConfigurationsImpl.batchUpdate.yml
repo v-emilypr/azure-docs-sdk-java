@@ -1,0 +1,42 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationsImpl.batchUpdate*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationsImpl.batchUpdate"
+name: "batchUpdate"
+nameWithType: "ConfigurationsImpl.batchUpdate"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationsImpl.batchUpdate(java.lang.String,java.lang.String,com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationListForBatchUpdate)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationsImpl.batchUpdate(String resourceGroupName, String serverName, ConfigurationListForBatchUpdate parameters)"
+  name: "batchUpdate(String resourceGroupName, String serverName, ConfigurationListForBatchUpdate parameters)"
+  nameWithType: "ConfigurationsImpl.batchUpdate(String resourceGroupName, String serverName, ConfigurationListForBatchUpdate parameters)"
+  summary: "Update a list of configurations in a given server."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serverName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "parameters"
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationListForBatchUpdate?alt=com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationListForBatchUpdate&text=ConfigurationListForBatchUpdate\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ConfigurationListResult batchUpdate(String resourceGroupName, String serverName, ConfigurationListForBatchUpdate parameters)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationListResult?alt=com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationListResult&text=ConfigurationListResult\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationsImpl.batchUpdate(java.lang.String,java.lang.String,com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationListForBatchUpdate,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationsImpl.batchUpdate(String resourceGroupName, String serverName, ConfigurationListForBatchUpdate parameters, Context context)"
+  name: "batchUpdate(String resourceGroupName, String serverName, ConfigurationListForBatchUpdate parameters, Context context)"
+  nameWithType: "ConfigurationsImpl.batchUpdate(String resourceGroupName, String serverName, ConfigurationListForBatchUpdate parameters, Context context)"
+  summary: "Update a list of configurations in a given server."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serverName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "parameters"
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationListForBatchUpdate?alt=com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationListForBatchUpdate&text=ConfigurationListForBatchUpdate\" data-throw-if-not-resolved=\"False\" />"
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ConfigurationListResult batchUpdate(String resourceGroupName, String serverName, ConfigurationListForBatchUpdate parameters, Context context)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationListResult?alt=com.azure.resourcemanager.mysqlflexibleserver.models.ConfigurationListResult&text=ConfigurationListResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211118.1

@@ -42,4 +42,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.logic.models.WorkflowVersion?alt=com.azure.resourcemanager.logic.models.WorkflowVersion&text=WorkflowVersion\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.logic.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-logic:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-logic:1.0.0-alpha.20211119.1

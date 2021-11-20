@@ -3,6 +3,7 @@ uid: "com.azure.iot.modelsrepository.implementation.RepositoryHandler"
 fullName: "com.azure.iot.modelsrepository.implementation.RepositoryHandler"
 name: "RepositoryHandler"
 nameWithType: "RepositoryHandler"
+summary: "The <xref uid=\"com.azure.iot.modelsrepository.implementation.RepositoryHandler\" data-throw-if-not-resolved=\"false\" data-raw-source=\"RepositoryHandler\"></xref> is responsible for processing fetched models and generates processed results which are sent back to the client."
 inheritances:
 - "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
 inheritedMembers:
@@ -26,4 +27,4 @@ methods:
 type: "class"
 metadata: {}
 package: "com.azure.iot.modelsrepository.implementation"
-artifact: com.azure:azure-iot-modelsrepository:1.0.0-beta.1
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211118.1

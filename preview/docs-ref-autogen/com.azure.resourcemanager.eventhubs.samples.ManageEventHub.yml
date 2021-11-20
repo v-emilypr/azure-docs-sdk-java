@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.eventhubs.samples.ManageEventHub"
+fullName: "com.azure.resourcemanager.eventhubs.samples.ManageEventHub"
+name: "ManageEventHub"
+nameWithType: "ManageEventHub"
+summary: "Azure Event Hub sample for managing event hub - - Create an event hub namespace - Create an event hub in the namespace with data capture enabled along with a consumer group and rule - List consumer groups in the event hub - Create a second event hub in the namespace - Create a consumer group in the second event hub - List consumer groups in the second event hub - Create an event hub namespace along with event hub."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ManageEventHub"
+constructors:
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHub.ManageEventHub()"
+methods:
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHub.main(java.lang.String[])"
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHub.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.eventhubs.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

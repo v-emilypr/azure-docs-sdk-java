@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppSourceControl.ManageWebAppSourceControl*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppSourceControl.ManageWebAppSourceControl"
+name: "ManageWebAppSourceControl"
+nameWithType: "ManageWebAppSourceControl.ManageWebAppSourceControl"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppSourceControl.ManageWebAppSourceControl()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppSourceControl.ManageWebAppSourceControl()"
+  name: "ManageWebAppSourceControl()"
+  nameWithType: "ManageWebAppSourceControl.ManageWebAppSourceControl()"
+  syntax: "public ManageWebAppSourceControl()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

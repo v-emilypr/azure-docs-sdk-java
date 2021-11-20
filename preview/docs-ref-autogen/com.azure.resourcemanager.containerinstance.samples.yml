@@ -1,0 +1,13 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.containerinstance.samples"
+fullName: "com.azure.resourcemanager.containerinstance.samples"
+name: "com.azure.resourcemanager.containerinstance.samples"
+summary: "This package contains the classes for Azure container instance samples."
+classes:
+- "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithAzureFileShareMount"
+- "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithManualAzureFileShareMountCreation"
+- "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithMultipleContainerImages"
+- "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceZeroToOneAndOneToManyUsingContainerServiceOrchestrator"
+metadata: {}
+package: "com.azure.resourcemanager.containerinstance.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

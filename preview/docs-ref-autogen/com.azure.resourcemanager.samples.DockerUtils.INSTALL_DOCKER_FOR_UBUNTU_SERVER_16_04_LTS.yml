@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.DockerUtils.INSTALL_DOCKER_FOR_UBUNTU_SERVER_16_04_LTS*"
+fullName: "com.azure.resourcemanager.samples.DockerUtils.INSTALL_DOCKER_FOR_UBUNTU_SERVER_16_04_LTS"
+name: "INSTALL_DOCKER_FOR_UBUNTU_SERVER_16_04_LTS"
+nameWithType: "DockerUtils.INSTALL_DOCKER_FOR_UBUNTU_SERVER_16_04_LTS"
+members:
+- uid: "com.azure.resourcemanager.samples.DockerUtils.INSTALL_DOCKER_FOR_UBUNTU_SERVER_16_04_LTS"
+  fullName: "com.azure.resourcemanager.samples.DockerUtils.INSTALL_DOCKER_FOR_UBUNTU_SERVER_16_04_LTS"
+  name: "INSTALL_DOCKER_FOR_UBUNTU_SERVER_16_04_LTS"
+  nameWithType: "DockerUtils.INSTALL_DOCKER_FOR_UBUNTU_SERVER_16_04_LTS"
+  summary: "Installs Docker Engine and tools and adds current user to the docker group."
+  syntax: "public static final String INSTALL_DOCKER_FOR_UBUNTU_SERVER_16_04_LTS"
+type: "field"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

@@ -28,4 +28,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.dataprotection.models.CheckNameAvailabilityResult?alt=com.azure.resourcemanager.dataprotection.models.CheckNameAvailabilityResult&text=CheckNameAvailabilityResult\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.dataprotection.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-dataprotection:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-dataprotection:1.0.0-alpha.20211118.1

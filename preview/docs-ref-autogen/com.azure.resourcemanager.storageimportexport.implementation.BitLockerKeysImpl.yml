@@ -28,4 +28,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.storageimportexport.models.BitLockerKeys?alt=com.azure.resourcemanager.storageimportexport.models.BitLockerKeys&text=BitLockerKeys\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.storageimportexport.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-storageimportexport:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-storageimportexport:1.0.0-alpha.20211119.1

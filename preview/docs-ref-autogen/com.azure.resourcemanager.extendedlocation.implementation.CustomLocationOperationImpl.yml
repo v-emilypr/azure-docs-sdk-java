@@ -32,4 +32,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.extendedlocation.models.CustomLocationOperation?alt=com.azure.resourcemanager.extendedlocation.models.CustomLocationOperation&text=CustomLocationOperation\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.extendedlocation.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-extendedlocation:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-extendedlocation:1.0.0-alpha.20211118.1

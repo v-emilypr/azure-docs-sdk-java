@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.BackupsImpl.get*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.BackupsImpl.get"
+name: "get"
+nameWithType: "BackupsImpl.get"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.BackupsImpl.get(java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.BackupsImpl.get(String resourceGroupName, String serverName, String backupName)"
+  name: "get(String resourceGroupName, String serverName, String backupName)"
+  nameWithType: "BackupsImpl.get(String resourceGroupName, String serverName, String backupName)"
+  summary: "List all the backups for a given server."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serverName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "backupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ServerBackup get(String resourceGroupName, String serverName, String backupName)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.ServerBackup?alt=com.azure.resourcemanager.mysqlflexibleserver.models.ServerBackup&text=ServerBackup\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211118.1

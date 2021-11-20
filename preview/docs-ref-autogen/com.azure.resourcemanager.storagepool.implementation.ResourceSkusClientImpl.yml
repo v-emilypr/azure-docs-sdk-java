@@ -27,4 +27,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.storagepool.fluent.ResourceSkusClient?alt=com.azure.resourcemanager.storagepool.fluent.ResourceSkusClient&text=ResourceSkusClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.storagepool.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-storagepool:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-storagepool:1.0.0-alpha.20211119.1

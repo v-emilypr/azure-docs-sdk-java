@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.resources.samples.ManageResourceGroup.ManageResourceGroup*"
+fullName: "com.azure.resourcemanager.resources.samples.ManageResourceGroup.ManageResourceGroup"
+name: "ManageResourceGroup"
+nameWithType: "ManageResourceGroup.ManageResourceGroup"
+members:
+- uid: "com.azure.resourcemanager.resources.samples.ManageResourceGroup.ManageResourceGroup()"
+  fullName: "com.azure.resourcemanager.resources.samples.ManageResourceGroup.ManageResourceGroup()"
+  name: "ManageResourceGroup()"
+  nameWithType: "ManageResourceGroup.ManageResourceGroup()"
+  syntax: "public ManageResourceGroup()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.resources.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

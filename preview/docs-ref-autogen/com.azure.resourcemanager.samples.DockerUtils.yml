@@ -1,0 +1,41 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.samples.DockerUtils"
+fullName: "com.azure.resourcemanager.samples.DockerUtils"
+name: "DockerUtils"
+nameWithType: "DockerUtils"
+summary: "Utility class to be used by Azure Container Registry sample. - Creates \"in memory\" SSL configuration to be used by the Java Docker client - Builds a Docker client config object - Creates a new Azure virtual machine and installs Docker - Creates a Java DockerClient to be used for communicating with a Docker host/engine"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class DockerUtils"
+constructors:
+- "com.azure.resourcemanager.samples.DockerUtils.DockerUtils()"
+fields:
+- "com.azure.resourcemanager.samples.DockerUtils.CREATE_DEFAULT_DOCKERD_OPTS_TLS_DISABLED"
+- "com.azure.resourcemanager.samples.DockerUtils.CREATE_DEFAULT_DOCKERD_OPTS_TLS_ENABLED"
+- "com.azure.resourcemanager.samples.DockerUtils.CREATE_OPENSSL_TLS_CERTS_FOR_UBUNTU"
+- "com.azure.resourcemanager.samples.DockerUtils.DEFAULT_DOCKERD_CONFIG_TLS_DISABLED"
+- "com.azure.resourcemanager.samples.DockerUtils.DEFAULT_DOCKERD_CONFIG_TLS_ENABLED"
+- "com.azure.resourcemanager.samples.DockerUtils.INSTALL_DOCKER_FOR_UBUNTU_SERVER_16_04_LTS"
+- "com.azure.resourcemanager.samples.DockerUtils.INSTALL_DOCKER_TLS_CERTS_FOR_UBUNTU"
+methods:
+- "com.azure.resourcemanager.samples.DockerUtils.createDockerClient(com.azure.resourcemanager.AzureResourceManager,java.lang.String,com.azure.core.management.Region,java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.samples.DockerUtils.createDockerClientConfig(java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.samples.DockerUtils.createDockerClientConfig(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.samples.DockerUtils.fromNewDockerVM(com.azure.resourcemanager.AzureResourceManager,java.lang.String,com.azure.core.management.Region,java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.samples.DockerUtils.installDocker(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

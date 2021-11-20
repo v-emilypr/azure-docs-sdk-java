@@ -1,0 +1,45 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.implementation.MetadataPoliciesImpl.listAllNextSinglePageAsync*"
+fullName: "com.azure.analytics.purview.administration.implementation.MetadataPoliciesImpl.listAllNextSinglePageAsync"
+name: "listAllNextSinglePageAsync"
+nameWithType: "MetadataPoliciesImpl.listAllNextSinglePageAsync"
+members:
+- uid: "com.azure.analytics.purview.administration.implementation.MetadataPoliciesImpl.listAllNextSinglePageAsync(java.lang.String,com.azure.core.http.rest.RequestOptions)"
+  fullName: "com.azure.analytics.purview.administration.implementation.MetadataPoliciesImpl.listAllNextSinglePageAsync(String nextLink, RequestOptions requestOptions)"
+  name: "listAllNextSinglePageAsync(String nextLink, RequestOptions requestOptions)"
+  nameWithType: "MetadataPoliciesImpl.listAllNextSinglePageAsync(String nextLink, RequestOptions requestOptions)"
+  summary: "Get the next page of items.\n\n**Response Body Schema**\n\n```java\n{\n     values: [\n         {\n             name: String\n             id: String\n             version: Integer\n             properties: {\n                 description: String\n                 decisionRules: [\n                     {\n                         kind: String(decisionrule/attributerule)\n                         effect: String(Deny/Permit)\n                         dnfCondition: [\n                             [\n                                 {\n                                     attributeName: String\n                                     attributeValueIncludes: String\n                                     attributeValueIncludedIn: [\n                                         String\n                                     ]\n                                     attributeValueExcludes: String\n                                     attributeValueExcludedIn: [\n                                         String\n                                     ]\n                                 }\n                             ]\n                         ]\n                     }\n                 ]\n                 attributeRules: [\n                     {\n                         kind: String(decisionrule/attributerule)\n                         id: String\n                         name: String\n                         dnfCondition: [\n                             [\n                                 (recursive schema, see above)\n                             ]\n                         ]\n                     }\n                 ]\n                 collection: {\n                     type: String\n                     referenceName: String\n                 }\n                 parentCollectionName: String\n             }\n         }\n     ]\n     nextLink: String\n }\n```"
+  parameters:
+  - description: "The nextLink parameter."
+    name: "nextLink"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The options to configure the HTTP request before HTTP client sends it."
+    name: "requestOptions"
+    type: "<xref href=\"com.azure.core.http.rest.RequestOptions?alt=com.azure.core.http.rest.RequestOptions&text=RequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<PagedResponse<BinaryData>> listAllNextSinglePageAsync(String nextLink, RequestOptions requestOptions)"
+  returns:
+    description: "list of Metadata Policies."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.PagedResponse?alt=com.azure.core.http.rest.PagedResponse&text=PagedResponse\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.util.BinaryData?alt=com.azure.core.util.BinaryData&text=BinaryData\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+- uid: "com.azure.analytics.purview.administration.implementation.MetadataPoliciesImpl.listAllNextSinglePageAsync(java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+  fullName: "com.azure.analytics.purview.administration.implementation.MetadataPoliciesImpl.listAllNextSinglePageAsync(String nextLink, RequestOptions requestOptions, Context context)"
+  name: "listAllNextSinglePageAsync(String nextLink, RequestOptions requestOptions, Context context)"
+  nameWithType: "MetadataPoliciesImpl.listAllNextSinglePageAsync(String nextLink, RequestOptions requestOptions, Context context)"
+  summary: "Get the next page of items.\n\n**Response Body Schema**\n\n```java\n{\n     values: [\n         {\n             name: String\n             id: String\n             version: Integer\n             properties: {\n                 description: String\n                 decisionRules: [\n                     {\n                         kind: String(decisionrule/attributerule)\n                         effect: String(Deny/Permit)\n                         dnfCondition: [\n                             [\n                                 {\n                                     attributeName: String\n                                     attributeValueIncludes: String\n                                     attributeValueIncludedIn: [\n                                         String\n                                     ]\n                                     attributeValueExcludes: String\n                                     attributeValueExcludedIn: [\n                                         String\n                                     ]\n                                 }\n                             ]\n                         ]\n                     }\n                 ]\n                 attributeRules: [\n                     {\n                         kind: String(decisionrule/attributerule)\n                         id: String\n                         name: String\n                         dnfCondition: [\n                             [\n                                 (recursive schema, see above)\n                             ]\n                         ]\n                     }\n                 ]\n                 collection: {\n                     type: String\n                     referenceName: String\n                 }\n                 parentCollectionName: String\n             }\n         }\n     ]\n     nextLink: String\n }\n```"
+  parameters:
+  - description: "The nextLink parameter."
+    name: "nextLink"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The options to configure the HTTP request before HTTP client sends it."
+    name: "requestOptions"
+    type: "<xref href=\"com.azure.core.http.rest.RequestOptions?alt=com.azure.core.http.rest.RequestOptions&text=RequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The context to associate with this operation."
+    name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<PagedResponse<BinaryData>> listAllNextSinglePageAsync(String nextLink, RequestOptions requestOptions, Context context)"
+  returns:
+    description: "list of Metadata Policies."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.PagedResponse?alt=com.azure.core.http.rest.PagedResponse&text=PagedResponse\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.util.BinaryData?alt=com.azure.core.util.BinaryData&text=BinaryData\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration.implementation"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211119.1

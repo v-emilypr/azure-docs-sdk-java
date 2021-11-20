@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.setDefinition*"
+fullName: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.setDefinition"
+name: "setDefinition"
+nameWithType: "FetchMetadataResult.setDefinition"
+members:
+- uid: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.setDefinition(java.lang.String)"
+  fullName: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.setDefinition(String definition)"
+  name: "setDefinition(String definition)"
+  nameWithType: "FetchMetadataResult.setDefinition(String definition)"
+  summary: "Sets the model repository's metadata definition"
+  parameters:
+  - description: "the model repository's metadata definition"
+    name: "definition"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public FetchMetadataResult setDefinition(String definition)"
+  exceptions:
+  - type: "<xref href=\"com.fasterxml.jackson.core.JsonProcessingException?alt=com.fasterxml.jackson.core.JsonProcessingException&text=JsonProcessingException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "the <xref uid=\"com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult\" data-throw-if-not-resolved=\"false\" data-raw-source=\"FetchMetadataResult\"></xref>  object itself"
+    type: "<xref href=\"com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult?alt=com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult&text=FetchMetadataResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211118.1

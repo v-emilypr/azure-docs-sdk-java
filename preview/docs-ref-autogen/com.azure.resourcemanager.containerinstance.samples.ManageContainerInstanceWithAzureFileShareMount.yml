@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithAzureFileShareMount"
+fullName: "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithAzureFileShareMount"
+name: "ManageContainerInstanceWithAzureFileShareMount"
+nameWithType: "ManageContainerInstanceWithAzureFileShareMount"
+summary: "Azure Container Instance sample for managing container instances with Azure File Share mount. - Create an Azure container instance using Docker image \"seanmckenna/aci-hellofiles\" with a mount to a new file share - Test that the container app can be reached via \"curl\" like HTTP GET calls - Retrieve container log content"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ManageContainerInstanceWithAzureFileShareMount"
+constructors:
+- "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithAzureFileShareMount.ManageContainerInstanceWithAzureFileShareMount()"
+methods:
+- "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithAzureFileShareMount.main(java.lang.String[])"
+- "com.azure.resourcemanager.containerinstance.samples.ManageContainerInstanceWithAzureFileShareMount.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.containerinstance.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

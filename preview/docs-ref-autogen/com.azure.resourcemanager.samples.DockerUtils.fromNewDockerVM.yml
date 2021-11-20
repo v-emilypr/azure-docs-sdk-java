@@ -1,0 +1,38 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.DockerUtils.fromNewDockerVM*"
+fullName: "com.azure.resourcemanager.samples.DockerUtils.fromNewDockerVM"
+name: "fromNewDockerVM"
+nameWithType: "DockerUtils.fromNewDockerVM"
+members:
+- uid: "com.azure.resourcemanager.samples.DockerUtils.fromNewDockerVM(com.azure.resourcemanager.AzureResourceManager,java.lang.String,com.azure.core.management.Region,java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.DockerUtils.fromNewDockerVM(AzureResourceManager azureResourceManager, String rgName, Region region, String registryServerUrl, String username, String password)"
+  name: "fromNewDockerVM(AzureResourceManager azureResourceManager, String rgName, Region region, String registryServerUrl, String username, String password)"
+  nameWithType: "DockerUtils.fromNewDockerVM(AzureResourceManager azureResourceManager, String rgName, Region region, String registryServerUrl, String username, String password)"
+  summary: "It creates a new Azure virtual machine and it instantiate a Java Docker client."
+  parameters:
+  - description: "- instance of Azure"
+    name: "azureResourceManager"
+    type: "<xref href=\"com.azure.resourcemanager.AzureResourceManager?alt=com.azure.resourcemanager.AzureResourceManager&text=AzureResourceManager\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- name of the Azure resource group to be used when creating a virtual machine"
+    name: "rgName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- region to be used when creating a virtual machine"
+    name: "region"
+    type: "<xref href=\"com.azure.core.management.Region?alt=com.azure.core.management.Region&text=Region\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- address of the private container registry"
+    name: "registryServerUrl"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- user name to connect with to the private container registry"
+    name: "username"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- password to connect with to the private container registry"
+    name: "password"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static DockerClient fromNewDockerVM(AzureResourceManager azureResourceManager, String rgName, Region region, String registryServerUrl, String username, String password)"
+  returns:
+    description: "an instance of DockerClient"
+    type: "<xref href=\"com.github.dockerjava.api.DockerClient?alt=com.github.dockerjava.api.DockerClient&text=DockerClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

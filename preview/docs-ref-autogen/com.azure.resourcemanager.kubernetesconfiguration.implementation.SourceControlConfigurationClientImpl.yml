@@ -36,4 +36,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.kubernetesconfiguration.fluent.SourceControlConfigurationClient?alt=com.azure.resourcemanager.kubernetesconfiguration.fluent.SourceControlConfigurationClient&text=SourceControlConfigurationClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.kubernetesconfiguration.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-kubernetesconfiguration:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-kubernetesconfiguration:1.0.0-alpha.20211119.1

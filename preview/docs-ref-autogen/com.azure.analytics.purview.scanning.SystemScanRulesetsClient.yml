@@ -20,12 +20,12 @@ inheritedMembers:
 - "java.lang.Object.wait(long,int)"
 syntax: "public final class SystemScanRulesetsClient"
 methods:
-- "com.azure.analytics.purview.scanning.SystemScanRulesetsClient.getByVersionWithResponse(int,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.scanning.SystemScanRulesetsClient.getLatestWithResponse(com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.scanning.SystemScanRulesetsClient.getWithResponse(java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.scanning.SystemScanRulesetsClient.listAll(com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.scanning.SystemScanRulesetsClient.listVersionsByDataSource(com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+- "com.azure.analytics.purview.scanning.SystemScanRulesetsClient.getByVersionWithResponse(int,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.scanning.SystemScanRulesetsClient.getLatestWithResponse(com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.scanning.SystemScanRulesetsClient.getWithResponse(java.lang.String,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.scanning.SystemScanRulesetsClient.listAll(com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.scanning.SystemScanRulesetsClient.listVersionsByDataSource(com.azure.core.http.rest.RequestOptions)"
 type: "class"
 metadata: {}
 package: "com.azure.analytics.purview.scanning"
-artifact: com.azure:azure-analytics-purview-scanning:1.0.0-beta.2
+artifact: com.azure:azure-analytics-purview-scanning:1.0.0-alpha.20211119.1

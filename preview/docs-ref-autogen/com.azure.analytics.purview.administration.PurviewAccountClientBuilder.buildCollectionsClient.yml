@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.buildCollectionsClient*"
+fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.buildCollectionsClient"
+name: "buildCollectionsClient"
+nameWithType: "PurviewAccountClientBuilder.buildCollectionsClient"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.buildCollectionsClient()"
+  fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.buildCollectionsClient()"
+  name: "buildCollectionsClient()"
+  nameWithType: "PurviewAccountClientBuilder.buildCollectionsClient()"
+  summary: "Builds an instance of CollectionsClient sync client."
+  syntax: "public CollectionsClient buildCollectionsClient()"
+  returns:
+    description: "an instance of CollectionsClient."
+    type: "<xref href=\"com.azure.analytics.purview.administration.CollectionsClient?alt=com.azure.analytics.purview.administration.CollectionsClient&text=CollectionsClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211119.1

@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.kubernetescluster.samples.ManageKubernetesCluster.ManageKubernetesCluster*"
+fullName: "com.azure.resourcemanager.kubernetescluster.samples.ManageKubernetesCluster.ManageKubernetesCluster"
+name: "ManageKubernetesCluster"
+nameWithType: "ManageKubernetesCluster.ManageKubernetesCluster"
+members:
+- uid: "com.azure.resourcemanager.kubernetescluster.samples.ManageKubernetesCluster.ManageKubernetesCluster()"
+  fullName: "com.azure.resourcemanager.kubernetescluster.samples.ManageKubernetesCluster.ManageKubernetesCluster()"
+  name: "ManageKubernetesCluster()"
+  nameWithType: "ManageKubernetesCluster.ManageKubernetesCluster()"
+  syntax: "public ManageKubernetesCluster()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.kubernetescluster.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211118.2

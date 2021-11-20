@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientImpl.getBackups*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientImpl.getBackups"
+name: "getBackups"
+nameWithType: "MySqlManagementClientImpl.getBackups"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientImpl.getBackups()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.MySqlManagementClientImpl.getBackups()"
+  name: "getBackups()"
+  nameWithType: "MySqlManagementClientImpl.getBackups()"
+  summary: "Gets the BackupsClient object to access its operations."
+  syntax: "public BackupsClient getBackups()"
+  returns:
+    description: "the BackupsClient object."
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.fluent.BackupsClient?alt=com.azure.resourcemanager.mysqlflexibleserver.fluent.BackupsClient&text=BackupsClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211118.1

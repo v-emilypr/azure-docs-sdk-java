@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataRolesClient*"
+fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataRolesClient"
+name: "buildMetadataRolesClient"
+nameWithType: "PurviewMetadataClientBuilder.buildMetadataRolesClient"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataRolesClient()"
+  fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataRolesClient()"
+  name: "buildMetadataRolesClient()"
+  nameWithType: "PurviewMetadataClientBuilder.buildMetadataRolesClient()"
+  summary: "Builds an instance of MetadataRolesClient sync client."
+  syntax: "public MetadataRolesClient buildMetadataRolesClient()"
+  returns:
+    description: "an instance of MetadataRolesClient."
+    type: "<xref href=\"com.azure.analytics.purview.administration.MetadataRolesClient?alt=com.azure.analytics.purview.administration.MetadataRolesClient&text=MetadataRolesClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211119.1

@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withRestorePointInTime*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withRestorePointInTime"
+name: "withRestorePointInTime"
+nameWithType: "ServerImpl.withRestorePointInTime"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withRestorePointInTime(java.time.OffsetDateTime)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withRestorePointInTime(OffsetDateTime restorePointInTime)"
+  name: "withRestorePointInTime(OffsetDateTime restorePointInTime)"
+  nameWithType: "ServerImpl.withRestorePointInTime(OffsetDateTime restorePointInTime)"
+  summary: "Specifies the restorePointInTime property: Restore point creation time (ISO8601 format), specifying the time to restore from.."
+  parameters:
+  - name: "restorePointInTime"
+    type: "<xref href=\"java.time.OffsetDateTime?alt=java.time.OffsetDateTime&text=OffsetDateTime\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ServerImpl withRestorePointInTime(OffsetDateTime restorePointInTime)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl?alt=com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl&text=ServerImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211118.1
