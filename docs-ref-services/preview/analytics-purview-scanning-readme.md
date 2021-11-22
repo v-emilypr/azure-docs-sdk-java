@@ -1,9 +1,9 @@
 ---
 title: Azure Purview Scanning client library for Java
 keywords: Azure, java, SDK, API, azure-analytics-purview-scanning, purview
-author: ramya-rao-a
-ms.author: ramyar
-ms.date: 10/15/2021
+author: maggiepint
+ms.author: magpint
+ms.date: 11/22/2021
 ms.topic: reference
 ms.prod: azure
 ms.technology: azure
@@ -11,7 +11,7 @@ ms.devlang: java
 ms.service: purview
 ---
 
-# Azure Purview Scanning client library for Java - Version 1.0.0-beta.2 
+# Azure Purview Scanning client library for Java - Version 1.0.0-alpha.20211122.1 
 
 
 Azure Purview Scanning is a fully managed cloud service whose users can scan your data into your data estate (also known as your **catalog**). Scanning is a process by which the catalog connects directly to a data source on a user-specified schedule.
@@ -105,16 +105,16 @@ This project has adopted the [Microsoft Open Source Code of Conduct][coc]. For m
 
 <!-- LINKS -->
 [samples]: src/samples/java/com/azure/analytics/purview/scanning
-[source_code]: https://github.com/Azure/azure-sdk-for-java/blob/azure-analytics-purview-scanning_1.0.0-beta.2/sdk/purview/azure-analytics-purview-scanning/src
-[samples_code]: https://github.com/Azure/azure-sdk-for-java/blob/azure-analytics-purview-scanning_1.0.0-beta.2/sdk/purview/azure-analytics-purview-scanning/src/samples/
+[source_code]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/purview/azure-analytics-purview-scanning/src
+[samples_code]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/purview/azure-analytics-purview-scanning/src/samples/
 [azure_subscription]: https://azure.microsoft.com/free/
 [api_reference_doc]: https://azure.github.io/azure-sdk-for-java
 [product_documentation]: https://azure.microsoft.com/services/purview/
-[azure_identity]: https://github.com/Azure/azure-sdk-for-java/tree/azure-analytics-purview-scanning_1.0.0-beta.2/sdk/identity/azure-identity
-[DefaultAzureCredential]: https://github.com/Azure/azure-sdk-for-java/blob/azure-analytics-purview-scanning_1.0.0-beta.2/sdk/identity/azure-identity/README.md#defaultazurecredential
+[azure_identity]: https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/identity/azure-identity
+[DefaultAzureCredential]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/identity/azure-identity/README.md#defaultazurecredential
 [jdk_link]: https://docs.microsoft.com/java/azure/jdk/?view=azure-java-stable
 [package]: https://mvnrepository.com/artifact/com.azure/azure-analytics-purview-scanning
-[samples_readme]: https://github.com/Azure/azure-sdk-for-java/tree/azure-analytics-purview-scanning_1.0.0-beta.2/sdk/purview/azure-analytics-purview-scanning/src/samples/README.md
+[samples_readme]: https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/purview/azure-analytics-purview-scanning/src/samples/README.md
 [low_level_client]: https://github.com/Azure/azure-sdk-for-java/wiki/Low-Level-Client
 [create_azure_purview_account]: https://docs.microsoft.com/azure/purview/
 [logging]: https://github.com/Azure/azure-sdk-for-java/wiki/Logging-with-Azure-SDK
