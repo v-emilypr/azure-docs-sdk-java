@@ -1,17 +1,17 @@
 ---
 title: Azure Attestation client library for Java
-keywords: Azure, java, SDK, API, azure-security-attestation, 
-author: ramya-rao-a
-ms.author: ramyar
-ms.date: 01/30/2021
+keywords: Azure, java, SDK, API, azure-security-attestation, attestation
+author: maggiepint
+ms.author: magpint
+ms.date: 11/22/2021
 ms.topic: reference
 ms.prod: azure
 ms.technology: azure
 ms.devlang: java
-ms.service: 
+ms.service: attestation
 ---
 
-# Azure Attestation client library for Java - Version 1.0.0-beta.1 
+# Azure Attestation client library for Java - Version 1.0.0-alpha.20211122.1 
 
 
 Microsoft Azure Attestation (preview) is a unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it. The service supports attestation of the platforms backed by Trusted Platform Modules (TPMs) alongside the ability to attest to the state of Trusted Execution Environments (TEEs) such as Intel® Software Guard Extensions (SGX) enclaves and Virtualization-based Security (VBS) enclaves.
@@ -45,14 +45,14 @@ Maven dependency for the Azure Attestation  library. Add it to your project's PO
 - [Azure Subscription][azure_subscription]
 - An existing [Azure Attestation][azure_attestation]. If you need to create an attestation instance, you can use the [Azure Cloud Shell][azure_cloud_shell] to create one with this Azure CLI command. Replace `<your-resource-group-name>` and `<your-instance-name>` with your own, unique names:
 
-    ```bash
-    az attestation create --resource-group <your-resource-group-name> --name <your-key-vault-name>
-    ```
+```bash
+az attestation create --resource-group <your-resource-group-name> --name <your-key-vault-name>
+```
 
 ### Authenticate the client
 In order to interact with the Azure Attestation service, your client must present an Azure Active Directory bearer token to the service.
 
-The simplest way of providing a bearer token is to use the  `DefaultAzureCredential` authentication method by providing client secret credentials is being used in this getting started section but you can find more ways to authenticate with [azure-identity][azure_identity].
+The simplest way of providing a bearer token is to use the  `DefaultAzureCredential` authentication method by providing client secret credentials is being used in this getting started section, but you can find more ways to authenticate with [azure-identity][azure_identity].
 
 
 ## Key concepts
