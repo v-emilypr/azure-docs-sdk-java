@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-samples",
+  "Version": "2.0.0-alpha.20211122.5",
+  "DevVersion": "2.0.0-alpha.20211122.5",
+  "DirectoryPath": "sdk/resourcemanager/azure-resourcemanager-samples",
+  "ServiceDirectory": "resourcemanager",
+  "ReadMePath": "sdk/resourcemanager/azure-resourcemanager-samples/README.md",
+  "ChangeLogPath": "sdk/resourcemanager/azure-resourcemanager-samples/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-samples",
+  "ReleaseStatus": "Unreleased"
+}
