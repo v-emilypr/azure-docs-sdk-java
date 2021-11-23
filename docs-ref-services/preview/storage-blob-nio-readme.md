@@ -3,7 +3,7 @@ title:
 keywords: Azure, java, SDK, API, azure-storage-blob-nio, storage
 author: maggiepint
 ms.author: magpint
-ms.date: 11/11/2021
+ms.date: 11/23/2021
 ms.topic: reference
 ms.prod: azure
 ms.technology: azure
@@ -32,7 +32,7 @@ This package allows you to interact with Azure Blob Storage through the standard
 <dependency>
     <groupId>com.azure</groupId>
     <artifactId>azure-storage-blob-nio</artifactId>
-    <version>12.0.0-beta.10</version>
+    <version>12.0.0-beta.12</version>
 </dependency>
 ```
 [//]: # ({x-version-update-end})
@@ -159,8 +159,7 @@ Create a `FileSystem` using the [`shared key`](#get-credentials) retrieved above
 Note that you can further configure the file system using constants available in `AzureFileSystem`.
 Please see the docs for `AzureFileSystemProvider` for a full explanation of initializing and configuring a filesystem
 
-<!-- embedme ./src/samples/java/com/azure/storage/blob/nio/ReadmeSamples.java#L40-L45 -->
-```java
+```java readme-sample-createAFileSystem
 Map<String, Object> config = new HashMap<>();
 String stores = "<container_name>,<another_container_name>"; // A comma separated list of container names
 StorageSharedKeyCredential credential = new StorageSharedKeyCredential("<account_name", "account_key");
@@ -173,8 +172,7 @@ FileSystem myFs = FileSystems.newFileSystem(new URI("azb://?endpoint=<account_en
 
 Create a directory using the `Files` api
 
-<!-- embedme ./src/samples/java/com/azure/storage/blob/nio/ReadmeSamples.java#L49-L50 -->
-```java
+```java readme-sample-createADirectory
 Path dirPath = myFs.getPath("dir");
 Files.createDirectory(dirPath);
 ```
@@ -183,8 +181,7 @@ Files.createDirectory(dirPath);
 
 Iterate over a directory using a `DirectoryStream`
 
-<!-- embedme ./src/samples/java/com/azure/storage/blob/nio/ReadmeSamples.java#L54-L56 -->
-```java
+```java readme-sample-iterateOverDirectoryContents
 for (Path p : Files.newDirectoryStream(dirPath)) {
     System.out.println(p.toString());
 }
@@ -194,12 +191,11 @@ for (Path p : Files.newDirectoryStream(dirPath)) {
 
 Read the contents of a file using an `InputStream`. Skipping, marking, and resetting are all supported.
 
-<!-- embedme ./src/samples/java/com/azure/storage/blob/nio/ReadmeSamples.java#L60-L63 -->
-```java
+```java readme-sample-readAFile
 Path filePath = myFs.getPath("file");
-InputStream is = Files.newInputStream(filePath);
-is.read();
-is.close();
+try (InputStream is = Files.newInputStream(filePath)) {
+    is.read();
+}
 ```
 
 ### Write to a file
@@ -207,25 +203,22 @@ is.close();
 Write to a file. Only writing whole files is supported. Random IO is not supported. The stream must be closed in order 
 to guarantee that the data is available to be read.
 
-<!-- embedme ./src/samples/java/com/azure/storage/blob/nio/ReadmeSamples.java#L67-L69 -->
-```java
-OutputStream os = Files.newOutputStream(filePath);
-os.write(0);
-os.close();
+```java readme-sample-writeToAFile
+try (OutputStream os = Files.newOutputStream(filePath)) {
+    os.write(0);
+}
 ``` 
 
 ### Copy a file
 
-<!-- embedme ./src/samples/java/com/azure/storage/blob/nio/ReadmeSamples.java#L73-L74 -->
-```java
+```java readme-sample-copyAFile
 Path destinationPath = myFs.getPath("destinationFile");
 Files.copy(filePath, destinationPath, StandardCopyOption.COPY_ATTRIBUTES);
 ```
 
 ### Delete a file
 
-<!-- embedme ./src/samples/java/com/azure/storage/blob/nio/ReadmeSamples.java#L78-L78 -->
-```java
+```java readme-sample-deleteAFile
 Files.delete(filePath);
 ```
 
@@ -233,8 +226,7 @@ Files.delete(filePath);
 
 Read attributes of a file through the `AzureBlobFileAttributes`.
 
-<!-- embedme ./src/samples/java/com/azure/storage/blob/nio/ReadmeSamples.java#L82-L83 -->
-```java
+```java readme-sample-readAttributesOnAFile
 AzureBlobFileAttributes attr = Files.readAttributes(filePath, AzureBlobFileAttributes.class);
 BlobHttpHeaders headers = attr.blobHttpHeaders();
 ```
@@ -243,8 +235,7 @@ Or read attributes dynamically by specifying a string of desired attributes. Thi
 to retrieve any attribute will always retrieve all of them as an atomic bulk operation. You may specify "*" instead of a 
 list of specific attributes to have all attributes returned in the map.
 
-<!-- embedme ./src/samples/java/com/azure/storage/blob/nio/ReadmeSamples.java#L87-L87 -->
-```java
+```java readme-sample-readAttributesOnAFileString
 Map<String, Object> attributes = Files.readAttributes(filePath, "azureBlob:metadata,headers");
 ```
 
@@ -252,16 +243,14 @@ Map<String, Object> attributes = Files.readAttributes(filePath, "azureBlob:metad
 
 Set attributes of a file through the `AzureBlobFileAttributeView`.
 
-<!-- embedme ./src/samples/java/com/azure/storage/blob/nio/ReadmeSamples.java#L91-L92 -->
-```java
+```java readme-sample-writeAttributesToAFile
 AzureBlobFileAttributeView view = Files.getFileAttributeView(filePath, AzureBlobFileAttributeView.class);
-view.setMetadata(Collections.EMPTY_MAP);
+view.setMetadata(Collections.emptyMap());
 ```
 
 Or set an attribute dynamically by specifying the attribute as a string.
 
-<!-- embedme ./src/samples/java/com/azure/storage/blob/nio/ReadmeSamples.java#L96-L96 -->
-```java
+```java readme-sample-writeAttributesToAFileString
 Files.setAttribute(filePath, "azureBlob:blobHttpHeaders", new BlobHttpHeaders());
 ```
 
@@ -317,8 +306,8 @@ When you submit a pull request, a CLA-bot will automatically determine whether y
 This project has adopted the [Microsoft Open Source Code of Conduct][coc]. For more information see the [Code of Conduct FAQ][coc_faq] or contact [opencode@microsoft.com][coc_contact] with any additional questions or comments.
 
 <!-- LINKS -->
-[source]: https://github.com/Azure/azure-sdk-for-java/blob/azure-storage-blob-nio_12.0.0-beta.12/sdk/storage/azure-storage-blob-nio/src
-[samples_readme]: https://github.com/Azure/azure-sdk-for-java/blob/azure-storage-blob-nio_12.0.0-beta.12/sdk/storage/azure-storage-blob-nio/src/samples/README.md
+[source]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/storage/azure-storage-blob-nio/src
+[samples_readme]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/storage/azure-storage-blob-nio/src/samples/README.md
 [docs]: https://azure.github.io/azure-sdk-for-java/
 [rest_docs]: https://docs.microsoft.com/rest/api/storageservices/blob-service-rest-api
 [product_docs]: https://docs.microsoft.com/azure/storage/blobs/storage-blobs-overview
@@ -329,7 +318,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct][coc]. For m
 [storage_account]: https://docs.microsoft.com/azure/storage/common/storage-quickstart-create-account?tabs=azure-portal
 [storage_account_create_cli]: https://docs.microsoft.com/azure/storage/common/storage-quickstart-create-account?tabs=azure-cli
 [storage_account_create_portal]: https://docs.microsoft.com/azure/storage/common/storage-quickstart-create-account?tabs=azure-portal
-[identity]: https://github.com/Azure/azure-sdk-for-java/blob/azure-storage-blob-nio_12.0.0-beta.12/sdk/identity/azure-identity/README.md
+[identity]: https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/identity/azure-identity/README.md
 [error_codes]: https://docs.microsoft.com/rest/api/storageservices/blob-service-error-codes
 [samples]: https://docs.oracle.com/javase/tutorial/essential/io/fileio.html
 [cla]: https://cla.microsoft.com
