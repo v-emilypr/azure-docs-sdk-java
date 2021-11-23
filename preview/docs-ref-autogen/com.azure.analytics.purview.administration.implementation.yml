@@ -1,0 +1,15 @@
+### YamlMime:JavaPackage
+uid: "com.azure.analytics.purview.administration.implementation"
+fullName: "com.azure.analytics.purview.administration.implementation"
+name: "com.azure.analytics.purview.administration.implementation"
+classes:
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl"
+- "com.azure.analytics.purview.administration.implementation.CollectionsImpl"
+- "com.azure.analytics.purview.administration.implementation.MetadataPoliciesImpl"
+- "com.azure.analytics.purview.administration.implementation.MetadataRolesImpl"
+- "com.azure.analytics.purview.administration.implementation.PurviewAccountClientImpl"
+- "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl"
+- "com.azure.analytics.purview.administration.implementation.ResourceSetRulesImpl"
+metadata: {}
+package: "com.azure.analytics.purview.administration.implementation"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211122.1

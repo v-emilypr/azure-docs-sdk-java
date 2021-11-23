@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.implementation.MetadataRolesImpl.list*"
+fullName: "com.azure.analytics.purview.administration.implementation.MetadataRolesImpl.list"
+name: "list"
+nameWithType: "MetadataRolesImpl.list"
+members:
+- uid: "com.azure.analytics.purview.administration.implementation.MetadataRolesImpl.list(com.azure.core.http.rest.RequestOptions)"
+  fullName: "com.azure.analytics.purview.administration.implementation.MetadataRolesImpl.list(RequestOptions requestOptions)"
+  name: "list(RequestOptions requestOptions)"
+  nameWithType: "MetadataRolesImpl.list(RequestOptions requestOptions)"
+  summary: "Lists roles for Purview Account.\n\n**Query Parameters**\n\n    | ---------- | ------ | -------- | ----------- |\n    | Name       | Type   | Required | Description |\n    | apiVersion | String | Yes      | Api Version |\n\n**Response Body Schema**\n\n```java\n{\n     values: [\n         {\n             id: String\n             name: String\n             type: String\n             properties: {\n                 provisioningState: String\n                 roleType: String\n                 friendlyName: String\n                 description: String\n                 cnfCondition: [\n                     [\n                         {\n                             attributeName: String\n                             attributeValueIncludes: String\n                             attributeValueIncludedIn: [\n                                 String\n                             ]\n                             attributeValueExcludes: String\n                             attributeValueExcludedIn: [\n                                 String\n                             ]\n                         }\n                     ]\n                 ]\n                 dnfCondition: [\n                     [\n                         (recursive schema, see above)\n                     ]\n                 ]\n                 version: Long\n             }\n         }\n     ]\n     nextLink: String\n }\n```"
+  parameters:
+  - description: "The options to configure the HTTP request before HTTP client sends it."
+    name: "requestOptions"
+    type: "<xref href=\"com.azure.core.http.rest.RequestOptions?alt=com.azure.core.http.rest.RequestOptions&text=RequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PagedIterable<BinaryData> list(RequestOptions requestOptions)"
+  returns:
+    description: "list of Metadata roles."
+    type: "<xref href=\"com.azure.core.http.rest.PagedIterable?alt=com.azure.core.http.rest.PagedIterable&text=PagedIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.util.BinaryData?alt=com.azure.core.util.BinaryData&text=BinaryData\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration.implementation"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211122.1

@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.EncryptionProcessor.encryptPatchNode*"
+fullName: "com.azure.cosmos.encryption.implementation.EncryptionProcessor.encryptPatchNode"
+name: "encryptPatchNode"
+nameWithType: "EncryptionProcessor.encryptPatchNode"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.EncryptionProcessor.encryptPatchNode(com.fasterxml.jackson.databind.JsonNode,java.lang.String)"
+  fullName: "com.azure.cosmos.encryption.implementation.EncryptionProcessor.encryptPatchNode(JsonNode itemObj, String patchPropertyPath)"
+  name: "encryptPatchNode(JsonNode itemObj, String patchPropertyPath)"
+  nameWithType: "EncryptionProcessor.encryptPatchNode(JsonNode itemObj, String patchPropertyPath)"
+  parameters:
+  - name: "itemObj"
+    type: "<xref href=\"com.fasterxml.jackson.databind.JsonNode?alt=com.fasterxml.jackson.databind.JsonNode&text=JsonNode\" data-throw-if-not-resolved=\"False\" />"
+  - name: "patchPropertyPath"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<JsonNode> encryptPatchNode(JsonNode itemObj, String patchPropertyPath)"
+  returns:
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.fasterxml.jackson.databind.JsonNode?alt=com.fasterxml.jackson.databind.JsonNode&text=JsonNode\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-alpha.20211122.4

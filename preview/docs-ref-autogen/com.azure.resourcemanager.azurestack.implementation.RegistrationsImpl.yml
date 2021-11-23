@@ -41,4 +41,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.azurestack.models.Registrations?alt=com.azure.resourcemanager.azurestack.models.Registrations&text=Registrations\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.azurestack.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-azurestack:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-azurestack:1.0.0-alpha.20211122.1

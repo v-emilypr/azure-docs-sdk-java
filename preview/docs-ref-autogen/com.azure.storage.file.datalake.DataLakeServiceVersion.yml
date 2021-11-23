@@ -62,6 +62,10 @@ fields:
   fullName: "com.azure.storage.file.datalake.DataLakeServiceVersion.V2020_12_06"
   name: "V2020_12_06"
   nameWithType: "DataLakeServiceVersion.V2020_12_06"
+- uid: "com.azure.storage.file.datalake.DataLakeServiceVersion.V2021_02_12"
+  fullName: "com.azure.storage.file.datalake.DataLakeServiceVersion.V2021_02_12"
+  name: "V2021_02_12"
+  nameWithType: "DataLakeServiceVersion.V2021_02_12"
 methods:
 - uid: "com.azure.storage.file.datalake.DataLakeServiceVersion.getLatest()"
   fullName: "com.azure.storage.file.datalake.DataLakeServiceVersion.getLatest()"
@@ -100,4 +104,4 @@ implements:
 - "<xref href=\"com.azure.core.util.ServiceVersion?alt=com.azure.core.util.ServiceVersion&text=ServiceVersion\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.storage.file.datalake"
-artifact: com.azure:azure-storage-file-datalake:12.8.0-beta.1
+artifact: com.azure:azure-storage-file-datalake:12.8.0-alpha.20211122.1

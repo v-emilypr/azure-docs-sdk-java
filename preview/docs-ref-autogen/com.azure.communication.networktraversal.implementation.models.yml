@@ -7,4 +7,4 @@ classes:
 - "com.azure.communication.networktraversal.implementation.models.RouteType"
 metadata: {}
 package: "com.azure.communication.networktraversal.implementation.models"
-artifact: com.azure:azure-communication-networktraversal:1.0.0-beta.2
+artifact: com.azure:azure-communication-networktraversal:1.0.0-alpha.20211122.1

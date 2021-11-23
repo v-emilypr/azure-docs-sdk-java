@@ -23,12 +23,36 @@
       landingPageType: Service
       children:
       - com.azure.communication.callingserver*
+    - name: Chat
+      uid: azure.java.sdk.landingpage.services.communication.Chat.pre
+      href: ~/docs-ref-services/preview/communication-chat-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.chat*
+    - name: Common
+      uid: azure.java.sdk.landingpage.services.communication.Common.pre
+      href: ~/docs-ref-services/preview/communication-common-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.common*
     - name: Identity
       uid: azure.java.sdk.landingpage.services.communication.Identity.pre
       href: ~/docs-ref-services/preview/communication-identity-readme.md
       landingPageType: Service
       children:
       - com.azure.communication.identity*
+    - name: Phone Numbers
+      uid: azure.java.sdk.landingpage.services.communication.PhoneNumbers.pre
+      href: ~/docs-ref-services/preview/communication-phonenumbers-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.phonenumbers*
+    - name: SMS
+      uid: azure.java.sdk.landingpage.services.communication.SMS.pre
+      href: ~/docs-ref-services/preview/communication-sms-readme.md
+      landingPageType: Service
+      children:
+      - com.azure.communication.sms*
   - name: Cognitive Services
     uid: azure.java.sdk.landingpage.services.cognitiveservices.pre
     landingPageType: Service
@@ -63,6 +87,31 @@
       - com.azure.core.util.serializer
       - com.azure.core.util.tracing
       - com.azure.core.util
+    - name: AMQP
+      uid: azure.java.sdk.landingpage.services.sdk.core.AMQP.pre
+      href: ~/docs-ref-services/preview/core-amqp-readme.md
+      children:
+      - com.azure.core.amqp*
+    - name: OkHttp
+      uid: azure.java.sdk.landingpage.services.sdk.core.OkHttp.pre
+      href: ~/docs-ref-services/preview/core-http-okhttp-readme.md
+      children:
+      - com.azure.core.http.okhttp*
+    - name: Netty
+      uid: azure.java.sdk.landingpage.services.sdk.core.Netty.pre
+      href: ~/docs-ref-services/preview/core-http-netty-readme.md
+      children:
+      - com.azure.core.http.netty*
+    - name: Gson Serializer
+      uid: azure.java.sdk.landingpage.services.sdk.core.GsonSerializer.pre
+      href: ~/docs-ref-services/preview/core-serializer-json-gson-readme.md
+      children:
+      - com.azure.core.serializer.json.gson
+    - name: Jackson Serializer
+      uid: azure.java.sdk.landingpage.services.sdk.core.JacksonSerializer.pre
+      href: ~/docs-ref-services/preview/core-serializer-json-jackson-readme.md
+      children:
+      - com.azure.core.serializer.json.jackson
     - name: Avro Apache Serializer
       uid: azure.java.sdk.landingpage.services.sdk.core.AvroSerializer.pre
       children:
@@ -73,6 +122,16 @@
       href: ~/docs-ref-services/preview/core-tracing-opentelemetry-readme.md
       children:
       - com.azure.core.tracing.opentelemetry
+    - name: Test
+      uid: azure.java.sdk.landingpage.services.sdk.core.Test.pre
+      href: ~/docs-ref-services/preview/core-test-readme.md
+      children:
+      - com.azure.core.test*
+    - name: Management
+      uid: azure.java.sdk.landingpage.services.sdk.core.Management.pre
+      href: ~/docs-ref-services/preview/core-management-readme.md
+      children:
+      - com.azure.core.management*
   - name: Cosmos DB
     uid: azure.java.sdk.landingpage.services.cosmosdb.pre
     href: ~/docs-ref-services/preview/cosmosdb.md
@@ -96,6 +155,31 @@
       children:
       - com.azure.resourcemanager.kusto*
       - com.microsoft.azure.management.kusto*
+  - name: Event Grid
+    uid: azure.java.sdk.landingpage.services.eventGrid.pre
+    href: ~/docs-ref-services/preview/eventgrid.md
+    items:
+    - name: Client
+      uid: azure.java.sdk.landingpage.services.eventGrid.Client.pre
+      landingPageType: Service
+      children:
+      - com.azure.messaging.eventgrid*
+      - com.microsoft.azure.eventgrid*
+  - name: Event Hubs
+    uid: azure.java.sdk.landingpage.services.eventhub.pre
+    href: ~/docs-ref-services/preview/eventhub.md
+    items:
+    - name: Event Hubs
+      uid: azure.java.sdk.landingpage.services.eventhub.Client.pre
+      href: ~/docs-ref-services/preview/messaging-eventhubs-readme.md
+      children:
+      - com.azure.messaging.eventhubs
+      - com.azure.messaging.eventhubs.models
+    - name: Event Hubs Checkpoint Store Extension
+      uid: azure.java.sdk.landingpage.services.eventhub.Checkpoint.pre
+      href: ~/docs-ref-services/preview/messaging-eventhubs-checkpointstore-blob-readme.md
+      children:
+      - com.azure.messaging.eventhubs.checkpointstore.blob
   - name: Form Recognizer
     uid: azure.java.sdk.landingpage.preview.services.formrecognizer.pre
     href: ~/docs-ref-services/preview/ai-formrecognizer-readme.md
@@ -119,6 +203,11 @@
       children:
       - com.microsoft.azure.management.hybridcompute.v2020_08_02*
     landingPageType: Service
+  - name: Identity
+    uid: azure.java.sdk.landingpage.services.identity.pre
+    href: ~/docs-ref-services/preview/identity-readme.md
+    children:
+    - com.azure.identity
   - name: IoT
     uid: azure.java.sdk.landingpage.services.iot.pre
     href: ~/docs-ref-services/preview/iot.md
@@ -190,6 +279,12 @@
     uid: azure.java.sdk.landingpage.services.schemaregistry.pre
     landingPageType: Service
     items:
+    - name: Client
+      uid: azure.java.sdk.landingpage.services.schemaregistry.Client.pre
+      href: ~/docs-ref-services/preview/data-schemaregistry-readme.md
+      children:
+      - com.azure.data.schemaregistry
+      - com.azure.data.schemaregistry.models
     - name: Avro Serializer
       uid: azure.java.sdk.landingpage.services.schemaregistry.Avro.pre
       href: ~/docs-ref-services/preview/data-schemaregistry-avro-readme.md
@@ -278,6 +373,11 @@
       landingPageType: Service
       children:
       - com.azure.resourcemanager.synapse*
+  - name: Tables
+    uid: azure.java.sdk.landingpage.services.tables.pre
+    href: ~/docs-ref-services/preview/data-tables-readme.md
+    children:
+    - com.azure.data.tables*
   - name: Text Analytics
     uid: azure.java.sdk.landingpage.services.textanalytics.pre
     href: ~/docs-ref-services/preview/ai-textanalytics-readme.md

@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.build*"
+fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.build"
+name: "build"
+nameWithType: "JdkAsyncHttpClientBuilder.build"
+members:
+- uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.build()"
+  fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.build()"
+  name: "build()"
+  nameWithType: "JdkAsyncHttpClientBuilder.build()"
+  summary: "Build a HttpClient with current configurations."
+  syntax: "public HttpClient build()"
+  returns:
+    description: "a <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\" data-raw-source=\"HttpClient\"></xref>."
+    type: "<xref href=\"com.azure.core.http.HttpClient?alt=com.azure.core.http.HttpClient&text=HttpClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211122.1

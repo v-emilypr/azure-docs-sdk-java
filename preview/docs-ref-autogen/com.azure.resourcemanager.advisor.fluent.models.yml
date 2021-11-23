@@ -11,4 +11,4 @@ classes:
 - "com.azure.resourcemanager.advisor.fluent.models.SuppressionContractInner"
 metadata: {}
 package: "com.azure.resourcemanager.advisor.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-advisor:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-advisor:1.0.0-alpha.20211122.1

@@ -66,4 +66,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.servicefabric.models.ServiceResource?alt=com.azure.resourcemanager.servicefabric.models.ServiceResource&text=ServiceResource\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.servicefabric.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-servicefabric:1.0.0-beta.2
+artifact: com.azure.resourcemanager:azure-resourcemanager-servicefabric:1.0.0-alpha.20211122.1

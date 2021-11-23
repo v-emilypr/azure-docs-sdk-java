@@ -1,0 +1,24 @@
+### YamlMime:JavaPackage
+uid: "com.azure.analytics.purview.administration"
+fullName: "com.azure.analytics.purview.administration"
+name: "com.azure.analytics.purview.administration"
+summary: "Package containing the classes for PurviewAccountClient. Creates a Microsoft.Purview data plane account client."
+classes:
+- "com.azure.analytics.purview.administration.AccountsAsyncClient"
+- "com.azure.analytics.purview.administration.AccountsClient"
+- "com.azure.analytics.purview.administration.CollectionsAsyncClient"
+- "com.azure.analytics.purview.administration.CollectionsClient"
+- "com.azure.analytics.purview.administration.MetadataPolicyAsyncClient"
+- "com.azure.analytics.purview.administration.MetadataPolicyClient"
+- "com.azure.analytics.purview.administration.MetadataRolesAsyncClient"
+- "com.azure.analytics.purview.administration.MetadataRolesClient"
+- "com.azure.analytics.purview.administration.PurviewAccountClientBuilder"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder"
+- "com.azure.analytics.purview.administration.ResourceSetRulesAsyncClient"
+- "com.azure.analytics.purview.administration.ResourceSetRulesClient"
+enums:
+- "com.azure.analytics.purview.administration.PurviewAccountServiceVersion"
+- "com.azure.analytics.purview.administration.PurviewMetadataServiceVersion"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211122.1

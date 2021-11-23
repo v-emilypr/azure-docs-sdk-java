@@ -38,4 +38,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.marketplaceordering.models.AgreementTerms?alt=com.azure.resourcemanager.marketplaceordering.models.AgreementTerms&text=AgreementTerms\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.marketplaceordering.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-marketplaceordering:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-marketplaceordering:1.0.0-alpha.20211122.1

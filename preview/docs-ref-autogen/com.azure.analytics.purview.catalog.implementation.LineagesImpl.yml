@@ -20,13 +20,13 @@ inheritedMembers:
 - "java.lang.Object.wait(long,int)"
 syntax: "public final class LineagesImpl"
 methods:
-- "com.azure.analytics.purview.catalog.implementation.LineagesImpl.getLineageGraphWithResponse(java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+- "com.azure.analytics.purview.catalog.implementation.LineagesImpl.getLineageGraphWithResponse(java.lang.String,com.azure.core.http.rest.RequestOptions)"
 - "com.azure.analytics.purview.catalog.implementation.LineagesImpl.getLineageGraphWithResponseAsync(java.lang.String,com.azure.core.http.rest.RequestOptions)"
 - "com.azure.analytics.purview.catalog.implementation.LineagesImpl.getLineageGraphWithResponseAsync(java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.catalog.implementation.LineagesImpl.nextPageLineageWithResponse(java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+- "com.azure.analytics.purview.catalog.implementation.LineagesImpl.nextPageLineageWithResponse(java.lang.String,com.azure.core.http.rest.RequestOptions)"
 - "com.azure.analytics.purview.catalog.implementation.LineagesImpl.nextPageLineageWithResponseAsync(java.lang.String,com.azure.core.http.rest.RequestOptions)"
 - "com.azure.analytics.purview.catalog.implementation.LineagesImpl.nextPageLineageWithResponseAsync(java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
 type: "class"
 metadata: {}
 package: "com.azure.analytics.purview.catalog.implementation"
-artifact: com.azure:azure-analytics-purview-catalog:1.0.0-beta.2
+artifact: com.azure:azure-analytics-purview-catalog:1.0.0-alpha.20211122.1

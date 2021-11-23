@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationAdministrationAsyncClient.addPolicyManagementCertificate*"
+fullName: "com.azure.security.attestation.AttestationAdministrationAsyncClient.addPolicyManagementCertificate"
+name: "addPolicyManagementCertificate"
+nameWithType: "AttestationAdministrationAsyncClient.addPolicyManagementCertificate"
+members:
+- uid: "com.azure.security.attestation.AttestationAdministrationAsyncClient.addPolicyManagementCertificate(com.azure.security.attestation.models.PolicyManagementCertificateOptions)"
+  fullName: "com.azure.security.attestation.AttestationAdministrationAsyncClient.addPolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  name: "addPolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  nameWithType: "AttestationAdministrationAsyncClient.addPolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  summary: "Adds a new attestation policy certificate to the set of policy management certificates."
+  parameters:
+  - description: "Options for this API call, encapsulating both the X.509 certificate to add to the set of policy\n               signing certificates and the signing key used to sign the request to the service."
+    name: "options"
+    type: "<xref href=\"com.azure.security.attestation.models.PolicyManagementCertificateOptions?alt=com.azure.security.attestation.models.PolicyManagementCertificateOptions&text=PolicyManagementCertificateOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<PolicyCertificatesModificationResult> addPolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  returns:
+    description: "the response to an attestation policy operation."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.PolicyCertificatesModificationResult?alt=com.azure.security.attestation.models.PolicyCertificatesModificationResult&text=PolicyCertificatesModificationResult\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211122.1

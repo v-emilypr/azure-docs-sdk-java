@@ -20,10 +20,10 @@ inheritedMembers:
 - "java.lang.Object.wait(long,int)"
 syntax: "public final class TriggersClient"
 methods:
-- "com.azure.analytics.purview.scanning.TriggersClient.createTriggerWithResponse(java.lang.String,java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.scanning.TriggersClient.deleteTriggerWithResponse(java.lang.String,java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
-- "com.azure.analytics.purview.scanning.TriggersClient.getTriggerWithResponse(java.lang.String,java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+- "com.azure.analytics.purview.scanning.TriggersClient.createTriggerWithResponse(java.lang.String,java.lang.String,com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.scanning.TriggersClient.deleteTriggerWithResponse(java.lang.String,java.lang.String,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.scanning.TriggersClient.getTriggerWithResponse(java.lang.String,java.lang.String,com.azure.core.http.rest.RequestOptions)"
 type: "class"
 metadata: {}
 package: "com.azure.analytics.purview.scanning"
-artifact: com.azure:azure-analytics-purview-scanning:1.0.0-beta.2
+artifact: com.azure:azure-analytics-purview-scanning:1.0.0-alpha.20211122.1

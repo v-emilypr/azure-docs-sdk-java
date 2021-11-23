@@ -1,0 +1,31 @@
+### YamlMime:JavaType
+uid: "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl"
+fullName: "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl"
+name: "PolicyCertificatesModificationResultImpl"
+nameWithType: "PolicyCertificatesModificationResultImpl"
+summary: "The result of a policy certificate modification."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class PolicyCertificatesModificationResultImpl implements PolicyCertificatesModificationResult"
+methods:
+- "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl.fromGenerated(com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResult)"
+- "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl.getCertificateResolution()"
+- "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl.getCertificateThumbprint()"
+type: "class"
+implements:
+- "<xref href=\"com.azure.security.attestation.models.PolicyCertificatesModificationResult?alt=com.azure.security.attestation.models.PolicyCertificatesModificationResult&text=PolicyCertificatesModificationResult\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211122.1

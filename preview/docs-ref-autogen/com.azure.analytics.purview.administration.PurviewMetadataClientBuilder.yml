@@ -1,0 +1,42 @@
+### YamlMime:JavaType
+uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder"
+fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder"
+name: "PurviewMetadataClientBuilder"
+nameWithType: "PurviewMetadataClientBuilder"
+summary: "A builder for creating a new instance of the PurviewMetadataClient type."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class PurviewMetadataClientBuilder"
+constructors:
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.PurviewMetadataClientBuilder()"
+methods:
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.addPolicy(com.azure.core.http.policy.HttpPipelinePolicy)"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataPolicyAsyncClient()"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataPolicyClient()"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataRolesAsyncClient()"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataRolesClient()"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.clientOptions(com.azure.core.util.ClientOptions)"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.configuration(com.azure.core.util.Configuration)"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.credential(com.azure.core.credential.TokenCredential)"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.endpoint(java.lang.String)"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.httpClient(com.azure.core.http.HttpClient)"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.httpLogOptions(com.azure.core.http.policy.HttpLogOptions)"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.pipeline(com.azure.core.http.HttpPipeline)"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.retryPolicy(com.azure.core.http.policy.RetryPolicy)"
+- "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.serviceVersion(com.azure.analytics.purview.administration.PurviewMetadataServiceVersion)"
+type: "class"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211122.1

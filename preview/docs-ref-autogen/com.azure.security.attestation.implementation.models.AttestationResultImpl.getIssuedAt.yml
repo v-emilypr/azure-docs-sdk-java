@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getIssuedAt*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getIssuedAt"
+name: "getIssuedAt"
+nameWithType: "AttestationResultImpl.getIssuedAt"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getIssuedAt()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getIssuedAt()"
+  name: "getIssuedAt()"
+  nameWithType: "AttestationResultImpl.getIssuedAt()"
+  summary: "Get the iat property: The time at which the token was issued, in the number of seconds since 1970-01-0T00:00:00Z UTC."
+  syntax: "public Instant getIssuedAt()"
+  returns:
+    description: "the iat value."
+    type: "<xref href=\"java.time.Instant?alt=java.time.Instant&text=Instant\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211122.1

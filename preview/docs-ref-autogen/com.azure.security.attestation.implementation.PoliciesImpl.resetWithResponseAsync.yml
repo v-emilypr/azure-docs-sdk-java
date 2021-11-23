@@ -13,13 +13,13 @@ members:
   - description: "Specifies the trusted execution environment to be used to validate the evidence."
     name: "attestationType"
     type: "<xref href=\"com.azure.security.attestation.models.AttestationType?alt=com.azure.security.attestation.models.AttestationType&text=AttestationType\" data-throw-if-not-resolved=\"False\" />"
-  - description: "simple string."
+  - description: "JSON Web Signature with an empty policy document."
     name: "policyJws"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
   syntax: "public Mono<Response<PolicyResponse>> resetWithResponseAsync(AttestationType attestationType, String policyJws)"
   returns:
     description: "the response to an attestation policy operation."
-    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.PolicyResponse?alt=com.azure.security.attestation.models.PolicyResponse&text=PolicyResponse\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.implementation.models.PolicyResponse?alt=com.azure.security.attestation.implementation.models.PolicyResponse&text=PolicyResponse\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
 - uid: "com.azure.security.attestation.implementation.PoliciesImpl.resetWithResponseAsync(com.azure.security.attestation.models.AttestationType,java.lang.String,com.azure.core.util.Context)"
   fullName: "com.azure.security.attestation.implementation.PoliciesImpl.resetWithResponseAsync(AttestationType attestationType, String policyJws, Context context)"
   name: "resetWithResponseAsync(AttestationType attestationType, String policyJws, Context context)"
@@ -29,7 +29,7 @@ members:
   - description: "Specifies the trusted execution environment to be used to validate the evidence."
     name: "attestationType"
     type: "<xref href=\"com.azure.security.attestation.models.AttestationType?alt=com.azure.security.attestation.models.AttestationType&text=AttestationType\" data-throw-if-not-resolved=\"False\" />"
-  - description: "simple string."
+  - description: "JSON Web Signature with an empty policy document."
     name: "policyJws"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
   - description: "The context to associate with this operation."
@@ -38,8 +38,8 @@ members:
   syntax: "public Mono<Response<PolicyResponse>> resetWithResponseAsync(AttestationType attestationType, String policyJws, Context context)"
   returns:
     description: "the response to an attestation policy operation."
-    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.PolicyResponse?alt=com.azure.security.attestation.models.PolicyResponse&text=PolicyResponse\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.implementation.models.PolicyResponse?alt=com.azure.security.attestation.implementation.models.PolicyResponse&text=PolicyResponse\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation.implementation"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211122.1

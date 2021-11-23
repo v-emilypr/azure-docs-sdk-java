@@ -34,4 +34,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.logz.fluent.SingleSignOnsClient?alt=com.azure.resourcemanager.logz.fluent.SingleSignOnsClient&text=SingleSignOnsClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.logz.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-logz:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-logz:1.0.0-alpha.20211122.1

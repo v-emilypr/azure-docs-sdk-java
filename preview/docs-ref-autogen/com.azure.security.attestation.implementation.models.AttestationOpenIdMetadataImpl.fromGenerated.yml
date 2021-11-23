@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.fromGenerated*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.fromGenerated"
+name: "fromGenerated"
+nameWithType: "AttestationOpenIdMetadataImpl.fromGenerated"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.fromGenerated(java.lang.Object)"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.fromGenerated(Object generated)"
+  name: "fromGenerated(Object generated)"
+  nameWithType: "AttestationOpenIdMetadataImpl.fromGenerated(Object generated)"
+  parameters:
+  - name: "generated"
+    type: "<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static AttestationOpenIdMetadata fromGenerated(Object generated)"
+  returns:
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationOpenIdMetadata?alt=com.azure.security.attestation.models.AttestationOpenIdMetadata&text=AttestationOpenIdMetadata\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211122.1

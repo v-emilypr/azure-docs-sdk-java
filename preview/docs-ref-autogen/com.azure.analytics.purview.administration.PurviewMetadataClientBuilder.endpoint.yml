@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.endpoint*"
+fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.endpoint"
+name: "endpoint"
+nameWithType: "PurviewMetadataClientBuilder.endpoint"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.endpoint(java.lang.String)"
+  fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.endpoint(String endpoint)"
+  name: "endpoint(String endpoint)"
+  nameWithType: "PurviewMetadataClientBuilder.endpoint(String endpoint)"
+  summary: "Sets The endpoint of your Purview account. Example: https://\\{accountName\\}.purview.azure.com."
+  parameters:
+  - description: "the endpoint value."
+    name: "endpoint"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PurviewMetadataClientBuilder endpoint(String endpoint)"
+  returns:
+    description: "the PurviewMetadataClientBuilder."
+    type: "<xref href=\"com.azure.analytics.purview.administration.PurviewMetadataClientBuilder?alt=com.azure.analytics.purview.administration.PurviewMetadataClientBuilder&text=PurviewMetadataClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211122.1

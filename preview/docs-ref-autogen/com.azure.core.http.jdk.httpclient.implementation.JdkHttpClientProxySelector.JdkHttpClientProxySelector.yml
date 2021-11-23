@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector.JdkHttpClientProxySelector*"
+fullName: "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector.JdkHttpClientProxySelector"
+name: "JdkHttpClientProxySelector"
+nameWithType: "JdkHttpClientProxySelector.JdkHttpClientProxySelector"
+members:
+- uid: "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector.JdkHttpClientProxySelector(java.net.Proxy.Type,java.net.SocketAddress,java.lang.String)"
+  fullName: "com.azure.core.http.jdk.httpclient.implementation.JdkHttpClientProxySelector.JdkHttpClientProxySelector(Proxy.Type proxyType, SocketAddress proxyAddress, String nonProxyHosts)"
+  name: "JdkHttpClientProxySelector(Proxy.Type proxyType, SocketAddress proxyAddress, String nonProxyHosts)"
+  nameWithType: "JdkHttpClientProxySelector.JdkHttpClientProxySelector(Proxy.Type proxyType, SocketAddress proxyAddress, String nonProxyHosts)"
+  parameters:
+  - name: "proxyType"
+    type: "<xref href=\"java.net.Proxy.Type?alt=java.net.Proxy.Type&text=Type\" data-throw-if-not-resolved=\"False\" />"
+  - name: "proxyAddress"
+    type: "<xref href=\"java.net.SocketAddress?alt=java.net.SocketAddress&text=SocketAddress\" data-throw-if-not-resolved=\"False\" />"
+  - name: "nonProxyHosts"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public JdkHttpClientProxySelector(Proxy.Type proxyType, SocketAddress proxyAddress, String nonProxyHosts)"
+type: "constructor"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient.implementation"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211122.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationAdministrationClientBuilder.serializerAdapter*"
+fullName: "com.azure.security.attestation.AttestationAdministrationClientBuilder.serializerAdapter"
+name: "serializerAdapter"
+nameWithType: "AttestationAdministrationClientBuilder.serializerAdapter"
+members:
+- uid: "com.azure.security.attestation.AttestationAdministrationClientBuilder.serializerAdapter(com.azure.core.util.serializer.SerializerAdapter)"
+  fullName: "com.azure.security.attestation.AttestationAdministrationClientBuilder.serializerAdapter(SerializerAdapter serializerAdapter)"
+  name: "serializerAdapter(SerializerAdapter serializerAdapter)"
+  nameWithType: "AttestationAdministrationClientBuilder.serializerAdapter(SerializerAdapter serializerAdapter)"
+  summary: "Sets The serializer to serialize an object into a string."
+  parameters:
+  - description: "the serializerAdapter value."
+    name: "serializerAdapter"
+    type: "<xref href=\"com.azure.core.util.serializer.SerializerAdapter?alt=com.azure.core.util.serializer.SerializerAdapter&text=SerializerAdapter\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttestationAdministrationClientBuilder serializerAdapter(SerializerAdapter serializerAdapter)"
+  returns:
+    description: "the AttestationClientBuilder."
+    type: "<xref href=\"com.azure.security.attestation.AttestationAdministrationClientBuilder?alt=com.azure.security.attestation.AttestationAdministrationClientBuilder&text=AttestationAdministrationClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211122.1

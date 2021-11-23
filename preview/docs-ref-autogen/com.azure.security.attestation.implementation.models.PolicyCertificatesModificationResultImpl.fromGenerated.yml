@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl.fromGenerated*"
+fullName: "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl.fromGenerated"
+name: "fromGenerated"
+nameWithType: "PolicyCertificatesModificationResultImpl.fromGenerated"
+members:
+- uid: "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl.fromGenerated(com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResult)"
+  fullName: "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl.fromGenerated(PolicyCertificatesModificationResult generated)"
+  name: "fromGenerated(PolicyCertificatesModificationResult generated)"
+  nameWithType: "PolicyCertificatesModificationResultImpl.fromGenerated(PolicyCertificatesModificationResult generated)"
+  parameters:
+  - name: "generated"
+    type: "<xref href=\"com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResult?alt=com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResult&text=PolicyCertificatesModificationResult\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static PolicyCertificatesModificationResult fromGenerated(PolicyCertificatesModificationResult generated)"
+  returns:
+    type: "<xref href=\"com.azure.security.attestation.models.PolicyCertificatesModificationResult?alt=com.azure.security.attestation.models.PolicyCertificatesModificationResult&text=PolicyCertificatesModificationResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211122.1
