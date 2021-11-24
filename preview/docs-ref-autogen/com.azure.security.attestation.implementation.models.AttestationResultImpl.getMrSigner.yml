@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getMrSigner*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getMrSigner"
+name: "getMrSigner"
+nameWithType: "AttestationResultImpl.getMrSigner"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getMrSigner()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationResultImpl.getMrSigner()"
+  name: "getMrSigner()"
+  nameWithType: "AttestationResultImpl.getMrSigner()"
+  summary: "Get the mrSigner property: The HEX encoded SGX MRSIGNER value for the enclave."
+  syntax: "public String getMrSigner()"
+  returns:
+    description: "the mrSigner value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211123.1

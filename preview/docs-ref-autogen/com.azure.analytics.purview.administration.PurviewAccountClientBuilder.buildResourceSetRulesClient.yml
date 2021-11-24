@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.buildResourceSetRulesClient*"
+fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.buildResourceSetRulesClient"
+name: "buildResourceSetRulesClient"
+nameWithType: "PurviewAccountClientBuilder.buildResourceSetRulesClient"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.buildResourceSetRulesClient()"
+  fullName: "com.azure.analytics.purview.administration.PurviewAccountClientBuilder.buildResourceSetRulesClient()"
+  name: "buildResourceSetRulesClient()"
+  nameWithType: "PurviewAccountClientBuilder.buildResourceSetRulesClient()"
+  summary: "Builds an instance of ResourceSetRulesClient sync client."
+  syntax: "public ResourceSetRulesClient buildResourceSetRulesClient()"
+  returns:
+    description: "an instance of ResourceSetRulesClient."
+    type: "<xref href=\"com.azure.analytics.purview.administration.ResourceSetRulesClient?alt=com.azure.analytics.purview.administration.ResourceSetRulesClient&text=ResourceSetRulesClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211123.1

@@ -45,4 +45,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.relay.fluent.WcfRelaysClient?alt=com.azure.resourcemanager.relay.fluent.WcfRelaysClient&text=WcfRelaysClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.relay.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-relay:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-relay:1.0.0-alpha.20211122.1

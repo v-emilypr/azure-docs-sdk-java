@@ -1,0 +1,35 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.SSHShell.upload*"
+fullName: "com.azure.resourcemanager.samples.SSHShell.upload"
+name: "upload"
+nameWithType: "SSHShell.upload"
+members:
+- uid: "com.azure.resourcemanager.samples.SSHShell.upload(java.io.InputStream,java.lang.String,java.lang.String,boolean,java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.SSHShell.upload(InputStream from, String fileName, String toPath, boolean isUserHomeBased, String filePerm)"
+  name: "upload(InputStream from, String fileName, String toPath, boolean isUserHomeBased, String filePerm)"
+  nameWithType: "SSHShell.upload(InputStream from, String fileName, String toPath, boolean isUserHomeBased, String filePerm)"
+  summary: "Creates a new file on the remote host using the input content."
+  parameters:
+  - description: "the byte array content to be uploaded"
+    name: "from"
+    type: "<xref href=\"java.io.InputStream?alt=java.io.InputStream&text=InputStream\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the name of the file for which the content will be saved into"
+    name: "fileName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the path of the file for which the content will be saved into"
+    name: "toPath"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "true if the path of the file is relative to the user's home directory"
+    name: "isUserHomeBased"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  - description: "file permissions to be set"
+    name: "filePerm"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void upload(InputStream from, String fileName, String toPath, boolean isUserHomeBased, String filePerm)"
+  exceptions:
+  - description: "exception thrown"
+    type: "<xref href=\"java.lang.Exception?alt=java.lang.Exception&text=Exception\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

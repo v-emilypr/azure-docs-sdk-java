@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.setPath*"
+fullName: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.setPath"
+name: "setPath"
+nameWithType: "FetchMetadataResult.setPath"
+members:
+- uid: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.setPath(java.lang.String)"
+  fullName: "com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult.setPath(String path)"
+  name: "setPath(String path)"
+  nameWithType: "FetchMetadataResult.setPath(String path)"
+  summary: "Sets the model repository's metadata path."
+  parameters:
+  - description: "the model repository's metadata path."
+    name: "path"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public FetchMetadataResult setPath(String path)"
+  returns:
+    description: "the <xref uid=\"com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult\" data-throw-if-not-resolved=\"false\" data-raw-source=\"FetchMetadataResult\"></xref> object itself"
+    type: "<xref href=\"com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult?alt=com.azure.iot.modelsrepository.implementation.models.FetchMetadataResult&text=FetchMetadataResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211122.1

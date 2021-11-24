@@ -1,0 +1,37 @@
+### YamlMime:JavaType
+uid: "com.azure.security.attestation.implementation.models.AttestationSignerImpl"
+fullName: "com.azure.security.attestation.implementation.models.AttestationSignerImpl"
+name: "AttestationSignerImpl"
+nameWithType: "AttestationSignerImpl"
+summary: "Represents an attestation signing certificate returned by the attestation service."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class AttestationSignerImpl implements AttestationSigner"
+constructors:
+- "com.azure.security.attestation.implementation.models.AttestationSignerImpl.AttestationSignerImpl()"
+methods:
+- "com.azure.security.attestation.implementation.models.AttestationSignerImpl.attestationSignersFromJwks(com.azure.security.attestation.implementation.models.JsonWebKeySet)"
+- "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromCertificateChain(java.util.List<com.nimbusds.jose.util.Base64>)"
+- "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromJWK(com.nimbusds.jose.jwk.JWK)"
+- "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromJsonWebKey(com.azure.security.attestation.implementation.models.JsonWebKey)"
+- "com.azure.security.attestation.implementation.models.AttestationSignerImpl.getCertificates()"
+- "com.azure.security.attestation.implementation.models.AttestationSignerImpl.getKeyId()"
+- "com.azure.security.attestation.implementation.models.AttestationSignerImpl.validate()"
+type: "class"
+implements:
+- "<xref href=\"com.azure.security.attestation.models.AttestationSigner?alt=com.azure.security.attestation.models.AttestationSigner&text=AttestationSigner\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211123.1

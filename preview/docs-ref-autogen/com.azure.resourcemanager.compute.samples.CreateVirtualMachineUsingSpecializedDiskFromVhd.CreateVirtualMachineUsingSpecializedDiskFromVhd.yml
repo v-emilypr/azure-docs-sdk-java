@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.compute.samples.CreateVirtualMachineUsingSpecializedDiskFromVhd.CreateVirtualMachineUsingSpecializedDiskFromVhd*"
+fullName: "com.azure.resourcemanager.compute.samples.CreateVirtualMachineUsingSpecializedDiskFromVhd.CreateVirtualMachineUsingSpecializedDiskFromVhd"
+name: "CreateVirtualMachineUsingSpecializedDiskFromVhd"
+nameWithType: "CreateVirtualMachineUsingSpecializedDiskFromVhd.CreateVirtualMachineUsingSpecializedDiskFromVhd"
+members:
+- uid: "com.azure.resourcemanager.compute.samples.CreateVirtualMachineUsingSpecializedDiskFromVhd.CreateVirtualMachineUsingSpecializedDiskFromVhd()"
+  fullName: "com.azure.resourcemanager.compute.samples.CreateVirtualMachineUsingSpecializedDiskFromVhd.CreateVirtualMachineUsingSpecializedDiskFromVhd()"
+  name: "CreateVirtualMachineUsingSpecializedDiskFromVhd()"
+  nameWithType: "CreateVirtualMachineUsingSpecializedDiskFromVhd.CreateVirtualMachineUsingSpecializedDiskFromVhd()"
+  syntax: "public CreateVirtualMachineUsingSpecializedDiskFromVhd()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.compute.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

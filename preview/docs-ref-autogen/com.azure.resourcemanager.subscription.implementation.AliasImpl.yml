@@ -34,4 +34,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.subscription.models.Alias?alt=com.azure.resourcemanager.subscription.models.Alias&text=Alias\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.subscription.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-subscription:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-subscription:1.0.0-alpha.20211123.1

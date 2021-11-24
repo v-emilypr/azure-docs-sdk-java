@@ -19,4 +19,4 @@ members:
 type: "constructor"
 metadata: {}
 package: "com.azure.iot.modelsrepository.implementation.models"
-artifact: com.azure:azure-iot-modelsrepository:1.0.0-beta.1
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211122.1

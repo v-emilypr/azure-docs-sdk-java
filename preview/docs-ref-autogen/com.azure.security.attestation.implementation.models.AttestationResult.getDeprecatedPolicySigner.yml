@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationResult.getDeprecatedPolicySigner*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationResult.getDeprecatedPolicySigner"
+name: "getDeprecatedPolicySigner"
+nameWithType: "AttestationResult.getDeprecatedPolicySigner"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationResult.getDeprecatedPolicySigner()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationResult.getDeprecatedPolicySigner()"
+  name: "getDeprecatedPolicySigner()"
+  nameWithType: "AttestationResult.getDeprecatedPolicySigner()"
+  summary: "Get the deprecatedPolicySigner property: DEPRECATED: Private Preview version of x-ms-policy-signer."
+  syntax: "public JsonWebKey getDeprecatedPolicySigner()"
+  returns:
+    description: "the deprecatedPolicySigner value."
+    type: "<xref href=\"com.azure.security.attestation.implementation.models.JsonWebKey?alt=com.azure.security.attestation.implementation.models.JsonWebKey&text=JsonWebKey\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211123.1

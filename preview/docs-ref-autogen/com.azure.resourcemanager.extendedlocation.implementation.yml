@@ -13,4 +13,4 @@ classes:
 - "com.azure.resourcemanager.extendedlocation.implementation.EnabledResourceTypeImpl"
 metadata: {}
 package: "com.azure.resourcemanager.extendedlocation.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-extendedlocation:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-extendedlocation:1.0.0-alpha.20211122.1

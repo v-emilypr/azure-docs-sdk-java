@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSqlConnection"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSqlConnection"
+name: "ManageLinuxWebAppSqlConnection"
+nameWithType: "ManageLinuxWebAppSqlConnection"
+summary: "Azure App Service basic sample for managing web apps. - Create a SQL database in a new SQL server - Create a web app deployed with Project Nami (WordPress's SQL Server variant) that contains the app settings to connect to the SQL database - Update the SQL server's firewall rules to allow the web app to access - Clean up"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageLinuxWebAppSqlConnection"
+constructors:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSqlConnection.ManageLinuxWebAppSqlConnection()"
+methods:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSqlConnection.main(java.lang.String[])"
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppSqlConnection.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

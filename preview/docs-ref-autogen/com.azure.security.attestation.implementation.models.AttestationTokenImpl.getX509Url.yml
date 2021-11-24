@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getX509Url*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getX509Url"
+name: "getX509Url"
+nameWithType: "AttestationTokenImpl.getX509Url"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getX509Url()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getX509Url()"
+  name: "getX509Url()"
+  nameWithType: "AttestationTokenImpl.getX509Url()"
+  summary: "Returns a URI which can be used to retrieve an X.509 certificate which can verify the signature on this token."
+  syntax: "public String getX509Url()"
+  returns:
+    description: "URI at which an X.509 certificate can be retrieved."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211123.1

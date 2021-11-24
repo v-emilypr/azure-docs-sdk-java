@@ -1,0 +1,11 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.trafficmanager.samples"
+fullName: "com.azure.resourcemanager.trafficmanager.samples"
+name: "com.azure.resourcemanager.trafficmanager.samples"
+summary: "This package contains the classes for traffic manager samples."
+classes:
+- "com.azure.resourcemanager.trafficmanager.samples.ManageSimpleTrafficManager"
+- "com.azure.resourcemanager.trafficmanager.samples.ManageTrafficManager"
+metadata: {}
+package: "com.azure.resourcemanager.trafficmanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

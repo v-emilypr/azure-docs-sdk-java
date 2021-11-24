@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.availabilityZone*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.availabilityZone"
+name: "availabilityZone"
+nameWithType: "ServerImpl.availabilityZone"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.availabilityZone()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.availabilityZone()"
+  name: "availabilityZone()"
+  nameWithType: "ServerImpl.availabilityZone()"
+  summary: "Gets the availabilityZone property: availability Zone information of the server."
+  syntax: "public String availabilityZone()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211122.1

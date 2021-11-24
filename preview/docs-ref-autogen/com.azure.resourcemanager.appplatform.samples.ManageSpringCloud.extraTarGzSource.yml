@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.extraTarGzSource*"
+fullName: "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.extraTarGzSource"
+name: "extraTarGzSource"
+nameWithType: "ManageSpringCloud.extraTarGzSource"
+members:
+- uid: "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.extraTarGzSource(java.io.File,java.net.URL)"
+  fullName: "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.extraTarGzSource(File folder, URL url)"
+  name: "extraTarGzSource(File folder, URL url)"
+  nameWithType: "ManageSpringCloud.extraTarGzSource(File folder, URL url)"
+  parameters:
+  - name: "folder"
+    type: "<xref href=\"java.io.File?alt=java.io.File&text=File\" data-throw-if-not-resolved=\"False\" />"
+  - name: "url"
+    type: "<xref href=\"java.net.URL?alt=java.net.URL&text=URL\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static void extraTarGzSource(File folder, URL url)"
+  exceptions:
+  - type: "<xref href=\"java.io.IOException?alt=java.io.IOException&text=IOException\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appplatform.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

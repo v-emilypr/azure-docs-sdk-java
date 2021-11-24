@@ -1,0 +1,14 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.servicebus.samples"
+fullName: "com.azure.resourcemanager.servicebus.samples"
+name: "com.azure.resourcemanager.servicebus.samples"
+summary: "This package contains the classes for servicebus samples."
+classes:
+- "com.azure.resourcemanager.servicebus.samples.ServiceBusPublishSubscribeAdvanceFeatures"
+- "com.azure.resourcemanager.servicebus.samples.ServiceBusPublishSubscribeBasic"
+- "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueAdvanceFeatures"
+- "com.azure.resourcemanager.servicebus.samples.ServiceBusQueueBasic"
+- "com.azure.resourcemanager.servicebus.samples.ServiceBusWithClaimBasedAuthorization"
+metadata: {}
+package: "com.azure.resourcemanager.servicebus.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

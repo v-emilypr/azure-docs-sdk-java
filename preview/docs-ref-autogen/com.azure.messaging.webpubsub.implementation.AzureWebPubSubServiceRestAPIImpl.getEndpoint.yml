@@ -1,13 +1,13 @@
 ### YamlMime:JavaMember
-uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getEndpoint*"
-fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getEndpoint"
+uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getEndpoint*"
+fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getEndpoint"
 name: "getEndpoint"
-nameWithType: "AzureWebPubSubServiceRestAPIImpl.getEndpoint"
+nameWithType: "AzureWebPubSubServiceRestApiImpl.getEndpoint"
 members:
-- uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getEndpoint()"
-  fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getEndpoint()"
+- uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getEndpoint()"
+  fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getEndpoint()"
   name: "getEndpoint()"
-  nameWithType: "AzureWebPubSubServiceRestAPIImpl.getEndpoint()"
+  nameWithType: "AzureWebPubSubServiceRestApiImpl.getEndpoint()"
   summary: "Gets HTTP or HTTPS endpoint for the Web PubSub service instance."
   syntax: "public String getEndpoint()"
   returns:
@@ -16,4 +16,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.messaging.webpubsub.implementation"
-artifact: com.azure:azure-messaging-webpubsub:1.0.0-beta.6
+artifact: com.azure:azure-messaging-webpubsub:1.0.0-alpha.20211123.2

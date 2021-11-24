@@ -79,4 +79,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.webpubsub.models.WebPubSubResource?alt=com.azure.resourcemanager.webpubsub.models.WebPubSubResource&text=WebPubSubResource\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.webpubsub.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-webpubsub:1.0.0-beta.2
+artifact: com.azure.resourcemanager:azure-resourcemanager-webpubsub:1.0.0-alpha.20211123.2

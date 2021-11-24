@@ -8,4 +8,4 @@ classes:
 - "com.azure.resourcemanager.powerbidedicated.PowerBIDedicatedManager.Configurable"
 metadata: {}
 package: "com.azure.resourcemanager.powerbidedicated"
-artifact: com.azure.resourcemanager:azure-resourcemanager-powerbidedicated:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-powerbidedicated:1.0.0-alpha.20211123.1

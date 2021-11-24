@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.PolicyResultImpl.getPolicyTokenHash*"
+fullName: "com.azure.security.attestation.implementation.models.PolicyResultImpl.getPolicyTokenHash"
+name: "getPolicyTokenHash"
+nameWithType: "PolicyResultImpl.getPolicyTokenHash"
+members:
+- uid: "com.azure.security.attestation.implementation.models.PolicyResultImpl.getPolicyTokenHash()"
+  fullName: "com.azure.security.attestation.implementation.models.PolicyResultImpl.getPolicyTokenHash()"
+  name: "getPolicyTokenHash()"
+  nameWithType: "PolicyResultImpl.getPolicyTokenHash()"
+  summary: "Get the policyTokenHash property: The SHA256 hash of the policy object modified."
+  syntax: "public BinaryData getPolicyTokenHash()"
+  returns:
+    description: "the policyTokenHash value."
+    type: "<xref href=\"com.azure.core.util.BinaryData?alt=com.azure.core.util.BinaryData&text=BinaryData\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211123.1

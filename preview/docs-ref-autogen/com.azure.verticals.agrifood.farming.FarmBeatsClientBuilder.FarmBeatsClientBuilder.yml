@@ -13,4 +13,4 @@ members:
 type: "constructor"
 metadata: {}
 package: "com.azure.verticals.agrifood.farming"
-artifact: com.azure:azure-verticals-agrifood-farming:1.0.0-beta.2
+artifact: com.azure:azure-verticals-agrifood-farming:1.0.0-alpha.20211123.1

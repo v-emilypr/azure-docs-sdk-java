@@ -1,0 +1,32 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.samples.SSHShell"
+fullName: "com.azure.resourcemanager.samples.SSHShell"
+name: "SSHShell"
+nameWithType: "SSHShell"
+summary: "Utility class to run commands on Linux VM via SSH."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class SSHShell"
+methods:
+- "com.azure.resourcemanager.samples.SSHShell.close()"
+- "com.azure.resourcemanager.samples.SSHShell.download(java.lang.String,java.lang.String,boolean)"
+- "com.azure.resourcemanager.samples.SSHShell.executeCommand(java.lang.String,java.lang.Boolean,java.lang.Boolean)"
+- "com.azure.resourcemanager.samples.SSHShell.generateSSHKeys(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.samples.SSHShell.open(java.lang.String,int,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.samples.SSHShell.upload(java.io.InputStream,java.lang.String,java.lang.String,boolean,java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

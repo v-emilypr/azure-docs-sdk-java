@@ -102,4 +102,4 @@ methods:
     type: "<xref href=\"com.azure.resourcemanager.customerinsights.models.ConnectorMappingStates?alt=com.azure.resourcemanager.customerinsights.models.ConnectorMappingStates&text=ConnectorMappingStates\" data-throw-if-not-resolved=\"False\" />[]"
 metadata: {}
 package: "com.azure.resourcemanager.customerinsights.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-customerinsights:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-customerinsights:1.0.0-alpha.20211122.1

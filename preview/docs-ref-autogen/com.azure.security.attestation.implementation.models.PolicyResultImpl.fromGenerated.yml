@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.PolicyResultImpl.fromGenerated*"
+fullName: "com.azure.security.attestation.implementation.models.PolicyResultImpl.fromGenerated"
+name: "fromGenerated"
+nameWithType: "PolicyResultImpl.fromGenerated"
+members:
+- uid: "com.azure.security.attestation.implementation.models.PolicyResultImpl.fromGenerated(com.azure.security.attestation.implementation.models.PolicyResult)"
+  fullName: "com.azure.security.attestation.implementation.models.PolicyResultImpl.fromGenerated(PolicyResult generated)"
+  name: "fromGenerated(PolicyResult generated)"
+  nameWithType: "PolicyResultImpl.fromGenerated(PolicyResult generated)"
+  summary: "Return the public PolicyResult object from the generated PolicyResult type."
+  parameters:
+  - description: "Generated PolicyResult type."
+    name: "generated"
+    type: "<xref href=\"com.azure.security.attestation.implementation.models.PolicyResult?alt=com.azure.security.attestation.implementation.models.PolicyResult&text=PolicyResult\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static PolicyResult fromGenerated(PolicyResult generated)"
+  returns:
+    type: "<xref href=\"com.azure.security.attestation.models.PolicyResult?alt=com.azure.security.attestation.models.PolicyResult&text=PolicyResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211123.1

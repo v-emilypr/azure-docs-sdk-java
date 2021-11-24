@@ -77,4 +77,4 @@ methods:
     type: "<xref href=\"com.azure.resourcemanager.customerinsights.models.LinkTypes?alt=com.azure.resourcemanager.customerinsights.models.LinkTypes&text=LinkTypes\" data-throw-if-not-resolved=\"False\" />[]"
 metadata: {}
 package: "com.azure.resourcemanager.customerinsights.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-customerinsights:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-customerinsights:1.0.0-alpha.20211122.1

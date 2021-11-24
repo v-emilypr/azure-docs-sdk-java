@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationClient.getOpenIdMetadata*"
+fullName: "com.azure.security.attestation.AttestationClient.getOpenIdMetadata"
+name: "getOpenIdMetadata"
+nameWithType: "AttestationClient.getOpenIdMetadata"
+members:
+- uid: "com.azure.security.attestation.AttestationClient.getOpenIdMetadata()"
+  fullName: "com.azure.security.attestation.AttestationClient.getOpenIdMetadata()"
+  name: "getOpenIdMetadata()"
+  nameWithType: "AttestationClient.getOpenIdMetadata()"
+  summary: "Retrieves the OpenId Metadata for this AttestationClient instance."
+  syntax: "public AttestationOpenIdMetadata getOpenIdMetadata()"
+  returns:
+    description: "Object containing the OpenId metadata configuration for this instance."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationOpenIdMetadata?alt=com.azure.security.attestation.models.AttestationOpenIdMetadata&text=AttestationOpenIdMetadata\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211123.1

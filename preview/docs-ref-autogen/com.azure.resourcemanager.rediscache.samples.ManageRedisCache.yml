@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.rediscache.samples.ManageRedisCache"
+fullName: "com.azure.resourcemanager.rediscache.samples.ManageRedisCache"
+name: "ManageRedisCache"
+nameWithType: "ManageRedisCache"
+summary: "Azure Redis sample for managing Redis Cache: - Create a Redis Cache and print out hostname. - Get access keys. - Regenerate access keys. - Create another 2 Redis Caches with Premium Sku. - List all Redis Caches in a resource group \\\\u2013 for each cache with Premium Sku: - set Redis patch schedule to Monday at 5 am. - update shard count. - enable non-SSL port. - modify max memory policy and reserved settings. - restart it. - Clean up all resources."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageRedisCache"
+methods:
+- "com.azure.resourcemanager.rediscache.samples.ManageRedisCache.main(java.lang.String[])"
+- "com.azure.resourcemanager.rediscache.samples.ManageRedisCache.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.rediscache.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

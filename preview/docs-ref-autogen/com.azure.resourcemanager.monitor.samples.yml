@@ -1,0 +1,13 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.monitor.samples"
+fullName: "com.azure.resourcemanager.monitor.samples"
+name: "com.azure.resourcemanager.monitor.samples"
+summary: "This package contains the classes for CDN samples."
+classes:
+- "com.azure.resourcemanager.monitor.samples.AutoscaleSettingsBasedOnPerformanceOrSchedule"
+- "com.azure.resourcemanager.monitor.samples.QueryMetricsAndActivityLogs"
+- "com.azure.resourcemanager.monitor.samples.SecurityBreachOrRiskActivityLogAlerts"
+- "com.azure.resourcemanager.monitor.samples.WebAppPerformanceMonitoringAlerts"
+metadata: {}
+package: "com.azure.resourcemanager.monitor.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

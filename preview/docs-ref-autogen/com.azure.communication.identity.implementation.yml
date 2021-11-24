@@ -9,4 +9,4 @@ classes:
 - "com.azure.communication.identity.implementation.CommunicationIdentityClientImplBuilder"
 metadata: {}
 package: "com.azure.communication.identity.implementation"
-artifact: com.azure:azure-communication-identity:1.2.0-beta.1
+artifact: com.azure:azure-communication-identity:1.2.0-alpha.20211123.1

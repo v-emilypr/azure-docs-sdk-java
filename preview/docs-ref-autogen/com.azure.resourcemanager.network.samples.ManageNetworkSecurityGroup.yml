@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.network.samples.ManageNetworkSecurityGroup"
+fullName: "com.azure.resourcemanager.network.samples.ManageNetworkSecurityGroup"
+name: "ManageNetworkSecurityGroup"
+nameWithType: "ManageNetworkSecurityGroup"
+summary: "Azure Network sample for managing network security groups - - Create a network security group for the front end of a subnet - Create a network security group for the back end of a subnet - Create Linux virtual machines for the front end and back end -- Apply network security groups - List network security groups - Update a network security group."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageNetworkSecurityGroup"
+methods:
+- "com.azure.resourcemanager.network.samples.ManageNetworkSecurityGroup.main(java.lang.String[])"
+- "com.azure.resourcemanager.network.samples.ManageNetworkSecurityGroup.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.network.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

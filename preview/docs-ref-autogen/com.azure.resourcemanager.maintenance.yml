@@ -8,4 +8,4 @@ classes:
 - "com.azure.resourcemanager.maintenance.MaintenanceManager.Configurable"
 metadata: {}
 package: "com.azure.resourcemanager.maintenance"
-artifact: com.azure.resourcemanager:azure-resourcemanager-maintenance:1.0.0-beta.2
+artifact: com.azure.resourcemanager:azure-resourcemanager-maintenance:1.0.0-alpha.20211123.1

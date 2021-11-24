@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.network.samples.ManageIPAddress"
+fullName: "com.azure.resourcemanager.network.samples.ManageIPAddress"
+name: "ManageIPAddress"
+nameWithType: "ManageIPAddress"
+summary: "Azure Network sample for managing IP address - - Assign a public IP address for a virtual machine during its creation - Assign a public IP address for a virtual machine through an virtual machine update action - Get the associated public IP address for a virtual machine - Get the assigned public IP address for a virtual machine - Remove a public IP address from a virtual machine."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageIPAddress"
+methods:
+- "com.azure.resourcemanager.network.samples.ManageIPAddress.main(java.lang.String[])"
+- "com.azure.resourcemanager.network.samples.ManageIPAddress.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.network.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

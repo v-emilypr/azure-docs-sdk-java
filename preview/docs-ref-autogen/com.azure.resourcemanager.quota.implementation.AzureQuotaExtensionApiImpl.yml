@@ -37,4 +37,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.quota.fluent.AzureQuotaExtensionApi?alt=com.azure.resourcemanager.quota.fluent.AzureQuotaExtensionApi&text=AzureQuotaExtensionApi\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.quota.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-quota:1.0.0-beta.2
+artifact: com.azure.resourcemanager:azure-resourcemanager-quota:1.0.0-alpha.20211122.1

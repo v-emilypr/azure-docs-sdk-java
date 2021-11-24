@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.DockerUtils.DockerUtils*"
+fullName: "com.azure.resourcemanager.samples.DockerUtils.DockerUtils"
+name: "DockerUtils"
+nameWithType: "DockerUtils.DockerUtils"
+members:
+- uid: "com.azure.resourcemanager.samples.DockerUtils.DockerUtils()"
+  fullName: "com.azure.resourcemanager.samples.DockerUtils.DockerUtils()"
+  name: "DockerUtils()"
+  nameWithType: "DockerUtils.DockerUtils()"
+  syntax: "public DockerUtils()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

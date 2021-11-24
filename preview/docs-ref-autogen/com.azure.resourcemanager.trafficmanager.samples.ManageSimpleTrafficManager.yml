@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.trafficmanager.samples.ManageSimpleTrafficManager"
+fullName: "com.azure.resourcemanager.trafficmanager.samples.ManageSimpleTrafficManager"
+name: "ManageSimpleTrafficManager"
+nameWithType: "ManageSimpleTrafficManager"
+summary: "Simple Azure traffic manager sample. - Create 4 VMs spread across 2 regions - Create a traffic manager in front of the VMs - Change/configure traffic manager routing method"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageSimpleTrafficManager"
+methods:
+- "com.azure.resourcemanager.trafficmanager.samples.ManageSimpleTrafficManager.main(java.lang.String[])"
+- "com.azure.resourcemanager.trafficmanager.samples.ManageSimpleTrafficManager.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.trafficmanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211122.5

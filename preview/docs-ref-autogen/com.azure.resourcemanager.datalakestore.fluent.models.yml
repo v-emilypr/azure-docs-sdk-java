@@ -15,4 +15,4 @@ classes:
 - "com.azure.resourcemanager.datalakestore.fluent.models.VirtualNetworkRuleInner"
 metadata: {}
 package: "com.azure.resourcemanager.datalakestore.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-datalakestore:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-datalakestore:1.0.0-alpha.20211123.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.httpLogOptions*"
+fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.httpLogOptions"
+name: "httpLogOptions"
+nameWithType: "PurviewMetadataClientBuilder.httpLogOptions"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.httpLogOptions(com.azure.core.http.policy.HttpLogOptions)"
+  fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.httpLogOptions(HttpLogOptions httpLogOptions)"
+  name: "httpLogOptions(HttpLogOptions httpLogOptions)"
+  nameWithType: "PurviewMetadataClientBuilder.httpLogOptions(HttpLogOptions httpLogOptions)"
+  summary: "Sets The logging configuration for HTTP requests and responses."
+  parameters:
+  - description: "the httpLogOptions value."
+    name: "httpLogOptions"
+    type: "<xref href=\"com.azure.core.http.policy.HttpLogOptions?alt=com.azure.core.http.policy.HttpLogOptions&text=HttpLogOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PurviewMetadataClientBuilder httpLogOptions(HttpLogOptions httpLogOptions)"
+  returns:
+    description: "the PurviewMetadataClientBuilder."
+    type: "<xref href=\"com.azure.analytics.purview.administration.PurviewMetadataClientBuilder?alt=com.azure.analytics.purview.administration.PurviewMetadataClientBuilder&text=PurviewMetadataClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211123.1

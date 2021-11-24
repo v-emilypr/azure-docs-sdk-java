@@ -27,4 +27,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.mariadb.fluent.LocationBasedPerformanceTiersClient?alt=com.azure.resourcemanager.mariadb.fluent.LocationBasedPerformanceTiersClient&text=LocationBasedPerformanceTiersClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.mariadb.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-mariadb:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-mariadb:1.0.0-alpha.20211123.1

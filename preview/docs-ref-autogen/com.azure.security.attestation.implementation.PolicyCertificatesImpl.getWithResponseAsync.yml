@@ -12,7 +12,7 @@ members:
   syntax: "public Mono<Response<PolicyCertificatesResponse>> getWithResponseAsync()"
   returns:
     description: "the response to an attestation policy management API."
-    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.PolicyCertificatesResponse?alt=com.azure.security.attestation.models.PolicyCertificatesResponse&text=PolicyCertificatesResponse\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.implementation.models.PolicyCertificatesResponse?alt=com.azure.security.attestation.implementation.models.PolicyCertificatesResponse&text=PolicyCertificatesResponse\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
 - uid: "com.azure.security.attestation.implementation.PolicyCertificatesImpl.getWithResponseAsync(com.azure.core.util.Context)"
   fullName: "com.azure.security.attestation.implementation.PolicyCertificatesImpl.getWithResponseAsync(Context context)"
   name: "getWithResponseAsync(Context context)"
@@ -25,8 +25,8 @@ members:
   syntax: "public Mono<Response<PolicyCertificatesResponse>> getWithResponseAsync(Context context)"
   returns:
     description: "the response to an attestation policy management API."
-    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.PolicyCertificatesResponse?alt=com.azure.security.attestation.models.PolicyCertificatesResponse&text=PolicyCertificatesResponse\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.implementation.models.PolicyCertificatesResponse?alt=com.azure.security.attestation.implementation.models.PolicyCertificatesResponse&text=PolicyCertificatesResponse\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation.implementation"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211123.1

@@ -17,4 +17,4 @@ classes:
 - "com.azure.resourcemanager.policyinsights.fluent.models.SummarizeResultsInner"
 metadata: {}
 package: "com.azure.resourcemanager.policyinsights.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-policyinsights:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-policyinsights:1.0.0-alpha.20211123.1

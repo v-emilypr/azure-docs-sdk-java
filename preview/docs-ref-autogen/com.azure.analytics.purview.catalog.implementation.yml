@@ -13,4 +13,4 @@ classes:
 - "com.azure.analytics.purview.catalog.implementation.TypesImpl"
 metadata: {}
 package: "com.azure.analytics.purview.catalog.implementation"
-artifact: com.azure:azure-analytics-purview-catalog:1.0.0-beta.2
+artifact: com.azure:azure-analytics-purview-catalog:1.0.0-alpha.20211123.1

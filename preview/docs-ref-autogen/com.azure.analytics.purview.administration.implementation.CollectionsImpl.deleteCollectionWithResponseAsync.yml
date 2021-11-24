@@ -1,0 +1,45 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.deleteCollectionWithResponseAsync*"
+fullName: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.deleteCollectionWithResponseAsync"
+name: "deleteCollectionWithResponseAsync"
+nameWithType: "CollectionsImpl.deleteCollectionWithResponseAsync"
+members:
+- uid: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.deleteCollectionWithResponseAsync(java.lang.String,com.azure.core.http.rest.RequestOptions)"
+  fullName: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.deleteCollectionWithResponseAsync(String collectionName, RequestOptions requestOptions)"
+  name: "deleteCollectionWithResponseAsync(String collectionName, RequestOptions requestOptions)"
+  nameWithType: "CollectionsImpl.deleteCollectionWithResponseAsync(String collectionName, RequestOptions requestOptions)"
+  summary: "Deletes a Collection entity.\n\n**Query Parameters**\n\n    | ---------- | ------ | -------- | ----------- |\n    | Name       | Type   | Required | Description |\n    | apiVersion | String | Yes      | Api Version |"
+  parameters:
+  - description: "The collectionName parameter."
+    name: "collectionName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The options to configure the HTTP request before HTTP client sends it."
+    name: "requestOptions"
+    type: "<xref href=\"com.azure.core.http.rest.RequestOptions?alt=com.azure.core.http.rest.RequestOptions&text=RequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<Response<Void>> deleteCollectionWithResponseAsync(String collectionName, RequestOptions requestOptions)"
+  returns:
+    description: "the completion."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.Void?alt=java.lang.Void&text=Void\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+- uid: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.deleteCollectionWithResponseAsync(java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+  fullName: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.deleteCollectionWithResponseAsync(String collectionName, RequestOptions requestOptions, Context context)"
+  name: "deleteCollectionWithResponseAsync(String collectionName, RequestOptions requestOptions, Context context)"
+  nameWithType: "CollectionsImpl.deleteCollectionWithResponseAsync(String collectionName, RequestOptions requestOptions, Context context)"
+  summary: "Deletes a Collection entity.\n\n**Query Parameters**\n\n    | ---------- | ------ | -------- | ----------- |\n    | Name       | Type   | Required | Description |\n    | apiVersion | String | Yes      | Api Version |"
+  parameters:
+  - description: "The collectionName parameter."
+    name: "collectionName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The options to configure the HTTP request before HTTP client sends it."
+    name: "requestOptions"
+    type: "<xref href=\"com.azure.core.http.rest.RequestOptions?alt=com.azure.core.http.rest.RequestOptions&text=RequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The context to associate with this operation."
+    name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<Response<Void>> deleteCollectionWithResponseAsync(String collectionName, RequestOptions requestOptions, Context context)"
+  returns:
+    description: "the completion."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.Void?alt=java.lang.Void&text=Void\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration.implementation"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211123.1

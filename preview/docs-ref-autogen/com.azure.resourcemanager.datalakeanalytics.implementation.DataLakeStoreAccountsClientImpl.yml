@@ -33,4 +33,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.datalakeanalytics.fluent.DataLakeStoreAccountsClient?alt=com.azure.resourcemanager.datalakeanalytics.fluent.DataLakeStoreAccountsClient&text=DataLakeStoreAccountsClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.datalakeanalytics.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-datalakeanalytics:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-datalakeanalytics:1.0.0-alpha.20211123.1

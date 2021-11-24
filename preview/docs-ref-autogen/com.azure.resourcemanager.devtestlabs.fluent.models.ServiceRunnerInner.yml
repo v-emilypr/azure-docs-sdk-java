@@ -39,4 +39,4 @@ methods:
 type: "class"
 metadata: {}
 package: "com.azure.resourcemanager.devtestlabs.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-devtestlabs:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-devtestlabs:1.0.0-alpha.20211122.1

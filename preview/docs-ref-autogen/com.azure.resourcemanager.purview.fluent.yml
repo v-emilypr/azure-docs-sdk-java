@@ -12,4 +12,4 @@ interfaces:
 - "com.azure.resourcemanager.purview.fluent.PurviewManagementClient"
 metadata: {}
 package: "com.azure.resourcemanager.purview.fluent"
-artifact: com.azure.resourcemanager:azure-resourcemanager-purview:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-purview:1.0.0-alpha.20211123.1
