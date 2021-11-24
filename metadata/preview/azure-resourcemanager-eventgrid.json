@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-eventgrid",
+  "Version": "1.1.0-alpha.20211124.1",
+  "DevVersion": "1.1.0-alpha.20211124.1",
+  "DirectoryPath": "sdk/eventgrid/azure-resourcemanager-eventgrid",
+  "ServiceDirectory": "eventgrid",
+  "ReadMePath": "sdk/eventgrid/azure-resourcemanager-eventgrid/README.md",
+  "ChangeLogPath": "sdk/eventgrid/azure-resourcemanager-eventgrid/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-eventgrid",
+  "ReleaseStatus": "Unreleased"
+}
