@@ -1,0 +1,14 @@
+{
+  "Name": "azure-messaging-eventhubs-checkpointstore-blob",
+  "Version": "1.11.0-alpha.20211124.1",
+  "DevVersion": "1.11.0-alpha.20211124.1",
+  "DirectoryPath": "sdk/eventhubs/azure-messaging-eventhubs-checkpointstore-blob",
+  "ServiceDirectory": "eventhubs",
+  "ReadMePath": "sdk/eventhubs/azure-messaging-eventhubs-checkpointstore-blob/README.md",
+  "ChangeLogPath": "sdk/eventhubs/azure-messaging-eventhubs-checkpointstore-blob/CHANGELOG.md",
+  "Group": "com.azure",
+  "SdkType": "client",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-messaging-eventhubs-checkpointstore-blob",
+  "ReleaseStatus": "Unreleased"
+}
