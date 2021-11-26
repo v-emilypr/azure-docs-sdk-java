@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-extendedlocation",
+  "Version": "1.0.0-alpha.20211125.1",
+  "DevVersion": "1.0.0-alpha.20211125.1",
+  "DirectoryPath": "sdk/extendedlocation/azure-resourcemanager-extendedlocation",
+  "ServiceDirectory": "extendedlocation",
+  "ReadMePath": "sdk/extendedlocation/azure-resourcemanager-extendedlocation/README.md",
+  "ChangeLogPath": "sdk/extendedlocation/azure-resourcemanager-extendedlocation/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-extendedlocation",
+  "ReleaseStatus": "Unreleased"
+}
