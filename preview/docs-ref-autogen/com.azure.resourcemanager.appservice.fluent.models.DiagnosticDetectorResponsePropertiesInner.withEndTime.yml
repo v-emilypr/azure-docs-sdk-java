@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withEndTime*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withEndTime"
+name: "withEndTime"
+nameWithType: "DiagnosticDetectorResponsePropertiesInner.withEndTime"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withEndTime(java.time.OffsetDateTime)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withEndTime(OffsetDateTime endTime)"
+  name: "withEndTime(OffsetDateTime endTime)"
+  nameWithType: "DiagnosticDetectorResponsePropertiesInner.withEndTime(OffsetDateTime endTime)"
+  summary: "Set the endTime property: End time of the period."
+  parameters:
+  - description: "the endTime value to set."
+    name: "endTime"
+    type: "<xref href=\"java.time.OffsetDateTime?alt=java.time.OffsetDateTime&text=OffsetDateTime\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DiagnosticDetectorResponsePropertiesInner withEndTime(OffsetDateTime endTime)"
+  returns:
+    description: "the DiagnosticDetectorResponsePropertiesInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner?alt=com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner&text=DiagnosticDetectorResponsePropertiesInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

@@ -1,0 +1,45 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.fluent.UsersClient.listAsync*"
+fullName: "com.azure.resourcemanager.authorization.fluent.UsersClient.listAsync"
+name: "listAsync"
+nameWithType: "UsersClient.listAsync"
+members:
+- uid: "com.azure.resourcemanager.authorization.fluent.UsersClient.listAsync(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.fluent.UsersClient.listAsync(String tenantId)"
+  name: "listAsync(String tenantId)"
+  nameWithType: "UsersClient.listAsync(String tenantId)"
+  summary: "Gets list of users for the current tenant."
+  parameters:
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract PagedFlux<UserInner> listAsync(String tenantId)"
+  returns:
+    description: "list of users for the current tenant."
+    type: "<xref href=\"com.azure.core.http.rest.PagedFlux?alt=com.azure.core.http.rest.PagedFlux&text=PagedFlux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.authorization.fluent.models.UserInner?alt=com.azure.resourcemanager.authorization.fluent.models.UserInner&text=UserInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.resourcemanager.authorization.fluent.UsersClient.listAsync(java.lang.String,java.lang.String,java.lang.String,java.lang.Integer)"
+  fullName: "com.azure.resourcemanager.authorization.fluent.UsersClient.listAsync(String tenantId, String filter, String expand, Integer top)"
+  name: "listAsync(String tenantId, String filter, String expand, Integer top)"
+  nameWithType: "UsersClient.listAsync(String tenantId, String filter, String expand, Integer top)"
+  summary: "Gets list of users for the current tenant."
+  parameters:
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The filter to apply to the operation."
+    name: "filter"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The expand value for the operation result."
+    name: "expand"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "(Optional) Set the maximum number of results per response."
+    name: "top"
+    type: "<xref href=\"java.lang.Integer?alt=java.lang.Integer&text=Integer\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract PagedFlux<UserInner> listAsync(String tenantId, String filter, String expand, Integer top)"
+  returns:
+    description: "list of users for the current tenant."
+    type: "<xref href=\"com.azure.core.http.rest.PagedFlux?alt=com.azure.core.http.rest.PagedFlux&text=PagedFlux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.authorization.fluent.models.UserInner?alt=com.azure.resourcemanager.authorization.fluent.models.UserInner&text=UserInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

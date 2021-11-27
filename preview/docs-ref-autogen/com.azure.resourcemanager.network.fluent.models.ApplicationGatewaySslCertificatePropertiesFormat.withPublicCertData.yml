@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat.withPublicCertData*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat.withPublicCertData"
+name: "withPublicCertData"
+nameWithType: "ApplicationGatewaySslCertificatePropertiesFormat.withPublicCertData"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat.withPublicCertData(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat.withPublicCertData(String publicCertData)"
+  name: "withPublicCertData(String publicCertData)"
+  nameWithType: "ApplicationGatewaySslCertificatePropertiesFormat.withPublicCertData(String publicCertData)"
+  summary: "Set the publicCertData property: Base-64 encoded Public cert data corresponding to pfx specified in data. Only applicable in GET request."
+  parameters:
+  - description: "the publicCertData value to set."
+    name: "publicCertData"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationGatewaySslCertificatePropertiesFormat withPublicCertData(String publicCertData)"
+  returns:
+    description: "the ApplicationGatewaySslCertificatePropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat&text=ApplicationGatewaySslCertificatePropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

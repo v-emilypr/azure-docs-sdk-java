@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withRequiredResourceAccess*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withRequiredResourceAccess"
+name: "withRequiredResourceAccess"
+nameWithType: "ApplicationUpdateParameters.withRequiredResourceAccess"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withRequiredResourceAccess(java.util.List<com.azure.resourcemanager.authorization.models.RequiredResourceAccess>)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withRequiredResourceAccess(List<RequiredResourceAccess> requiredResourceAccess)"
+  name: "withRequiredResourceAccess(List<RequiredResourceAccess> requiredResourceAccess)"
+  nameWithType: "ApplicationUpdateParameters.withRequiredResourceAccess(List<RequiredResourceAccess> requiredResourceAccess)"
+  summary: "Set the requiredResourceAccess property: Specifies resources that this application requires access to and the set of OAuth permission scopes and application roles that it needs under each of those resources. This pre-configuration of required resource access drives the consent experience."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withRequiredResourceAccess(java.util.List<com.azure.resourcemanager.authorization.models.RequiredResourceAccess>)"
+  parameters:
+  - name: "requiredResourceAccess"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.authorization.models.RequiredResourceAccess?alt=com.azure.resourcemanager.authorization.models.RequiredResourceAccess&text=RequiredResourceAccess\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public ApplicationUpdateParameters withRequiredResourceAccess(List<RequiredResourceAccess> requiredResourceAccess)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters&text=ApplicationUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

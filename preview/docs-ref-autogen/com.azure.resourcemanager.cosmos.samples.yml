@@ -1,0 +1,14 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.cosmos.samples"
+fullName: "com.azure.resourcemanager.cosmos.samples"
+name: "com.azure.resourcemanager.cosmos.samples"
+summary: "This package contains the classes for dns samples."
+classes:
+- "com.azure.resourcemanager.cosmos.samples.CreateCosmosDBTableWithVirtualNetworkRule"
+- "com.azure.resourcemanager.cosmos.samples.CreateCosmosDBWithEventualConsistency"
+- "com.azure.resourcemanager.cosmos.samples.CreateCosmosDBWithIPRange"
+- "com.azure.resourcemanager.cosmos.samples.CreateCosmosDBWithKindMongoDB"
+- "com.azure.resourcemanager.cosmos.samples.ManageHACosmosDB"
+metadata: {}
+package: "com.azure.resourcemanager.cosmos.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

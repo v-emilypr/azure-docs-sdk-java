@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ProbePropertiesFormat.withProvisioningState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ProbePropertiesFormat.withProvisioningState"
+name: "withProvisioningState"
+nameWithType: "ProbePropertiesFormat.withProvisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ProbePropertiesFormat.withProvisioningState(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ProbePropertiesFormat.withProvisioningState(String provisioningState)"
+  name: "withProvisioningState(String provisioningState)"
+  nameWithType: "ProbePropertiesFormat.withProvisioningState(String provisioningState)"
+  summary: "Set the provisioningState property: Gets the provisioning state of the public IP resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
+  parameters:
+  - description: "the provisioningState value to set."
+    name: "provisioningState"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ProbePropertiesFormat withProvisioningState(String provisioningState)"
+  returns:
+    description: "the ProbePropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ProbePropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.ProbePropertiesFormat&text=ProbePropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

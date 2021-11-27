@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigRadiusServerRootCertificatePropertiesFormat.withPublicCertData*"
+fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigRadiusServerRootCertificatePropertiesFormat.withPublicCertData"
+name: "withPublicCertData"
+nameWithType: "P2SVpnServerConfigRadiusServerRootCertificatePropertiesFormat.withPublicCertData"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigRadiusServerRootCertificatePropertiesFormat.withPublicCertData(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigRadiusServerRootCertificatePropertiesFormat.withPublicCertData(String publicCertData)"
+  name: "withPublicCertData(String publicCertData)"
+  nameWithType: "P2SVpnServerConfigRadiusServerRootCertificatePropertiesFormat.withPublicCertData(String publicCertData)"
+  summary: "Set the publicCertData property: The certificate public data."
+  parameters:
+  - description: "the publicCertData value to set."
+    name: "publicCertData"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public P2SVpnServerConfigRadiusServerRootCertificatePropertiesFormat withPublicCertData(String publicCertData)"
+  returns:
+    description: "the P2SVpnServerConfigRadiusServerRootCertificatePropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigRadiusServerRootCertificatePropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigRadiusServerRootCertificatePropertiesFormat&text=P2SVpnServerConfigRadiusServerRootCertificatePropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

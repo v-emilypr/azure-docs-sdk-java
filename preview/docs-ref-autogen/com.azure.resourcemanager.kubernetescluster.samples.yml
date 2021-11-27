@@ -1,0 +1,12 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.kubernetescluster.samples"
+fullName: "com.azure.resourcemanager.kubernetescluster.samples"
+name: "com.azure.resourcemanager.kubernetescluster.samples"
+summary: "This package contains the classes for Azure container service (AKS) samples."
+classes:
+- "com.azure.resourcemanager.kubernetescluster.samples.DeployImageFromContainerRegistryToKubernetes"
+- "com.azure.resourcemanager.kubernetescluster.samples.ManageKubernetesCluster"
+- "com.azure.resourcemanager.kubernetescluster.samples.ManagedKubernetesClusterWithAdvancedNetworking"
+metadata: {}
+package: "com.azure.resourcemanager.kubernetescluster.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

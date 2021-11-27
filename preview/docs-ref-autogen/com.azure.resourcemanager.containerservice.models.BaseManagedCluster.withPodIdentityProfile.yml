@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withPodIdentityProfile*"
+fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withPodIdentityProfile"
+name: "withPodIdentityProfile"
+nameWithType: "BaseManagedCluster.withPodIdentityProfile"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withPodIdentityProfile(com.azure.resourcemanager.containerservice.models.ManagedClusterPodIdentityProfile)"
+  fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withPodIdentityProfile(ManagedClusterPodIdentityProfile podIdentityProfile)"
+  name: "withPodIdentityProfile(ManagedClusterPodIdentityProfile podIdentityProfile)"
+  nameWithType: "BaseManagedCluster.withPodIdentityProfile(ManagedClusterPodIdentityProfile podIdentityProfile)"
+  summary: "Set the podIdentityProfile property: Profile of managed cluster pod identity."
+  parameters:
+  - description: "the podIdentityProfile value to set."
+    name: "podIdentityProfile"
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.ManagedClusterPodIdentityProfile?alt=com.azure.resourcemanager.containerservice.models.ManagedClusterPodIdentityProfile&text=ManagedClusterPodIdentityProfile\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public BaseManagedCluster withPodIdentityProfile(ManagedClusterPodIdentityProfile podIdentityProfile)"
+  returns:
+    description: "the BaseManagedCluster object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.BaseManagedCluster?alt=com.azure.resourcemanager.containerservice.models.BaseManagedCluster&text=BaseManagedCluster\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

@@ -1,0 +1,32 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.models.ResourceMetricCollection"
+fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricCollection"
+name: "ResourceMetricCollection"
+nameWithType: "ResourceMetricCollection"
+summary: "Collection of metric responses."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ResourceMetricCollection"
+constructors:
+- "com.azure.resourcemanager.appservice.models.ResourceMetricCollection.ResourceMetricCollection()"
+methods:
+- "com.azure.resourcemanager.appservice.models.ResourceMetricCollection.nextLink()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricCollection.validate()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricCollection.value()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricCollection.withValue(java.util.List<com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner>)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

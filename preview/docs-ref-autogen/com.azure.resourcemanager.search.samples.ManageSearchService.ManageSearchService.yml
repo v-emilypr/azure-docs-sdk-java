@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.search.samples.ManageSearchService.ManageSearchService*"
+fullName: "com.azure.resourcemanager.search.samples.ManageSearchService.ManageSearchService"
+name: "ManageSearchService"
+nameWithType: "ManageSearchService.ManageSearchService"
+members:
+- uid: "com.azure.resourcemanager.search.samples.ManageSearchService.ManageSearchService()"
+  fullName: "com.azure.resourcemanager.search.samples.ManageSearchService.ManageSearchService()"
+  name: "ManageSearchService()"
+  nameWithType: "ManageSearchService.ManageSearchService()"
+  syntax: "public ManageSearchService()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.search.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

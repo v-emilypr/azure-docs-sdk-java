@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withEtag*"
+fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withEtag"
+name: "withEtag"
+nameWithType: "P2SVpnServerConfigurationProperties.withEtag"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withEtag(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withEtag(String etag)"
+  name: "withEtag(String etag)"
+  nameWithType: "P2SVpnServerConfigurationProperties.withEtag(String etag)"
+  summary: "Set the etag property: A unique read-only string that changes whenever the resource is updated."
+  parameters:
+  - description: "the etag value to set."
+    name: "etag"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public P2SVpnServerConfigurationProperties withEtag(String etag)"
+  returns:
+    description: "the P2SVpnServerConfigurationProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties?alt=com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties&text=P2SVpnServerConfigurationProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

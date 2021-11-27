@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withOptionalClaims*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withOptionalClaims"
+name: "withOptionalClaims"
+nameWithType: "ApplicationCreateParameters.withOptionalClaims"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withOptionalClaims(com.azure.resourcemanager.authorization.models.OptionalClaims)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withOptionalClaims(OptionalClaims optionalClaims)"
+  name: "withOptionalClaims(OptionalClaims optionalClaims)"
+  nameWithType: "ApplicationCreateParameters.withOptionalClaims(OptionalClaims optionalClaims)"
+  summary: "Set the optionalClaims property: Specifying the claims to be included in the token."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withOptionalClaims(com.azure.resourcemanager.authorization.models.OptionalClaims)"
+  parameters:
+  - name: "optionalClaims"
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.OptionalClaims?alt=com.azure.resourcemanager.authorization.models.OptionalClaims&text=OptionalClaims\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationCreateParameters withOptionalClaims(OptionalClaims optionalClaims)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationCreateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationCreateParameters&text=ApplicationCreateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

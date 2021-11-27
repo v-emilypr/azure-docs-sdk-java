@@ -1,0 +1,10 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.search.samples"
+fullName: "com.azure.resourcemanager.search.samples"
+name: "com.azure.resourcemanager.search.samples"
+summary: "This package contains the classes for search samples."
+classes:
+- "com.azure.resourcemanager.search.samples.ManageSearchService"
+metadata: {}
+package: "com.azure.resourcemanager.search.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

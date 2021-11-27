@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkInner.withResourceGuid*"
+fullName: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkInner.withResourceGuid"
+name: "withResourceGuid"
+nameWithType: "VirtualNetworkInner.withResourceGuid"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkInner.withResourceGuid(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkInner.withResourceGuid(String resourceGuid)"
+  name: "withResourceGuid(String resourceGuid)"
+  nameWithType: "VirtualNetworkInner.withResourceGuid(String resourceGuid)"
+  summary: "Set the resourceGuid property: The resourceGuid property of the Virtual Network resource."
+  parameters:
+  - description: "the resourceGuid value to set."
+    name: "resourceGuid"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public VirtualNetworkInner withResourceGuid(String resourceGuid)"
+  returns:
+    description: "the VirtualNetworkInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.VirtualNetworkInner?alt=com.azure.resourcemanager.network.fluent.models.VirtualNetworkInner&text=VirtualNetworkInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

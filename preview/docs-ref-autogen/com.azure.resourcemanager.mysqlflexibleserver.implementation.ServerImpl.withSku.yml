@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withSku*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withSku"
+name: "withSku"
+nameWithType: "ServerImpl.withSku"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withSku(com.azure.resourcemanager.mysqlflexibleserver.models.Sku)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withSku(Sku sku)"
+  name: "withSku(Sku sku)"
+  nameWithType: "ServerImpl.withSku(Sku sku)"
+  summary: "Specifies the sku property: The SKU (pricing tier) of the server.."
+  parameters:
+  - name: "sku"
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.Sku?alt=com.azure.resourcemanager.mysqlflexibleserver.models.Sku&text=Sku\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ServerImpl withSku(Sku sku)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl?alt=com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl&text=ServerImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211125.1

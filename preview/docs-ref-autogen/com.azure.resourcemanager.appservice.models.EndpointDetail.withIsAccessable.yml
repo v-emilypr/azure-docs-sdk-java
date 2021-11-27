@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.EndpointDetail.withIsAccessable*"
+fullName: "com.azure.resourcemanager.appservice.models.EndpointDetail.withIsAccessable"
+name: "withIsAccessable"
+nameWithType: "EndpointDetail.withIsAccessable"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.EndpointDetail.withIsAccessable(java.lang.Boolean)"
+  fullName: "com.azure.resourcemanager.appservice.models.EndpointDetail.withIsAccessable(Boolean isAccessable)"
+  name: "withIsAccessable(Boolean isAccessable)"
+  nameWithType: "EndpointDetail.withIsAccessable(Boolean isAccessable)"
+  summary: "Set the isAccessable property: Whether it is possible to create a TCP connection from the App Service Environment to this IpAddress at this Port."
+  parameters:
+  - description: "the isAccessable value to set."
+    name: "isAccessable"
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public EndpointDetail withIsAccessable(Boolean isAccessable)"
+  returns:
+    description: "the EndpointDetail object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.models.EndpointDetail?alt=com.azure.resourcemanager.appservice.models.EndpointDetail&text=EndpointDetail\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

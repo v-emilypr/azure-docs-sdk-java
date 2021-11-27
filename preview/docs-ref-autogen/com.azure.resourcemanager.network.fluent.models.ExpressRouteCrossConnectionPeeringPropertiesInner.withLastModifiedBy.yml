@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withLastModifiedBy*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withLastModifiedBy"
+name: "withLastModifiedBy"
+nameWithType: "ExpressRouteCrossConnectionPeeringPropertiesInner.withLastModifiedBy"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withLastModifiedBy(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withLastModifiedBy(String lastModifiedBy)"
+  name: "withLastModifiedBy(String lastModifiedBy)"
+  nameWithType: "ExpressRouteCrossConnectionPeeringPropertiesInner.withLastModifiedBy(String lastModifiedBy)"
+  summary: "Set the lastModifiedBy property: Gets whether the provider or the customer last modified the peering."
+  parameters:
+  - description: "the lastModifiedBy value to set."
+    name: "lastModifiedBy"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ExpressRouteCrossConnectionPeeringPropertiesInner withLastModifiedBy(String lastModifiedBy)"
+  returns:
+    description: "the ExpressRouteCrossConnectionPeeringPropertiesInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner?alt=com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner&text=ExpressRouteCrossConnectionPeeringPropertiesInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

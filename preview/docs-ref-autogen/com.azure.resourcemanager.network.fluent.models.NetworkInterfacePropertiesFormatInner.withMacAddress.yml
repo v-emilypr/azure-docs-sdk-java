@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.NetworkInterfacePropertiesFormatInner.withMacAddress*"
+fullName: "com.azure.resourcemanager.network.fluent.models.NetworkInterfacePropertiesFormatInner.withMacAddress"
+name: "withMacAddress"
+nameWithType: "NetworkInterfacePropertiesFormatInner.withMacAddress"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.NetworkInterfacePropertiesFormatInner.withMacAddress(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.NetworkInterfacePropertiesFormatInner.withMacAddress(String macAddress)"
+  name: "withMacAddress(String macAddress)"
+  nameWithType: "NetworkInterfacePropertiesFormatInner.withMacAddress(String macAddress)"
+  summary: "Set the macAddress property: The MAC address of the network interface."
+  parameters:
+  - description: "the macAddress value to set."
+    name: "macAddress"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public NetworkInterfacePropertiesFormatInner withMacAddress(String macAddress)"
+  returns:
+    description: "the NetworkInterfacePropertiesFormatInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.NetworkInterfacePropertiesFormatInner?alt=com.azure.resourcemanager.network.fluent.models.NetworkInterfacePropertiesFormatInner&text=NetworkInterfacePropertiesFormatInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

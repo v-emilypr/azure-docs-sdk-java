@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.withPrefixLength*"
+fullName: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.withPrefixLength"
+name: "withPrefixLength"
+nameWithType: "PublicIpPrefixPropertiesFormat.withPrefixLength"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.withPrefixLength(java.lang.Integer)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.withPrefixLength(Integer prefixLength)"
+  name: "withPrefixLength(Integer prefixLength)"
+  nameWithType: "PublicIpPrefixPropertiesFormat.withPrefixLength(Integer prefixLength)"
+  summary: "Set the prefixLength property: The Length of the Public IP Prefix."
+  parameters:
+  - description: "the prefixLength value to set."
+    name: "prefixLength"
+    type: "<xref href=\"java.lang.Integer?alt=java.lang.Integer&text=Integer\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PublicIpPrefixPropertiesFormat withPrefixLength(Integer prefixLength)"
+  returns:
+    description: "the PublicIpPrefixPropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat&text=PublicIpPrefixPropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

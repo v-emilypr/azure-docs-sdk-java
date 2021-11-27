@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.MetricAvailabilily.withTimeGrain*"
+fullName: "com.azure.resourcemanager.appservice.models.MetricAvailabilily.withTimeGrain"
+name: "withTimeGrain"
+nameWithType: "MetricAvailabilily.withTimeGrain"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.MetricAvailabilily.withTimeGrain(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.models.MetricAvailabilily.withTimeGrain(String timeGrain)"
+  name: "withTimeGrain(String timeGrain)"
+  nameWithType: "MetricAvailabilily.withTimeGrain(String timeGrain)"
+  summary: "Set the timeGrain property: Time grain."
+  parameters:
+  - description: "the timeGrain value to set."
+    name: "timeGrain"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public MetricAvailabilily withTimeGrain(String timeGrain)"
+  returns:
+    description: "the MetricAvailabilily object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.models.MetricAvailabilily?alt=com.azure.resourcemanager.appservice.models.MetricAvailabilily&text=MetricAvailabilily\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

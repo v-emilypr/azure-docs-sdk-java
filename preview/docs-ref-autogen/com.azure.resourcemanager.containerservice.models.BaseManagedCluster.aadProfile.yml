@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.aadProfile*"
+fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.aadProfile"
+name: "aadProfile"
+nameWithType: "BaseManagedCluster.aadProfile"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.aadProfile()"
+  fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.aadProfile()"
+  name: "aadProfile()"
+  nameWithType: "BaseManagedCluster.aadProfile()"
+  summary: "Get the aadProfile property: Profile of Azure Active Directory configuration."
+  syntax: "public ManagedClusterAadProfile aadProfile()"
+  returns:
+    description: "the aadProfile value."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.ManagedClusterAadProfile?alt=com.azure.resourcemanager.containerservice.models.ManagedClusterAadProfile&text=ManagedClusterAadProfile\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

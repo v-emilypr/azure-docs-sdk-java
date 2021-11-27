@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentProperties.withScope*"
+fullName: "com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentProperties.withScope"
+name: "withScope"
+nameWithType: "PolicyAssignmentProperties.withScope"
+members:
+- uid: "com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentProperties.withScope(java.lang.String)"
+  fullName: "com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentProperties.withScope(String scope)"
+  name: "withScope(String scope)"
+  nameWithType: "PolicyAssignmentProperties.withScope(String scope)"
+  summary: "Set the scope property: The scope for the policy assignment."
+  parameters:
+  - description: "the scope value to set."
+    name: "scope"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PolicyAssignmentProperties withScope(String scope)"
+  returns:
+    description: "the PolicyAssignmentProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentProperties?alt=com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentProperties&text=PolicyAssignmentProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.resources.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-resources:1.0.0-hybridbeta.1

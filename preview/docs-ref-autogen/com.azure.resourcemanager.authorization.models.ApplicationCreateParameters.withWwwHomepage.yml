@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withWwwHomepage*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withWwwHomepage"
+name: "withWwwHomepage"
+nameWithType: "ApplicationCreateParameters.withWwwHomepage"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withWwwHomepage(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withWwwHomepage(String wwwHomepage)"
+  name: "withWwwHomepage(String wwwHomepage)"
+  nameWithType: "ApplicationCreateParameters.withWwwHomepage(String wwwHomepage)"
+  summary: "Set the wwwHomepage property: The primary Web page."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withWwwHomepage(java.lang.String)"
+  parameters:
+  - name: "wwwHomepage"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationCreateParameters withWwwHomepage(String wwwHomepage)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationCreateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationCreateParameters&text=ApplicationCreateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.publicIpAddressVersion*"
+fullName: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.publicIpAddressVersion"
+name: "publicIpAddressVersion"
+nameWithType: "PublicIpPrefixPropertiesFormat.publicIpAddressVersion"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.publicIpAddressVersion()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.publicIpAddressVersion()"
+  name: "publicIpAddressVersion()"
+  nameWithType: "PublicIpPrefixPropertiesFormat.publicIpAddressVersion()"
+  summary: "Get the publicIpAddressVersion property: The public IP address version. Possible values are: 'IPv4' and 'IPv6'."
+  syntax: "public IpVersion publicIpAddressVersion()"
+  returns:
+    description: "the publicIpAddressVersion value."
+    type: "<xref href=\"com.azure.resourcemanager.network.models.IpVersion?alt=com.azure.resourcemanager.network.models.IpVersion&text=IpVersion\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

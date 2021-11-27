@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat.withIpConfigurations*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat.withIpConfigurations"
+name: "withIpConfigurations"
+nameWithType: "ContainerNetworkInterfacePropertiesFormat.withIpConfigurations"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat.withIpConfigurations(java.util.List<com.azure.resourcemanager.network.models.ContainerNetworkInterfaceIpConfiguration>)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat.withIpConfigurations(List<ContainerNetworkInterfaceIpConfiguration> ipConfigurations)"
+  name: "withIpConfigurations(List<ContainerNetworkInterfaceIpConfiguration> ipConfigurations)"
+  nameWithType: "ContainerNetworkInterfacePropertiesFormat.withIpConfigurations(List<ContainerNetworkInterfaceIpConfiguration> ipConfigurations)"
+  summary: "Set the ipConfigurations property: Reference to the ip configuration on this container nic."
+  parameters:
+  - description: "the ipConfigurations value to set."
+    name: "ipConfigurations"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.models.ContainerNetworkInterfaceIpConfiguration?alt=com.azure.resourcemanager.network.models.ContainerNetworkInterfaceIpConfiguration&text=ContainerNetworkInterfaceIpConfiguration\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public ContainerNetworkInterfacePropertiesFormat withIpConfigurations(List<ContainerNetworkInterfaceIpConfiguration> ipConfigurations)"
+  returns:
+    description: "the ContainerNetworkInterfacePropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat&text=ContainerNetworkInterfacePropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

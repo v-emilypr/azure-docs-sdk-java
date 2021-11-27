@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.NetworkInterfaceInner.interfaceEndpoint*"
+fullName: "com.azure.resourcemanager.network.fluent.models.NetworkInterfaceInner.interfaceEndpoint"
+name: "interfaceEndpoint"
+nameWithType: "NetworkInterfaceInner.interfaceEndpoint"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.NetworkInterfaceInner.interfaceEndpoint()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.NetworkInterfaceInner.interfaceEndpoint()"
+  name: "interfaceEndpoint()"
+  nameWithType: "NetworkInterfaceInner.interfaceEndpoint()"
+  summary: "Get the interfaceEndpoint property: A reference to the interface endpoint to which the network interface is linked."
+  syntax: "public InterfaceEndpointInner interfaceEndpoint()"
+  returns:
+    description: "the interfaceEndpoint value."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner?alt=com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner&text=InterfaceEndpointInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

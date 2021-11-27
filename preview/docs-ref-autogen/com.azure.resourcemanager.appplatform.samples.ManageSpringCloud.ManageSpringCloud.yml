@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.ManageSpringCloud*"
+fullName: "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.ManageSpringCloud"
+name: "ManageSpringCloud"
+nameWithType: "ManageSpringCloud.ManageSpringCloud"
+members:
+- uid: "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.ManageSpringCloud()"
+  fullName: "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.ManageSpringCloud()"
+  name: "ManageSpringCloud()"
+  nameWithType: "ManageSpringCloud.ManageSpringCloud()"
+  syntax: "public ManageSpringCloud()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appplatform.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.VpnConnectionProperties.withProvisioningState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.VpnConnectionProperties.withProvisioningState"
+name: "withProvisioningState"
+nameWithType: "VpnConnectionProperties.withProvisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.VpnConnectionProperties.withProvisioningState(com.azure.resourcemanager.network.models.ProvisioningState)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.VpnConnectionProperties.withProvisioningState(ProvisioningState provisioningState)"
+  name: "withProvisioningState(ProvisioningState provisioningState)"
+  nameWithType: "VpnConnectionProperties.withProvisioningState(ProvisioningState provisioningState)"
+  summary: "Set the provisioningState property: The provisioning state of the resource."
+  parameters:
+  - description: "the provisioningState value to set."
+    name: "provisioningState"
+    type: "<xref href=\"com.azure.resourcemanager.network.models.ProvisioningState?alt=com.azure.resourcemanager.network.models.ProvisioningState&text=ProvisioningState\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public VpnConnectionProperties withProvisioningState(ProvisioningState provisioningState)"
+  returns:
+    description: "the VpnConnectionProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.VpnConnectionProperties?alt=com.azure.resourcemanager.network.fluent.models.VpnConnectionProperties&text=VpnConnectionProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

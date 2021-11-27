@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withState"
+name: "withState"
+nameWithType: "ExpressRouteCrossConnectionPeeringPropertiesInner.withState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withState(com.azure.resourcemanager.network.models.ExpressRoutePeeringState)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withState(ExpressRoutePeeringState state)"
+  name: "withState(ExpressRoutePeeringState state)"
+  nameWithType: "ExpressRouteCrossConnectionPeeringPropertiesInner.withState(ExpressRoutePeeringState state)"
+  summary: "Set the state property: The peering state."
+  parameters:
+  - description: "the state value to set."
+    name: "state"
+    type: "<xref href=\"com.azure.resourcemanager.network.models.ExpressRoutePeeringState?alt=com.azure.resourcemanager.network.models.ExpressRoutePeeringState&text=ExpressRoutePeeringState\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ExpressRouteCrossConnectionPeeringPropertiesInner withState(ExpressRoutePeeringState state)"
+  returns:
+    description: "the ExpressRouteCrossConnectionPeeringPropertiesInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner?alt=com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner&text=ExpressRouteCrossConnectionPeeringPropertiesInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

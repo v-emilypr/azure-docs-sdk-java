@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.AppRoleAssignmentInner*"
+fullName: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.AppRoleAssignmentInner"
+name: "AppRoleAssignmentInner"
+nameWithType: "AppRoleAssignmentInner.AppRoleAssignmentInner"
+members:
+- uid: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.AppRoleAssignmentInner()"
+  fullName: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.AppRoleAssignmentInner()"
+  name: "AppRoleAssignmentInner()"
+  nameWithType: "AppRoleAssignmentInner.AppRoleAssignmentInner()"
+  syntax: "public AppRoleAssignmentInner()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

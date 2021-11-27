@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventhubs.fluent.models.MessagingRegionsInner.withTags*"
+fullName: "com.azure.resourcemanager.eventhubs.fluent.models.MessagingRegionsInner.withTags"
+name: "withTags"
+nameWithType: "MessagingRegionsInner.withTags"
+members:
+- uid: "com.azure.resourcemanager.eventhubs.fluent.models.MessagingRegionsInner.withTags(java.util.Map<java.lang.String,java.lang.String>)"
+  fullName: "com.azure.resourcemanager.eventhubs.fluent.models.MessagingRegionsInner.withTags(Map<String,String> tags)"
+  name: "withTags(Map<String,String> tags)"
+  nameWithType: "MessagingRegionsInner.withTags(Map<String,String> tags)"
+  overridden: "com.azure.core.management.Resource.withTags(java.util.Map<java.lang.String,java.lang.String>)"
+  parameters:
+  - name: "tags"
+    type: "<xref href=\"java.util.Map?alt=java.util.Map&text=Map\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />,<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public MessagingRegionsInner withTags(Map<String,String> tags)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.eventhubs.fluent.models.MessagingRegionsInner?alt=com.azure.resourcemanager.eventhubs.fluent.models.MessagingRegionsInner&text=MessagingRegionsInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventhubs.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventhubs:1.0.0-hybridbeta.1

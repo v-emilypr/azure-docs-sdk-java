@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withWindowsProfile*"
+fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withWindowsProfile"
+name: "withWindowsProfile"
+nameWithType: "ContainerServiceProperties.withWindowsProfile"
+members:
+- uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withWindowsProfile(com.azure.resourcemanager.containerservice.models.ContainerServiceWindowsProfile)"
+  fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withWindowsProfile(ContainerServiceWindowsProfile windowsProfile)"
+  name: "withWindowsProfile(ContainerServiceWindowsProfile windowsProfile)"
+  nameWithType: "ContainerServiceProperties.withWindowsProfile(ContainerServiceWindowsProfile windowsProfile)"
+  summary: "Set the windowsProfile property: Profile for Windows VMs in the container service cluster."
+  parameters:
+  - description: "the windowsProfile value to set."
+    name: "windowsProfile"
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.ContainerServiceWindowsProfile?alt=com.azure.resourcemanager.containerservice.models.ContainerServiceWindowsProfile&text=ContainerServiceWindowsProfile\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ContainerServiceProperties withWindowsProfile(ContainerServiceWindowsProfile windowsProfile)"
+  returns:
+    description: "the ContainerServiceProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties?alt=com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties&text=ContainerServiceProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

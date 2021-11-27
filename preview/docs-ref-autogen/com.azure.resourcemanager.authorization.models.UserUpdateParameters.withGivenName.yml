@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.UserUpdateParameters.withGivenName*"
+fullName: "com.azure.resourcemanager.authorization.models.UserUpdateParameters.withGivenName"
+name: "withGivenName"
+nameWithType: "UserUpdateParameters.withGivenName"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.UserUpdateParameters.withGivenName(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.models.UserUpdateParameters.withGivenName(String givenName)"
+  name: "withGivenName(String givenName)"
+  nameWithType: "UserUpdateParameters.withGivenName(String givenName)"
+  summary: "Set the givenName property: The given name for the user."
+  overridden: "com.azure.resourcemanager.authorization.models.UserBase.withGivenName(java.lang.String)"
+  parameters:
+  - name: "givenName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public UserUpdateParameters withGivenName(String givenName)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.UserUpdateParameters?alt=com.azure.resourcemanager.authorization.models.UserUpdateParameters&text=UserUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

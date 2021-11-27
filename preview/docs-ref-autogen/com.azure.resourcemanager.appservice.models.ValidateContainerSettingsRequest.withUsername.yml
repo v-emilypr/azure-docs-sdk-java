@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withUsername*"
+fullName: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withUsername"
+name: "withUsername"
+nameWithType: "ValidateContainerSettingsRequest.withUsername"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withUsername(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withUsername(String username)"
+  name: "withUsername(String username)"
+  nameWithType: "ValidateContainerSettingsRequest.withUsername(String username)"
+  summary: "Set the username property: Username for to access the container registry."
+  parameters:
+  - description: "the username value to set."
+    name: "username"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ValidateContainerSettingsRequest withUsername(String username)"
+  returns:
+    description: "the ValidateContainerSettingsRequest object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest?alt=com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest&text=ValidateContainerSettingsRequest\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

@@ -8,4 +8,4 @@ classes:
 - "com.azure.resourcemanager.security.SecurityManager.Configurable"
 metadata: {}
 package: "com.azure.resourcemanager.security"
-artifact: com.azure.resourcemanager:azure-resourcemanager-security:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-security:1.0.0-alpha.20211126.1

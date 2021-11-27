@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.implementation.ResourceProvidersClientImpl.validateContainerSettingsWithResponse*"
+fullName: "com.azure.resourcemanager.appservice.implementation.ResourceProvidersClientImpl.validateContainerSettingsWithResponse"
+name: "validateContainerSettingsWithResponse"
+nameWithType: "ResourceProvidersClientImpl.validateContainerSettingsWithResponse"
+members:
+- uid: "com.azure.resourcemanager.appservice.implementation.ResourceProvidersClientImpl.validateContainerSettingsWithResponse(java.lang.String,com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.appservice.implementation.ResourceProvidersClientImpl.validateContainerSettingsWithResponse(String resourceGroupName, ValidateContainerSettingsRequest validateContainerSettingsRequest, Context context)"
+  name: "validateContainerSettingsWithResponse(String resourceGroupName, ValidateContainerSettingsRequest validateContainerSettingsRequest, Context context)"
+  nameWithType: "ResourceProvidersClientImpl.validateContainerSettingsWithResponse(String resourceGroupName, ValidateContainerSettingsRequest validateContainerSettingsRequest, Context context)"
+  summary: "Validate if the container settings are correct."
+  parameters:
+  - description: "Name of the resource group to which the resource belongs."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Container settings validation request context."
+    name: "validateContainerSettingsRequest"
+    type: "<xref href=\"com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest?alt=com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest&text=ValidateContainerSettingsRequest\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The context to associate with this operation."
+    name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Response<Object> validateContainerSettingsWithResponse(String resourceGroupName, ValidateContainerSettingsRequest validateContainerSettingsRequest, Context context)"
+  returns:
+    description: "any object."
+    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.getAuthSettings*"
+fullName: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.getAuthSettings"
+name: "getAuthSettings"
+nameWithType: "WebAppsClientImpl.getAuthSettings"
+members:
+- uid: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.getAuthSettings(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.getAuthSettings(String resourceGroupName, String name)"
+  name: "getAuthSettings(String resourceGroupName, String name)"
+  nameWithType: "WebAppsClientImpl.getAuthSettings(String resourceGroupName, String name)"
+  summary: "Gets the Authentication/Authorization settings of an app."
+  parameters:
+  - description: "Name of the resource group to which the resource belongs."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Name of the app."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SiteAuthSettingsInner getAuthSettings(String resourceGroupName, String name)"
+  returns:
+    description: "the Authentication/Authorization settings of an app."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.SiteAuthSettingsInner?alt=com.azure.resourcemanager.appservice.fluent.models.SiteAuthSettingsInner&text=SiteAuthSettingsInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

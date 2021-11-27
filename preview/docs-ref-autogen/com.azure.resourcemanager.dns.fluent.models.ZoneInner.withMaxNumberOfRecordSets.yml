@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dns.fluent.models.ZoneInner.withMaxNumberOfRecordSets*"
+fullName: "com.azure.resourcemanager.dns.fluent.models.ZoneInner.withMaxNumberOfRecordSets"
+name: "withMaxNumberOfRecordSets"
+nameWithType: "ZoneInner.withMaxNumberOfRecordSets"
+members:
+- uid: "com.azure.resourcemanager.dns.fluent.models.ZoneInner.withMaxNumberOfRecordSets(java.lang.Long)"
+  fullName: "com.azure.resourcemanager.dns.fluent.models.ZoneInner.withMaxNumberOfRecordSets(Long maxNumberOfRecordSets)"
+  name: "withMaxNumberOfRecordSets(Long maxNumberOfRecordSets)"
+  nameWithType: "ZoneInner.withMaxNumberOfRecordSets(Long maxNumberOfRecordSets)"
+  summary: "Set the maxNumberOfRecordSets property: The maximum number of record sets that can be created in this DNS zone. This is a read-only property and any attempt to set this value will be ignored."
+  parameters:
+  - description: "the maxNumberOfRecordSets value to set."
+    name: "maxNumberOfRecordSets"
+    type: "<xref href=\"java.lang.Long?alt=java.lang.Long&text=Long\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ZoneInner withMaxNumberOfRecordSets(Long maxNumberOfRecordSets)"
+  returns:
+    description: "the ZoneInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.dns.fluent.models.ZoneInner?alt=com.azure.resourcemanager.dns.fluent.models.ZoneInner&text=ZoneInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dns.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dns:1.0.0-hybridbeta.1

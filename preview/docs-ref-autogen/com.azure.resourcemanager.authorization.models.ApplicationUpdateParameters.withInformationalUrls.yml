@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withInformationalUrls*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withInformationalUrls"
+name: "withInformationalUrls"
+nameWithType: "ApplicationUpdateParameters.withInformationalUrls"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withInformationalUrls(com.azure.resourcemanager.authorization.models.InformationalUrl)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withInformationalUrls(InformationalUrl informationalUrls)"
+  name: "withInformationalUrls(InformationalUrl informationalUrls)"
+  nameWithType: "ApplicationUpdateParameters.withInformationalUrls(InformationalUrl informationalUrls)"
+  summary: "Set the informationalUrls property: URLs with more information about the application."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withInformationalUrls(com.azure.resourcemanager.authorization.models.InformationalUrl)"
+  parameters:
+  - name: "informationalUrls"
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.InformationalUrl?alt=com.azure.resourcemanager.authorization.models.InformationalUrl&text=InformationalUrl\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationUpdateParameters withInformationalUrls(InformationalUrl informationalUrls)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters&text=ApplicationUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

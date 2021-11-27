@@ -1,0 +1,38 @@
+### YamlMime:JavaType
+uid: "com.azure.analytics.purview.administration.implementation.AccountsImpl"
+fullName: "com.azure.analytics.purview.administration.implementation.AccountsImpl"
+name: "AccountsImpl"
+nameWithType: "AccountsImpl"
+summary: "An instance of this class provides access to all the operations defined in Accounts."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class AccountsImpl"
+methods:
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.getAccessKeysWithResponse(com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.getAccessKeysWithResponseAsync(com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.getAccessKeysWithResponseAsync(com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.getAccountPropertiesWithResponse(com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.getAccountPropertiesWithResponseAsync(com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.getAccountPropertiesWithResponseAsync(com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.regenerateAccessKeyWithResponse(com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.regenerateAccessKeyWithResponseAsync(com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.regenerateAccessKeyWithResponseAsync(com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.updateAccountPropertiesWithResponse(com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.updateAccountPropertiesWithResponseAsync(com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions)"
+- "com.azure.analytics.purview.administration.implementation.AccountsImpl.updateAccountPropertiesWithResponseAsync(com.azure.core.util.BinaryData,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+type: "class"
+metadata: {}
+package: "com.azure.analytics.purview.administration.implementation"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211126.1

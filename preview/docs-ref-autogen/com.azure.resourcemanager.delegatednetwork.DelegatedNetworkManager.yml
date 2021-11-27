@@ -31,4 +31,4 @@ methods:
 type: "class"
 metadata: {}
 package: "com.azure.resourcemanager.delegatednetwork"
-artifact: com.azure.resourcemanager:azure-resourcemanager-delegatednetwork:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-delegatednetwork:1.0.0-alpha.20211125.1

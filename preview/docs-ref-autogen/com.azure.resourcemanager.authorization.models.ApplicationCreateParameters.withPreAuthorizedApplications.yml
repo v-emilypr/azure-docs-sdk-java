@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withPreAuthorizedApplications*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withPreAuthorizedApplications"
+name: "withPreAuthorizedApplications"
+nameWithType: "ApplicationCreateParameters.withPreAuthorizedApplications"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withPreAuthorizedApplications(java.util.List<com.azure.resourcemanager.authorization.models.PreAuthorizedApplication>)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withPreAuthorizedApplications(List<PreAuthorizedApplication> preAuthorizedApplications)"
+  name: "withPreAuthorizedApplications(List<PreAuthorizedApplication> preAuthorizedApplications)"
+  nameWithType: "ApplicationCreateParameters.withPreAuthorizedApplications(List<PreAuthorizedApplication> preAuthorizedApplications)"
+  summary: "Set the preAuthorizedApplications property: list of pre-authorized applications."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withPreAuthorizedApplications(java.util.List<com.azure.resourcemanager.authorization.models.PreAuthorizedApplication>)"
+  parameters:
+  - name: "preAuthorizedApplications"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.authorization.models.PreAuthorizedApplication?alt=com.azure.resourcemanager.authorization.models.PreAuthorizedApplication&text=PreAuthorizedApplication\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public ApplicationCreateParameters withPreAuthorizedApplications(List<PreAuthorizedApplication> preAuthorizedApplications)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationCreateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationCreateParameters&text=ApplicationCreateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withAllowPassthroughUsers*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withAllowPassthroughUsers"
+name: "withAllowPassthroughUsers"
+nameWithType: "ApplicationUpdateParameters.withAllowPassthroughUsers"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withAllowPassthroughUsers(java.lang.Boolean)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withAllowPassthroughUsers(Boolean allowPassthroughUsers)"
+  name: "withAllowPassthroughUsers(Boolean allowPassthroughUsers)"
+  nameWithType: "ApplicationUpdateParameters.withAllowPassthroughUsers(Boolean allowPassthroughUsers)"
+  summary: "Set the allowPassthroughUsers property: Indicates that the application supports pass through users who have no presence in the resource tenant."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withAllowPassthroughUsers(java.lang.Boolean)"
+  parameters:
+  - name: "allowPassthroughUsers"
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationUpdateParameters withAllowPassthroughUsers(Boolean allowPassthroughUsers)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters&text=ApplicationUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

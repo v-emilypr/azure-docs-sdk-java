@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.withResourceGuid*"
+fullName: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.withResourceGuid"
+name: "withResourceGuid"
+nameWithType: "PublicIpPrefixPropertiesFormat.withResourceGuid"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.withResourceGuid(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat.withResourceGuid(String resourceGuid)"
+  name: "withResourceGuid(String resourceGuid)"
+  nameWithType: "PublicIpPrefixPropertiesFormat.withResourceGuid(String resourceGuid)"
+  summary: "Set the resourceGuid property: The resource GUID property of the public IP prefix resource."
+  parameters:
+  - description: "the resourceGuid value to set."
+    name: "resourceGuid"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PublicIpPrefixPropertiesFormat withResourceGuid(String resourceGuid)"
+  returns:
+    description: "the PublicIpPrefixPropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.PublicIpPrefixPropertiesFormat&text=PublicIpPrefixPropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

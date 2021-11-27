@@ -20,4 +20,4 @@ classes:
 - "com.azure.resourcemanager.powerbidedicated.implementation.SkuEnumerationForNewResourceResultImpl"
 metadata: {}
 package: "com.azure.resourcemanager.powerbidedicated.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-powerbidedicated:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-powerbidedicated:1.0.0-alpha.20211126.1

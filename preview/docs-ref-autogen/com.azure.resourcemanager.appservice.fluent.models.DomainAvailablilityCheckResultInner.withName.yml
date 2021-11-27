@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withName*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withName"
+name: "withName"
+nameWithType: "DomainAvailablilityCheckResultInner.withName"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withName(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withName(String name)"
+  name: "withName(String name)"
+  nameWithType: "DomainAvailablilityCheckResultInner.withName(String name)"
+  summary: "Set the name property: Name of the domain."
+  parameters:
+  - description: "the name value to set."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DomainAvailablilityCheckResultInner withName(String name)"
+  returns:
+    description: "the DomainAvailablilityCheckResultInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner?alt=com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner&text=DomainAvailablilityCheckResultInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.models.InterfaceEndpointListResult.withValue*"
+fullName: "com.azure.resourcemanager.network.models.InterfaceEndpointListResult.withValue"
+name: "withValue"
+nameWithType: "InterfaceEndpointListResult.withValue"
+members:
+- uid: "com.azure.resourcemanager.network.models.InterfaceEndpointListResult.withValue(java.util.List<com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner>)"
+  fullName: "com.azure.resourcemanager.network.models.InterfaceEndpointListResult.withValue(List<InterfaceEndpointInner> value)"
+  name: "withValue(List<InterfaceEndpointInner> value)"
+  nameWithType: "InterfaceEndpointListResult.withValue(List<InterfaceEndpointInner> value)"
+  summary: "Set the value property: Gets a list of InterfaceEndpoint resources in a resource group."
+  parameters:
+  - description: "the value value to set."
+    name: "value"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner?alt=com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner&text=InterfaceEndpointInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public InterfaceEndpointListResult withValue(List<InterfaceEndpointInner> value)"
+  returns:
+    description: "the InterfaceEndpointListResult object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.models.InterfaceEndpointListResult?alt=com.azure.resourcemanager.network.models.InterfaceEndpointListResult&text=InterfaceEndpointListResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

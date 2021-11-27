@@ -13,14 +13,14 @@ members:
   - description: "Specifies the trusted execution environment to be used to validate the evidence."
     name: "attestationType"
     type: "<xref href=\"com.azure.security.attestation.models.AttestationType?alt=com.azure.security.attestation.models.AttestationType&text=AttestationType\" data-throw-if-not-resolved=\"False\" />"
-  - description: "simple string."
+  - description: "JWT Expressing the new policy whose body is a StoredAttestationPolicy object."
     name: "newAttestationPolicy"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
   syntax: "public PolicyResponse set(AttestationType attestationType, String newAttestationPolicy)"
   returns:
     description: "the response to an attestation policy operation."
-    type: "<xref href=\"com.azure.security.attestation.models.PolicyResponse?alt=com.azure.security.attestation.models.PolicyResponse&text=PolicyResponse\" data-throw-if-not-resolved=\"False\" />"
+    type: "<xref href=\"com.azure.security.attestation.implementation.models.PolicyResponse?alt=com.azure.security.attestation.implementation.models.PolicyResponse&text=PolicyResponse\" data-throw-if-not-resolved=\"False\" />"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation.implementation"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211126.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.ResourceMetricProperty.withValue*"
+fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricProperty.withValue"
+name: "withValue"
+nameWithType: "ResourceMetricProperty.withValue"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.ResourceMetricProperty.withValue(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricProperty.withValue(String value)"
+  name: "withValue(String value)"
+  nameWithType: "ResourceMetricProperty.withValue(String value)"
+  summary: "Set the value property: Value of pair."
+  parameters:
+  - description: "the value value to set."
+    name: "value"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ResourceMetricProperty withValue(String value)"
+  returns:
+    description: "the ResourceMetricProperty object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.models.ResourceMetricProperty?alt=com.azure.resourcemanager.appservice.models.ResourceMetricProperty&text=ResourceMetricProperty\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

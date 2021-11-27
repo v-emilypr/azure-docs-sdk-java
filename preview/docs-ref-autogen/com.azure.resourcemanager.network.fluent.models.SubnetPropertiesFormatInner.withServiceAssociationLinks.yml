@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.withServiceAssociationLinks*"
+fullName: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.withServiceAssociationLinks"
+name: "withServiceAssociationLinks"
+nameWithType: "SubnetPropertiesFormatInner.withServiceAssociationLinks"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.withServiceAssociationLinks(java.util.List<com.azure.resourcemanager.network.models.ServiceAssociationLink>)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.withServiceAssociationLinks(List<ServiceAssociationLink> serviceAssociationLinks)"
+  name: "withServiceAssociationLinks(List<ServiceAssociationLink> serviceAssociationLinks)"
+  nameWithType: "SubnetPropertiesFormatInner.withServiceAssociationLinks(List<ServiceAssociationLink> serviceAssociationLinks)"
+  summary: "Set the serviceAssociationLinks property: Gets an array of references to services injecting into this subnet."
+  parameters:
+  - description: "the serviceAssociationLinks value to set."
+    name: "serviceAssociationLinks"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.models.ServiceAssociationLink?alt=com.azure.resourcemanager.network.models.ServiceAssociationLink&text=ServiceAssociationLink\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public SubnetPropertiesFormatInner withServiceAssociationLinks(List<ServiceAssociationLink> serviceAssociationLinks)"
+  returns:
+    description: "the SubnetPropertiesFormatInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner?alt=com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner&text=SubnetPropertiesFormatInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

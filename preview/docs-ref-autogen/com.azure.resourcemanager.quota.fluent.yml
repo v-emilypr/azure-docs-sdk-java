@@ -11,4 +11,4 @@ interfaces:
 - "com.azure.resourcemanager.quota.fluent.UsagesClient"
 metadata: {}
 package: "com.azure.resourcemanager.quota.fluent"
-artifact: com.azure.resourcemanager:azure-resourcemanager-quota:1.0.0-beta.2
+artifact: com.azure.resourcemanager:azure-resourcemanager-quota:1.0.0-alpha.20211125.1

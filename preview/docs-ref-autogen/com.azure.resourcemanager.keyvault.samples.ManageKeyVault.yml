@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.keyvault.samples.ManageKeyVault"
+fullName: "com.azure.resourcemanager.keyvault.samples.ManageKeyVault"
+name: "ManageKeyVault"
+nameWithType: "ManageKeyVault"
+summary: "Azure Key Vault sample for managing key vaults - - Create a key vault - Authorize an application - Update a key vault - alter configurations - change permissions - Create another key vault - List key vaults - Delete a key vault."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageKeyVault"
+methods:
+- "com.azure.resourcemanager.keyvault.samples.ManageKeyVault.main(java.lang.String[])"
+- "com.azure.resourcemanager.keyvault.samples.ManageKeyVault.runSample(com.azure.resourcemanager.AzureResourceManager,java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.keyvault.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

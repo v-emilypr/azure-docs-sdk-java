@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.compute.models.RebootStatus.FAILED*"
+fullName: "com.azure.resourcemanager.compute.models.RebootStatus.FAILED"
+name: "FAILED"
+nameWithType: "RebootStatus.FAILED"
+members:
+- uid: "com.azure.resourcemanager.compute.models.RebootStatus.FAILED"
+  fullName: "com.azure.resourcemanager.compute.models.RebootStatus.FAILED"
+  name: "FAILED"
+  nameWithType: "RebootStatus.FAILED"
+  summary: "Static value Failed for RebootStatus."
+  syntax: "public static final RebootStatus FAILED"
+type: "field"
+metadata: {}
+package: "com.azure.resourcemanager.compute.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-compute:1.0.0-hybridbeta.1

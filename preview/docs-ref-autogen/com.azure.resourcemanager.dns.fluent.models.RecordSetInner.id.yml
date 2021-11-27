@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.id*"
+fullName: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.id"
+name: "id"
+nameWithType: "RecordSetInner.id"
+members:
+- uid: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.id()"
+  fullName: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.id()"
+  name: "id()"
+  nameWithType: "RecordSetInner.id()"
+  summary: "Get the id property: The ID of the record set."
+  overridden: "com.azure.core.management.ProxyResource.id()"
+  syntax: "public String id()"
+  returns:
+    description: "the id value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dns.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dns:1.0.0-hybridbeta.1

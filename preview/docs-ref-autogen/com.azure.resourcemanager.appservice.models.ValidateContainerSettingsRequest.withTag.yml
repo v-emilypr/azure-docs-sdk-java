@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withTag*"
+fullName: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withTag"
+name: "withTag"
+nameWithType: "ValidateContainerSettingsRequest.withTag"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withTag(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withTag(String tag)"
+  name: "withTag(String tag)"
+  nameWithType: "ValidateContainerSettingsRequest.withTag(String tag)"
+  summary: "Set the tag property: Image tag."
+  parameters:
+  - description: "the tag value to set."
+    name: "tag"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ValidateContainerSettingsRequest withTag(String tag)"
+  returns:
+    description: "the ValidateContainerSettingsRequest object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest?alt=com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest&text=ValidateContainerSettingsRequest\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

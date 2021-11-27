@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.withId*"
+fullName: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.withId"
+name: "withId"
+nameWithType: "RecordSetInner.withId"
+members:
+- uid: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.withId(java.lang.String)"
+  fullName: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.withId(String id)"
+  name: "withId(String id)"
+  nameWithType: "RecordSetInner.withId(String id)"
+  summary: "Set the id property: The ID of the record set."
+  parameters:
+  - description: "the id value to set."
+    name: "id"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public RecordSetInner withId(String id)"
+  returns:
+    description: "the RecordSetInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.dns.fluent.models.RecordSetInner?alt=com.azure.resourcemanager.dns.fluent.models.RecordSetInner&text=RecordSetInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dns.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dns:1.0.0-hybridbeta.1

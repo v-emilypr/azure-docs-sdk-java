@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withAvailable*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withAvailable"
+name: "withAvailable"
+nameWithType: "DomainAvailablilityCheckResultInner.withAvailable"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withAvailable(java.lang.Boolean)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withAvailable(Boolean available)"
+  name: "withAvailable(Boolean available)"
+  nameWithType: "DomainAvailablilityCheckResultInner.withAvailable(Boolean available)"
+  summary: "Set the available property: <code>true</code> if domain can be purchased using CreateDomain API; otherwise, <code>false</code>."
+  parameters:
+  - description: "the available value to set."
+    name: "available"
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DomainAvailablilityCheckResultInner withAvailable(Boolean available)"
+  returns:
+    description: "the DomainAvailablilityCheckResultInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner?alt=com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner&text=DomainAvailablilityCheckResultInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

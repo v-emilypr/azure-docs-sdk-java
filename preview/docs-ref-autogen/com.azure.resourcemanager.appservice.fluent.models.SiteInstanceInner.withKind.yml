@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.SiteInstanceInner.withKind*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.SiteInstanceInner.withKind"
+name: "withKind"
+nameWithType: "SiteInstanceInner.withKind"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.SiteInstanceInner.withKind(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.SiteInstanceInner.withKind(String kind)"
+  name: "withKind(String kind)"
+  nameWithType: "SiteInstanceInner.withKind(String kind)"
+  summary: "Set the kind property: Kind of resource."
+  overridden: "com.azure.resourcemanager.appservice.models.ProxyOnlyResource.withKind(java.lang.String)"
+  parameters:
+  - name: "kind"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SiteInstanceInner withKind(String kind)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.SiteInstanceInner?alt=com.azure.resourcemanager.appservice.fluent.models.SiteInstanceInner&text=SiteInstanceInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

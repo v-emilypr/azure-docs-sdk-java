@@ -1,13 +1,13 @@
 ### YamlMime:JavaMember
-uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getServiceVersion*"
-fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getServiceVersion"
+uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getServiceVersion*"
+fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getServiceVersion"
 name: "getServiceVersion"
-nameWithType: "AzureWebPubSubServiceRestAPIImpl.getServiceVersion"
+nameWithType: "AzureWebPubSubServiceRestApiImpl.getServiceVersion"
 members:
-- uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getServiceVersion()"
-  fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getServiceVersion()"
+- uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getServiceVersion()"
+  fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getServiceVersion()"
   name: "getServiceVersion()"
-  nameWithType: "AzureWebPubSubServiceRestAPIImpl.getServiceVersion()"
+  nameWithType: "AzureWebPubSubServiceRestApiImpl.getServiceVersion()"
   summary: "Gets Service version."
   syntax: "public WebPubSubServiceVersion getServiceVersion()"
   returns:
@@ -16,4 +16,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.messaging.webpubsub.implementation"
-artifact: com.azure:azure-messaging-webpubsub:1.0.0-beta.6
+artifact: com.azure:azure-messaging-webpubsub:1.0.0-alpha.20211126.1

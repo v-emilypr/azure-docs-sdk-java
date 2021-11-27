@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPropertiesFormat.allowGlobalReach*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPropertiesFormat.allowGlobalReach"
+name: "allowGlobalReach"
+nameWithType: "ExpressRouteCircuitPropertiesFormat.allowGlobalReach"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPropertiesFormat.allowGlobalReach()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPropertiesFormat.allowGlobalReach()"
+  name: "allowGlobalReach()"
+  nameWithType: "ExpressRouteCircuitPropertiesFormat.allowGlobalReach()"
+  summary: "Get the allowGlobalReach property: Flag to enable Global Reach on the circuit."
+  syntax: "public Boolean allowGlobalReach()"
+  returns:
+    description: "the allowGlobalReach value."
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

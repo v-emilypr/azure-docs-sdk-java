@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.implementation.ApplicationsClientImpl.delete*"
+fullName: "com.azure.resourcemanager.authorization.implementation.ApplicationsClientImpl.delete"
+name: "delete"
+nameWithType: "ApplicationsClientImpl.delete"
+members:
+- uid: "com.azure.resourcemanager.authorization.implementation.ApplicationsClientImpl.delete(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.implementation.ApplicationsClientImpl.delete(String applicationObjectId, String tenantId)"
+  name: "delete(String applicationObjectId, String tenantId)"
+  nameWithType: "ApplicationsClientImpl.delete(String applicationObjectId, String tenantId)"
+  summary: "Delete an application."
+  parameters:
+  - description: "Application object ID."
+    name: "applicationObjectId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void delete(String applicationObjectId, String tenantId)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

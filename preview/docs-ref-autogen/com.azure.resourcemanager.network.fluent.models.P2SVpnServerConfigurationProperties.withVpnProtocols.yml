@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withVpnProtocols*"
+fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withVpnProtocols"
+name: "withVpnProtocols"
+nameWithType: "P2SVpnServerConfigurationProperties.withVpnProtocols"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withVpnProtocols(java.util.List<com.azure.resourcemanager.network.models.VpnGatewayTunnelingProtocol>)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withVpnProtocols(List<VpnGatewayTunnelingProtocol> vpnProtocols)"
+  name: "withVpnProtocols(List<VpnGatewayTunnelingProtocol> vpnProtocols)"
+  nameWithType: "P2SVpnServerConfigurationProperties.withVpnProtocols(List<VpnGatewayTunnelingProtocol> vpnProtocols)"
+  summary: "Set the vpnProtocols property: vpnProtocols for the P2SVpnServerConfiguration."
+  parameters:
+  - description: "the vpnProtocols value to set."
+    name: "vpnProtocols"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.models.VpnGatewayTunnelingProtocol?alt=com.azure.resourcemanager.network.models.VpnGatewayTunnelingProtocol&text=VpnGatewayTunnelingProtocol\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public P2SVpnServerConfigurationProperties withVpnProtocols(List<VpnGatewayTunnelingProtocol> vpnProtocols)"
+  returns:
+    description: "the P2SVpnServerConfigurationProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties?alt=com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties&text=P2SVpnServerConfigurationProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

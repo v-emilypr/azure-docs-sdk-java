@@ -1,13 +1,13 @@
 ### YamlMime:JavaMember
-uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getHttpPipeline*"
-fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getHttpPipeline"
+uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getHttpPipeline*"
+fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getHttpPipeline"
 name: "getHttpPipeline"
-nameWithType: "AzureWebPubSubServiceRestAPIImpl.getHttpPipeline"
+nameWithType: "AzureWebPubSubServiceRestApiImpl.getHttpPipeline"
 members:
-- uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getHttpPipeline()"
-  fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getHttpPipeline()"
+- uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getHttpPipeline()"
+  fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getHttpPipeline()"
   name: "getHttpPipeline()"
-  nameWithType: "AzureWebPubSubServiceRestAPIImpl.getHttpPipeline()"
+  nameWithType: "AzureWebPubSubServiceRestApiImpl.getHttpPipeline()"
   summary: "Gets The HTTP pipeline to send requests through."
   syntax: "public HttpPipeline getHttpPipeline()"
   returns:
@@ -16,4 +16,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.messaging.webpubsub.implementation"
-artifact: com.azure:azure-messaging-webpubsub:1.0.0-beta.6
+artifact: com.azure:azure-messaging-webpubsub:1.0.0-alpha.20211126.1

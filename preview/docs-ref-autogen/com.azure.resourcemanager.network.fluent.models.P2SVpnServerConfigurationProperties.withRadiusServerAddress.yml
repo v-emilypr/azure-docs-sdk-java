@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withRadiusServerAddress*"
+fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withRadiusServerAddress"
+name: "withRadiusServerAddress"
+nameWithType: "P2SVpnServerConfigurationProperties.withRadiusServerAddress"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withRadiusServerAddress(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.withRadiusServerAddress(String radiusServerAddress)"
+  name: "withRadiusServerAddress(String radiusServerAddress)"
+  nameWithType: "P2SVpnServerConfigurationProperties.withRadiusServerAddress(String radiusServerAddress)"
+  summary: "Set the radiusServerAddress property: The radius server address property of the P2SVpnServerConfiguration resource for point to site client connection."
+  parameters:
+  - description: "the radiusServerAddress value to set."
+    name: "radiusServerAddress"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public P2SVpnServerConfigurationProperties withRadiusServerAddress(String radiusServerAddress)"
+  returns:
+    description: "the P2SVpnServerConfigurationProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties?alt=com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties&text=P2SVpnServerConfigurationProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

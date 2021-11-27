@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat.P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat*"
+fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat.P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat"
+name: "P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat"
+nameWithType: "P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat.P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat.P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat.P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat()"
+  name: "P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat()"
+  nameWithType: "P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat.P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat()"
+  syntax: "public P2SVpnServerConfigRadiusClientRootCertificatePropertiesFormat()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

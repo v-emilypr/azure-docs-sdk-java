@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.MetricAvailabilily.MetricAvailabilily*"
+fullName: "com.azure.resourcemanager.appservice.models.MetricAvailabilily.MetricAvailabilily"
+name: "MetricAvailabilily"
+nameWithType: "MetricAvailabilily.MetricAvailabilily"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.MetricAvailabilily.MetricAvailabilily()"
+  fullName: "com.azure.resourcemanager.appservice.models.MetricAvailabilily.MetricAvailabilily()"
+  name: "MetricAvailabilily()"
+  nameWithType: "MetricAvailabilily.MetricAvailabilily()"
+  syntax: "public MetricAvailabilily()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

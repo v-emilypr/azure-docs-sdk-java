@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAgentPoolProfiles*"
+fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAgentPoolProfiles"
+name: "withAgentPoolProfiles"
+nameWithType: "BaseManagedCluster.withAgentPoolProfiles"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAgentPoolProfiles(java.util.List<com.azure.resourcemanager.containerservice.models.ManagedClusterAgentPoolProfile>)"
+  fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAgentPoolProfiles(List<ManagedClusterAgentPoolProfile> agentPoolProfiles)"
+  name: "withAgentPoolProfiles(List<ManagedClusterAgentPoolProfile> agentPoolProfiles)"
+  nameWithType: "BaseManagedCluster.withAgentPoolProfiles(List<ManagedClusterAgentPoolProfile> agentPoolProfiles)"
+  summary: "Set the agentPoolProfiles property: Properties of the agent pool."
+  parameters:
+  - description: "the agentPoolProfiles value to set."
+    name: "agentPoolProfiles"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.containerservice.models.ManagedClusterAgentPoolProfile?alt=com.azure.resourcemanager.containerservice.models.ManagedClusterAgentPoolProfile&text=ManagedClusterAgentPoolProfile\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public BaseManagedCluster withAgentPoolProfiles(List<ManagedClusterAgentPoolProfile> agentPoolProfiles)"
+  returns:
+    description: "the BaseManagedCluster object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.BaseManagedCluster?alt=com.azure.resourcemanager.containerservice.models.BaseManagedCluster&text=BaseManagedCluster\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

@@ -1,0 +1,38 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner"
+name: "ResourceMetricInner"
+nameWithType: "ResourceMetricInner"
+summary: "Object representing a metric for any resource ."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ResourceMetricInner"
+constructors:
+- "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.ResourceMetricInner()"
+methods:
+- "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.endTime()"
+- "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.id()"
+- "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.metricValues()"
+- "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.name()"
+- "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.properties()"
+- "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.resourceId()"
+- "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.startTime()"
+- "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.timeGrain()"
+- "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.unit()"
+- "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.validate()"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

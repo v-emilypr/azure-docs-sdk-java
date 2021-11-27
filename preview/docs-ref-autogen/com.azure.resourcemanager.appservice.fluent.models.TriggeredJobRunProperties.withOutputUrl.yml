@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withOutputUrl*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withOutputUrl"
+name: "withOutputUrl"
+nameWithType: "TriggeredJobRunProperties.withOutputUrl"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withOutputUrl(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withOutputUrl(String outputUrl)"
+  name: "withOutputUrl(String outputUrl)"
+  nameWithType: "TriggeredJobRunProperties.withOutputUrl(String outputUrl)"
+  summary: "Set the outputUrl property: Output URL."
+  parameters:
+  - description: "the outputUrl value to set."
+    name: "outputUrl"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public TriggeredJobRunProperties withOutputUrl(String outputUrl)"
+  returns:
+    description: "the TriggeredJobRunProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties?alt=com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties&text=TriggeredJobRunProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

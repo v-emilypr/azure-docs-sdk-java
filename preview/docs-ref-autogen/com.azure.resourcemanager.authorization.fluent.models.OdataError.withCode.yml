@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.fluent.models.OdataError.withCode*"
+fullName: "com.azure.resourcemanager.authorization.fluent.models.OdataError.withCode"
+name: "withCode"
+nameWithType: "OdataError.withCode"
+members:
+- uid: "com.azure.resourcemanager.authorization.fluent.models.OdataError.withCode(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.fluent.models.OdataError.withCode(String code)"
+  name: "withCode(String code)"
+  nameWithType: "OdataError.withCode(String code)"
+  summary: "Set the code property: Error code."
+  parameters:
+  - description: "the code value to set."
+    name: "code"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public OdataError withCode(String code)"
+  returns:
+    description: "the OdataError object itself."
+    type: "<xref href=\"com.azure.resourcemanager.authorization.fluent.models.OdataError?alt=com.azure.resourcemanager.authorization.fluent.models.OdataError&text=OdataError\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

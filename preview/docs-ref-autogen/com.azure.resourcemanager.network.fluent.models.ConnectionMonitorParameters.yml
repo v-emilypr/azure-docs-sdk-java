@@ -1,0 +1,37 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters"
+fullName: "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters"
+name: "ConnectionMonitorParameters"
+nameWithType: "ConnectionMonitorParameters"
+summary: "Parameters that define the operation to create a connection monitor."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ConnectionMonitorParameters"
+constructors:
+- "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters.ConnectionMonitorParameters()"
+methods:
+- "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters.autoStart()"
+- "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters.destination()"
+- "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters.monitoringIntervalInSeconds()"
+- "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters.source()"
+- "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters.validate()"
+- "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters.withAutoStart(java.lang.Boolean)"
+- "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters.withDestination(com.azure.resourcemanager.network.models.ConnectionMonitorDestination)"
+- "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters.withMonitoringIntervalInSeconds(java.lang.Integer)"
+- "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorParameters.withSource(com.azure.resourcemanager.network.models.ConnectionMonitorSource)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

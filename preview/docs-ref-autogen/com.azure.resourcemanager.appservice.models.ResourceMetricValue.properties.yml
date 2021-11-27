@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.properties*"
+fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.properties"
+name: "properties"
+nameWithType: "ResourceMetricValue.properties"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.properties()"
+  fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.properties()"
+  name: "properties()"
+  nameWithType: "ResourceMetricValue.properties()"
+  summary: "Get the properties property: Resource metric properties collection."
+  syntax: "public List<ResourceMetricProperty> properties()"
+  returns:
+    description: "the properties value."
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appservice.models.ResourceMetricProperty?alt=com.azure.resourcemanager.appservice.models.ResourceMetricProperty&text=ResourceMetricProperty\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

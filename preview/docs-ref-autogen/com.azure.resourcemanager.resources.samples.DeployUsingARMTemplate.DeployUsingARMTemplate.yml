@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplate.DeployUsingARMTemplate*"
+fullName: "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplate.DeployUsingARMTemplate"
+name: "DeployUsingARMTemplate"
+nameWithType: "DeployUsingARMTemplate.DeployUsingARMTemplate"
+members:
+- uid: "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplate.DeployUsingARMTemplate()"
+  fullName: "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplate.DeployUsingARMTemplate()"
+  name: "DeployUsingARMTemplate()"
+  nameWithType: "DeployUsingARMTemplate.DeployUsingARMTemplate()"
+  syntax: "public DeployUsingARMTemplate()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.resources.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.models.ConnectionMonitorSourceStatus.UKNOWN*"
+fullName: "com.azure.resourcemanager.network.models.ConnectionMonitorSourceStatus.UKNOWN"
+name: "UKNOWN"
+nameWithType: "ConnectionMonitorSourceStatus.UKNOWN"
+members:
+- uid: "com.azure.resourcemanager.network.models.ConnectionMonitorSourceStatus.UKNOWN"
+  fullName: "com.azure.resourcemanager.network.models.ConnectionMonitorSourceStatus.UKNOWN"
+  name: "UKNOWN"
+  nameWithType: "ConnectionMonitorSourceStatus.UKNOWN"
+  summary: "Static value Uknown for ConnectionMonitorSourceStatus."
+  syntax: "public static final ConnectionMonitorSourceStatus UKNOWN"
+type: "field"
+metadata: {}
+package: "com.azure.resourcemanager.network.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

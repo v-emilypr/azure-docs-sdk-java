@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat.withContainerNetworkInterfaceConfiguration*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat.withContainerNetworkInterfaceConfiguration"
+name: "withContainerNetworkInterfaceConfiguration"
+nameWithType: "ContainerNetworkInterfacePropertiesFormat.withContainerNetworkInterfaceConfiguration"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat.withContainerNetworkInterfaceConfiguration(com.azure.resourcemanager.network.models.ContainerNetworkInterfaceConfiguration)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat.withContainerNetworkInterfaceConfiguration(ContainerNetworkInterfaceConfiguration containerNetworkInterfaceConfiguration)"
+  name: "withContainerNetworkInterfaceConfiguration(ContainerNetworkInterfaceConfiguration containerNetworkInterfaceConfiguration)"
+  nameWithType: "ContainerNetworkInterfacePropertiesFormat.withContainerNetworkInterfaceConfiguration(ContainerNetworkInterfaceConfiguration containerNetworkInterfaceConfiguration)"
+  summary: "Set the containerNetworkInterfaceConfiguration property: Container network interface configuration from which this container network interface is created."
+  parameters:
+  - description: "the containerNetworkInterfaceConfiguration value to set."
+    name: "containerNetworkInterfaceConfiguration"
+    type: "<xref href=\"com.azure.resourcemanager.network.models.ContainerNetworkInterfaceConfiguration?alt=com.azure.resourcemanager.network.models.ContainerNetworkInterfaceConfiguration&text=ContainerNetworkInterfaceConfiguration\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ContainerNetworkInterfacePropertiesFormat withContainerNetworkInterfaceConfiguration(ContainerNetworkInterfaceConfiguration containerNetworkInterfaceConfiguration)"
+  returns:
+    description: "the ContainerNetworkInterfacePropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.ContainerNetworkInterfacePropertiesFormat&text=ContainerNetworkInterfacePropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

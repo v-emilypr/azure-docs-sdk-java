@@ -1,0 +1,13 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.storage.samples"
+fullName: "com.azure.resourcemanager.storage.samples"
+name: "com.azure.resourcemanager.storage.samples"
+summary: "This package contains the classes for storage samples."
+classes:
+- "com.azure.resourcemanager.storage.samples.ManageStorageAccount"
+- "com.azure.resourcemanager.storage.samples.ManageStorageAccountAsync"
+- "com.azure.resourcemanager.storage.samples.ManageStorageAccountCustomerManagedKey"
+- "com.azure.resourcemanager.storage.samples.ManageStorageAccountNetworkRules"
+metadata: {}
+package: "com.azure.resourcemanager.storage.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateExpiresOn*"
+fullName: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateExpiresOn"
+name: "getValidateExpiresOn"
+nameWithType: "AttestationTokenValidationOptions.getValidateExpiresOn"
+members:
+- uid: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateExpiresOn()"
+  fullName: "com.azure.security.attestation.models.AttestationTokenValidationOptions.getValidateExpiresOn()"
+  name: "getValidateExpiresOn()"
+  nameWithType: "AttestationTokenValidationOptions.getValidateExpiresOn()"
+  summary: "Returns whether expiration time should be validated."
+  syntax: "public boolean getValidateExpiresOn()"
+  returns:
+    description: "the current state of the ExpiresOn validation."
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211126.1

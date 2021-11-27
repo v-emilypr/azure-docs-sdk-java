@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.implementation.ServicePrincipalsClientImpl.delete*"
+fullName: "com.azure.resourcemanager.authorization.implementation.ServicePrincipalsClientImpl.delete"
+name: "delete"
+nameWithType: "ServicePrincipalsClientImpl.delete"
+members:
+- uid: "com.azure.resourcemanager.authorization.implementation.ServicePrincipalsClientImpl.delete(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.implementation.ServicePrincipalsClientImpl.delete(String objectId, String tenantId)"
+  name: "delete(String objectId, String tenantId)"
+  nameWithType: "ServicePrincipalsClientImpl.delete(String objectId, String tenantId)"
+  summary: "Deletes a service principal from the directory."
+  parameters:
+  - description: "The object ID of the service principal to delete."
+    name: "objectId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void delete(String objectId, String tenantId)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

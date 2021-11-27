@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withAgentPoolProfiles*"
+fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withAgentPoolProfiles"
+name: "withAgentPoolProfiles"
+nameWithType: "ContainerServiceProperties.withAgentPoolProfiles"
+members:
+- uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withAgentPoolProfiles(java.util.List<com.azure.resourcemanager.containerservice.models.ContainerServiceAgentPoolProfile>)"
+  fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withAgentPoolProfiles(List<ContainerServiceAgentPoolProfile> agentPoolProfiles)"
+  name: "withAgentPoolProfiles(List<ContainerServiceAgentPoolProfile> agentPoolProfiles)"
+  nameWithType: "ContainerServiceProperties.withAgentPoolProfiles(List<ContainerServiceAgentPoolProfile> agentPoolProfiles)"
+  summary: "Set the agentPoolProfiles property: Properties of the agent pool."
+  parameters:
+  - description: "the agentPoolProfiles value to set."
+    name: "agentPoolProfiles"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.containerservice.models.ContainerServiceAgentPoolProfile?alt=com.azure.resourcemanager.containerservice.models.ContainerServiceAgentPoolProfile&text=ContainerServiceAgentPoolProfile\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public ContainerServiceProperties withAgentPoolProfiles(List<ContainerServiceAgentPoolProfile> agentPoolProfiles)"
+  returns:
+    description: "the ContainerServiceProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties?alt=com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties&text=ContainerServiceProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

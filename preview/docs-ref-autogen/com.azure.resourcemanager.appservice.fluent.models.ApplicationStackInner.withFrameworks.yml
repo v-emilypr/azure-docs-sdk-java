@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withFrameworks*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withFrameworks"
+name: "withFrameworks"
+nameWithType: "ApplicationStackInner.withFrameworks"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withFrameworks(java.util.List<com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner>)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withFrameworks(List<ApplicationStackInner> frameworks)"
+  name: "withFrameworks(List<ApplicationStackInner> frameworks)"
+  nameWithType: "ApplicationStackInner.withFrameworks(List<ApplicationStackInner> frameworks)"
+  summary: "Set the frameworks property: List of frameworks associated with application stack."
+  parameters:
+  - description: "the frameworks value to set."
+    name: "frameworks"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner?alt=com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner&text=ApplicationStackInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public ApplicationStackInner withFrameworks(List<ApplicationStackInner> frameworks)"
+  returns:
+    description: "the ApplicationStackInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner?alt=com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner&text=ApplicationStackInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

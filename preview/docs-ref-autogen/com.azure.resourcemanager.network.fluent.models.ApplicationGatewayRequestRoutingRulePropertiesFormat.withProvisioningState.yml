@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayRequestRoutingRulePropertiesFormat.withProvisioningState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayRequestRoutingRulePropertiesFormat.withProvisioningState"
+name: "withProvisioningState"
+nameWithType: "ApplicationGatewayRequestRoutingRulePropertiesFormat.withProvisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayRequestRoutingRulePropertiesFormat.withProvisioningState(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayRequestRoutingRulePropertiesFormat.withProvisioningState(String provisioningState)"
+  name: "withProvisioningState(String provisioningState)"
+  nameWithType: "ApplicationGatewayRequestRoutingRulePropertiesFormat.withProvisioningState(String provisioningState)"
+  summary: "Set the provisioningState property: Provisioning state of the request routing rule resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
+  parameters:
+  - description: "the provisioningState value to set."
+    name: "provisioningState"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationGatewayRequestRoutingRulePropertiesFormat withProvisioningState(String provisioningState)"
+  returns:
+    description: "the ApplicationGatewayRequestRoutingRulePropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ApplicationGatewayRequestRoutingRulePropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.ApplicationGatewayRequestRoutingRulePropertiesFormat&text=ApplicationGatewayRequestRoutingRulePropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

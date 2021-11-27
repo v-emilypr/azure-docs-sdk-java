@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.fluent.OAuth2PermissionGrantsClient.create*"
+fullName: "com.azure.resourcemanager.authorization.fluent.OAuth2PermissionGrantsClient.create"
+name: "create"
+nameWithType: "OAuth2PermissionGrantsClient.create"
+members:
+- uid: "com.azure.resourcemanager.authorization.fluent.OAuth2PermissionGrantsClient.create(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.fluent.OAuth2PermissionGrantsClient.create(String tenantId)"
+  name: "create(String tenantId)"
+  nameWithType: "OAuth2PermissionGrantsClient.create(String tenantId)"
+  summary: "Grants OAuth2 permissions for the relevant resource Ids of an app."
+  parameters:
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract OAuth2PermissionGrantInner create(String tenantId)"
+  returns:
+    description: "the response."
+    type: "<xref href=\"com.azure.resourcemanager.authorization.fluent.models.OAuth2PermissionGrantInner?alt=com.azure.resourcemanager.authorization.fluent.models.OAuth2PermissionGrantInner&text=OAuth2PermissionGrantInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

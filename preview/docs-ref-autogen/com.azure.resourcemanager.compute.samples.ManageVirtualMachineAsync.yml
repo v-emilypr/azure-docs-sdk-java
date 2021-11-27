@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.compute.samples.ManageVirtualMachineAsync"
+fullName: "com.azure.resourcemanager.compute.samples.ManageVirtualMachineAsync"
+name: "ManageVirtualMachineAsync"
+nameWithType: "ManageVirtualMachineAsync"
+summary: "Azure Compute sample for managing virtual machines - - Create a virtual machine with managed OS Disk based on Windows OS image - Once Network is created start creation of virtual machine based on Linux OS image in the same network - Update both virtual machines in parallel - for Linux based: - add Tag - for Windows based: - add a data disk - List virtual machines and print details - Delete all virtual machines."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageVirtualMachineAsync"
+methods:
+- "com.azure.resourcemanager.compute.samples.ManageVirtualMachineAsync.main(java.lang.String[])"
+- "com.azure.resourcemanager.compute.samples.ManageVirtualMachineAsync.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.compute.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

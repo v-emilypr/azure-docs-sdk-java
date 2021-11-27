@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters.withTags*"
+fullName: "com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters.withTags"
+name: "withTags"
+nameWithType: "ServicePrincipalUpdateParameters.withTags"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters.withTags(java.util.List<java.lang.String>)"
+  fullName: "com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters.withTags(List<String> tags)"
+  name: "withTags(List<String> tags)"
+  nameWithType: "ServicePrincipalUpdateParameters.withTags(List<String> tags)"
+  summary: "Set the tags property: Optional list of tags that you can apply to your service principals. Not nullable."
+  overridden: "com.azure.resourcemanager.authorization.models.ServicePrincipalBase.withTags(java.util.List<java.lang.String>)"
+  parameters:
+  - name: "tags"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public ServicePrincipalUpdateParameters withTags(List<String> tags)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters?alt=com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters&text=ServicePrincipalUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

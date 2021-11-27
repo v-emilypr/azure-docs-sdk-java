@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationAdministrationClient.getAttestationPolicy*"
+fullName: "com.azure.security.attestation.AttestationAdministrationClient.getAttestationPolicy"
+name: "getAttestationPolicy"
+nameWithType: "AttestationAdministrationClient.getAttestationPolicy"
+members:
+- uid: "com.azure.security.attestation.AttestationAdministrationClient.getAttestationPolicy(com.azure.security.attestation.models.AttestationType)"
+  fullName: "com.azure.security.attestation.AttestationAdministrationClient.getAttestationPolicy(AttestationType attestationType)"
+  name: "getAttestationPolicy(AttestationType attestationType)"
+  nameWithType: "AttestationAdministrationClient.getAttestationPolicy(AttestationType attestationType)"
+  summary: "Retrieves the current policy for an attestation type.\n\n**NOTE:** The <xref uid=\"com.azure.security.attestation.AttestationAdministrationClient.getAttestationPolicy(com.azure.security.attestation.models.AttestationType)\" data-throw-if-not-resolved=\"false\" data-raw-source=\"AttestationAdministrationClient#getAttestationPolicy(AttestationType)\"></xref> API returns the underlying attestation policy specified by the user. This is NOT the full attestation policy maintained by the attestation service. Specifically it does not include the signing certificates used to verify the attestation policy.\n\nTo retrieve the signing certificates used to sign the policy, use the <xref uid=\"com.azure.security.attestation.AttestationAdministrationClient.getAttestationPolicyWithResponse(com.azure.security.attestation.models.AttestationType,com.azure.security.attestation.models.AttestationTokenValidationOptions,com.azure.core.util.Context)\" data-throw-if-not-resolved=\"false\" data-raw-source=\"AttestationAdministrationClient#getAttestationPolicyWithResponse(AttestationType, AttestationTokenValidationOptions, Context)\"></xref> API. The <xref uid=\"com.azure.core.http.rest.Response\" data-throw-if-not-resolved=\"false\" data-raw-source=\"Response\"></xref> object is an instance of an <xref uid=\"com.azure.security.attestation.models.AttestationResponse\" data-throw-if-not-resolved=\"false\" data-raw-source=\"com.azure.security.attestation.models.AttestationResponse\"></xref> object and the caller can retrieve the full information maintained by the service by calling the <xref uid=\"com.azure.security.attestation.models.AttestationResponse.getToken()\" data-throw-if-not-resolved=\"false\" data-raw-source=\"AttestationResponse#getToken()\"></xref> method. The returned <xref uid=\"com.azure.security.attestation.models.AttestationToken\" data-throw-if-not-resolved=\"false\" data-raw-source=\"com.azure.security.attestation.models.AttestationToken\"></xref> object will be the value stored by the attestation service."
+  parameters:
+  - description: "Specifies the trusted execution environment whose policy should be retrieved."
+    name: "attestationType"
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationType?alt=com.azure.security.attestation.models.AttestationType&text=AttestationType\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public String getAttestationPolicy(AttestationType attestationType)"
+  returns:
+    description: "the response to an attestation policy operation."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211126.1

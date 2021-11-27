@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAadProfile*"
+fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAadProfile"
+name: "withAadProfile"
+nameWithType: "BaseManagedCluster.withAadProfile"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAadProfile(com.azure.resourcemanager.containerservice.models.ManagedClusterAadProfile)"
+  fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAadProfile(ManagedClusterAadProfile aadProfile)"
+  name: "withAadProfile(ManagedClusterAadProfile aadProfile)"
+  nameWithType: "BaseManagedCluster.withAadProfile(ManagedClusterAadProfile aadProfile)"
+  summary: "Set the aadProfile property: Profile of Azure Active Directory configuration."
+  parameters:
+  - description: "the aadProfile value to set."
+    name: "aadProfile"
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.ManagedClusterAadProfile?alt=com.azure.resourcemanager.containerservice.models.ManagedClusterAadProfile&text=ManagedClusterAadProfile\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public BaseManagedCluster withAadProfile(ManagedClusterAadProfile aadProfile)"
+  returns:
+    description: "the BaseManagedCluster object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.BaseManagedCluster?alt=com.azure.resourcemanager.containerservice.models.BaseManagedCluster&text=BaseManagedCluster\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

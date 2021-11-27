@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultInner.withEtag*"
+fullName: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultInner.withEtag"
+name: "withEtag"
+nameWithType: "PacketCaptureResultInner.withEtag"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultInner.withEtag(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultInner.withEtag(String etag)"
+  name: "withEtag(String etag)"
+  nameWithType: "PacketCaptureResultInner.withEtag(String etag)"
+  summary: "Set the etag property: The etag property."
+  parameters:
+  - description: "the etag value to set."
+    name: "etag"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PacketCaptureResultInner withEtag(String etag)"
+  returns:
+    description: "the PacketCaptureResultInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.PacketCaptureResultInner?alt=com.azure.resourcemanager.network.fluent.models.PacketCaptureResultInner&text=PacketCaptureResultInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

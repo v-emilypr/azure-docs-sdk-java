@@ -1,0 +1,32 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.SSHShell.download*"
+fullName: "com.azure.resourcemanager.samples.SSHShell.download"
+name: "download"
+nameWithType: "SSHShell.download"
+members:
+- uid: "com.azure.resourcemanager.samples.SSHShell.download(java.lang.String,java.lang.String,boolean)"
+  fullName: "com.azure.resourcemanager.samples.SSHShell.download(String fileName, String fromPath, boolean isUserHomeBased)"
+  name: "download(String fileName, String fromPath, boolean isUserHomeBased)"
+  nameWithType: "SSHShell.download(String fileName, String fromPath, boolean isUserHomeBased)"
+  summary: "Downloads the content of a file from the remote host as a String."
+  parameters:
+  - description: "the name of the file for which the content will be downloaded"
+    name: "fileName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the path of the file for which the content will be downloaded"
+    name: "fromPath"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "true if the path of the file is relative to the user's home directory"
+    name: "isUserHomeBased"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public String download(String fileName, String fromPath, boolean isUserHomeBased)"
+  exceptions:
+  - description: "exception thrown"
+    type: "<xref href=\"java.lang.Exception?alt=java.lang.Exception&text=Exception\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "the content of the file"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

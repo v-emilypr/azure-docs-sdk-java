@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.ResourceMetricProperty.ResourceMetricProperty*"
+fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricProperty.ResourceMetricProperty"
+name: "ResourceMetricProperty"
+nameWithType: "ResourceMetricProperty.ResourceMetricProperty"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.ResourceMetricProperty.ResourceMetricProperty()"
+  fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricProperty.ResourceMetricProperty()"
+  name: "ResourceMetricProperty()"
+  nameWithType: "ResourceMetricProperty.ResourceMetricProperty()"
+  syntax: "public ResourceMetricProperty()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.kubernetesVersion*"
+fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.kubernetesVersion"
+name: "kubernetesVersion"
+nameWithType: "BaseManagedCluster.kubernetesVersion"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.kubernetesVersion()"
+  fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.kubernetesVersion()"
+  name: "kubernetesVersion()"
+  nameWithType: "BaseManagedCluster.kubernetesVersion()"
+  summary: "Get the kubernetesVersion property: Version of Kubernetes specified when creating the managed cluster."
+  syntax: "public String kubernetesVersion()"
+  returns:
+    description: "the kubernetesVersion value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

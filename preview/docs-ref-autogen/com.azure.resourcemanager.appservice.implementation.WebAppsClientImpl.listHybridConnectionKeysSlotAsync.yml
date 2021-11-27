@@ -1,0 +1,35 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listHybridConnectionKeysSlotAsync*"
+fullName: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listHybridConnectionKeysSlotAsync"
+name: "listHybridConnectionKeysSlotAsync"
+nameWithType: "WebAppsClientImpl.listHybridConnectionKeysSlotAsync"
+members:
+- uid: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listHybridConnectionKeysSlotAsync(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listHybridConnectionKeysSlotAsync(String resourceGroupName, String name, String namespaceName, String relayName, String slot)"
+  name: "listHybridConnectionKeysSlotAsync(String resourceGroupName, String name, String namespaceName, String relayName, String slot)"
+  nameWithType: "WebAppsClientImpl.listHybridConnectionKeysSlotAsync(String resourceGroupName, String name, String namespaceName, String relayName, String slot)"
+  summary: "Gets the send key name and value for a Hybrid Connection."
+  parameters:
+  - description: "Name of the resource group to which the resource belongs."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The name of the web app."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The namespace for this hybrid connection."
+    name: "namespaceName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The relay name for this hybrid connection."
+    name: "relayName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The name of the slot for the web app."
+    name: "slot"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<HybridConnectionKeyInner> listHybridConnectionKeysSlotAsync(String resourceGroupName, String name, String namespaceName, String relayName, String slot)"
+  returns:
+    description: "the send key name and value for a Hybrid Connection."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appservice.fluent.models.HybridConnectionKeyInner?alt=com.azure.resourcemanager.appservice.fluent.models.HybridConnectionKeyInner&text=HybridConnectionKeyInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

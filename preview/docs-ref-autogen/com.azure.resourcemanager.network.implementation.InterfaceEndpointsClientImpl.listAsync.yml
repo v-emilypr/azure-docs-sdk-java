@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.implementation.InterfaceEndpointsClientImpl.listAsync*"
+fullName: "com.azure.resourcemanager.network.implementation.InterfaceEndpointsClientImpl.listAsync"
+name: "listAsync"
+nameWithType: "InterfaceEndpointsClientImpl.listAsync"
+members:
+- uid: "com.azure.resourcemanager.network.implementation.InterfaceEndpointsClientImpl.listAsync()"
+  fullName: "com.azure.resourcemanager.network.implementation.InterfaceEndpointsClientImpl.listAsync()"
+  name: "listAsync()"
+  nameWithType: "InterfaceEndpointsClientImpl.listAsync()"
+  summary: "Gets all interface endpoints in a subscription."
+  syntax: "public PagedFlux<InterfaceEndpointInner> listAsync()"
+  returns:
+    description: "all interface endpoints in a subscription."
+    type: "<xref href=\"com.azure.core.http.rest.PagedFlux?alt=com.azure.core.http.rest.PagedFlux&text=PagedFlux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner?alt=com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner&text=InterfaceEndpointInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

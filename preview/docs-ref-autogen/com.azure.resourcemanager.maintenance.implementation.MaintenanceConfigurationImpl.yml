@@ -64,4 +64,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.maintenance.models.MaintenanceConfiguration?alt=com.azure.resourcemanager.maintenance.models.MaintenanceConfiguration&text=MaintenanceConfiguration\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.maintenance.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-maintenance:1.0.0-beta.2
+artifact: com.azure.resourcemanager:azure-resourcemanager-maintenance:1.0.0-alpha.20211126.1

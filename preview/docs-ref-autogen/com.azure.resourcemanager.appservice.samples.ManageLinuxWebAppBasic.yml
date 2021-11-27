@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppBasic"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppBasic"
+name: "ManageLinuxWebAppBasic"
+nameWithType: "ManageLinuxWebAppBasic"
+summary: "Azure App Service basic sample for managing web apps. - Create 3 linux web apps under the same new app service plan: - 1, 2 are in the same resource group, 3 in a different one - Stop and start 1, restart 2 - Add Java support to app 3 - List web apps - Delete a web app"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageLinuxWebAppBasic"
+constructors:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppBasic.ManageLinuxWebAppBasic()"
+methods:
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppBasic.main(java.lang.String[])"
+- "com.azure.resourcemanager.appservice.samples.ManageLinuxWebAppBasic.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

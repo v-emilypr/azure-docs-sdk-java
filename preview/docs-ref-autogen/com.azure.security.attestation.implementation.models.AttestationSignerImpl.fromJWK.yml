@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromJWK*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromJWK"
+name: "fromJWK"
+nameWithType: "AttestationSignerImpl.fromJWK"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromJWK(com.nimbusds.jose.jwk.JWK)"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationSignerImpl.fromJWK(JWK jwk)"
+  name: "fromJWK(JWK jwk)"
+  nameWithType: "AttestationSignerImpl.fromJWK(JWK jwk)"
+  summary: "Create this signer from a Json Web Key."
+  parameters:
+  - description: "JSON Web Key for the signature."
+    name: "jwk"
+    type: "<xref href=\"com.nimbusds.jose.jwk.JWK?alt=com.nimbusds.jose.jwk.JWK&text=JWK\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static AttestationSigner fromJWK(JWK jwk)"
+  exceptions:
+  - description: "- when the attestation signer could not be created from the JWK."
+    type: "<xref href=\"java.lang.Error?alt=java.lang.Error&text=Error\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "<xref uid=\"com.azure.security.attestation.models.AttestationSigner\" data-throw-if-not-resolved=\"false\" data-raw-source=\"AttestationSigner\"></xref> generated from the JWK."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationSigner?alt=com.azure.security.attestation.models.AttestationSigner&text=AttestationSigner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211126.1

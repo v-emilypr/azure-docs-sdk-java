@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.implementation.DomainsClientImpl.checkAvailability*"
+fullName: "com.azure.resourcemanager.appservice.implementation.DomainsClientImpl.checkAvailability"
+name: "checkAvailability"
+nameWithType: "DomainsClientImpl.checkAvailability"
+members:
+- uid: "com.azure.resourcemanager.appservice.implementation.DomainsClientImpl.checkAvailability(com.azure.resourcemanager.appservice.fluent.models.NameIdentifierInner)"
+  fullName: "com.azure.resourcemanager.appservice.implementation.DomainsClientImpl.checkAvailability(NameIdentifierInner identifier)"
+  name: "checkAvailability(NameIdentifierInner identifier)"
+  nameWithType: "DomainsClientImpl.checkAvailability(NameIdentifierInner identifier)"
+  summary: "Check if a domain is available for registration."
+  parameters:
+  - description: "Name of the domain."
+    name: "identifier"
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.NameIdentifierInner?alt=com.azure.resourcemanager.appservice.fluent.models.NameIdentifierInner&text=NameIdentifierInner\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DomainAvailablilityCheckResultInner checkAvailability(NameIdentifierInner identifier)"
+  returns:
+    description: "domain availability check result."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner?alt=com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner&text=DomainAvailablilityCheckResultInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

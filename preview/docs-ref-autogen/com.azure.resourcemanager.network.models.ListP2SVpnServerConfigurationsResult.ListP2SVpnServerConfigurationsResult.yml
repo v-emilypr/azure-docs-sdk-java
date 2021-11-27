@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.ListP2SVpnServerConfigurationsResult*"
+fullName: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.ListP2SVpnServerConfigurationsResult"
+name: "ListP2SVpnServerConfigurationsResult"
+nameWithType: "ListP2SVpnServerConfigurationsResult.ListP2SVpnServerConfigurationsResult"
+members:
+- uid: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.ListP2SVpnServerConfigurationsResult()"
+  fullName: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.ListP2SVpnServerConfigurationsResult()"
+  name: "ListP2SVpnServerConfigurationsResult()"
+  nameWithType: "ListP2SVpnServerConfigurationsResult.ListP2SVpnServerConfigurationsResult()"
+  syntax: "public ListP2SVpnServerConfigurationsResult()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.network.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

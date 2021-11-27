@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getHttpPipeline*"
+fullName: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getHttpPipeline"
+name: "getHttpPipeline"
+nameWithType: "PurviewMetadataClientImpl.getHttpPipeline"
+members:
+- uid: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getHttpPipeline()"
+  fullName: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getHttpPipeline()"
+  name: "getHttpPipeline()"
+  nameWithType: "PurviewMetadataClientImpl.getHttpPipeline()"
+  summary: "Gets The HTTP pipeline to send requests through."
+  syntax: "public HttpPipeline getHttpPipeline()"
+  returns:
+    description: "the httpPipeline value."
+    type: "<xref href=\"com.azure.core.http.HttpPipeline?alt=com.azure.core.http.HttpPipeline&text=HttpPipeline\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration.implementation"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211126.1

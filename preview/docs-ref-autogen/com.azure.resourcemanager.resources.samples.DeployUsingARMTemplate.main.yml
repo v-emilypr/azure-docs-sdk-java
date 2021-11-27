@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplate.main*"
+fullName: "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplate.main"
+name: "main"
+nameWithType: "DeployUsingARMTemplate.main"
+members:
+- uid: "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplate.main(java.lang.String[])"
+  fullName: "com.azure.resourcemanager.resources.samples.DeployUsingARMTemplate.main(String[] args)"
+  name: "main(String[] args)"
+  nameWithType: "DeployUsingARMTemplate.main(String[] args)"
+  summary: "Main entry point."
+  parameters:
+  - description: "the parameters"
+    name: "args"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />[]"
+  syntax: "public static void main(String[] args)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.resources.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

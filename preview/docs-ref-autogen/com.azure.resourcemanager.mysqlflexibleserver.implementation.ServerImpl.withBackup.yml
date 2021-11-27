@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withBackup*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withBackup"
+name: "withBackup"
+nameWithType: "ServerImpl.withBackup"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withBackup(com.azure.resourcemanager.mysqlflexibleserver.models.Backup)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withBackup(Backup backup)"
+  name: "withBackup(Backup backup)"
+  nameWithType: "ServerImpl.withBackup(Backup backup)"
+  summary: "Specifies the backup property: Backup related properties of a server.."
+  parameters:
+  - name: "backup"
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.Backup?alt=com.azure.resourcemanager.mysqlflexibleserver.models.Backup&text=Backup\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ServerImpl withBackup(Backup backup)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl?alt=com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl&text=ServerImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211125.1

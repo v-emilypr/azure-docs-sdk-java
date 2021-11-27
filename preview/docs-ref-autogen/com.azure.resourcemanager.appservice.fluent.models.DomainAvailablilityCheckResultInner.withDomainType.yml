@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withDomainType*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withDomainType"
+name: "withDomainType"
+nameWithType: "DomainAvailablilityCheckResultInner.withDomainType"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withDomainType(com.azure.resourcemanager.appservice.models.DomainType)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner.withDomainType(DomainType domainType)"
+  name: "withDomainType(DomainType domainType)"
+  nameWithType: "DomainAvailablilityCheckResultInner.withDomainType(DomainType domainType)"
+  summary: "Set the domainType property: Valid values are Regular domain: Azure will charge the full price of domain registration, SoftDeleted: Purchasing this domain will simply restore it and this operation will not cost anything."
+  parameters:
+  - description: "the domainType value to set."
+    name: "domainType"
+    type: "<xref href=\"com.azure.resourcemanager.appservice.models.DomainType?alt=com.azure.resourcemanager.appservice.models.DomainType&text=DomainType\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DomainAvailablilityCheckResultInner withDomainType(DomainType domainType)"
+  returns:
+    description: "the DomainAvailablilityCheckResultInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner?alt=com.azure.resourcemanager.appservice.fluent.models.DomainAvailablilityCheckResultInner&text=DomainAvailablilityCheckResultInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

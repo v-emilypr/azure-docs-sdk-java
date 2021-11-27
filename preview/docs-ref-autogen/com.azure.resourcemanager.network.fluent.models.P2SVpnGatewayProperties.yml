@@ -1,0 +1,40 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties"
+fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties"
+name: "P2SVpnGatewayProperties"
+nameWithType: "P2SVpnGatewayProperties"
+summary: "Parameters for P2SVpnGateway."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class P2SVpnGatewayProperties"
+constructors:
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.P2SVpnGatewayProperties()"
+methods:
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.p2SVpnServerConfiguration()"
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.provisioningState()"
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.validate()"
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.virtualHub()"
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.vpnClientAddressPool()"
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.vpnClientConnectionHealth()"
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.vpnGatewayScaleUnit()"
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.withP2SVpnServerConfiguration(com.azure.core.management.SubResource)"
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.withProvisioningState(com.azure.resourcemanager.network.models.ProvisioningState)"
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.withVirtualHub(com.azure.core.management.SubResource)"
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.withVpnClientAddressPool(com.azure.resourcemanager.network.models.AddressSpace)"
+- "com.azure.resourcemanager.network.fluent.models.P2SVpnGatewayProperties.withVpnGatewayScaleUnit(java.lang.Integer)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

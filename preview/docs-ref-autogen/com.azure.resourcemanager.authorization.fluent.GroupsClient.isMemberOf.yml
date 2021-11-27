@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.fluent.GroupsClient.isMemberOf*"
+fullName: "com.azure.resourcemanager.authorization.fluent.GroupsClient.isMemberOf"
+name: "isMemberOf"
+nameWithType: "GroupsClient.isMemberOf"
+members:
+- uid: "com.azure.resourcemanager.authorization.fluent.GroupsClient.isMemberOf(java.lang.String,com.azure.resourcemanager.authorization.models.CheckGroupMembershipParameters)"
+  fullName: "com.azure.resourcemanager.authorization.fluent.GroupsClient.isMemberOf(String tenantId, CheckGroupMembershipParameters parameters)"
+  name: "isMemberOf(String tenantId, CheckGroupMembershipParameters parameters)"
+  nameWithType: "GroupsClient.isMemberOf(String tenantId, CheckGroupMembershipParameters parameters)"
+  summary: "Checks whether the specified user, group, contact, or service principal is a direct or transitive member of the specified group."
+  parameters:
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The check group membership parameters."
+    name: "parameters"
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.CheckGroupMembershipParameters?alt=com.azure.resourcemanager.authorization.models.CheckGroupMembershipParameters&text=CheckGroupMembershipParameters\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract CheckGroupMembershipResultInner isMemberOf(String tenantId, CheckGroupMembershipParameters parameters)"
+  returns:
+    description: "server response for IsMemberOf API call."
+    type: "<xref href=\"com.azure.resourcemanager.authorization.fluent.models.CheckGroupMembershipResultInner?alt=com.azure.resourcemanager.authorization.fluent.models.CheckGroupMembershipResultInner&text=CheckGroupMembershipResultInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

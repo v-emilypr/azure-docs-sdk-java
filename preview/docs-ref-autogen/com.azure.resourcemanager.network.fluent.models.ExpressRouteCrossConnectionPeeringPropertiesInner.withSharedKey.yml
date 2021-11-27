@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withSharedKey*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withSharedKey"
+name: "withSharedKey"
+nameWithType: "ExpressRouteCrossConnectionPeeringPropertiesInner.withSharedKey"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withSharedKey(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withSharedKey(String sharedKey)"
+  name: "withSharedKey(String sharedKey)"
+  nameWithType: "ExpressRouteCrossConnectionPeeringPropertiesInner.withSharedKey(String sharedKey)"
+  summary: "Set the sharedKey property: The shared key."
+  parameters:
+  - description: "the sharedKey value to set."
+    name: "sharedKey"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ExpressRouteCrossConnectionPeeringPropertiesInner withSharedKey(String sharedKey)"
+  returns:
+    description: "the ExpressRouteCrossConnectionPeeringPropertiesInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner?alt=com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner&text=ExpressRouteCrossConnectionPeeringPropertiesInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

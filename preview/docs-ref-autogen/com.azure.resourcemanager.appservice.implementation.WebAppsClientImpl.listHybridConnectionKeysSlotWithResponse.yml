@@ -1,0 +1,38 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listHybridConnectionKeysSlotWithResponse*"
+fullName: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listHybridConnectionKeysSlotWithResponse"
+name: "listHybridConnectionKeysSlotWithResponse"
+nameWithType: "WebAppsClientImpl.listHybridConnectionKeysSlotWithResponse"
+members:
+- uid: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listHybridConnectionKeysSlotWithResponse(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listHybridConnectionKeysSlotWithResponse(String resourceGroupName, String name, String namespaceName, String relayName, String slot, Context context)"
+  name: "listHybridConnectionKeysSlotWithResponse(String resourceGroupName, String name, String namespaceName, String relayName, String slot, Context context)"
+  nameWithType: "WebAppsClientImpl.listHybridConnectionKeysSlotWithResponse(String resourceGroupName, String name, String namespaceName, String relayName, String slot, Context context)"
+  summary: "Gets the send key name and value for a Hybrid Connection."
+  parameters:
+  - description: "Name of the resource group to which the resource belongs."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The name of the web app."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The namespace for this hybrid connection."
+    name: "namespaceName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The relay name for this hybrid connection."
+    name: "relayName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The name of the slot for the web app."
+    name: "slot"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The context to associate with this operation."
+    name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Response<HybridConnectionKeyInner> listHybridConnectionKeysSlotWithResponse(String resourceGroupName, String name, String namespaceName, String relayName, String slot, Context context)"
+  returns:
+    description: "the send key name and value for a Hybrid Connection."
+    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appservice.fluent.models.HybridConnectionKeyInner?alt=com.azure.resourcemanager.appservice.fluent.models.HybridConnectionKeyInner&text=HybridConnectionKeyInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

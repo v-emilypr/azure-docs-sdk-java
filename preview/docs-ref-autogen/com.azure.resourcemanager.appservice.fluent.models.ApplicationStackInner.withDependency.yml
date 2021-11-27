@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withDependency*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withDependency"
+name: "withDependency"
+nameWithType: "ApplicationStackInner.withDependency"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withDependency(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withDependency(String dependency)"
+  name: "withDependency(String dependency)"
+  nameWithType: "ApplicationStackInner.withDependency(String dependency)"
+  summary: "Set the dependency property: Application stack dependency."
+  parameters:
+  - description: "the dependency value to set."
+    name: "dependency"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationStackInner withDependency(String dependency)"
+  returns:
+    description: "the ApplicationStackInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner?alt=com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner&text=ApplicationStackInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

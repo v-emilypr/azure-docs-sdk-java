@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.implementation.InterfaceEndpointsClientImpl.listByResourceGroupAsync*"
+fullName: "com.azure.resourcemanager.network.implementation.InterfaceEndpointsClientImpl.listByResourceGroupAsync"
+name: "listByResourceGroupAsync"
+nameWithType: "InterfaceEndpointsClientImpl.listByResourceGroupAsync"
+members:
+- uid: "com.azure.resourcemanager.network.implementation.InterfaceEndpointsClientImpl.listByResourceGroupAsync(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.implementation.InterfaceEndpointsClientImpl.listByResourceGroupAsync(String resourceGroupName)"
+  name: "listByResourceGroupAsync(String resourceGroupName)"
+  nameWithType: "InterfaceEndpointsClientImpl.listByResourceGroupAsync(String resourceGroupName)"
+  summary: "Gets all interface endpoints in a resource group."
+  parameters:
+  - description: "The name of the resource group."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PagedFlux<InterfaceEndpointInner> listByResourceGroupAsync(String resourceGroupName)"
+  returns:
+    description: "all interface endpoints in a resource group."
+    type: "<xref href=\"com.azure.core.http.rest.PagedFlux?alt=com.azure.core.http.rest.PagedFlux&text=PagedFlux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner?alt=com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner&text=InterfaceEndpointInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

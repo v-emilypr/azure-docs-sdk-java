@@ -1,0 +1,42 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.fluent.models.MetricDefinitionInner"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.MetricDefinitionInner"
+name: "MetricDefinitionInner"
+nameWithType: "MetricDefinitionInner"
+summary: "Metadata for a metric."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+- "<xref href=\"com.azure.core.management.ProxyResource\" data-throw-if-not-resolved=\"False\" />"
+- "<xref href=\"com.azure.resourcemanager.appservice.models.ProxyOnlyResource\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "com.azure.core.management.ProxyResource.id()"
+- "com.azure.core.management.ProxyResource.name()"
+- "com.azure.core.management.ProxyResource.type()"
+- "com.azure.resourcemanager.appservice.models.ProxyOnlyResource.kind()"
+- "com.azure.resourcemanager.appservice.models.ProxyOnlyResource.validate()"
+- "com.azure.resourcemanager.appservice.models.ProxyOnlyResource.withKind(java.lang.String)"
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class MetricDefinitionInner extends ProxyOnlyResource"
+constructors:
+- "com.azure.resourcemanager.appservice.fluent.models.MetricDefinitionInner.MetricDefinitionInner()"
+methods:
+- "com.azure.resourcemanager.appservice.fluent.models.MetricDefinitionInner.displayName()"
+- "com.azure.resourcemanager.appservice.fluent.models.MetricDefinitionInner.metricAvailabilities()"
+- "com.azure.resourcemanager.appservice.fluent.models.MetricDefinitionInner.primaryAggregationType()"
+- "com.azure.resourcemanager.appservice.fluent.models.MetricDefinitionInner.unit()"
+- "com.azure.resourcemanager.appservice.fluent.models.MetricDefinitionInner.validate()"
+- "com.azure.resourcemanager.appservice.fluent.models.MetricDefinitionInner.withKind(java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

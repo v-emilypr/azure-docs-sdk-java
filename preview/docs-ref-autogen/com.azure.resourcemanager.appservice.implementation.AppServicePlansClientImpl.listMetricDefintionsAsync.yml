@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.implementation.AppServicePlansClientImpl.listMetricDefintionsAsync*"
+fullName: "com.azure.resourcemanager.appservice.implementation.AppServicePlansClientImpl.listMetricDefintionsAsync"
+name: "listMetricDefintionsAsync"
+nameWithType: "AppServicePlansClientImpl.listMetricDefintionsAsync"
+members:
+- uid: "com.azure.resourcemanager.appservice.implementation.AppServicePlansClientImpl.listMetricDefintionsAsync(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.implementation.AppServicePlansClientImpl.listMetricDefintionsAsync(String resourceGroupName, String name)"
+  name: "listMetricDefintionsAsync(String resourceGroupName, String name)"
+  nameWithType: "AppServicePlansClientImpl.listMetricDefintionsAsync(String resourceGroupName, String name)"
+  summary: "Get metrics that can be queried for an App Service plan, and their definitions."
+  parameters:
+  - description: "Name of the resource group to which the resource belongs."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Name of the App Service plan."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PagedFlux<ResourceMetricDefinitionInner> listMetricDefintionsAsync(String resourceGroupName, String name)"
+  returns:
+    description: "metrics that can be queried for an App Service plan, and their definitions."
+    type: "<xref href=\"com.azure.core.http.rest.PagedFlux?alt=com.azure.core.http.rest.PagedFlux&text=PagedFlux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appservice.fluent.models.ResourceMetricDefinitionInner?alt=com.azure.resourcemanager.appservice.fluent.models.ResourceMetricDefinitionInner&text=ResourceMetricDefinitionInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

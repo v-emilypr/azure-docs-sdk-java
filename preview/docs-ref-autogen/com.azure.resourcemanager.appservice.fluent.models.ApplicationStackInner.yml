@@ -1,0 +1,39 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner"
+name: "ApplicationStackInner"
+nameWithType: "ApplicationStackInner"
+summary: "Application stack."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ApplicationStackInner"
+constructors:
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.ApplicationStackInner()"
+methods:
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.dependency()"
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.display()"
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.frameworks()"
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.majorVersions()"
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.name()"
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.validate()"
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withDependency(java.lang.String)"
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withDisplay(java.lang.String)"
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withFrameworks(java.util.List<com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner>)"
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withMajorVersions(java.util.List<com.azure.resourcemanager.appservice.models.StackMajorVersion>)"
+- "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withName(java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

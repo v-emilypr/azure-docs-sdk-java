@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withVlanId*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withVlanId"
+name: "withVlanId"
+nameWithType: "ExpressRouteCrossConnectionPeeringPropertiesInner.withVlanId"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withVlanId(java.lang.Integer)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner.withVlanId(Integer vlanId)"
+  name: "withVlanId(Integer vlanId)"
+  nameWithType: "ExpressRouteCrossConnectionPeeringPropertiesInner.withVlanId(Integer vlanId)"
+  summary: "Set the vlanId property: The VLAN ID."
+  parameters:
+  - description: "the vlanId value to set."
+    name: "vlanId"
+    type: "<xref href=\"java.lang.Integer?alt=java.lang.Integer&text=Integer\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ExpressRouteCrossConnectionPeeringPropertiesInner withVlanId(Integer vlanId)"
+  returns:
+    description: "the ExpressRouteCrossConnectionPeeringPropertiesInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner?alt=com.azure.resourcemanager.network.fluent.models.ExpressRouteCrossConnectionPeeringPropertiesInner&text=ExpressRouteCrossConnectionPeeringPropertiesInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

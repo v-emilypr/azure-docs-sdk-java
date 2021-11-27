@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.AttestationSigningKey.verify*"
+fullName: "com.azure.security.attestation.models.AttestationSigningKey.verify"
+name: "verify"
+nameWithType: "AttestationSigningKey.verify"
+members:
+- uid: "com.azure.security.attestation.models.AttestationSigningKey.verify()"
+  fullName: "com.azure.security.attestation.models.AttestationSigningKey.verify()"
+  name: "verify()"
+  nameWithType: "AttestationSigningKey.verify()"
+  summary: "Verifies that the provided privateKey can sign a buffer which is verified by certificate."
+  syntax: "public void verify()"
+  exceptions:
+  - description: "- Thrown if the PrivateKey provided is from an API family different from the certificate."
+    type: "<xref href=\"java.security.InvalidKeyException?alt=java.security.InvalidKeyException&text=InvalidKeyException\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- Thrown if the PrivateKey provided is from an API family different from the certificate."
+    type: "<xref href=\"java.security.SignatureException?alt=java.security.SignatureException&text=SignatureException\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- Thrown if the PrivateKey provided is from an API family different from the certificate."
+    type: "<xref href=\"java.security.NoSuchAlgorithmException?alt=java.security.NoSuchAlgorithmException&text=NoSuchAlgorithmException\" data-throw-if-not-resolved=\"False\" />"
+  - description: "- Thrown if the PrivateKey provided is from an API family different from the certificate."
+    type: "<xref href=\"java.security.NoSuchProviderException?alt=java.security.NoSuchProviderException&text=NoSuchProviderException\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211126.1

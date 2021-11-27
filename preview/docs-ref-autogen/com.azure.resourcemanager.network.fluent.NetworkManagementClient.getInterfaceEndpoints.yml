@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.NetworkManagementClient.getInterfaceEndpoints*"
+fullName: "com.azure.resourcemanager.network.fluent.NetworkManagementClient.getInterfaceEndpoints"
+name: "getInterfaceEndpoints"
+nameWithType: "NetworkManagementClient.getInterfaceEndpoints"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.NetworkManagementClient.getInterfaceEndpoints()"
+  fullName: "com.azure.resourcemanager.network.fluent.NetworkManagementClient.getInterfaceEndpoints()"
+  name: "getInterfaceEndpoints()"
+  nameWithType: "NetworkManagementClient.getInterfaceEndpoints()"
+  summary: "Gets the InterfaceEndpointsClient object to access its operations."
+  syntax: "public abstract InterfaceEndpointsClient getInterfaceEndpoints()"
+  returns:
+    description: "the InterfaceEndpointsClient object."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.InterfaceEndpointsClient?alt=com.azure.resourcemanager.network.fluent.InterfaceEndpointsClient&text=InterfaceEndpointsClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

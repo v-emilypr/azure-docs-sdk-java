@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.implementation.GroupsClientImpl.get*"
+fullName: "com.azure.resourcemanager.authorization.implementation.GroupsClientImpl.get"
+name: "get"
+nameWithType: "GroupsClientImpl.get"
+members:
+- uid: "com.azure.resourcemanager.authorization.implementation.GroupsClientImpl.get(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.implementation.GroupsClientImpl.get(String objectId, String tenantId)"
+  name: "get(String objectId, String tenantId)"
+  nameWithType: "GroupsClientImpl.get(String objectId, String tenantId)"
+  summary: "Gets group information from the directory."
+  parameters:
+  - description: "The object ID of the user for which to get group information."
+    name: "objectId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ADGroupInner get(String objectId, String tenantId)"
+  returns:
+    description: "group information from the directory."
+    type: "<xref href=\"com.azure.resourcemanager.authorization.fluent.models.ADGroupInner?alt=com.azure.resourcemanager.authorization.fluent.models.ADGroupInner&text=ADGroupInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

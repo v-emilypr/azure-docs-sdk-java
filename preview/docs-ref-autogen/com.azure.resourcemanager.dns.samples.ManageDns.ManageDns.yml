@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dns.samples.ManageDns.ManageDns*"
+fullName: "com.azure.resourcemanager.dns.samples.ManageDns.ManageDns"
+name: "ManageDns"
+nameWithType: "ManageDns.ManageDns"
+members:
+- uid: "com.azure.resourcemanager.dns.samples.ManageDns.ManageDns()"
+  fullName: "com.azure.resourcemanager.dns.samples.ManageDns.ManageDns()"
+  name: "ManageDns()"
+  nameWithType: "ManageDns.ManageDns()"
+  syntax: "public ManageDns()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.dns.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

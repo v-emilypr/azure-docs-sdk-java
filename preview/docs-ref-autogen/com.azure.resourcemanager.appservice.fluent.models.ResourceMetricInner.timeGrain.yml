@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.timeGrain*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.timeGrain"
+name: "timeGrain"
+nameWithType: "ResourceMetricInner.timeGrain"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.timeGrain()"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.timeGrain()"
+  name: "timeGrain()"
+  nameWithType: "ResourceMetricInner.timeGrain()"
+  summary: "Get the timeGrain property: Metric granularity. E.g PT1H, PT5M, P1D."
+  syntax: "public String timeGrain()"
+  returns:
+    description: "the timeGrain value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

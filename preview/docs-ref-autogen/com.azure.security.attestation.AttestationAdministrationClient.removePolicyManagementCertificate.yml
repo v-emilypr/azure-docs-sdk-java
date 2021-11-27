@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationAdministrationClient.removePolicyManagementCertificate*"
+fullName: "com.azure.security.attestation.AttestationAdministrationClient.removePolicyManagementCertificate"
+name: "removePolicyManagementCertificate"
+nameWithType: "AttestationAdministrationClient.removePolicyManagementCertificate"
+members:
+- uid: "com.azure.security.attestation.AttestationAdministrationClient.removePolicyManagementCertificate(com.azure.security.attestation.models.PolicyManagementCertificateOptions)"
+  fullName: "com.azure.security.attestation.AttestationAdministrationClient.removePolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  name: "removePolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  nameWithType: "AttestationAdministrationClient.removePolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  summary: "Adds a new attestation policy certificate to the set of policy management certificates."
+  parameters:
+  - description: "Options for this API call, encapsulating both the X.509 certificate to remove from the set of policy\n               signing certificates and the signing key used to sign the request to the service."
+    name: "options"
+    type: "<xref href=\"com.azure.security.attestation.models.PolicyManagementCertificateOptions?alt=com.azure.security.attestation.models.PolicyManagementCertificateOptions&text=PolicyManagementCertificateOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PolicyCertificatesModificationResult removePolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  returns:
+    description: "the response to an attestation policy operation."
+    type: "<xref href=\"com.azure.security.attestation.models.PolicyCertificatesModificationResult?alt=com.azure.security.attestation.models.PolicyCertificatesModificationResult&text=PolicyCertificatesModificationResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211126.1

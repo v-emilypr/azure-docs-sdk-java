@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorResultProperties.withProvisioningState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorResultProperties.withProvisioningState"
+name: "withProvisioningState"
+nameWithType: "ConnectionMonitorResultProperties.withProvisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorResultProperties.withProvisioningState(com.azure.resourcemanager.network.models.ProvisioningState)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ConnectionMonitorResultProperties.withProvisioningState(ProvisioningState provisioningState)"
+  name: "withProvisioningState(ProvisioningState provisioningState)"
+  nameWithType: "ConnectionMonitorResultProperties.withProvisioningState(ProvisioningState provisioningState)"
+  summary: "Set the provisioningState property: The provisioning state of the connection monitor."
+  parameters:
+  - description: "the provisioningState value to set."
+    name: "provisioningState"
+    type: "<xref href=\"com.azure.resourcemanager.network.models.ProvisioningState?alt=com.azure.resourcemanager.network.models.ProvisioningState&text=ProvisioningState\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ConnectionMonitorResultProperties withProvisioningState(ProvisioningState provisioningState)"
+  returns:
+    description: "the ConnectionMonitorResultProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ConnectionMonitorResultProperties?alt=com.azure.resourcemanager.network.fluent.models.ConnectionMonitorResultProperties&text=ConnectionMonitorResultProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

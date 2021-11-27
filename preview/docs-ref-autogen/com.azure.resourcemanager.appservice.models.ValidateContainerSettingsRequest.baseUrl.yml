@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.baseUrl*"
+fullName: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.baseUrl"
+name: "baseUrl"
+nameWithType: "ValidateContainerSettingsRequest.baseUrl"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.baseUrl()"
+  fullName: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.baseUrl()"
+  name: "baseUrl()"
+  nameWithType: "ValidateContainerSettingsRequest.baseUrl()"
+  summary: "Get the baseUrl property: Base URL of the container registry."
+  syntax: "public String baseUrl()"
+  returns:
+    description: "the baseUrl value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.total*"
+fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.total"
+name: "total"
+nameWithType: "ResourceMetricValue.total"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.total()"
+  fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.total()"
+  name: "total()"
+  nameWithType: "ResourceMetricValue.total()"
+  summary: "Get the total property: Value total."
+  syntax: "public Float total()"
+  returns:
+    description: "the total value."
+    type: "<xref href=\"java.lang.Float?alt=java.lang.Float&text=Float\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

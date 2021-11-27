@@ -1,0 +1,33 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult"
+fullName: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult"
+name: "ListP2SVpnServerConfigurationsResult"
+nameWithType: "ListP2SVpnServerConfigurationsResult"
+summary: "Result of the request to list all P2SVpnServerConfigurations associated to a VirtualWan. It contains a list of P2SVpnServerConfigurations and a URL nextLink to get the next set of results."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ListP2SVpnServerConfigurationsResult"
+constructors:
+- "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.ListP2SVpnServerConfigurationsResult()"
+methods:
+- "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.nextLink()"
+- "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.validate()"
+- "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.value()"
+- "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.withNextLink(java.lang.String)"
+- "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.withValue(java.util.List<com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationInner>)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.network.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listMetricDefinitionsSlotAsync*"
+fullName: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listMetricDefinitionsSlotAsync"
+name: "listMetricDefinitionsSlotAsync"
+nameWithType: "WebAppsClientImpl.listMetricDefinitionsSlotAsync"
+members:
+- uid: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listMetricDefinitionsSlotAsync(java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.implementation.WebAppsClientImpl.listMetricDefinitionsSlotAsync(String resourceGroupName, String name, String slot)"
+  name: "listMetricDefinitionsSlotAsync(String resourceGroupName, String name, String slot)"
+  nameWithType: "WebAppsClientImpl.listMetricDefinitionsSlotAsync(String resourceGroupName, String name, String slot)"
+  summary: "Gets all metric definitions of an app (or deployment slot, if specified)."
+  parameters:
+  - description: "Name of the resource group to which the resource belongs."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Name of the app."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Name of the deployment slot. If a slot is not specified, the API will get metric definitions of the\n     production slot."
+    name: "slot"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PagedFlux<ResourceMetricDefinitionInner> listMetricDefinitionsSlotAsync(String resourceGroupName, String name, String slot)"
+  returns:
+    description: "all metric definitions of an app (or deployment slot, if specified)."
+    type: "<xref href=\"com.azure.core.http.rest.PagedFlux?alt=com.azure.core.http.rest.PagedFlux&text=PagedFlux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appservice.fluent.models.ResourceMetricDefinitionInner?alt=com.azure.resourcemanager.appservice.fluent.models.ResourceMetricDefinitionInner&text=ResourceMetricDefinitionInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

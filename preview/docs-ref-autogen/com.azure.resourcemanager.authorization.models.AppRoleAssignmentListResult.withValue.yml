@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.AppRoleAssignmentListResult.withValue*"
+fullName: "com.azure.resourcemanager.authorization.models.AppRoleAssignmentListResult.withValue"
+name: "withValue"
+nameWithType: "AppRoleAssignmentListResult.withValue"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.AppRoleAssignmentListResult.withValue(java.util.List<com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner>)"
+  fullName: "com.azure.resourcemanager.authorization.models.AppRoleAssignmentListResult.withValue(List<AppRoleAssignmentInner> value)"
+  name: "withValue(List<AppRoleAssignmentInner> value)"
+  nameWithType: "AppRoleAssignmentListResult.withValue(List<AppRoleAssignmentInner> value)"
+  summary: "Set the value property: A collection of AppRoleAssignment."
+  parameters:
+  - description: "the value value to set."
+    name: "value"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner?alt=com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner&text=AppRoleAssignmentInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public AppRoleAssignmentListResult withValue(List<AppRoleAssignmentInner> value)"
+  returns:
+    description: "the AppRoleAssignmentListResult object itself."
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.AppRoleAssignmentListResult?alt=com.azure.resourcemanager.authorization.models.AppRoleAssignmentListResult&text=AppRoleAssignmentListResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

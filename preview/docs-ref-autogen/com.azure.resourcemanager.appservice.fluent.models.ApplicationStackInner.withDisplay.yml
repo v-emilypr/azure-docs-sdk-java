@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withDisplay*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withDisplay"
+name: "withDisplay"
+nameWithType: "ApplicationStackInner.withDisplay"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withDisplay(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner.withDisplay(String display)"
+  name: "withDisplay(String display)"
+  nameWithType: "ApplicationStackInner.withDisplay(String display)"
+  summary: "Set the display property: Application stack display name."
+  parameters:
+  - description: "the display value to set."
+    name: "display"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationStackInner withDisplay(String display)"
+  returns:
+    description: "the ApplicationStackInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner?alt=com.azure.resourcemanager.appservice.fluent.models.ApplicationStackInner&text=ApplicationStackInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

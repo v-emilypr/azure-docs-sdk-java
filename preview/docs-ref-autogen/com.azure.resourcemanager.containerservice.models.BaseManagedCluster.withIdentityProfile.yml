@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withIdentityProfile*"
+fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withIdentityProfile"
+name: "withIdentityProfile"
+nameWithType: "BaseManagedCluster.withIdentityProfile"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withIdentityProfile(java.util.Map<java.lang.String,com.azure.resourcemanager.containerservice.models.ManagedClusterPropertiesIdentityProfile>)"
+  fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withIdentityProfile(Map<String,ManagedClusterPropertiesIdentityProfile> identityProfile)"
+  name: "withIdentityProfile(Map<String,ManagedClusterPropertiesIdentityProfile> identityProfile)"
+  nameWithType: "BaseManagedCluster.withIdentityProfile(Map<String,ManagedClusterPropertiesIdentityProfile> identityProfile)"
+  summary: "Set the identityProfile property: Identities associated with the cluster."
+  parameters:
+  - description: "the identityProfile value to set."
+    name: "identityProfile"
+    type: "<xref href=\"java.util.Map?alt=java.util.Map&text=Map\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />,<xref href=\"com.azure.resourcemanager.containerservice.models.ManagedClusterPropertiesIdentityProfile?alt=com.azure.resourcemanager.containerservice.models.ManagedClusterPropertiesIdentityProfile&text=ManagedClusterPropertiesIdentityProfile\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public BaseManagedCluster withIdentityProfile(Map<String,ManagedClusterPropertiesIdentityProfile> identityProfile)"
+  returns:
+    description: "the BaseManagedCluster object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.BaseManagedCluster?alt=com.azure.resourcemanager.containerservice.models.BaseManagedCluster&text=BaseManagedCluster\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

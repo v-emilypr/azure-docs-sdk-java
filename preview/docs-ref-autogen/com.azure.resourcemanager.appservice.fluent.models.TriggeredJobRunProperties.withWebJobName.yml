@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withWebJobName*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withWebJobName"
+name: "withWebJobName"
+nameWithType: "TriggeredJobRunProperties.withWebJobName"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withWebJobName(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withWebJobName(String webJobName)"
+  name: "withWebJobName(String webJobName)"
+  nameWithType: "TriggeredJobRunProperties.withWebJobName(String webJobName)"
+  summary: "Set the webJobName property: Job name."
+  parameters:
+  - description: "the webJobName value to set."
+    name: "webJobName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public TriggeredJobRunProperties withWebJobName(String webJobName)"
+  returns:
+    description: "the TriggeredJobRunProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties?alt=com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties&text=TriggeredJobRunProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

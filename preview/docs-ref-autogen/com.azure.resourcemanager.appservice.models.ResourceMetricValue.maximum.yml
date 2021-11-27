@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.maximum*"
+fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.maximum"
+name: "maximum"
+nameWithType: "ResourceMetricValue.maximum"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.maximum()"
+  fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.maximum()"
+  name: "maximum()"
+  nameWithType: "ResourceMetricValue.maximum()"
+  summary: "Get the maximum property: Value maximum."
+  syntax: "public Float maximum()"
+  returns:
+    description: "the maximum value."
+    type: "<xref href=\"java.lang.Float?alt=java.lang.Float&text=Float\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.Utils.sendGetRequest*"
+fullName: "com.azure.resourcemanager.samples.Utils.sendGetRequest"
+name: "sendGetRequest"
+nameWithType: "Utils.sendGetRequest"
+members:
+- uid: "com.azure.resourcemanager.samples.Utils.sendGetRequest(java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.Utils.sendGetRequest(String urlString)"
+  name: "sendGetRequest(String urlString)"
+  nameWithType: "Utils.sendGetRequest(String urlString)"
+  summary: "Sends a GET request to target URL.\n\nRetry logic tuned for AppService. The method does not handle 301 redirect."
+  parameters:
+  - description: "the target URL."
+    name: "urlString"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static String sendGetRequest(String urlString)"
+  returns:
+    description: "Content of the HTTP response."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

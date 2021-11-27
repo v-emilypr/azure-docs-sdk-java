@@ -8,12 +8,12 @@ members:
   fullName: "com.azure.security.attestation.models.AttestationResult.getMrSigner()"
   name: "getMrSigner()"
   nameWithType: "AttestationResult.getMrSigner()"
-  summary: "Get the mrSigner property: The HEX encoded SGX MRSIGNER value for the enclave."
-  syntax: "public String getMrSigner()"
+  summary: "Get the mrSigner property: The HEX encoded SGX MRSIGNER value for the enclave. Represents the HEX encoded MRSIGNER Measure Register. This is the hash of the signer of the code loaded into the enclave."
+  syntax: "public abstract String getMrSigner()"
   returns:
     description: "the mrSigner value."
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
 type: "method"
 metadata: {}
 package: "com.azure.security.attestation.models"
-artifact: com.azure:azure-security-attestation:1.0.0-beta.1
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211126.1

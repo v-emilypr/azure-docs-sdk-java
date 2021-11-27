@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppBasic.ManageFunctionAppBasic*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppBasic.ManageFunctionAppBasic"
+name: "ManageFunctionAppBasic"
+nameWithType: "ManageFunctionAppBasic.ManageFunctionAppBasic"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppBasic.ManageFunctionAppBasic()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageFunctionAppBasic.ManageFunctionAppBasic()"
+  name: "ManageFunctionAppBasic()"
+  nameWithType: "ManageFunctionAppBasic.ManageFunctionAppBasic()"
+  syntax: "public ManageFunctionAppBasic()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211125.2

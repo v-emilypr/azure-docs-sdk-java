@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.models.InterfaceEndpointListResult.InterfaceEndpointListResult*"
+fullName: "com.azure.resourcemanager.network.models.InterfaceEndpointListResult.InterfaceEndpointListResult"
+name: "InterfaceEndpointListResult"
+nameWithType: "InterfaceEndpointListResult.InterfaceEndpointListResult"
+members:
+- uid: "com.azure.resourcemanager.network.models.InterfaceEndpointListResult.InterfaceEndpointListResult()"
+  fullName: "com.azure.resourcemanager.network.models.InterfaceEndpointListResult.InterfaceEndpointListResult()"
+  name: "InterfaceEndpointListResult()"
+  nameWithType: "InterfaceEndpointListResult.InterfaceEndpointListResult()"
+  syntax: "public InterfaceEndpointListResult()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.network.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

@@ -1,0 +1,31 @@
+### YamlMime:JavaType
+uid: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures"
+fullName: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures"
+name: "RepositoryFeatures"
+nameWithType: "RepositoryFeatures"
+summary: "<xref uid=\"com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures\" data-throw-if-not-resolved=\"false\" data-raw-source=\"RepositoryFeatures\"></xref> is designated to store attributes which apply to all models in the repository"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class RepositoryFeatures"
+constructors:
+- "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.RepositoryFeatures()"
+- "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.RepositoryFeatures(boolean,boolean)"
+methods:
+- "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.isExpanded()"
+- "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.isIndex()"
+type: "class"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211125.2

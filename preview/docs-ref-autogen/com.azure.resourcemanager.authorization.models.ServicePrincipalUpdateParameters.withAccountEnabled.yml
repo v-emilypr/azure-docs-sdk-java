@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters.withAccountEnabled*"
+fullName: "com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters.withAccountEnabled"
+name: "withAccountEnabled"
+nameWithType: "ServicePrincipalUpdateParameters.withAccountEnabled"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters.withAccountEnabled(java.lang.Boolean)"
+  fullName: "com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters.withAccountEnabled(Boolean accountEnabled)"
+  name: "withAccountEnabled(Boolean accountEnabled)"
+  nameWithType: "ServicePrincipalUpdateParameters.withAccountEnabled(Boolean accountEnabled)"
+  summary: "Set the accountEnabled property: whether or not the service principal account is enabled."
+  overridden: "com.azure.resourcemanager.authorization.models.ServicePrincipalBase.withAccountEnabled(java.lang.Boolean)"
+  parameters:
+  - name: "accountEnabled"
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ServicePrincipalUpdateParameters withAccountEnabled(Boolean accountEnabled)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters?alt=com.azure.resourcemanager.authorization.models.ServicePrincipalUpdateParameters&text=ServicePrincipalUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1
