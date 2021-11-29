@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-network",
+  "Version": "1.0.0-hybridbeta.1",
+  "DevVersion": "1.0.0-hybridbeta.1",
+  "DirectoryPath": "sdk/resourcemanagerhybrid/azure-resourcemanager-network",
+  "ServiceDirectory": "resourcemanagerhybrid",
+  "ReadMePath": "sdk/resourcemanagerhybrid/azure-resourcemanager-network/README.md",
+  "ChangeLogPath": "sdk/resourcemanagerhybrid/azure-resourcemanager-network/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-network",
+  "ReleaseStatus": "Unreleased"
+}

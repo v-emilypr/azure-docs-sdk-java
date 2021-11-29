@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-keyvault",
+  "Version": "1.0.0-hybridbeta.1",
+  "DevVersion": "1.0.0-hybridbeta.1",
+  "DirectoryPath": "sdk/resourcemanagerhybrid/azure-resourcemanager-keyvault",
+  "ServiceDirectory": "resourcemanagerhybrid",
+  "ReadMePath": "sdk/resourcemanagerhybrid/azure-resourcemanager-keyvault/README.md",
+  "ChangeLogPath": "sdk/resourcemanagerhybrid/azure-resourcemanager-keyvault/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-keyvault",
+  "ReleaseStatus": "Unreleased"
+}
