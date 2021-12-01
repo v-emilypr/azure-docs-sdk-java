@@ -1,6 +1,6 @@
 ---
-title: Azure Core Management client library for Java
-keywords: Azure, java, SDK, API, azure-core-management, core
+title: Azure Core JDK HTTP plugin library for Java
+keywords: Azure, java, SDK, API, azure-core-http-jdk-httpclient, core
 author: alzimmermsft
 ms.author: alzimmermsft
 ms.date: 12/01/2021
@@ -11,36 +11,62 @@ ms.devlang: java
 ms.service: core
 ---
 
-# Azure Core Management client library for Java - Version 1.5.0-alpha.20211201.1 
+# Azure Core JDK HTTP plugin library for Java - Version 1.0.0-alpha.20211201.1 
 
 
-Azure Core Management library is a collection of classes common to the [Azure Resource Manager (ARM)][arm] client libraries.
+This is an azure-core HTTP client that makes use of the asynchronous HttpClient that was made generally available as 
+part of JDK 11. 
 
 ## Getting started
 
 ### Prerequisites
 
-- A [Java Development Kit (JDK)][jdk_link], version 8 or later.
+- A [Java Development Kit (JDK)][jdk_link], version 11 or later.
 
 ### Adding the package to your product
 
-[//]: # ({x-version-update-start;com.azure:azure-core-management;current})
+[//]: # ({x-version-update-start;com.azure:azure-core-http-jdk-httpclient;current})
 ```xml
 <dependency>
     <groupId>com.azure</groupId>
-    <artifactId>azure-core-management</artifactId>
-    <version>1.4.3</version>
+    <artifactId>azure-core-http-jdk-httpclient</artifactId>
+    <version>1.0.0-beta.1</version>
 </dependency>
 ```
 [//]: # ({x-version-update-end})
 
 ## Key concepts
 
-- `AzureEnvironment` for Azure cloud configure, and `AzureProfile` for additional tenant ID and subscription ID configure.
-- `ManagementException` and `ManagementError` for ARM error response.
-- `PollerFactory` and `PollResult` for ARM long-running operation.
-
 ## Examples
+
+The following sections provide several code snippets covering some of the most common client configuration scenarios.
+
+- [Create a Simple Client](#create-a-simple-client)
+- [Create a Client with Proxy](#create-a-client-with-proxy)
+
+### Create a Simple Client
+
+Create a HttpClient.
+
+```java readme-sample-createBasicClient
+HttpClient client = new JdkAsyncHttpClientBuilder().build();
+```
+
+Create a HttpClient using a connection timeout of 60 seconds.
+
+```java readme-sample-createClientWithConnectionTimeout
+HttpClient client = new JdkAsyncHttpClientBuilder().connectionTimeout(Duration.ofSeconds(60)).build();
+```
+
+### Create a Client with Proxy
+
+Create a HttpClient that is using a proxy.
+
+```java readme-sample-createProxyClient
+HttpClient client = new JdkAsyncHttpClientBuilder()
+    .proxy(new ProxyOptions(ProxyOptions.Type.HTTP, new InetSocketAddress("<proxy-host>", 8888)))
+    .build();
+```
 
 ## Next steps
 
@@ -57,7 +83,6 @@ Azure SDKs for Java provide a consistent logging story to help aid in troublesho
 their resolution. The logs produced will capture the flow of an application before reaching the terminal state to help
 locate the root issue. View the [logging][logging] wiki for guidance about enabling logging.
 
-
 ## Contributing
 
 For details on contributing to this repository, see the [contributing guide](https://github.com/Azure/azure-sdk-for-java/blob/main/CONTRIBUTING.md).
@@ -68,8 +93,9 @@ For details on contributing to this repository, see the [contributing guide](htt
 1. Push to the branch (`git push origin my-new-feature`)
 1. Create new Pull Request
 
-<!-- Links -->
-[arm]: https://docs.microsoft.com/azure/azure-resource-manager/management/
+<!-- links -->
 [logging]: https://github.com/Azure/azure-sdk-for-java/wiki/Logging-with-Azure-SDK
 [jdk_link]: https://docs.microsoft.com/java/azure/jdk/?view=azure-java-stable
+
+![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-java%2Fsdk%2Fcore%2Fazure-core-http-jdk-httpclient%2FREADME.png)
 
