@@ -1,7 +1,7 @@
 {
   "Name": "azure-resourcemanager-recoveryservicesbackup",
-  "Version": "1.0.0-beta.2",
-  "DevVersion": null,
+  "Version": "1.0.0-alpha.20211130.1",
+  "DevVersion": "1.0.0-alpha.20211130.1",
   "DirectoryPath": "sdk/recoveryservicesbackup/azure-resourcemanager-recoveryservicesbackup",
   "ServiceDirectory": "recoveryservicesbackup",
   "ReadMePath": "sdk/recoveryservicesbackup/azure-resourcemanager-recoveryservicesbackup/README.md",
@@ -10,5 +10,5 @@
   "SdkType": "mgmt",
   "IsNewSdk": true,
   "ArtifactName": "azure-resourcemanager-recoveryservicesbackup",
-  "ReleaseStatus": "2021-11-29"
+  "ReleaseStatus": "Unreleased"
 }
