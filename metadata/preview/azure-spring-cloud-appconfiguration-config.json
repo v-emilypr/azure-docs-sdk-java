@@ -1,0 +1,14 @@
+{
+  "Name": "azure-spring-cloud-appconfiguration-config",
+  "Version": "2.3.0-alpha.20211202.1",
+  "DevVersion": "2.3.0-alpha.20211202.1",
+  "DirectoryPath": "sdk/appconfiguration/azure-spring-cloud-appconfiguration-config",
+  "ServiceDirectory": "appconfiguration",
+  "ReadMePath": "sdk/appconfiguration/azure-spring-cloud-appconfiguration-config/README.md",
+  "ChangeLogPath": "sdk/appconfiguration/azure-spring-cloud-appconfiguration-config/CHANGELOG.md",
+  "Group": "com.azure.spring",
+  "SdkType": "spring",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-spring-cloud-appconfiguration-config",
+  "ReleaseStatus": "Unreleased"
+}
