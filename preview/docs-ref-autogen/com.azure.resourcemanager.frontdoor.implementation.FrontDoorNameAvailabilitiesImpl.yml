@@ -28,4 +28,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.frontdoor.models.FrontDoorNameAvailabilities?alt=com.azure.resourcemanager.frontdoor.models.FrontDoorNameAvailabilities&text=FrontDoorNameAvailabilities\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.frontdoor.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-frontdoor:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-frontdoor:1.0.0-alpha.20211201.1

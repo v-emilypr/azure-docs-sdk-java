@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.resourceId*"
+fullName: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.resourceId"
+name: "resourceId"
+nameWithType: "AppRoleAssignmentInner.resourceId"
+members:
+- uid: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.resourceId()"
+  fullName: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.resourceId()"
+  name: "resourceId()"
+  nameWithType: "AppRoleAssignmentInner.resourceId()"
+  summary: "Get the resourceId property: The unique identifier (objectId) for the target resource (service principal) for which the assignment was made."
+  syntax: "public String resourceId()"
+  returns:
+    description: "the resourceId value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

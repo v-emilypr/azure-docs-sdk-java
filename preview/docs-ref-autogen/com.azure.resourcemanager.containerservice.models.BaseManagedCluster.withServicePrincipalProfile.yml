@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withServicePrincipalProfile*"
+fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withServicePrincipalProfile"
+name: "withServicePrincipalProfile"
+nameWithType: "BaseManagedCluster.withServicePrincipalProfile"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withServicePrincipalProfile(com.azure.resourcemanager.containerservice.models.ManagedClusterServicePrincipalProfile)"
+  fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withServicePrincipalProfile(ManagedClusterServicePrincipalProfile servicePrincipalProfile)"
+  name: "withServicePrincipalProfile(ManagedClusterServicePrincipalProfile servicePrincipalProfile)"
+  nameWithType: "BaseManagedCluster.withServicePrincipalProfile(ManagedClusterServicePrincipalProfile servicePrincipalProfile)"
+  summary: "Set the servicePrincipalProfile property: Information about a service principal identity for the cluster to use for manipulating Azure APIs."
+  parameters:
+  - description: "the servicePrincipalProfile value to set."
+    name: "servicePrincipalProfile"
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.ManagedClusterServicePrincipalProfile?alt=com.azure.resourcemanager.containerservice.models.ManagedClusterServicePrincipalProfile&text=ManagedClusterServicePrincipalProfile\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public BaseManagedCluster withServicePrincipalProfile(ManagedClusterServicePrincipalProfile servicePrincipalProfile)"
+  returns:
+    description: "the BaseManagedCluster object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.BaseManagedCluster?alt=com.azure.resourcemanager.containerservice.models.BaseManagedCluster&text=BaseManagedCluster\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

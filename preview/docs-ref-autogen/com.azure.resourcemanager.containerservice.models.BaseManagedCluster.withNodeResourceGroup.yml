@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withNodeResourceGroup*"
+fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withNodeResourceGroup"
+name: "withNodeResourceGroup"
+nameWithType: "BaseManagedCluster.withNodeResourceGroup"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withNodeResourceGroup(java.lang.String)"
+  fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withNodeResourceGroup(String nodeResourceGroup)"
+  name: "withNodeResourceGroup(String nodeResourceGroup)"
+  nameWithType: "BaseManagedCluster.withNodeResourceGroup(String nodeResourceGroup)"
+  summary: "Set the nodeResourceGroup property: Name of the resource group containing agent pool nodes."
+  parameters:
+  - description: "the nodeResourceGroup value to set."
+    name: "nodeResourceGroup"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public BaseManagedCluster withNodeResourceGroup(String nodeResourceGroup)"
+  returns:
+    description: "the BaseManagedCluster object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.BaseManagedCluster?alt=com.azure.resourcemanager.containerservice.models.BaseManagedCluster&text=BaseManagedCluster\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

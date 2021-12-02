@@ -1,0 +1,32 @@
+### YamlMime:JavaType
+uid: "com.azure.security.attestation.implementation.models.PolicyResultImpl"
+fullName: "com.azure.security.attestation.implementation.models.PolicyResultImpl"
+name: "PolicyResultImpl"
+nameWithType: "PolicyResultImpl"
+summary: "The result of a policy certificate modification."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class PolicyResultImpl implements PolicyResult"
+methods:
+- "com.azure.security.attestation.implementation.models.PolicyResultImpl.fromGenerated(com.azure.security.attestation.implementation.models.PolicyResult)"
+- "com.azure.security.attestation.implementation.models.PolicyResultImpl.getPolicyResolution()"
+- "com.azure.security.attestation.implementation.models.PolicyResultImpl.getPolicySigner()"
+- "com.azure.security.attestation.implementation.models.PolicyResultImpl.getPolicyTokenHash()"
+type: "class"
+implements:
+- "<xref href=\"com.azure.security.attestation.models.PolicyResult?alt=com.azure.security.attestation.models.PolicyResult&text=PolicyResult\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211201.1

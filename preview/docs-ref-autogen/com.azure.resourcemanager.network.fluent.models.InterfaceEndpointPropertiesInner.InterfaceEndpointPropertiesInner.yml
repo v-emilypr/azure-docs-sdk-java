@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.InterfaceEndpointPropertiesInner*"
+fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.InterfaceEndpointPropertiesInner"
+name: "InterfaceEndpointPropertiesInner"
+nameWithType: "InterfaceEndpointPropertiesInner.InterfaceEndpointPropertiesInner"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.InterfaceEndpointPropertiesInner()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.InterfaceEndpointPropertiesInner()"
+  name: "InterfaceEndpointPropertiesInner()"
+  nameWithType: "InterfaceEndpointPropertiesInner.InterfaceEndpointPropertiesInner()"
+  syntax: "public InterfaceEndpointPropertiesInner()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

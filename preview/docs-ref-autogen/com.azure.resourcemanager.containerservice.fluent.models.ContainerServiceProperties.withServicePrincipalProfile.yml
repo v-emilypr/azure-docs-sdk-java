@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withServicePrincipalProfile*"
+fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withServicePrincipalProfile"
+name: "withServicePrincipalProfile"
+nameWithType: "ContainerServiceProperties.withServicePrincipalProfile"
+members:
+- uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withServicePrincipalProfile(com.azure.resourcemanager.containerservice.models.ContainerServicePrincipalProfile)"
+  fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withServicePrincipalProfile(ContainerServicePrincipalProfile servicePrincipalProfile)"
+  name: "withServicePrincipalProfile(ContainerServicePrincipalProfile servicePrincipalProfile)"
+  nameWithType: "ContainerServiceProperties.withServicePrincipalProfile(ContainerServicePrincipalProfile servicePrincipalProfile)"
+  summary: "Set the servicePrincipalProfile property: Information about a service principal identity for the cluster to use for manipulating Azure APIs. Exact one of secret or keyVaultSecretRef need to be specified."
+  parameters:
+  - description: "the servicePrincipalProfile value to set."
+    name: "servicePrincipalProfile"
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.ContainerServicePrincipalProfile?alt=com.azure.resourcemanager.containerservice.models.ContainerServicePrincipalProfile&text=ContainerServicePrincipalProfile\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ContainerServiceProperties withServicePrincipalProfile(ContainerServicePrincipalProfile servicePrincipalProfile)"
+  returns:
+    description: "the ContainerServiceProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties?alt=com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties&text=ContainerServiceProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

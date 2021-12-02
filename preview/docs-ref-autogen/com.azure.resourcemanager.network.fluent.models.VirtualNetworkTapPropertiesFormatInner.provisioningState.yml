@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkTapPropertiesFormatInner.provisioningState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkTapPropertiesFormatInner.provisioningState"
+name: "provisioningState"
+nameWithType: "VirtualNetworkTapPropertiesFormatInner.provisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkTapPropertiesFormatInner.provisioningState()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkTapPropertiesFormatInner.provisioningState()"
+  name: "provisioningState()"
+  nameWithType: "VirtualNetworkTapPropertiesFormatInner.provisioningState()"
+  summary: "Get the provisioningState property: The provisioning state of the virtual network tap. Possible values are: 'Updating', 'Deleting', and 'Failed'."
+  syntax: "public String provisioningState()"
+  returns:
+    description: "the provisioningState value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

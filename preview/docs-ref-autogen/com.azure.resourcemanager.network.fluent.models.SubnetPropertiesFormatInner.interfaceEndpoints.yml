@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.interfaceEndpoints*"
+fullName: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.interfaceEndpoints"
+name: "interfaceEndpoints"
+nameWithType: "SubnetPropertiesFormatInner.interfaceEndpoints"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.interfaceEndpoints()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.interfaceEndpoints()"
+  name: "interfaceEndpoints()"
+  nameWithType: "SubnetPropertiesFormatInner.interfaceEndpoints()"
+  summary: "Get the interfaceEndpoints property: An array of references to interface endpoints."
+  syntax: "public List<InterfaceEndpointInner> interfaceEndpoints()"
+  returns:
+    description: "the interfaceEndpoints value."
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner?alt=com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner&text=InterfaceEndpointInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

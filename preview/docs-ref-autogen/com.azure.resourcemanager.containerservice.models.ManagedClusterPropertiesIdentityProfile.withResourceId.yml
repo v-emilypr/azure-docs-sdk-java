@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.ManagedClusterPropertiesIdentityProfile.withResourceId*"
+fullName: "com.azure.resourcemanager.containerservice.models.ManagedClusterPropertiesIdentityProfile.withResourceId"
+name: "withResourceId"
+nameWithType: "ManagedClusterPropertiesIdentityProfile.withResourceId"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.ManagedClusterPropertiesIdentityProfile.withResourceId(java.lang.String)"
+  fullName: "com.azure.resourcemanager.containerservice.models.ManagedClusterPropertiesIdentityProfile.withResourceId(String resourceId)"
+  name: "withResourceId(String resourceId)"
+  nameWithType: "ManagedClusterPropertiesIdentityProfile.withResourceId(String resourceId)"
+  summary: "Set the resourceId property: The resource id of the user assigned identity."
+  overridden: "com.azure.resourcemanager.containerservice.models.UserAssignedIdentity.withResourceId(java.lang.String)"
+  parameters:
+  - name: "resourceId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ManagedClusterPropertiesIdentityProfile withResourceId(String resourceId)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.ManagedClusterPropertiesIdentityProfile?alt=com.azure.resourcemanager.containerservice.models.ManagedClusterPropertiesIdentityProfile&text=ManagedClusterPropertiesIdentityProfile\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

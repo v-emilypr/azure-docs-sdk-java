@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.GeoDistribution.withLocation*"
+fullName: "com.azure.resourcemanager.appservice.models.GeoDistribution.withLocation"
+name: "withLocation"
+nameWithType: "GeoDistribution.withLocation"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.GeoDistribution.withLocation(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.models.GeoDistribution.withLocation(String location)"
+  name: "withLocation(String location)"
+  nameWithType: "GeoDistribution.withLocation(String location)"
+  summary: "Set the location property: Location."
+  parameters:
+  - description: "the location value to set."
+    name: "location"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public GeoDistribution withLocation(String location)"
+  returns:
+    description: "the GeoDistribution object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.models.GeoDistribution?alt=com.azure.resourcemanager.appservice.models.GeoDistribution&text=GeoDistribution\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties.withBytesToCapturePerPacket*"
+fullName: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties.withBytesToCapturePerPacket"
+name: "withBytesToCapturePerPacket"
+nameWithType: "PacketCaptureResultProperties.withBytesToCapturePerPacket"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties.withBytesToCapturePerPacket(java.lang.Integer)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties.withBytesToCapturePerPacket(Integer bytesToCapturePerPacket)"
+  name: "withBytesToCapturePerPacket(Integer bytesToCapturePerPacket)"
+  nameWithType: "PacketCaptureResultProperties.withBytesToCapturePerPacket(Integer bytesToCapturePerPacket)"
+  summary: "Set the bytesToCapturePerPacket property: Number of bytes captured per packet, the remaining bytes are truncated."
+  overridden: "com.azure.resourcemanager.network.fluent.models.PacketCaptureParameters.withBytesToCapturePerPacket(java.lang.Integer)"
+  parameters:
+  - name: "bytesToCapturePerPacket"
+    type: "<xref href=\"java.lang.Integer?alt=java.lang.Integer&text=Integer\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PacketCaptureResultProperties withBytesToCapturePerPacket(Integer bytesToCapturePerPacket)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties?alt=com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties&text=PacketCaptureResultProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

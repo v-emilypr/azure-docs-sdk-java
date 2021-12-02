@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.enableRbac*"
+fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.enableRbac"
+name: "enableRbac"
+nameWithType: "BaseManagedCluster.enableRbac"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.enableRbac()"
+  fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.enableRbac()"
+  name: "enableRbac()"
+  nameWithType: "BaseManagedCluster.enableRbac()"
+  summary: "Get the enableRbac property: Whether to enable Kubernetes Role-Based Access Control."
+  syntax: "public Boolean enableRbac()"
+  returns:
+    description: "the enableRbac value."
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

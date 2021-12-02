@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.PublicIpAddressPropertiesFormatInner.withResourceGuid*"
+fullName: "com.azure.resourcemanager.network.fluent.models.PublicIpAddressPropertiesFormatInner.withResourceGuid"
+name: "withResourceGuid"
+nameWithType: "PublicIpAddressPropertiesFormatInner.withResourceGuid"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.PublicIpAddressPropertiesFormatInner.withResourceGuid(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.PublicIpAddressPropertiesFormatInner.withResourceGuid(String resourceGuid)"
+  name: "withResourceGuid(String resourceGuid)"
+  nameWithType: "PublicIpAddressPropertiesFormatInner.withResourceGuid(String resourceGuid)"
+  summary: "Set the resourceGuid property: The resource GUID property of the public IP resource."
+  parameters:
+  - description: "the resourceGuid value to set."
+    name: "resourceGuid"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PublicIpAddressPropertiesFormatInner withResourceGuid(String resourceGuid)"
+  returns:
+    description: "the PublicIpAddressPropertiesFormatInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.PublicIpAddressPropertiesFormatInner?alt=com.azure.resourcemanager.network.fluent.models.PublicIpAddressPropertiesFormatInner&text=PublicIpAddressPropertiesFormatInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

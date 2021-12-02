@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.ProcessThreadInfoInner.withPriviledgedProcessorTime*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.ProcessThreadInfoInner.withPriviledgedProcessorTime"
+name: "withPriviledgedProcessorTime"
+nameWithType: "ProcessThreadInfoInner.withPriviledgedProcessorTime"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.ProcessThreadInfoInner.withPriviledgedProcessorTime(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.ProcessThreadInfoInner.withPriviledgedProcessorTime(String priviledgedProcessorTime)"
+  name: "withPriviledgedProcessorTime(String priviledgedProcessorTime)"
+  nameWithType: "ProcessThreadInfoInner.withPriviledgedProcessorTime(String priviledgedProcessorTime)"
+  summary: "Set the priviledgedProcessorTime property: Privileged processor time."
+  parameters:
+  - description: "the priviledgedProcessorTime value to set."
+    name: "priviledgedProcessorTime"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ProcessThreadInfoInner withPriviledgedProcessorTime(String priviledgedProcessorTime)"
+  returns:
+    description: "the ProcessThreadInfoInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.ProcessThreadInfoInner?alt=com.azure.resourcemanager.appservice.fluent.models.ProcessThreadInfoInner&text=ProcessThreadInfoInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

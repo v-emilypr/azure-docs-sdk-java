@@ -1,0 +1,45 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.listChildCollectionNamesNextSinglePageAsync*"
+fullName: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.listChildCollectionNamesNextSinglePageAsync"
+name: "listChildCollectionNamesNextSinglePageAsync"
+nameWithType: "CollectionsImpl.listChildCollectionNamesNextSinglePageAsync"
+members:
+- uid: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.listChildCollectionNamesNextSinglePageAsync(java.lang.String,com.azure.core.http.rest.RequestOptions)"
+  fullName: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.listChildCollectionNamesNextSinglePageAsync(String nextLink, RequestOptions requestOptions)"
+  name: "listChildCollectionNamesNextSinglePageAsync(String nextLink, RequestOptions requestOptions)"
+  nameWithType: "CollectionsImpl.listChildCollectionNamesNextSinglePageAsync(String nextLink, RequestOptions requestOptions)"
+  summary: "Get the next page of items.\n\n**Response Body Schema**\n\n```java\n{\n     count: Long\n     nextLink: String\n     value: [\n         {\n             friendlyName: String\n             name: String\n         }\n     ]\n }\n```"
+  parameters:
+  - description: "The nextLink parameter."
+    name: "nextLink"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The options to configure the HTTP request before HTTP client sends it."
+    name: "requestOptions"
+    type: "<xref href=\"com.azure.core.http.rest.RequestOptions?alt=com.azure.core.http.rest.RequestOptions&text=RequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<PagedResponse<BinaryData>> listChildCollectionNamesNextSinglePageAsync(String nextLink, RequestOptions requestOptions)"
+  returns:
+    description: "paged list of collections."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.PagedResponse?alt=com.azure.core.http.rest.PagedResponse&text=PagedResponse\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.util.BinaryData?alt=com.azure.core.util.BinaryData&text=BinaryData\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+- uid: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.listChildCollectionNamesNextSinglePageAsync(java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
+  fullName: "com.azure.analytics.purview.administration.implementation.CollectionsImpl.listChildCollectionNamesNextSinglePageAsync(String nextLink, RequestOptions requestOptions, Context context)"
+  name: "listChildCollectionNamesNextSinglePageAsync(String nextLink, RequestOptions requestOptions, Context context)"
+  nameWithType: "CollectionsImpl.listChildCollectionNamesNextSinglePageAsync(String nextLink, RequestOptions requestOptions, Context context)"
+  summary: "Get the next page of items.\n\n**Response Body Schema**\n\n```java\n{\n     count: Long\n     nextLink: String\n     value: [\n         {\n             friendlyName: String\n             name: String\n         }\n     ]\n }\n```"
+  parameters:
+  - description: "The nextLink parameter."
+    name: "nextLink"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The options to configure the HTTP request before HTTP client sends it."
+    name: "requestOptions"
+    type: "<xref href=\"com.azure.core.http.rest.RequestOptions?alt=com.azure.core.http.rest.RequestOptions&text=RequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The context to associate with this operation."
+    name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<PagedResponse<BinaryData>> listChildCollectionNamesNextSinglePageAsync(String nextLink, RequestOptions requestOptions, Context context)"
+  returns:
+    description: "paged list of collections."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.PagedResponse?alt=com.azure.core.http.rest.PagedResponse&text=PagedResponse\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.util.BinaryData?alt=com.azure.core.util.BinaryData&text=BinaryData\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration.implementation"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211201.1

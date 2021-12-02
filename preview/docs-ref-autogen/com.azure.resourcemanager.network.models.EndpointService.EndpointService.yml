@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.models.EndpointService.EndpointService*"
+fullName: "com.azure.resourcemanager.network.models.EndpointService.EndpointService"
+name: "EndpointService"
+nameWithType: "EndpointService.EndpointService"
+members:
+- uid: "com.azure.resourcemanager.network.models.EndpointService.EndpointService()"
+  fullName: "com.azure.resourcemanager.network.models.EndpointService.EndpointService()"
+  name: "EndpointService()"
+  nameWithType: "EndpointService.EndpointService()"
+  syntax: "public EndpointService()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.network.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

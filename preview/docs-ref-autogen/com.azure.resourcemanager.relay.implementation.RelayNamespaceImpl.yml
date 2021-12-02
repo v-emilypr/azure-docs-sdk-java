@@ -52,4 +52,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.relay.models.RelayNamespace?alt=com.azure.resourcemanager.relay.models.RelayNamespace&text=RelayNamespace\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.relay.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-relay:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-relay:1.0.0-alpha.20211130.1

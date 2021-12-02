@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkPeeringPropertiesFormat.withProvisioningState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkPeeringPropertiesFormat.withProvisioningState"
+name: "withProvisioningState"
+nameWithType: "VirtualNetworkPeeringPropertiesFormat.withProvisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkPeeringPropertiesFormat.withProvisioningState(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.VirtualNetworkPeeringPropertiesFormat.withProvisioningState(String provisioningState)"
+  name: "withProvisioningState(String provisioningState)"
+  nameWithType: "VirtualNetworkPeeringPropertiesFormat.withProvisioningState(String provisioningState)"
+  summary: "Set the provisioningState property: The provisioning state of the resource."
+  parameters:
+  - description: "the provisioningState value to set."
+    name: "provisioningState"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public VirtualNetworkPeeringPropertiesFormat withProvisioningState(String provisioningState)"
+  returns:
+    description: "the VirtualNetworkPeeringPropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.VirtualNetworkPeeringPropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.VirtualNetworkPeeringPropertiesFormat&text=VirtualNetworkPeeringPropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

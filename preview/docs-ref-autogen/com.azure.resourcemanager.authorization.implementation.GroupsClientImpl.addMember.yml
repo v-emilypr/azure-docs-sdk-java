@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.implementation.GroupsClientImpl.addMember*"
+fullName: "com.azure.resourcemanager.authorization.implementation.GroupsClientImpl.addMember"
+name: "addMember"
+nameWithType: "GroupsClientImpl.addMember"
+members:
+- uid: "com.azure.resourcemanager.authorization.implementation.GroupsClientImpl.addMember(java.lang.String,java.lang.String,com.azure.resourcemanager.authorization.models.GroupAddMemberParameters)"
+  fullName: "com.azure.resourcemanager.authorization.implementation.GroupsClientImpl.addMember(String groupObjectId, String tenantId, GroupAddMemberParameters parameters)"
+  name: "addMember(String groupObjectId, String tenantId, GroupAddMemberParameters parameters)"
+  nameWithType: "GroupsClientImpl.addMember(String groupObjectId, String tenantId, GroupAddMemberParameters parameters)"
+  summary: "Add a member to a group."
+  parameters:
+  - description: "The object ID of the group to which to add the member."
+    name: "groupObjectId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The URL of the member object, such as\n     https://graph.windows.net/0b1f9851-1bf0-433f-aec3-cb9272f093dc/directoryObjects/f260bbc4-c254-447b-94cf-293b5ec434dd."
+    name: "parameters"
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.GroupAddMemberParameters?alt=com.azure.resourcemanager.authorization.models.GroupAddMemberParameters&text=GroupAddMemberParameters\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void addMember(String groupObjectId, String tenantId, GroupAddMemberParameters parameters)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

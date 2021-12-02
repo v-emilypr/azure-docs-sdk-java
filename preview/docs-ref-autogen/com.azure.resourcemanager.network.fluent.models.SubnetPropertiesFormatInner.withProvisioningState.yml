@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.withProvisioningState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.withProvisioningState"
+name: "withProvisioningState"
+nameWithType: "SubnetPropertiesFormatInner.withProvisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.withProvisioningState(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner.withProvisioningState(String provisioningState)"
+  name: "withProvisioningState(String provisioningState)"
+  nameWithType: "SubnetPropertiesFormatInner.withProvisioningState(String provisioningState)"
+  summary: "Set the provisioningState property: The provisioning state of the resource."
+  parameters:
+  - description: "the provisioningState value to set."
+    name: "provisioningState"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SubnetPropertiesFormatInner withProvisioningState(String provisioningState)"
+  returns:
+    description: "the SubnetPropertiesFormatInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner?alt=com.azure.resourcemanager.network.fluent.models.SubnetPropertiesFormatInner&text=SubnetPropertiesFormatInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

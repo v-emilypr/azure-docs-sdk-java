@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.minimum*"
+fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.minimum"
+name: "minimum"
+nameWithType: "ResourceMetricValue.minimum"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.minimum()"
+  fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.minimum()"
+  name: "minimum()"
+  nameWithType: "ResourceMetricValue.minimum()"
+  summary: "Get the minimum property: Value minimum."
+  syntax: "public Float minimum()"
+  returns:
+    description: "the minimum value."
+    type: "<xref href=\"java.lang.Float?alt=java.lang.Float&text=Float\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

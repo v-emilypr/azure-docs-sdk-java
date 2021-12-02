@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.ResourceMetricInner*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.ResourceMetricInner"
+name: "ResourceMetricInner"
+nameWithType: "ResourceMetricInner.ResourceMetricInner"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.ResourceMetricInner()"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.ResourceMetricInner()"
+  name: "ResourceMetricInner()"
+  nameWithType: "ResourceMetricInner.ResourceMetricInner()"
+  syntax: "public ResourceMetricInner()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

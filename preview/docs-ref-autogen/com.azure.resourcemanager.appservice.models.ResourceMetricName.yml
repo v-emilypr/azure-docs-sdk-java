@@ -1,0 +1,31 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.models.ResourceMetricName"
+fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricName"
+name: "ResourceMetricName"
+nameWithType: "ResourceMetricName"
+summary: "Name of a metric for any resource ."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ResourceMetricName"
+constructors:
+- "com.azure.resourcemanager.appservice.models.ResourceMetricName.ResourceMetricName()"
+methods:
+- "com.azure.resourcemanager.appservice.models.ResourceMetricName.localizedValue()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricName.validate()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricName.value()"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

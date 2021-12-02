@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.withValue*"
+fullName: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.withValue"
+name: "withValue"
+nameWithType: "ListP2SVpnServerConfigurationsResult.withValue"
+members:
+- uid: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.withValue(java.util.List<com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationInner>)"
+  fullName: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.withValue(List<P2SVpnServerConfigurationInner> value)"
+  name: "withValue(List<P2SVpnServerConfigurationInner> value)"
+  nameWithType: "ListP2SVpnServerConfigurationsResult.withValue(List<P2SVpnServerConfigurationInner> value)"
+  summary: "Set the value property: List of P2SVpnServerConfigurations."
+  parameters:
+  - description: "the value value to set."
+    name: "value"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationInner?alt=com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationInner&text=P2SVpnServerConfigurationInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public ListP2SVpnServerConfigurationsResult withValue(List<P2SVpnServerConfigurationInner> value)"
+  returns:
+    description: "the ListP2SVpnServerConfigurationsResult object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult?alt=com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult&text=ListP2SVpnServerConfigurationsResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

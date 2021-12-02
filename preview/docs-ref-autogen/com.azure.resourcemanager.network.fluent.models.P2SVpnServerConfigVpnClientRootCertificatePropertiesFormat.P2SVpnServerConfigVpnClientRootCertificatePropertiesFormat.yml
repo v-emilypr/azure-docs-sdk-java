@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat*"
+fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat"
+name: "P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat"
+nameWithType: "P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat()"
+  name: "P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat()"
+  nameWithType: "P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat()"
+  syntax: "public P2SVpnServerConfigVpnClientRootCertificatePropertiesFormat()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

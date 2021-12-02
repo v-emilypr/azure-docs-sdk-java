@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.network.samples.ManageNetworkPeeringInSameSubscription"
+fullName: "com.azure.resourcemanager.network.samples.ManageNetworkPeeringInSameSubscription"
+name: "ManageNetworkPeeringInSameSubscription"
+nameWithType: "ManageNetworkPeeringInSameSubscription"
+summary: "Azure Network sample for enabling and updating network peering between two virtual networks\n\nSummary ...\n\n\\- This sample creates two virtual networks in the same subscription and then peers them, modifying various options on the peering.\n\nDetails ...\n\n1. Create two virtual networks, network \"A\" and network \"B\"... - network A with two subnets - network B with one subnet - the networks' address spaces must not overlap - the networks must be in the same region\n\n2. Peer the networks... - the peering will initially have default settings: - each network's IP address spaces will be accessible from the other network - no traffic forwarding will be enabled between the networks - no gateway transit between one network and the other will be enabled\n\n3. Update the peering... - disable IP address space between the networks - enable traffic forwarding from network A to network B\n\n4. Delete the peering - the removal of the peering takes place on both networks, as long as they are in the same subscription\n\nNotes: - Once a peering is created, it cannot be pointed at another remote network later. - The address spaces of the peered networks cannot be changed as long as the networks are peered. - Gateway transit scenarios as well as peering networks in different subscriptions are possible but beyond the scope of this sample. - Network peering in reality results in pairs of peering objects: one pointing from one network to the other, and the other peering object pointing the other way. For simplicity though, the SDK provides a unified way to manage the peering as a whole, in a single command flow, without the need to duplicate commands for both sides of the peering, while enforcing the required restrictions between the two peerings automatically, as this sample shows. But it is also possible to modify each peering separately, which becomes required when working with networks in different subscriptions."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageNetworkPeeringInSameSubscription"
+methods:
+- "com.azure.resourcemanager.network.samples.ManageNetworkPeeringInSameSubscription.main(java.lang.String[])"
+- "com.azure.resourcemanager.network.samples.ManageNetworkPeeringInSameSubscription.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.network.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

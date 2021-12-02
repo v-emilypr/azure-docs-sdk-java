@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getResponseTypesSupported*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getResponseTypesSupported"
+name: "getResponseTypesSupported"
+nameWithType: "AttestationOpenIdMetadataImpl.getResponseTypesSupported"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getResponseTypesSupported()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationOpenIdMetadataImpl.getResponseTypesSupported()"
+  name: "getResponseTypesSupported()"
+  nameWithType: "AttestationOpenIdMetadataImpl.getResponseTypesSupported()"
+  summary: "Returns the response types which are supported by the attestation service. Contains the \"response\\_types\\_supported\" metadata value from the OpenId Metadata. See [OpenId Provider Metadata][] for more information.\n\n\n[OpenId Provider Metadata]: https://openid.net/specs/openid-connect-discovery-1_0.html#ProviderMetadata"
+  syntax: "public String[] getResponseTypesSupported()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />[]"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211201.1

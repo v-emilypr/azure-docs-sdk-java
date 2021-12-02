@@ -8,4 +8,4 @@ classes:
 - "com.azure.resourcemanager.purview.PurviewManager.Configurable"
 metadata: {}
 package: "com.azure.resourcemanager.purview"
-artifact: com.azure.resourcemanager:azure-resourcemanager-purview:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-purview:1.0.0-alpha.20211201.1

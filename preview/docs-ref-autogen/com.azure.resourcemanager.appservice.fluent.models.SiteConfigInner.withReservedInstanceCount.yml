@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.SiteConfigInner.withReservedInstanceCount*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.SiteConfigInner.withReservedInstanceCount"
+name: "withReservedInstanceCount"
+nameWithType: "SiteConfigInner.withReservedInstanceCount"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.SiteConfigInner.withReservedInstanceCount(java.lang.Integer)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.SiteConfigInner.withReservedInstanceCount(Integer reservedInstanceCount)"
+  name: "withReservedInstanceCount(Integer reservedInstanceCount)"
+  nameWithType: "SiteConfigInner.withReservedInstanceCount(Integer reservedInstanceCount)"
+  summary: "Set the reservedInstanceCount property: Number of reserved instances. This setting only applies to the Consumption Plan."
+  parameters:
+  - description: "the reservedInstanceCount value to set."
+    name: "reservedInstanceCount"
+    type: "<xref href=\"java.lang.Integer?alt=java.lang.Integer&text=Integer\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SiteConfigInner withReservedInstanceCount(Integer reservedInstanceCount)"
+  returns:
+    description: "the SiteConfigInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.SiteConfigInner?alt=com.azure.resourcemanager.appservice.fluent.models.SiteConfigInner&text=SiteConfigInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

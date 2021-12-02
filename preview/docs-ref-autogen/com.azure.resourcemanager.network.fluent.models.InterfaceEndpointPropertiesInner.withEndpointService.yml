@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.withEndpointService*"
+fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.withEndpointService"
+name: "withEndpointService"
+nameWithType: "InterfaceEndpointPropertiesInner.withEndpointService"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.withEndpointService(com.azure.resourcemanager.network.models.EndpointService)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.withEndpointService(EndpointService endpointService)"
+  name: "withEndpointService(EndpointService endpointService)"
+  nameWithType: "InterfaceEndpointPropertiesInner.withEndpointService(EndpointService endpointService)"
+  summary: "Set the endpointService property: A reference to the service being brought into the virtual network."
+  parameters:
+  - description: "the endpointService value to set."
+    name: "endpointService"
+    type: "<xref href=\"com.azure.resourcemanager.network.models.EndpointService?alt=com.azure.resourcemanager.network.models.EndpointService&text=EndpointService\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public InterfaceEndpointPropertiesInner withEndpointService(EndpointService endpointService)"
+  returns:
+    description: "the InterfaceEndpointPropertiesInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner?alt=com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner&text=InterfaceEndpointPropertiesInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

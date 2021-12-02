@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.compute.models.InGuestPatchMode.InGuestPatchMode*"
+fullName: "com.azure.resourcemanager.compute.models.InGuestPatchMode.InGuestPatchMode"
+name: "InGuestPatchMode"
+nameWithType: "InGuestPatchMode.InGuestPatchMode"
+members:
+- uid: "com.azure.resourcemanager.compute.models.InGuestPatchMode.InGuestPatchMode()"
+  fullName: "com.azure.resourcemanager.compute.models.InGuestPatchMode.InGuestPatchMode()"
+  name: "InGuestPatchMode()"
+  nameWithType: "InGuestPatchMode.InGuestPatchMode()"
+  syntax: "public InGuestPatchMode()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.compute.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-compute:1.0.0-hybridbeta.1

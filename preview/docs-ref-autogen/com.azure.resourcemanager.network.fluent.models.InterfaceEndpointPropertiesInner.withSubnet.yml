@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.withSubnet*"
+fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.withSubnet"
+name: "withSubnet"
+nameWithType: "InterfaceEndpointPropertiesInner.withSubnet"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.withSubnet(com.azure.resourcemanager.network.fluent.models.SubnetInner)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.withSubnet(SubnetInner subnet)"
+  name: "withSubnet(SubnetInner subnet)"
+  nameWithType: "InterfaceEndpointPropertiesInner.withSubnet(SubnetInner subnet)"
+  summary: "Set the subnet property: The ID of the subnet from which the private IP will be allocated."
+  parameters:
+  - description: "the subnet value to set."
+    name: "subnet"
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.SubnetInner?alt=com.azure.resourcemanager.network.fluent.models.SubnetInner&text=SubnetInner\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public InterfaceEndpointPropertiesInner withSubnet(SubnetInner subnet)"
+  returns:
+    description: "the InterfaceEndpointPropertiesInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner?alt=com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner&text=InterfaceEndpointPropertiesInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withCustomProfile*"
+fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withCustomProfile"
+name: "withCustomProfile"
+nameWithType: "ContainerServiceProperties.withCustomProfile"
+members:
+- uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withCustomProfile(com.azure.resourcemanager.containerservice.models.ContainerServiceCustomProfile)"
+  fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withCustomProfile(ContainerServiceCustomProfile customProfile)"
+  name: "withCustomProfile(ContainerServiceCustomProfile customProfile)"
+  nameWithType: "ContainerServiceProperties.withCustomProfile(ContainerServiceCustomProfile customProfile)"
+  summary: "Set the customProfile property: Properties to configure a custom container service cluster."
+  parameters:
+  - description: "the customProfile value to set."
+    name: "customProfile"
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.ContainerServiceCustomProfile?alt=com.azure.resourcemanager.containerservice.models.ContainerServiceCustomProfile&text=ContainerServiceCustomProfile\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ContainerServiceProperties withCustomProfile(ContainerServiceCustomProfile customProfile)"
+  returns:
+    description: "the ContainerServiceProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties?alt=com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties&text=ContainerServiceProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

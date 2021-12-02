@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.VnetInfoProperties.VnetInfoProperties*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.VnetInfoProperties.VnetInfoProperties"
+name: "VnetInfoProperties"
+nameWithType: "VnetInfoProperties.VnetInfoProperties"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.VnetInfoProperties.VnetInfoProperties()"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.VnetInfoProperties.VnetInfoProperties()"
+  name: "VnetInfoProperties()"
+  nameWithType: "VnetInfoProperties.VnetInfoProperties()"
+  syntax: "public VnetInfoProperties()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

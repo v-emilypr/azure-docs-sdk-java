@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.principalType*"
+fullName: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.principalType"
+name: "principalType"
+nameWithType: "AppRoleAssignmentInner.principalType"
+members:
+- uid: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.principalType()"
+  fullName: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.principalType()"
+  name: "principalType()"
+  nameWithType: "AppRoleAssignmentInner.principalType()"
+  summary: "Get the principalType property: The type of principal. This can either be \"User\", \"Group\" or \"ServicePrincipal\"."
+  syntax: "public String principalType()"
+  returns:
+    description: "the principalType value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

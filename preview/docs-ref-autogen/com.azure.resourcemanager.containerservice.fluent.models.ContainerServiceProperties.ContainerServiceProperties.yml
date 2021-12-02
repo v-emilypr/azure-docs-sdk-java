@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.ContainerServiceProperties*"
+fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.ContainerServiceProperties"
+name: "ContainerServiceProperties"
+nameWithType: "ContainerServiceProperties.ContainerServiceProperties"
+members:
+- uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.ContainerServiceProperties()"
+  fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.ContainerServiceProperties()"
+  name: "ContainerServiceProperties()"
+  nameWithType: "ContainerServiceProperties.ContainerServiceProperties()"
+  syntax: "public ContainerServiceProperties()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

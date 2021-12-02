@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.getSshPrivateKey*"
+fullName: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.getSshPrivateKey"
+name: "getSshPrivateKey"
+nameWithType: "SSHShell.SshPublicPrivateKey.getSshPrivateKey"
+members:
+- uid: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.getSshPrivateKey()"
+  fullName: "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey.getSshPrivateKey()"
+  name: "getSshPrivateKey()"
+  nameWithType: "SSHShell.SshPublicPrivateKey.getSshPrivateKey()"
+  summary: "Get SSH private key."
+  syntax: "public String getSshPrivateKey()"
+  returns:
+    description: "private key"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

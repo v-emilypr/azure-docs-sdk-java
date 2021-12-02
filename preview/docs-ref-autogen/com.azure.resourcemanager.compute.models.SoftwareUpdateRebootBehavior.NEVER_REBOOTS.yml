@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.compute.models.SoftwareUpdateRebootBehavior.NEVER_REBOOTS*"
+fullName: "com.azure.resourcemanager.compute.models.SoftwareUpdateRebootBehavior.NEVER_REBOOTS"
+name: "NEVER_REBOOTS"
+nameWithType: "SoftwareUpdateRebootBehavior.NEVER_REBOOTS"
+members:
+- uid: "com.azure.resourcemanager.compute.models.SoftwareUpdateRebootBehavior.NEVER_REBOOTS"
+  fullName: "com.azure.resourcemanager.compute.models.SoftwareUpdateRebootBehavior.NEVER_REBOOTS"
+  name: "NEVER_REBOOTS"
+  nameWithType: "SoftwareUpdateRebootBehavior.NEVER_REBOOTS"
+  summary: "Static value NeverReboots for SoftwareUpdateRebootBehavior."
+  syntax: "public static final SoftwareUpdateRebootBehavior NEVER_REBOOTS"
+type: "field"
+metadata: {}
+package: "com.azure.resourcemanager.compute.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-compute:1.0.0-hybridbeta.1

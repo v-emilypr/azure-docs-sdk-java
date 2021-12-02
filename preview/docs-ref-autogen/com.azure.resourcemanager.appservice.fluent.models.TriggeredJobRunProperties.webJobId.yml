@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.webJobId*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.webJobId"
+name: "webJobId"
+nameWithType: "TriggeredJobRunProperties.webJobId"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.webJobId()"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.webJobId()"
+  name: "webJobId()"
+  nameWithType: "TriggeredJobRunProperties.webJobId()"
+  summary: "Get the webJobId property: Job ID."
+  syntax: "public String webJobId()"
+  returns:
+    description: "the webJobId value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

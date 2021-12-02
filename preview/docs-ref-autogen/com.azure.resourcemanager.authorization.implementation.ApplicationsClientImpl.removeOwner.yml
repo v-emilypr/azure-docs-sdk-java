@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.implementation.ApplicationsClientImpl.removeOwner*"
+fullName: "com.azure.resourcemanager.authorization.implementation.ApplicationsClientImpl.removeOwner"
+name: "removeOwner"
+nameWithType: "ApplicationsClientImpl.removeOwner"
+members:
+- uid: "com.azure.resourcemanager.authorization.implementation.ApplicationsClientImpl.removeOwner(java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.implementation.ApplicationsClientImpl.removeOwner(String applicationObjectId, String ownerObjectId, String tenantId)"
+  name: "removeOwner(String applicationObjectId, String ownerObjectId, String tenantId)"
+  nameWithType: "ApplicationsClientImpl.removeOwner(String applicationObjectId, String ownerObjectId, String tenantId)"
+  summary: "Remove a member from owners."
+  parameters:
+  - description: "The object ID of the application from which to remove the owner."
+    name: "applicationObjectId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Owner object id."
+    name: "ownerObjectId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void removeOwner(String applicationObjectId, String ownerObjectId, String tenantId)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

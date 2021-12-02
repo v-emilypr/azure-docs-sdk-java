@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat*"
+fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat"
+name: "P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat"
+nameWithType: "P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat()"
+  name: "P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat()"
+  nameWithType: "P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat()"
+  syntax: "public P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

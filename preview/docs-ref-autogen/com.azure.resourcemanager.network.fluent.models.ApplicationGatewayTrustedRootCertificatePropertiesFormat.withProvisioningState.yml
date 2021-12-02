@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayTrustedRootCertificatePropertiesFormat.withProvisioningState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayTrustedRootCertificatePropertiesFormat.withProvisioningState"
+name: "withProvisioningState"
+nameWithType: "ApplicationGatewayTrustedRootCertificatePropertiesFormat.withProvisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayTrustedRootCertificatePropertiesFormat.withProvisioningState(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayTrustedRootCertificatePropertiesFormat.withProvisioningState(String provisioningState)"
+  name: "withProvisioningState(String provisioningState)"
+  nameWithType: "ApplicationGatewayTrustedRootCertificatePropertiesFormat.withProvisioningState(String provisioningState)"
+  summary: "Set the provisioningState property: Provisioning state of the trusted root certificate resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
+  parameters:
+  - description: "the provisioningState value to set."
+    name: "provisioningState"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationGatewayTrustedRootCertificatePropertiesFormat withProvisioningState(String provisioningState)"
+  returns:
+    description: "the ApplicationGatewayTrustedRootCertificatePropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ApplicationGatewayTrustedRootCertificatePropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.ApplicationGatewayTrustedRootCertificatePropertiesFormat&text=ApplicationGatewayTrustedRootCertificatePropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

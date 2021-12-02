@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.models.AttestationSigningKey.getAllowWeakKey*"
+fullName: "com.azure.security.attestation.models.AttestationSigningKey.getAllowWeakKey"
+name: "getAllowWeakKey"
+nameWithType: "AttestationSigningKey.getAllowWeakKey"
+members:
+- uid: "com.azure.security.attestation.models.AttestationSigningKey.getAllowWeakKey()"
+  fullName: "com.azure.security.attestation.models.AttestationSigningKey.getAllowWeakKey()"
+  name: "getAllowWeakKey()"
+  nameWithType: "AttestationSigningKey.getAllowWeakKey()"
+  syntax: "public boolean getAllowWeakKey()"
+  returns:
+    description: "Returns if a weak key is allowed on this signing key."
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211201.1

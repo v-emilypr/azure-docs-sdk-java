@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.storage*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.storage"
+name: "storage"
+nameWithType: "ServerImpl.storage"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.storage()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.storage()"
+  name: "storage()"
+  nameWithType: "ServerImpl.storage()"
+  summary: "Gets the storage property: Storage related properties of a server."
+  syntax: "public Storage storage()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.Storage?alt=com.azure.resourcemanager.mysqlflexibleserver.models.Storage&text=Storage\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211130.1

@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.metricValues*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.metricValues"
+name: "metricValues"
+nameWithType: "ResourceMetricInner.metricValues"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.metricValues()"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.ResourceMetricInner.metricValues()"
+  name: "metricValues()"
+  nameWithType: "ResourceMetricInner.metricValues()"
+  summary: "Get the metricValues property: Metric values."
+  syntax: "public List<ResourceMetricValue> metricValues()"
+  returns:
+    description: "the metricValues value."
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appservice.models.ResourceMetricValue?alt=com.azure.resourcemanager.appservice.models.ResourceMetricValue&text=ResourceMetricValue\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

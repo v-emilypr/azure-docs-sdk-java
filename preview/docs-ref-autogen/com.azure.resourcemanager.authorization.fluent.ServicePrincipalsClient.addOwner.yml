@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.fluent.ServicePrincipalsClient.addOwner*"
+fullName: "com.azure.resourcemanager.authorization.fluent.ServicePrincipalsClient.addOwner"
+name: "addOwner"
+nameWithType: "ServicePrincipalsClient.addOwner"
+members:
+- uid: "com.azure.resourcemanager.authorization.fluent.ServicePrincipalsClient.addOwner(java.lang.String,java.lang.String,com.azure.resourcemanager.authorization.models.AddOwnerParameters)"
+  fullName: "com.azure.resourcemanager.authorization.fluent.ServicePrincipalsClient.addOwner(String objectId, String tenantId, AddOwnerParameters parameters)"
+  name: "addOwner(String objectId, String tenantId, AddOwnerParameters parameters)"
+  nameWithType: "ServicePrincipalsClient.addOwner(String objectId, String tenantId, AddOwnerParameters parameters)"
+  summary: "Add an owner to a service principal."
+  parameters:
+  - description: "The object ID of the service principal to which to add the owner."
+    name: "objectId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The URL of the owner object, such as\n     https://graph.windows.net/0b1f9851-1bf0-433f-aec3-cb9272f093dc/directoryObjects/f260bbc4-c254-447b-94cf-293b5ec434dd."
+    name: "parameters"
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.AddOwnerParameters?alt=com.azure.resourcemanager.authorization.models.AddOwnerParameters&text=AddOwnerParameters\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract void addOwner(String objectId, String tenantId, AddOwnerParameters parameters)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

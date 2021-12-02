@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.endpointService*"
+fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.endpointService"
+name: "endpointService"
+nameWithType: "InterfaceEndpointPropertiesInner.endpointService"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.endpointService()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointPropertiesInner.endpointService()"
+  name: "endpointService()"
+  nameWithType: "InterfaceEndpointPropertiesInner.endpointService()"
+  summary: "Get the endpointService property: A reference to the service being brought into the virtual network."
+  syntax: "public EndpointService endpointService()"
+  returns:
+    description: "the endpointService value."
+    type: "<xref href=\"com.azure.resourcemanager.network.models.EndpointService?alt=com.azure.resourcemanager.network.models.EndpointService&text=EndpointService\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

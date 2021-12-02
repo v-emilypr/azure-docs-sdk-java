@@ -1,0 +1,32 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.getProcessThread*"
+fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.getProcessThread"
+name: "getProcessThread"
+nameWithType: "WebAppsClient.getProcessThread"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.getProcessThread(java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.getProcessThread(String resourceGroupName, String name, String processId, String threadId)"
+  name: "getProcessThread(String resourceGroupName, String name, String processId, String threadId)"
+  nameWithType: "WebAppsClient.getProcessThread(String resourceGroupName, String name, String processId, String threadId)"
+  summary: "Get thread information by Thread ID for a specific process, in a specific scaled-out instance in a web site."
+  parameters:
+  - description: "Name of the resource group to which the resource belongs."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Site name."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "PID."
+    name: "processId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "TID."
+    name: "threadId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract ProcessThreadInfoInner getProcessThread(String resourceGroupName, String name, String processId, String threadId)"
+  returns:
+    description: "thread information by Thread ID for a specific process, in a specific scaled-out instance in a web site."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.ProcessThreadInfoInner?alt=com.azure.resourcemanager.appservice.fluent.models.ProcessThreadInfoInner&text=ProcessThreadInfoInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

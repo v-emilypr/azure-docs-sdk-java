@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayPathRuleInner.withProvisioningState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayPathRuleInner.withProvisioningState"
+name: "withProvisioningState"
+nameWithType: "ApplicationGatewayPathRuleInner.withProvisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayPathRuleInner.withProvisioningState(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewayPathRuleInner.withProvisioningState(String provisioningState)"
+  name: "withProvisioningState(String provisioningState)"
+  nameWithType: "ApplicationGatewayPathRuleInner.withProvisioningState(String provisioningState)"
+  summary: "Set the provisioningState property: Path rule of URL path map resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
+  parameters:
+  - description: "the provisioningState value to set."
+    name: "provisioningState"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationGatewayPathRuleInner withProvisioningState(String provisioningState)"
+  returns:
+    description: "the ApplicationGatewayPathRuleInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ApplicationGatewayPathRuleInner?alt=com.azure.resourcemanager.network.fluent.models.ApplicationGatewayPathRuleInner&text=ApplicationGatewayPathRuleInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

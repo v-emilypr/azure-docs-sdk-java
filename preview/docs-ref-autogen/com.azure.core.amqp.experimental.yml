@@ -1,0 +1,10 @@
+### YamlMime:JavaPackage
+uid: "com.azure.core.amqp.experimental"
+fullName: "com.azure.core.amqp.experimental"
+name: "com.azure.core.amqp.experimental"
+summary: "Base package of azure-core-amqp-experimental."
+classes:
+- "com.azure.core.amqp.experimental.Stub"
+metadata: {}
+package: "com.azure.core.amqp.experimental"
+artifact: com.azure:azure-core-amqp-experimental:1.0.0-alpha.20211201.1

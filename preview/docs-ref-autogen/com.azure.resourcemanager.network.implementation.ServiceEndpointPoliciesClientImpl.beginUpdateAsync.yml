@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.implementation.ServiceEndpointPoliciesClientImpl.beginUpdateAsync*"
+fullName: "com.azure.resourcemanager.network.implementation.ServiceEndpointPoliciesClientImpl.beginUpdateAsync"
+name: "beginUpdateAsync"
+nameWithType: "ServiceEndpointPoliciesClientImpl.beginUpdateAsync"
+members:
+- uid: "com.azure.resourcemanager.network.implementation.ServiceEndpointPoliciesClientImpl.beginUpdateAsync(java.lang.String,java.lang.String,com.azure.resourcemanager.network.models.TagsObject)"
+  fullName: "com.azure.resourcemanager.network.implementation.ServiceEndpointPoliciesClientImpl.beginUpdateAsync(String resourceGroupName, String serviceEndpointPolicyName, TagsObject parameters)"
+  name: "beginUpdateAsync(String resourceGroupName, String serviceEndpointPolicyName, TagsObject parameters)"
+  nameWithType: "ServiceEndpointPoliciesClientImpl.beginUpdateAsync(String resourceGroupName, String serviceEndpointPolicyName, TagsObject parameters)"
+  summary: "Updates service Endpoint Policies."
+  parameters:
+  - description: "The name of the resource group."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The name of the service endpoint policy."
+    name: "serviceEndpointPolicyName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Parameters supplied to update service endpoint policy tags."
+    name: "parameters"
+    type: "<xref href=\"com.azure.resourcemanager.network.models.TagsObject?alt=com.azure.resourcemanager.network.models.TagsObject&text=TagsObject\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PollerFlux<PollResult<ServiceEndpointPolicyInner>,ServiceEndpointPolicyInner> beginUpdateAsync(String resourceGroupName, String serviceEndpointPolicyName, TagsObject parameters)"
+  returns:
+    description: "service End point policy resource."
+    type: "<xref href=\"com.azure.core.util.polling.PollerFlux?alt=com.azure.core.util.polling.PollerFlux&text=PollerFlux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.management.polling.PollResult?alt=com.azure.core.management.polling.PollResult&text=PollResult\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.fluent.models.ServiceEndpointPolicyInner?alt=com.azure.resourcemanager.network.fluent.models.ServiceEndpointPolicyInner&text=ServiceEndpointPolicyInner\" data-throw-if-not-resolved=\"False\" />&gt;,<xref href=\"com.azure.resourcemanager.network.fluent.models.ServiceEndpointPolicyInner?alt=com.azure.resourcemanager.network.fluent.models.ServiceEndpointPolicyInner&text=ServiceEndpointPolicyInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

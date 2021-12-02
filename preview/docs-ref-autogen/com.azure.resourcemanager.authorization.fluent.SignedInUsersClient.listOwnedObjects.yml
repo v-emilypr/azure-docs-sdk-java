@@ -1,0 +1,39 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.fluent.SignedInUsersClient.listOwnedObjects*"
+fullName: "com.azure.resourcemanager.authorization.fluent.SignedInUsersClient.listOwnedObjects"
+name: "listOwnedObjects"
+nameWithType: "SignedInUsersClient.listOwnedObjects"
+members:
+- uid: "com.azure.resourcemanager.authorization.fluent.SignedInUsersClient.listOwnedObjects(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.fluent.SignedInUsersClient.listOwnedObjects(String tenantId)"
+  name: "listOwnedObjects(String tenantId)"
+  nameWithType: "SignedInUsersClient.listOwnedObjects(String tenantId)"
+  summary: "Get the list of directory objects that are owned by the user."
+  parameters:
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract PagedIterable<DirectoryObjectInner> listOwnedObjects(String tenantId)"
+  returns:
+    description: "the list of directory objects that are owned by the user."
+    type: "<xref href=\"com.azure.core.http.rest.PagedIterable?alt=com.azure.core.http.rest.PagedIterable&text=PagedIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.authorization.fluent.models.DirectoryObjectInner?alt=com.azure.resourcemanager.authorization.fluent.models.DirectoryObjectInner&text=DirectoryObjectInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.resourcemanager.authorization.fluent.SignedInUsersClient.listOwnedObjects(java.lang.String,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.authorization.fluent.SignedInUsersClient.listOwnedObjects(String tenantId, Context context)"
+  name: "listOwnedObjects(String tenantId, Context context)"
+  nameWithType: "SignedInUsersClient.listOwnedObjects(String tenantId, Context context)"
+  summary: "Get the list of directory objects that are owned by the user."
+  parameters:
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The context to associate with this operation."
+    name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract PagedIterable<DirectoryObjectInner> listOwnedObjects(String tenantId, Context context)"
+  returns:
+    description: "the list of directory objects that are owned by the user."
+    type: "<xref href=\"com.azure.core.http.rest.PagedIterable?alt=com.azure.core.http.rest.PagedIterable&text=PagedIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.authorization.fluent.models.DirectoryObjectInner?alt=com.azure.resourcemanager.authorization.fluent.models.DirectoryObjectInner&text=DirectoryObjectInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

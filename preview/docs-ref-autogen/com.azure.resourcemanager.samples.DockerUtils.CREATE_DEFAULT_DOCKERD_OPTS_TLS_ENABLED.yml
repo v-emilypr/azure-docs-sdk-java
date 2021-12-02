@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.DockerUtils.CREATE_DEFAULT_DOCKERD_OPTS_TLS_ENABLED*"
+fullName: "com.azure.resourcemanager.samples.DockerUtils.CREATE_DEFAULT_DOCKERD_OPTS_TLS_ENABLED"
+name: "CREATE_DEFAULT_DOCKERD_OPTS_TLS_ENABLED"
+nameWithType: "DockerUtils.CREATE_DEFAULT_DOCKERD_OPTS_TLS_ENABLED"
+members:
+- uid: "com.azure.resourcemanager.samples.DockerUtils.CREATE_DEFAULT_DOCKERD_OPTS_TLS_ENABLED"
+  fullName: "com.azure.resourcemanager.samples.DockerUtils.CREATE_DEFAULT_DOCKERD_OPTS_TLS_ENABLED"
+  name: "CREATE_DEFAULT_DOCKERD_OPTS_TLS_ENABLED"
+  nameWithType: "DockerUtils.CREATE_DEFAULT_DOCKERD_OPTS_TLS_ENABLED"
+  summary: "Bash script that creates a default TLS secured Docker configuration file; must be run on the Docker dockerHostUrl after the VM is provisioned."
+  syntax: "public static final String CREATE_DEFAULT_DOCKERD_OPTS_TLS_ENABLED"
+type: "field"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

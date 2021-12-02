@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppStorageAccountConnection.ManageWebAppStorageAccountConnection*"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppStorageAccountConnection.ManageWebAppStorageAccountConnection"
+name: "ManageWebAppStorageAccountConnection"
+nameWithType: "ManageWebAppStorageAccountConnection.ManageWebAppStorageAccountConnection"
+members:
+- uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppStorageAccountConnection.ManageWebAppStorageAccountConnection()"
+  fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppStorageAccountConnection.ManageWebAppStorageAccountConnection()"
+  name: "ManageWebAppStorageAccountConnection()"
+  nameWithType: "ManageWebAppStorageAccountConnection.ManageWebAppStorageAccountConnection()"
+  syntax: "public ManageWebAppStorageAccountConnection()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

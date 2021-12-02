@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.statusCode*"
+fullName: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.statusCode"
+name: "statusCode"
+nameWithType: "ZoneDeleteResultInner.statusCode"
+members:
+- uid: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.statusCode()"
+  fullName: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.statusCode()"
+  name: "statusCode()"
+  nameWithType: "ZoneDeleteResultInner.statusCode()"
+  summary: "Get the statusCode property: The statusCode property."
+  syntax: "public HttpStatusCode statusCode()"
+  returns:
+    description: "the statusCode value."
+    type: "<xref href=\"com.azure.resourcemanager.dns.models.HttpStatusCode?alt=com.azure.resourcemanager.dns.models.HttpStatusCode&text=HttpStatusCode\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dns.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dns:1.0.0-hybridbeta.1

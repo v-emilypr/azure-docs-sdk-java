@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl.getCertificateThumbprint*"
+fullName: "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl.getCertificateThumbprint"
+name: "getCertificateThumbprint"
+nameWithType: "PolicyCertificatesModificationResultImpl.getCertificateThumbprint"
+members:
+- uid: "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl.getCertificateThumbprint()"
+  fullName: "com.azure.security.attestation.implementation.models.PolicyCertificatesModificationResultImpl.getCertificateThumbprint()"
+  name: "getCertificateThumbprint()"
+  nameWithType: "PolicyCertificatesModificationResultImpl.getCertificateThumbprint()"
+  summary: "Get the certificateThumbprint property: Hex encoded SHA1 Hash of the binary representation certificate which was added or removed."
+  syntax: "public String getCertificateThumbprint()"
+  returns:
+    description: "the certificateThumbprint value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211201.1

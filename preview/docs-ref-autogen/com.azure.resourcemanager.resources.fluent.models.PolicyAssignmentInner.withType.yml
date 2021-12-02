@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentInner.withType*"
+fullName: "com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentInner.withType"
+name: "withType"
+nameWithType: "PolicyAssignmentInner.withType"
+members:
+- uid: "com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentInner.withType(java.lang.String)"
+  fullName: "com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentInner.withType(String type)"
+  name: "withType(String type)"
+  nameWithType: "PolicyAssignmentInner.withType(String type)"
+  summary: "Set the type property: The type of the policy assignment."
+  parameters:
+  - description: "the type value to set."
+    name: "type"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PolicyAssignmentInner withType(String type)"
+  returns:
+    description: "the PolicyAssignmentInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentInner?alt=com.azure.resourcemanager.resources.fluent.models.PolicyAssignmentInner&text=PolicyAssignmentInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.resources.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-resources:1.0.0-hybridbeta.1

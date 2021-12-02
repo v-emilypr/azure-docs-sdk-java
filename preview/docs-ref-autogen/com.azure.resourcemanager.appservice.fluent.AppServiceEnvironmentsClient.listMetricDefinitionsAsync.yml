@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.AppServiceEnvironmentsClient.listMetricDefinitionsAsync*"
+fullName: "com.azure.resourcemanager.appservice.fluent.AppServiceEnvironmentsClient.listMetricDefinitionsAsync"
+name: "listMetricDefinitionsAsync"
+nameWithType: "AppServiceEnvironmentsClient.listMetricDefinitionsAsync"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.AppServiceEnvironmentsClient.listMetricDefinitionsAsync(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.AppServiceEnvironmentsClient.listMetricDefinitionsAsync(String resourceGroupName, String name)"
+  name: "listMetricDefinitionsAsync(String resourceGroupName, String name)"
+  nameWithType: "AppServiceEnvironmentsClient.listMetricDefinitionsAsync(String resourceGroupName, String name)"
+  summary: "Get global metric definitions of an App Service Environment."
+  parameters:
+  - description: "Name of the resource group to which the resource belongs."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Name of the App Service Environment."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract Mono<MetricDefinitionInner> listMetricDefinitionsAsync(String resourceGroupName, String name)"
+  returns:
+    description: "global metric definitions of an App Service Environment."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appservice.fluent.models.MetricDefinitionInner?alt=com.azure.resourcemanager.appservice.fluent.models.MetricDefinitionInner&text=MetricDefinitionInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

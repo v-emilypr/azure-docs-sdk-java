@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withGroupMembershipClaims*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withGroupMembershipClaims"
+name: "withGroupMembershipClaims"
+nameWithType: "ApplicationUpdateParameters.withGroupMembershipClaims"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withGroupMembershipClaims(com.azure.resourcemanager.authorization.models.GroupMembershipClaimTypes)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withGroupMembershipClaims(GroupMembershipClaimTypes groupMembershipClaims)"
+  name: "withGroupMembershipClaims(GroupMembershipClaimTypes groupMembershipClaims)"
+  nameWithType: "ApplicationUpdateParameters.withGroupMembershipClaims(GroupMembershipClaimTypes groupMembershipClaims)"
+  summary: "Set the groupMembershipClaims property: Configures the groups claim issued in a user or OAuth 2.0 access token that the app expects."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withGroupMembershipClaims(com.azure.resourcemanager.authorization.models.GroupMembershipClaimTypes)"
+  parameters:
+  - name: "groupMembershipClaims"
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.GroupMembershipClaimTypes?alt=com.azure.resourcemanager.authorization.models.GroupMembershipClaimTypes&text=GroupMembershipClaimTypes\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationUpdateParameters withGroupMembershipClaims(GroupMembershipClaimTypes groupMembershipClaims)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters&text=ApplicationUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.status*"
+fullName: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.status"
+name: "status"
+nameWithType: "ZoneDeleteResultInner.status"
+members:
+- uid: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.status()"
+  fullName: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.status()"
+  name: "status()"
+  nameWithType: "ZoneDeleteResultInner.status()"
+  summary: "Get the status property: The status property."
+  syntax: "public OperationStatus status()"
+  returns:
+    description: "the status value."
+    type: "<xref href=\"com.azure.resourcemanager.dns.models.OperationStatus?alt=com.azure.resourcemanager.dns.models.OperationStatus&text=OperationStatus\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dns.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dns:1.0.0-hybridbeta.1

@@ -82,4 +82,4 @@ methods:
     type: "<xref href=\"com.azure.resourcemanager.datalakeanalytics.models.NestedResourceProvisioningState?alt=com.azure.resourcemanager.datalakeanalytics.models.NestedResourceProvisioningState&text=NestedResourceProvisioningState\" data-throw-if-not-resolved=\"False\" />[]"
 metadata: {}
 package: "com.azure.resourcemanager.datalakeanalytics.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-datalakeanalytics:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-datalakeanalytics:1.0.0-alpha.20211201.1

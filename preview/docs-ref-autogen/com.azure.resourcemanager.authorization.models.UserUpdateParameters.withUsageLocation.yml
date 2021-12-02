@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.UserUpdateParameters.withUsageLocation*"
+fullName: "com.azure.resourcemanager.authorization.models.UserUpdateParameters.withUsageLocation"
+name: "withUsageLocation"
+nameWithType: "UserUpdateParameters.withUsageLocation"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.UserUpdateParameters.withUsageLocation(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.models.UserUpdateParameters.withUsageLocation(String usageLocation)"
+  name: "withUsageLocation(String usageLocation)"
+  nameWithType: "UserUpdateParameters.withUsageLocation(String usageLocation)"
+  summary: "Set the usageLocation property: A two letter country code (ISO standard 3166). Required for users that will be assigned licenses due to legal requirement to check for availability of services in countries. Examples include: \"US\", \"JP\", and \"GB\"."
+  overridden: "com.azure.resourcemanager.authorization.models.UserBase.withUsageLocation(java.lang.String)"
+  parameters:
+  - name: "usageLocation"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public UserUpdateParameters withUsageLocation(String usageLocation)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.UserUpdateParameters?alt=com.azure.resourcemanager.authorization.models.UserUpdateParameters&text=UserUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

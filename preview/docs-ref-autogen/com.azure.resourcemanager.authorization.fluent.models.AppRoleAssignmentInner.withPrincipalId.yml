@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.withPrincipalId*"
+fullName: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.withPrincipalId"
+name: "withPrincipalId"
+nameWithType: "AppRoleAssignmentInner.withPrincipalId"
+members:
+- uid: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.withPrincipalId(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.withPrincipalId(String principalId)"
+  name: "withPrincipalId(String principalId)"
+  nameWithType: "AppRoleAssignmentInner.withPrincipalId(String principalId)"
+  summary: "Set the principalId property: The unique identifier (objectId) for the principal being granted the access."
+  parameters:
+  - description: "the principalId value to set."
+    name: "principalId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AppRoleAssignmentInner withPrincipalId(String principalId)"
+  returns:
+    description: "the AppRoleAssignmentInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner?alt=com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner&text=AppRoleAssignmentInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

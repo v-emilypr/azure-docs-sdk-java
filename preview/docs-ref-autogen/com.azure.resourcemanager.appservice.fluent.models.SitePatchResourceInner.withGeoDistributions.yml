@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.SitePatchResourceInner.withGeoDistributions*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.SitePatchResourceInner.withGeoDistributions"
+name: "withGeoDistributions"
+nameWithType: "SitePatchResourceInner.withGeoDistributions"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.SitePatchResourceInner.withGeoDistributions(java.util.List<com.azure.resourcemanager.appservice.models.GeoDistribution>)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.SitePatchResourceInner.withGeoDistributions(List<GeoDistribution> geoDistributions)"
+  name: "withGeoDistributions(List<GeoDistribution> geoDistributions)"
+  nameWithType: "SitePatchResourceInner.withGeoDistributions(List<GeoDistribution> geoDistributions)"
+  summary: "Set the geoDistributions property: GeoDistributions for this site."
+  parameters:
+  - description: "the geoDistributions value to set."
+    name: "geoDistributions"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appservice.models.GeoDistribution?alt=com.azure.resourcemanager.appservice.models.GeoDistribution&text=GeoDistribution\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public SitePatchResourceInner withGeoDistributions(List<GeoDistribution> geoDistributions)"
+  returns:
+    description: "the SitePatchResourceInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.SitePatchResourceInner?alt=com.azure.resourcemanager.appservice.fluent.models.SitePatchResourceInner&text=SitePatchResourceInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

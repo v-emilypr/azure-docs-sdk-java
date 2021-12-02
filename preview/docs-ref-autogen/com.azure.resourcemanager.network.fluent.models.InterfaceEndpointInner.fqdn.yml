@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner.fqdn*"
+fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner.fqdn"
+name: "fqdn"
+nameWithType: "InterfaceEndpointInner.fqdn"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner.fqdn()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner.fqdn()"
+  name: "fqdn()"
+  nameWithType: "InterfaceEndpointInner.fqdn()"
+  summary: "Get the fqdn property: A first-party service's FQDN that is mapped to the private IP allocated via this interface endpoint."
+  syntax: "public String fqdn()"
+  returns:
+    description: "the fqdn value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

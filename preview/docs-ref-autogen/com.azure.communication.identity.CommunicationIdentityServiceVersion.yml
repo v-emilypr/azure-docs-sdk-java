@@ -30,10 +30,12 @@ fields:
   fullName: "com.azure.communication.identity.CommunicationIdentityServiceVersion.V2021_03_07"
   name: "V2021_03_07"
   nameWithType: "CommunicationIdentityServiceVersion.V2021_03_07"
+  summary: "Service version `2021-03-07`."
 - uid: "com.azure.communication.identity.CommunicationIdentityServiceVersion.V2021_10_31_PREVIEW"
   fullName: "com.azure.communication.identity.CommunicationIdentityServiceVersion.V2021_10_31_PREVIEW"
   name: "V2021_10_31_PREVIEW"
   nameWithType: "CommunicationIdentityServiceVersion.V2021_10_31_PREVIEW"
+  summary: "Service version `2021-10-31-preview`."
 methods:
 - uid: "com.azure.communication.identity.CommunicationIdentityServiceVersion.getLatest()"
   fullName: "com.azure.communication.identity.CommunicationIdentityServiceVersion.getLatest()"
@@ -72,4 +74,4 @@ implements:
 - "<xref href=\"com.azure.core.util.ServiceVersion?alt=com.azure.core.util.ServiceVersion&text=ServiceVersion\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.communication.identity"
-artifact: com.azure:azure-communication-identity:1.2.0-beta.1
+artifact: com.azure:azure-communication-identity:1.2.0-alpha.20211201.1

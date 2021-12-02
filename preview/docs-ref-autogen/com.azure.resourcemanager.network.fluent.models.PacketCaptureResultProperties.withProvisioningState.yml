@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties.withProvisioningState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties.withProvisioningState"
+name: "withProvisioningState"
+nameWithType: "PacketCaptureResultProperties.withProvisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties.withProvisioningState(com.azure.resourcemanager.network.models.ProvisioningState)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties.withProvisioningState(ProvisioningState provisioningState)"
+  name: "withProvisioningState(ProvisioningState provisioningState)"
+  nameWithType: "PacketCaptureResultProperties.withProvisioningState(ProvisioningState provisioningState)"
+  summary: "Set the provisioningState property: The provisioning state of the packet capture session."
+  parameters:
+  - description: "the provisioningState value to set."
+    name: "provisioningState"
+    type: "<xref href=\"com.azure.resourcemanager.network.models.ProvisioningState?alt=com.azure.resourcemanager.network.models.ProvisioningState&text=ProvisioningState\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PacketCaptureResultProperties withProvisioningState(ProvisioningState provisioningState)"
+  returns:
+    description: "the PacketCaptureResultProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties?alt=com.azure.resourcemanager.network.fluent.models.PacketCaptureResultProperties&text=PacketCaptureResultProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

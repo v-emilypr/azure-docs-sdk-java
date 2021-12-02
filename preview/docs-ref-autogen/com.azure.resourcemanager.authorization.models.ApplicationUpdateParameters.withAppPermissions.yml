@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withAppPermissions*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withAppPermissions"
+name: "withAppPermissions"
+nameWithType: "ApplicationUpdateParameters.withAppPermissions"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withAppPermissions(java.util.List<java.lang.String>)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withAppPermissions(List<String> appPermissions)"
+  name: "withAppPermissions(List<String> appPermissions)"
+  nameWithType: "ApplicationUpdateParameters.withAppPermissions(List<String> appPermissions)"
+  summary: "Set the appPermissions property: The application permissions."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withAppPermissions(java.util.List<java.lang.String>)"
+  parameters:
+  - name: "appPermissions"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public ApplicationUpdateParameters withAppPermissions(List<String> appPermissions)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters&text=ApplicationUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.implementation.AppServiceEnvironmentsClientImpl.listVips*"
+fullName: "com.azure.resourcemanager.appservice.implementation.AppServiceEnvironmentsClientImpl.listVips"
+name: "listVips"
+nameWithType: "AppServiceEnvironmentsClientImpl.listVips"
+members:
+- uid: "com.azure.resourcemanager.appservice.implementation.AppServiceEnvironmentsClientImpl.listVips(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.implementation.AppServiceEnvironmentsClientImpl.listVips(String resourceGroupName, String name)"
+  name: "listVips(String resourceGroupName, String name)"
+  nameWithType: "AppServiceEnvironmentsClientImpl.listVips(String resourceGroupName, String name)"
+  summary: "Get IP addresses assigned to an App Service Environment."
+  parameters:
+  - description: "Name of the resource group to which the resource belongs."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Name of the App Service Environment."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AddressResponseInner listVips(String resourceGroupName, String name)"
+  returns:
+    description: "iP addresses assigned to an App Service Environment."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.AddressResponseInner?alt=com.azure.resourcemanager.appservice.fluent.models.AddressResponseInner&text=AddressResponseInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.RepositoryFeatures*"
+fullName: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.RepositoryFeatures"
+name: "RepositoryFeatures"
+nameWithType: "RepositoryFeatures.RepositoryFeatures"
+members:
+- uid: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.RepositoryFeatures()"
+  fullName: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.RepositoryFeatures()"
+  name: "RepositoryFeatures()"
+  nameWithType: "RepositoryFeatures.RepositoryFeatures()"
+  syntax: "public RepositoryFeatures()"
+- uid: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.RepositoryFeatures(boolean,boolean)"
+  fullName: "com.azure.iot.modelsrepository.implementation.models.RepositoryFeatures.RepositoryFeatures(boolean expanded, boolean index)"
+  name: "RepositoryFeatures(boolean expanded, boolean index)"
+  nameWithType: "RepositoryFeatures.RepositoryFeatures(boolean expanded, boolean index)"
+  parameters:
+  - name: "expanded"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  - name: "index"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public RepositoryFeatures(boolean expanded, boolean index)"
+type: "constructor"
+metadata: {}
+package: "com.azure.iot.modelsrepository.implementation.models"
+artifact: com.azure:azure-iot-modelsrepository:1.0.0-alpha.20211130.1

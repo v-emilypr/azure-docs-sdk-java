@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withSignInAudience*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withSignInAudience"
+name: "withSignInAudience"
+nameWithType: "ApplicationUpdateParameters.withSignInAudience"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withSignInAudience(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withSignInAudience(String signInAudience)"
+  name: "withSignInAudience(String signInAudience)"
+  nameWithType: "ApplicationUpdateParameters.withSignInAudience(String signInAudience)"
+  summary: "Set the signInAudience property: Audience for signing in to the application (AzureADMyOrganization, AzureADAllOrganizations, AzureADAndMicrosoftAccounts)."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withSignInAudience(java.lang.String)"
+  parameters:
+  - name: "signInAudience"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationUpdateParameters withSignInAudience(String signInAudience)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters&text=ApplicationUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

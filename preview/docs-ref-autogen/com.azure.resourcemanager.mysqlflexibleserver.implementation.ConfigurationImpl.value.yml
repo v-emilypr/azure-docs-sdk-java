@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationImpl.value*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationImpl.value"
+name: "value"
+nameWithType: "ConfigurationImpl.value"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationImpl.value()"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ConfigurationImpl.value()"
+  name: "value()"
+  nameWithType: "ConfigurationImpl.value()"
+  summary: "Gets the value property: Value of the configuration."
+  syntax: "public String value()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-alpha.20211130.1

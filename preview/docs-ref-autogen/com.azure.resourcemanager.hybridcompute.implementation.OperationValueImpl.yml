@@ -28,4 +28,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.hybridcompute.models.OperationValue?alt=com.azure.resourcemanager.hybridcompute.models.OperationValue&text=OperationValue\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.hybridcompute.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-hybridcompute:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-hybridcompute:1.0.0-alpha.20211130.1

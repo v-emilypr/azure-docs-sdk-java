@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withIssueDetected*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withIssueDetected"
+name: "withIssueDetected"
+nameWithType: "DiagnosticDetectorResponsePropertiesInner.withIssueDetected"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withIssueDetected(java.lang.Boolean)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withIssueDetected(Boolean issueDetected)"
+  name: "withIssueDetected(Boolean issueDetected)"
+  nameWithType: "DiagnosticDetectorResponsePropertiesInner.withIssueDetected(Boolean issueDetected)"
+  summary: "Set the issueDetected property: Flag representing Issue was detected."
+  parameters:
+  - description: "the issueDetected value to set."
+    name: "issueDetected"
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DiagnosticDetectorResponsePropertiesInner withIssueDetected(Boolean issueDetected)"
+  returns:
+    description: "the DiagnosticDetectorResponsePropertiesInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner?alt=com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner&text=DiagnosticDetectorResponsePropertiesInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

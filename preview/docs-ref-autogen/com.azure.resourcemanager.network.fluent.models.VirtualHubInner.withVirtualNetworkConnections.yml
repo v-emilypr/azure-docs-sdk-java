@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.VirtualHubInner.withVirtualNetworkConnections*"
+fullName: "com.azure.resourcemanager.network.fluent.models.VirtualHubInner.withVirtualNetworkConnections"
+name: "withVirtualNetworkConnections"
+nameWithType: "VirtualHubInner.withVirtualNetworkConnections"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.VirtualHubInner.withVirtualNetworkConnections(java.util.List<com.azure.resourcemanager.network.fluent.models.HubVirtualNetworkConnectionInner>)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.VirtualHubInner.withVirtualNetworkConnections(List<HubVirtualNetworkConnectionInner> virtualNetworkConnections)"
+  name: "withVirtualNetworkConnections(List<HubVirtualNetworkConnectionInner> virtualNetworkConnections)"
+  nameWithType: "VirtualHubInner.withVirtualNetworkConnections(List<HubVirtualNetworkConnectionInner> virtualNetworkConnections)"
+  summary: "Set the virtualNetworkConnections property: list of all vnet connections with this VirtualHub."
+  parameters:
+  - description: "the virtualNetworkConnections value to set."
+    name: "virtualNetworkConnections"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.fluent.models.HubVirtualNetworkConnectionInner?alt=com.azure.resourcemanager.network.fluent.models.HubVirtualNetworkConnectionInner&text=HubVirtualNetworkConnectionInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public VirtualHubInner withVirtualNetworkConnections(List<HubVirtualNetworkConnectionInner> virtualNetworkConnections)"
+  returns:
+    description: "the VirtualHubInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.VirtualHubInner?alt=com.azure.resourcemanager.network.fluent.models.VirtualHubInner&text=VirtualHubInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

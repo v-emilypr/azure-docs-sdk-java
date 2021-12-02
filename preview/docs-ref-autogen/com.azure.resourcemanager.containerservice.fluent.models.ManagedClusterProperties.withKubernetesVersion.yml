@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.fluent.models.ManagedClusterProperties.withKubernetesVersion*"
+fullName: "com.azure.resourcemanager.containerservice.fluent.models.ManagedClusterProperties.withKubernetesVersion"
+name: "withKubernetesVersion"
+nameWithType: "ManagedClusterProperties.withKubernetesVersion"
+members:
+- uid: "com.azure.resourcemanager.containerservice.fluent.models.ManagedClusterProperties.withKubernetesVersion(java.lang.String)"
+  fullName: "com.azure.resourcemanager.containerservice.fluent.models.ManagedClusterProperties.withKubernetesVersion(String kubernetesVersion)"
+  name: "withKubernetesVersion(String kubernetesVersion)"
+  nameWithType: "ManagedClusterProperties.withKubernetesVersion(String kubernetesVersion)"
+  summary: "Set the kubernetesVersion property: Version of Kubernetes specified when creating the managed cluster."
+  parameters:
+  - description: "the kubernetesVersion value to set."
+    name: "kubernetesVersion"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ManagedClusterProperties withKubernetesVersion(String kubernetesVersion)"
+  returns:
+    description: "the ManagedClusterProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.fluent.models.ManagedClusterProperties?alt=com.azure.resourcemanager.containerservice.fluent.models.ManagedClusterProperties&text=ManagedClusterProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

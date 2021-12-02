@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner.withFqdn*"
+fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner.withFqdn"
+name: "withFqdn"
+nameWithType: "InterfaceEndpointInner.withFqdn"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner.withFqdn(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner.withFqdn(String fqdn)"
+  name: "withFqdn(String fqdn)"
+  nameWithType: "InterfaceEndpointInner.withFqdn(String fqdn)"
+  summary: "Set the fqdn property: A first-party service's FQDN that is mapped to the private IP allocated via this interface endpoint."
+  parameters:
+  - description: "the fqdn value to set."
+    name: "fqdn"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public InterfaceEndpointInner withFqdn(String fqdn)"
+  returns:
+    description: "the InterfaceEndpointInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner?alt=com.azure.resourcemanager.network.fluent.models.InterfaceEndpointInner&text=InterfaceEndpointInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

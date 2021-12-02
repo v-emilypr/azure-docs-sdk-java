@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.GeoDistribution.withNumberOfWorkers*"
+fullName: "com.azure.resourcemanager.appservice.models.GeoDistribution.withNumberOfWorkers"
+name: "withNumberOfWorkers"
+nameWithType: "GeoDistribution.withNumberOfWorkers"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.GeoDistribution.withNumberOfWorkers(java.lang.Integer)"
+  fullName: "com.azure.resourcemanager.appservice.models.GeoDistribution.withNumberOfWorkers(Integer numberOfWorkers)"
+  name: "withNumberOfWorkers(Integer numberOfWorkers)"
+  nameWithType: "GeoDistribution.withNumberOfWorkers(Integer numberOfWorkers)"
+  summary: "Set the numberOfWorkers property: NumberOfWorkers."
+  parameters:
+  - description: "the numberOfWorkers value to set."
+    name: "numberOfWorkers"
+    type: "<xref href=\"java.lang.Integer?alt=java.lang.Integer&text=Integer\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public GeoDistribution withNumberOfWorkers(Integer numberOfWorkers)"
+  returns:
+    description: "the GeoDistribution object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.models.GeoDistribution?alt=com.azure.resourcemanager.appservice.models.GeoDistribution&text=GeoDistribution\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

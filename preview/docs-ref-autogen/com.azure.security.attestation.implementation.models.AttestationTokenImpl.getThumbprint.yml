@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getThumbprint*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getThumbprint"
+name: "getThumbprint"
+nameWithType: "AttestationTokenImpl.getThumbprint"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getThumbprint()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getThumbprint()"
+  name: "getThumbprint()"
+  nameWithType: "AttestationTokenImpl.getThumbprint()"
+  summary: "Returns the SHA-1 thumbprint of the leaf certificate in the getCertificateChain."
+  syntax: "public BinaryData getThumbprint()"
+  returns:
+    description: "the SHA-1 thumbprint of the leaf certificate returned by getCertificateChain."
+    type: "<xref href=\"com.azure.core.util.BinaryData?alt=com.azure.core.util.BinaryData&text=BinaryData\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211201.1

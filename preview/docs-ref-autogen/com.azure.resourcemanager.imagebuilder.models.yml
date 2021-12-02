@@ -65,4 +65,4 @@ interfaces:
 - "com.azure.resourcemanager.imagebuilder.models.VirtualMachineImageTemplates"
 metadata: {}
 package: "com.azure.resourcemanager.imagebuilder.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-imagebuilder:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-imagebuilder:1.0.0-alpha.20211201.1

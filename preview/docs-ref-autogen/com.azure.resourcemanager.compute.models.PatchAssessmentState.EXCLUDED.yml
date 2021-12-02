@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.compute.models.PatchAssessmentState.EXCLUDED*"
+fullName: "com.azure.resourcemanager.compute.models.PatchAssessmentState.EXCLUDED"
+name: "EXCLUDED"
+nameWithType: "PatchAssessmentState.EXCLUDED"
+members:
+- uid: "com.azure.resourcemanager.compute.models.PatchAssessmentState.EXCLUDED"
+  fullName: "com.azure.resourcemanager.compute.models.PatchAssessmentState.EXCLUDED"
+  name: "EXCLUDED"
+  nameWithType: "PatchAssessmentState.EXCLUDED"
+  summary: "Static value Excluded for PatchAssessmentState."
+  syntax: "public static final PatchAssessmentState EXCLUDED"
+type: "field"
+metadata: {}
+package: "com.azure.resourcemanager.compute.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-compute:1.0.0-hybridbeta.1

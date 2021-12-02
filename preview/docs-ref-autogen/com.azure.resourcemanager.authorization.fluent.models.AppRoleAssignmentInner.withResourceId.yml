@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.withResourceId*"
+fullName: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.withResourceId"
+name: "withResourceId"
+nameWithType: "AppRoleAssignmentInner.withResourceId"
+members:
+- uid: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.withResourceId(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner.withResourceId(String resourceId)"
+  name: "withResourceId(String resourceId)"
+  nameWithType: "AppRoleAssignmentInner.withResourceId(String resourceId)"
+  summary: "Set the resourceId property: The unique identifier (objectId) for the target resource (service principal) for which the assignment was made."
+  parameters:
+  - description: "the resourceId value to set."
+    name: "resourceId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AppRoleAssignmentInner withResourceId(String resourceId)"
+  returns:
+    description: "the AppRoleAssignmentInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner?alt=com.azure.resourcemanager.authorization.fluent.models.AppRoleAssignmentInner&text=AppRoleAssignmentInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

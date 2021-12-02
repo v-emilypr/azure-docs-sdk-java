@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAutoUpgradeProfile*"
+fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAutoUpgradeProfile"
+name: "withAutoUpgradeProfile"
+nameWithType: "BaseManagedCluster.withAutoUpgradeProfile"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAutoUpgradeProfile(com.azure.resourcemanager.containerservice.models.ManagedClusterAutoUpgradeProfile)"
+  fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withAutoUpgradeProfile(ManagedClusterAutoUpgradeProfile autoUpgradeProfile)"
+  name: "withAutoUpgradeProfile(ManagedClusterAutoUpgradeProfile autoUpgradeProfile)"
+  nameWithType: "BaseManagedCluster.withAutoUpgradeProfile(ManagedClusterAutoUpgradeProfile autoUpgradeProfile)"
+  summary: "Set the autoUpgradeProfile property: Profile of auto upgrade configuration."
+  parameters:
+  - description: "the autoUpgradeProfile value to set."
+    name: "autoUpgradeProfile"
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.ManagedClusterAutoUpgradeProfile?alt=com.azure.resourcemanager.containerservice.models.ManagedClusterAutoUpgradeProfile&text=ManagedClusterAutoUpgradeProfile\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public BaseManagedCluster withAutoUpgradeProfile(ManagedClusterAutoUpgradeProfile autoUpgradeProfile)"
+  returns:
+    description: "the BaseManagedCluster object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.BaseManagedCluster?alt=com.azure.resourcemanager.containerservice.models.BaseManagedCluster&text=BaseManagedCluster\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

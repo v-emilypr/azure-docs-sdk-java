@@ -1,0 +1,36 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.models.ResourceMetricValue"
+fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricValue"
+name: "ResourceMetricValue"
+nameWithType: "ResourceMetricValue"
+summary: "Value of resource metric."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ResourceMetricValue"
+constructors:
+- "com.azure.resourcemanager.appservice.models.ResourceMetricValue.ResourceMetricValue()"
+methods:
+- "com.azure.resourcemanager.appservice.models.ResourceMetricValue.average()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricValue.count()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricValue.maximum()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricValue.minimum()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricValue.properties()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricValue.timestamp()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricValue.total()"
+- "com.azure.resourcemanager.appservice.models.ResourceMetricValue.validate()"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat.withProvisioningState*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat.withProvisioningState"
+name: "withProvisioningState"
+nameWithType: "ApplicationGatewaySslCertificatePropertiesFormat.withProvisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat.withProvisioningState(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat.withProvisioningState(String provisioningState)"
+  name: "withProvisioningState(String provisioningState)"
+  nameWithType: "ApplicationGatewaySslCertificatePropertiesFormat.withProvisioningState(String provisioningState)"
+  summary: "Set the provisioningState property: Provisioning state of the SSL certificate resource Possible values are: 'Updating', 'Deleting', and 'Failed'."
+  parameters:
+  - description: "the provisioningState value to set."
+    name: "provisioningState"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationGatewaySslCertificatePropertiesFormat withProvisioningState(String provisioningState)"
+  returns:
+    description: "the ApplicationGatewaySslCertificatePropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.ApplicationGatewaySslCertificatePropertiesFormat&text=ApplicationGatewaySslCertificatePropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

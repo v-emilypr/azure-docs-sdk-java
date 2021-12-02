@@ -1,0 +1,39 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.listAsync*"
+fullName: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.listAsync"
+name: "listAsync"
+nameWithType: "OAuth2PermissionGrantsClientImpl.listAsync"
+members:
+- uid: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.listAsync(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.listAsync(String tenantId)"
+  name: "listAsync(String tenantId)"
+  nameWithType: "OAuth2PermissionGrantsClientImpl.listAsync(String tenantId)"
+  summary: "Queries OAuth2 permissions grants for the relevant SP ObjectId of an app."
+  parameters:
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PagedFlux<OAuth2PermissionGrantInner> listAsync(String tenantId)"
+  returns:
+    description: "server response for get oauth2 permissions grants."
+    type: "<xref href=\"com.azure.core.http.rest.PagedFlux?alt=com.azure.core.http.rest.PagedFlux&text=PagedFlux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.authorization.fluent.models.OAuth2PermissionGrantInner?alt=com.azure.resourcemanager.authorization.fluent.models.OAuth2PermissionGrantInner&text=OAuth2PermissionGrantInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.listAsync(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.listAsync(String tenantId, String filter)"
+  name: "listAsync(String tenantId, String filter)"
+  nameWithType: "OAuth2PermissionGrantsClientImpl.listAsync(String tenantId, String filter)"
+  summary: "Queries OAuth2 permissions grants for the relevant SP ObjectId of an app."
+  parameters:
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "This is the Service Principal ObjectId associated with the app."
+    name: "filter"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PagedFlux<OAuth2PermissionGrantInner> listAsync(String tenantId, String filter)"
+  returns:
+    description: "server response for get oauth2 permissions grants."
+    type: "<xref href=\"com.azure.core.http.rest.PagedFlux?alt=com.azure.core.http.rest.PagedFlux&text=PagedFlux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.authorization.fluent.models.OAuth2PermissionGrantInner?alt=com.azure.resourcemanager.authorization.fluent.models.OAuth2PermissionGrantInner&text=OAuth2PermissionGrantInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

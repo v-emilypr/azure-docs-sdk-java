@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withMasterProfile*"
+fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withMasterProfile"
+name: "withMasterProfile"
+nameWithType: "ContainerServiceProperties.withMasterProfile"
+members:
+- uid: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withMasterProfile(com.azure.resourcemanager.containerservice.models.ContainerServiceMasterProfile)"
+  fullName: "com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties.withMasterProfile(ContainerServiceMasterProfile masterProfile)"
+  name: "withMasterProfile(ContainerServiceMasterProfile masterProfile)"
+  nameWithType: "ContainerServiceProperties.withMasterProfile(ContainerServiceMasterProfile masterProfile)"
+  summary: "Set the masterProfile property: Profile for the container service master."
+  parameters:
+  - description: "the masterProfile value to set."
+    name: "masterProfile"
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.ContainerServiceMasterProfile?alt=com.azure.resourcemanager.containerservice.models.ContainerServiceMasterProfile&text=ContainerServiceMasterProfile\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ContainerServiceProperties withMasterProfile(ContainerServiceMasterProfile masterProfile)"
+  returns:
+    description: "the ContainerServiceProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties?alt=com.azure.resourcemanager.containerservice.fluent.models.ContainerServiceProperties&text=ContainerServiceProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

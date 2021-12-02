@@ -1,0 +1,33 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.authorization.fluent.models.OdataError"
+fullName: "com.azure.resourcemanager.authorization.fluent.models.OdataError"
+name: "OdataError"
+nameWithType: "OdataError"
+summary: "Active Directory OData error information."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class OdataError"
+constructors:
+- "com.azure.resourcemanager.authorization.fluent.models.OdataError.OdataError()"
+methods:
+- "com.azure.resourcemanager.authorization.fluent.models.OdataError.code()"
+- "com.azure.resourcemanager.authorization.fluent.models.OdataError.message()"
+- "com.azure.resourcemanager.authorization.fluent.models.OdataError.validate()"
+- "com.azure.resourcemanager.authorization.fluent.models.OdataError.withCode(java.lang.String)"
+- "com.azure.resourcemanager.authorization.fluent.models.OdataError.withMessage(java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

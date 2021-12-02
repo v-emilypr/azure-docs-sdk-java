@@ -1,13 +1,13 @@
 ### YamlMime:JavaMember
-uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getHealthApis*"
-fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getHealthApis"
+uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getHealthApis*"
+fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getHealthApis"
 name: "getHealthApis"
-nameWithType: "AzureWebPubSubServiceRestAPIImpl.getHealthApis"
+nameWithType: "AzureWebPubSubServiceRestApiImpl.getHealthApis"
 members:
-- uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getHealthApis()"
-  fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestAPIImpl.getHealthApis()"
+- uid: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getHealthApis()"
+  fullName: "com.azure.messaging.webpubsub.implementation.AzureWebPubSubServiceRestApiImpl.getHealthApis()"
   name: "getHealthApis()"
-  nameWithType: "AzureWebPubSubServiceRestAPIImpl.getHealthApis()"
+  nameWithType: "AzureWebPubSubServiceRestApiImpl.getHealthApis()"
   summary: "Gets the HealthApisImpl object to access its operations."
   syntax: "public HealthApisImpl getHealthApis()"
   returns:
@@ -16,4 +16,4 @@ members:
 type: "method"
 metadata: {}
 package: "com.azure.messaging.webpubsub.implementation"
-artifact: com.azure:azure-messaging-webpubsub:1.0.0-beta.6
+artifact: com.azure:azure-messaging-webpubsub:1.1.0-alpha.20211201.1

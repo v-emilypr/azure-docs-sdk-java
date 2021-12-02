@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.count*"
+fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.count"
+name: "count"
+nameWithType: "ResourceMetricValue.count"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.count()"
+  fullName: "com.azure.resourcemanager.appservice.models.ResourceMetricValue.count()"
+  name: "count()"
+  nameWithType: "ResourceMetricValue.count()"
+  summary: "Get the count property: Value count."
+  syntax: "public Float count()"
+  returns:
+    description: "the count value."
+    type: "<xref href=\"java.lang.Float?alt=java.lang.Float&text=Float\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

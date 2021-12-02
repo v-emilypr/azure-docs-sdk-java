@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.NetworkSecurityGroupsClient.beginUpdateTagsAsync*"
+fullName: "com.azure.resourcemanager.network.fluent.NetworkSecurityGroupsClient.beginUpdateTagsAsync"
+name: "beginUpdateTagsAsync"
+nameWithType: "NetworkSecurityGroupsClient.beginUpdateTagsAsync"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.NetworkSecurityGroupsClient.beginUpdateTagsAsync(java.lang.String,java.lang.String,com.azure.resourcemanager.network.models.TagsObject)"
+  fullName: "com.azure.resourcemanager.network.fluent.NetworkSecurityGroupsClient.beginUpdateTagsAsync(String resourceGroupName, String networkSecurityGroupName, TagsObject parameters)"
+  name: "beginUpdateTagsAsync(String resourceGroupName, String networkSecurityGroupName, TagsObject parameters)"
+  nameWithType: "NetworkSecurityGroupsClient.beginUpdateTagsAsync(String resourceGroupName, String networkSecurityGroupName, TagsObject parameters)"
+  summary: "Updates a network security group tags."
+  parameters:
+  - description: "The name of the resource group."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The name of the network security group."
+    name: "networkSecurityGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Parameters supplied to update network security group tags."
+    name: "parameters"
+    type: "<xref href=\"com.azure.resourcemanager.network.models.TagsObject?alt=com.azure.resourcemanager.network.models.TagsObject&text=TagsObject\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract PollerFlux<PollResult<NetworkSecurityGroupInner>,NetworkSecurityGroupInner> beginUpdateTagsAsync(String resourceGroupName, String networkSecurityGroupName, TagsObject parameters)"
+  returns:
+    description: "networkSecurityGroup resource."
+    type: "<xref href=\"com.azure.core.util.polling.PollerFlux?alt=com.azure.core.util.polling.PollerFlux&text=PollerFlux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.management.polling.PollResult?alt=com.azure.core.management.polling.PollResult&text=PollResult\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.fluent.models.NetworkSecurityGroupInner?alt=com.azure.resourcemanager.network.fluent.models.NetworkSecurityGroupInner&text=NetworkSecurityGroupInner\" data-throw-if-not-resolved=\"False\" />&gt;,<xref href=\"com.azure.resourcemanager.network.fluent.models.NetworkSecurityGroupInner?alt=com.azure.resourcemanager.network.fluent.models.NetworkSecurityGroupInner&text=NetworkSecurityGroupInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

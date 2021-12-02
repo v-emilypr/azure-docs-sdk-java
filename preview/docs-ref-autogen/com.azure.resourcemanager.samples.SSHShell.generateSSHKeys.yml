@@ -1,0 +1,31 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.SSHShell.generateSSHKeys*"
+fullName: "com.azure.resourcemanager.samples.SSHShell.generateSSHKeys"
+name: "generateSSHKeys"
+nameWithType: "SSHShell.generateSSHKeys"
+members:
+- uid: "com.azure.resourcemanager.samples.SSHShell.generateSSHKeys(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.samples.SSHShell.generateSSHKeys(String passPhrase, String comment)"
+  name: "generateSSHKeys(String passPhrase, String comment)"
+  nameWithType: "SSHShell.generateSSHKeys(String passPhrase, String comment)"
+  summary: "Automatically generate SSH keys."
+  parameters:
+  - description: "the byte array content to be uploaded"
+    name: "passPhrase"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the name of the file for which the content will be saved into"
+    name: "comment"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static SSHShell.SshPublicPrivateKey generateSSHKeys(String passPhrase, String comment)"
+  exceptions:
+  - description: "exception thrown"
+    type: "<xref href=\"java.io.UnsupportedEncodingException?alt=java.io.UnsupportedEncodingException&text=UnsupportedEncodingException\" data-throw-if-not-resolved=\"False\" />"
+  - description: "exception thrown"
+    type: "<xref href=\"com.jcraft.jsch.JSchException?alt=com.jcraft.jsch.JSchException&text=JSchException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "SSH public and private key"
+    type: "<xref href=\"com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey?alt=com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey&text=SshPublicPrivateKey\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

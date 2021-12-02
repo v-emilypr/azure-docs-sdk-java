@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.DetectorDefinitionProperties.DetectorDefinitionProperties*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.DetectorDefinitionProperties.DetectorDefinitionProperties"
+name: "DetectorDefinitionProperties"
+nameWithType: "DetectorDefinitionProperties.DetectorDefinitionProperties"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.DetectorDefinitionProperties.DetectorDefinitionProperties()"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.DetectorDefinitionProperties.DetectorDefinitionProperties()"
+  name: "DetectorDefinitionProperties()"
+  nameWithType: "DetectorDefinitionProperties.DetectorDefinitionProperties()"
+  syntax: "public DetectorDefinitionProperties()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

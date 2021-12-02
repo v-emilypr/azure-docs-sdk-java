@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.eventhubs.samples.ManageEventHubEvents"
+fullName: "com.azure.resourcemanager.eventhubs.samples.ManageEventHubEvents"
+name: "ManageEventHubEvents"
+nameWithType: "ManageEventHubEvents"
+summary: "Stream Azure Service Logs and Metrics for consumption through Event Hub. - Create a DocumentDB instance - Creates a Event Hub namespace and an Event Hub in it - Retrieve the root namespace authorization rule - Enable diagnostics on a existing cosmosDB to stream events to event hub"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ManageEventHubEvents"
+constructors:
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHubEvents.ManageEventHubEvents()"
+methods:
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHubEvents.main(java.lang.String[])"
+- "com.azure.resourcemanager.eventhubs.samples.ManageEventHubEvents.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.eventhubs.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

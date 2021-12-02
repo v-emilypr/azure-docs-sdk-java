@@ -41,4 +41,4 @@ methods:
 type: "class"
 metadata: {}
 package: "com.azure.resourcemanager.hybridnetwork.fluent.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-hybridnetwork:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-hybridnetwork:1.0.0-alpha.20211201.1

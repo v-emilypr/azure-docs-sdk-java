@@ -1,0 +1,31 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud"
+fullName: "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud"
+name: "ManageSpringCloud"
+nameWithType: "ManageSpringCloud"
+summary: "Azure App Platform sample for managing Spring Cloud. - Create a Spring Cloud Service - Create 3 app: gateway, auth-service, account-service from sample - Open public endpoint for gateway - Create a custom domain - Add a CNAME to the gateway fully qualified domain name - Order a certificate - Save the certificate to a key vault - Assign certificate to spring cloud - Assign custom domain to gateway endpoint"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class ManageSpringCloud"
+constructors:
+- "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.ManageSpringCloud()"
+methods:
+- "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.extraTarGzSource(java.io.File,java.net.URL)"
+- "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.main(java.lang.String[])"
+- "com.azure.resourcemanager.appplatform.samples.ManageSpringCloud.runSample(com.azure.resourcemanager.AzureResourceManager,java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appplatform.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

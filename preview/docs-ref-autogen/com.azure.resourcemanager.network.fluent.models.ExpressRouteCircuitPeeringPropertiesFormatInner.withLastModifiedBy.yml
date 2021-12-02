@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner.withLastModifiedBy*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner.withLastModifiedBy"
+name: "withLastModifiedBy"
+nameWithType: "ExpressRouteCircuitPeeringPropertiesFormatInner.withLastModifiedBy"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner.withLastModifiedBy(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner.withLastModifiedBy(String lastModifiedBy)"
+  name: "withLastModifiedBy(String lastModifiedBy)"
+  nameWithType: "ExpressRouteCircuitPeeringPropertiesFormatInner.withLastModifiedBy(String lastModifiedBy)"
+  summary: "Set the lastModifiedBy property: Gets whether the provider or the customer last modified the peering."
+  parameters:
+  - description: "the lastModifiedBy value to set."
+    name: "lastModifiedBy"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ExpressRouteCircuitPeeringPropertiesFormatInner withLastModifiedBy(String lastModifiedBy)"
+  returns:
+    description: "the ExpressRouteCircuitPeeringPropertiesFormatInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner?alt=com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner&text=ExpressRouteCircuitPeeringPropertiesFormatInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

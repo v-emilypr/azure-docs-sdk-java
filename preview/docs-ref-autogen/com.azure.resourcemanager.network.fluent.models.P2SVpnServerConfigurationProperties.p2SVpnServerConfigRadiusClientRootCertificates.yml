@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.p2SVpnServerConfigRadiusClientRootCertificates*"
+fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.p2SVpnServerConfigRadiusClientRootCertificates"
+name: "p2SVpnServerConfigRadiusClientRootCertificates"
+nameWithType: "P2SVpnServerConfigurationProperties.p2SVpnServerConfigRadiusClientRootCertificates"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.p2SVpnServerConfigRadiusClientRootCertificates()"
+  fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationProperties.p2SVpnServerConfigRadiusClientRootCertificates()"
+  name: "p2SVpnServerConfigRadiusClientRootCertificates()"
+  nameWithType: "P2SVpnServerConfigurationProperties.p2SVpnServerConfigRadiusClientRootCertificates()"
+  summary: "Get the p2SVpnServerConfigRadiusClientRootCertificates property: Radius client root certificate of P2SVpnServerConfiguration."
+  syntax: "public List<P2SVpnServerConfigRadiusClientRootCertificate> p2SVpnServerConfigRadiusClientRootCertificates()"
+  returns:
+    description: "the p2SVpnServerConfigRadiusClientRootCertificates value."
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.models.P2SVpnServerConfigRadiusClientRootCertificate?alt=com.azure.resourcemanager.network.models.P2SVpnServerConfigRadiusClientRootCertificate&text=P2SVpnServerConfigRadiusClientRootCertificate\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

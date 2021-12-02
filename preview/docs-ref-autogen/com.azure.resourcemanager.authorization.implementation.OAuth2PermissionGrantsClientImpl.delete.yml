@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.delete*"
+fullName: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.delete"
+name: "delete"
+nameWithType: "OAuth2PermissionGrantsClientImpl.delete"
+members:
+- uid: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.delete(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.delete(String objectId, String tenantId)"
+  name: "delete(String objectId, String tenantId)"
+  nameWithType: "OAuth2PermissionGrantsClientImpl.delete(String objectId, String tenantId)"
+  summary: "Delete a OAuth2 permission grant for the relevant resource Ids of an app."
+  parameters:
+  - description: "The object ID of a permission grant."
+    name: "objectId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The tenant ID."
+    name: "tenantId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void delete(String objectId, String tenantId)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

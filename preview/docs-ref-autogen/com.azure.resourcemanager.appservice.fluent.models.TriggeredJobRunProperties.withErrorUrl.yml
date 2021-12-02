@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withErrorUrl*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withErrorUrl"
+name: "withErrorUrl"
+nameWithType: "TriggeredJobRunProperties.withErrorUrl"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withErrorUrl(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties.withErrorUrl(String errorUrl)"
+  name: "withErrorUrl(String errorUrl)"
+  nameWithType: "TriggeredJobRunProperties.withErrorUrl(String errorUrl)"
+  summary: "Set the errorUrl property: Error URL."
+  parameters:
+  - description: "the errorUrl value to set."
+    name: "errorUrl"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public TriggeredJobRunProperties withErrorUrl(String errorUrl)"
+  returns:
+    description: "the TriggeredJobRunProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties?alt=com.azure.resourcemanager.appservice.fluent.models.TriggeredJobRunProperties&text=TriggeredJobRunProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

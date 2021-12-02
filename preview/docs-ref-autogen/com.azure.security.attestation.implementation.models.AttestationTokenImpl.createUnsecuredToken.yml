@@ -1,0 +1,32 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createUnsecuredToken*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createUnsecuredToken"
+name: "createUnsecuredToken"
+nameWithType: "AttestationTokenImpl.createUnsecuredToken"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createUnsecuredToken()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createUnsecuredToken()"
+  name: "createUnsecuredToken()"
+  nameWithType: "AttestationTokenImpl.createUnsecuredToken()"
+  summary: "Create an unsecured attestation token with an empty body. Used for resetting attestation policies."
+  syntax: "public static AttestationToken createUnsecuredToken()"
+  returns:
+    description: "Newly created unsecured attestation token with an empty body."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationToken?alt=com.azure.security.attestation.models.AttestationToken&text=AttestationToken\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createUnsecuredToken(java.lang.String)"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.createUnsecuredToken(String stringBody)"
+  name: "createUnsecuredToken(String stringBody)"
+  nameWithType: "AttestationTokenImpl.createUnsecuredToken(String stringBody)"
+  summary: "Create an unsecured attestation token from the specified string body."
+  parameters:
+  - description: "Body of the attestation token."
+    name: "stringBody"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static AttestationToken createUnsecuredToken(String stringBody)"
+  returns:
+    description: "Newly created unsecured attestation token based off the serialized body."
+    type: "<xref href=\"com.azure.security.attestation.models.AttestationToken?alt=com.azure.security.attestation.models.AttestationToken&text=AttestationToken\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211201.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.withNextLink*"
+fullName: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.withNextLink"
+name: "withNextLink"
+nameWithType: "ListP2SVpnServerConfigurationsResult.withNextLink"
+members:
+- uid: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.withNextLink(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.withNextLink(String nextLink)"
+  name: "withNextLink(String nextLink)"
+  nameWithType: "ListP2SVpnServerConfigurationsResult.withNextLink(String nextLink)"
+  summary: "Set the nextLink property: URL to get the next set of operation list results if there are any."
+  parameters:
+  - description: "the nextLink value to set."
+    name: "nextLink"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ListP2SVpnServerConfigurationsResult withNextLink(String nextLink)"
+  returns:
+    description: "the ListP2SVpnServerConfigurationsResult object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult?alt=com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult&text=ListP2SVpnServerConfigurationsResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

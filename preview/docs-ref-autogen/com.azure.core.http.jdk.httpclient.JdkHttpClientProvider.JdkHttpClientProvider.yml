@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.http.jdk.httpclient.JdkHttpClientProvider.JdkHttpClientProvider*"
+fullName: "com.azure.core.http.jdk.httpclient.JdkHttpClientProvider.JdkHttpClientProvider"
+name: "JdkHttpClientProvider"
+nameWithType: "JdkHttpClientProvider.JdkHttpClientProvider"
+members:
+- uid: "com.azure.core.http.jdk.httpclient.JdkHttpClientProvider.JdkHttpClientProvider()"
+  fullName: "com.azure.core.http.jdk.httpclient.JdkHttpClientProvider.JdkHttpClientProvider()"
+  name: "JdkHttpClientProvider()"
+  nameWithType: "JdkHttpClientProvider.JdkHttpClientProvider()"
+  syntax: "public JdkHttpClientProvider()"
+type: "constructor"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211201.1

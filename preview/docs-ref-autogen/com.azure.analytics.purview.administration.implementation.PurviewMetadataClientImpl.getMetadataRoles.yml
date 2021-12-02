@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getMetadataRoles*"
+fullName: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getMetadataRoles"
+name: "getMetadataRoles"
+nameWithType: "PurviewMetadataClientImpl.getMetadataRoles"
+members:
+- uid: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getMetadataRoles()"
+  fullName: "com.azure.analytics.purview.administration.implementation.PurviewMetadataClientImpl.getMetadataRoles()"
+  name: "getMetadataRoles()"
+  nameWithType: "PurviewMetadataClientImpl.getMetadataRoles()"
+  summary: "Gets the MetadataRolesImpl object to access its operations."
+  syntax: "public MetadataRolesImpl getMetadataRoles()"
+  returns:
+    description: "the MetadataRolesImpl object."
+    type: "<xref href=\"com.azure.analytics.purview.administration.implementation.MetadataRolesImpl?alt=com.azure.analytics.purview.administration.implementation.MetadataRolesImpl&text=MetadataRolesImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration.implementation"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211201.1

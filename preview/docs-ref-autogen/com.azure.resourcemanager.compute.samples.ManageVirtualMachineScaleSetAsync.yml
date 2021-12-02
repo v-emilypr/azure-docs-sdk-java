@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.compute.samples.ManageVirtualMachineScaleSetAsync"
+fullName: "com.azure.resourcemanager.compute.samples.ManageVirtualMachineScaleSetAsync"
+name: "ManageVirtualMachineScaleSetAsync"
+nameWithType: "ManageVirtualMachineScaleSetAsync"
+summary: "Azure Compute sample for managing virtual machine scale sets with un-managed disks - - Create a virtual machine scale set behind an Internet facing load balancer - Install Apache Web servers in virtual machines in the virtual machine scale set - List scale set virtual machine instances and SSH collection string - Stop a virtual machine scale set - Start a virtual machine scale set - Update a virtual machine scale set - Double the no. of virtual machines - Restart a virtual machine scale set"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageVirtualMachineScaleSetAsync"
+methods:
+- "com.azure.resourcemanager.compute.samples.ManageVirtualMachineScaleSetAsync.main(java.lang.String[])"
+- "com.azure.resourcemanager.compute.samples.ManageVirtualMachineScaleSetAsync.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.compute.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

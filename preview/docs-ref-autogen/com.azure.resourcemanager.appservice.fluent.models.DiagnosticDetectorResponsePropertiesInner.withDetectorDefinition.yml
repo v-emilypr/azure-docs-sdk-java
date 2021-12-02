@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withDetectorDefinition*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withDetectorDefinition"
+name: "withDetectorDefinition"
+nameWithType: "DiagnosticDetectorResponsePropertiesInner.withDetectorDefinition"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withDetectorDefinition(com.azure.resourcemanager.appservice.fluent.models.DetectorDefinitionInner)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner.withDetectorDefinition(DetectorDefinitionInner detectorDefinition)"
+  name: "withDetectorDefinition(DetectorDefinitionInner detectorDefinition)"
+  nameWithType: "DiagnosticDetectorResponsePropertiesInner.withDetectorDefinition(DetectorDefinitionInner detectorDefinition)"
+  summary: "Set the detectorDefinition property: Detector's definition."
+  parameters:
+  - description: "the detectorDefinition value to set."
+    name: "detectorDefinition"
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.DetectorDefinitionInner?alt=com.azure.resourcemanager.appservice.fluent.models.DetectorDefinitionInner&text=DetectorDefinitionInner\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DiagnosticDetectorResponsePropertiesInner withDetectorDefinition(DetectorDefinitionInner detectorDefinition)"
+  returns:
+    description: "the DiagnosticDetectorResponsePropertiesInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner?alt=com.azure.resourcemanager.appservice.fluent.models.DiagnosticDetectorResponsePropertiesInner&text=DiagnosticDetectorResponsePropertiesInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

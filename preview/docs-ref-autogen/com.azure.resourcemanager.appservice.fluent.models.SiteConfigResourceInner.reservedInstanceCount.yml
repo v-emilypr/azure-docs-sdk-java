@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.models.SiteConfigResourceInner.reservedInstanceCount*"
+fullName: "com.azure.resourcemanager.appservice.fluent.models.SiteConfigResourceInner.reservedInstanceCount"
+name: "reservedInstanceCount"
+nameWithType: "SiteConfigResourceInner.reservedInstanceCount"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.models.SiteConfigResourceInner.reservedInstanceCount()"
+  fullName: "com.azure.resourcemanager.appservice.fluent.models.SiteConfigResourceInner.reservedInstanceCount()"
+  name: "reservedInstanceCount()"
+  nameWithType: "SiteConfigResourceInner.reservedInstanceCount()"
+  summary: "Get the reservedInstanceCount property: Number of reserved instances. This setting only applies to the Consumption Plan."
+  syntax: "public Integer reservedInstanceCount()"
+  returns:
+    description: "the reservedInstanceCount value."
+    type: "<xref href=\"java.lang.Integer?alt=java.lang.Integer&text=Integer\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

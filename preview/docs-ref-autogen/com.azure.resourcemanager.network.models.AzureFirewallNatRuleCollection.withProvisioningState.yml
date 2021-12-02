@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.models.AzureFirewallNatRuleCollection.withProvisioningState*"
+fullName: "com.azure.resourcemanager.network.models.AzureFirewallNatRuleCollection.withProvisioningState"
+name: "withProvisioningState"
+nameWithType: "AzureFirewallNatRuleCollection.withProvisioningState"
+members:
+- uid: "com.azure.resourcemanager.network.models.AzureFirewallNatRuleCollection.withProvisioningState(com.azure.resourcemanager.network.models.ProvisioningState)"
+  fullName: "com.azure.resourcemanager.network.models.AzureFirewallNatRuleCollection.withProvisioningState(ProvisioningState provisioningState)"
+  name: "withProvisioningState(ProvisioningState provisioningState)"
+  nameWithType: "AzureFirewallNatRuleCollection.withProvisioningState(ProvisioningState provisioningState)"
+  summary: "Set the provisioningState property: The provisioning state of the resource."
+  parameters:
+  - description: "the provisioningState value to set."
+    name: "provisioningState"
+    type: "<xref href=\"com.azure.resourcemanager.network.models.ProvisioningState?alt=com.azure.resourcemanager.network.models.ProvisioningState&text=ProvisioningState\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AzureFirewallNatRuleCollection withProvisioningState(ProvisioningState provisioningState)"
+  returns:
+    description: "the AzureFirewallNatRuleCollection object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.models.AzureFirewallNatRuleCollection?alt=com.azure.resourcemanager.network.models.AzureFirewallNatRuleCollection&text=AzureFirewallNatRuleCollection\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

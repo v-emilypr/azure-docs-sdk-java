@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.proxy*"
+fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.proxy"
+name: "proxy"
+nameWithType: "JdkAsyncHttpClientBuilder.proxy"
+members:
+- uid: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.proxy(com.azure.core.http.ProxyOptions)"
+  fullName: "com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder.proxy(ProxyOptions proxyOptions)"
+  name: "proxy(ProxyOptions proxyOptions)"
+  nameWithType: "JdkAsyncHttpClientBuilder.proxy(ProxyOptions proxyOptions)"
+  summary: "Sets the proxy.\n\n**Code Samples**\n\n```java\nfinal String proxyHost = \"<proxy-host>\"; // e.g. localhost\n final int proxyPort = 9999; // Proxy port\n ProxyOptions proxyOptions = new ProxyOptions(ProxyOptions.Type.HTTP,\n         new InetSocketAddress(proxyHost, proxyPort));\n HttpClient client = new JdkAsyncHttpClientBuilder()\n         .proxy(proxyOptions)\n         .build();\n```"
+  parameters:
+  - description: "The proxy configuration to use."
+    name: "proxyOptions"
+    type: "<xref href=\"com.azure.core.http.ProxyOptions?alt=com.azure.core.http.ProxyOptions&text=ProxyOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public JdkAsyncHttpClientBuilder proxy(ProxyOptions proxyOptions)"
+  returns:
+    description: "the updated <xref uid=\"com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder\" data-throw-if-not-resolved=\"false\" data-raw-source=\"JdkAsyncHttpClientBuilder\"></xref> object"
+    type: "<xref href=\"com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder?alt=com.azure.core.http.jdk.httpclient.JdkAsyncHttpClientBuilder&text=JdkAsyncHttpClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.core.http.jdk.httpclient"
+artifact: com.azure:azure-core-http-jdk-httpclient:1.0.0-alpha.20211201.1

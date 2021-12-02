@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.models.P2SVpnServerConfigVpnClientRevokedCertificate.withId*"
+fullName: "com.azure.resourcemanager.network.models.P2SVpnServerConfigVpnClientRevokedCertificate.withId"
+name: "withId"
+nameWithType: "P2SVpnServerConfigVpnClientRevokedCertificate.withId"
+members:
+- uid: "com.azure.resourcemanager.network.models.P2SVpnServerConfigVpnClientRevokedCertificate.withId(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.models.P2SVpnServerConfigVpnClientRevokedCertificate.withId(String id)"
+  name: "withId(String id)"
+  nameWithType: "P2SVpnServerConfigVpnClientRevokedCertificate.withId(String id)"
+  overridden: "com.azure.core.management.SubResource.withId(java.lang.String)"
+  parameters:
+  - name: "id"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public P2SVpnServerConfigVpnClientRevokedCertificate withId(String id)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.network.models.P2SVpnServerConfigVpnClientRevokedCertificate?alt=com.azure.resourcemanager.network.models.P2SVpnServerConfigVpnClientRevokedCertificate&text=P2SVpnServerConfigVpnClientRevokedCertificate\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

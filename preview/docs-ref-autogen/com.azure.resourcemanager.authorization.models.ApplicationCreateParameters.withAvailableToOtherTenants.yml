@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withAvailableToOtherTenants*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withAvailableToOtherTenants"
+name: "withAvailableToOtherTenants"
+nameWithType: "ApplicationCreateParameters.withAvailableToOtherTenants"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withAvailableToOtherTenants(java.lang.Boolean)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationCreateParameters.withAvailableToOtherTenants(Boolean availableToOtherTenants)"
+  name: "withAvailableToOtherTenants(Boolean availableToOtherTenants)"
+  nameWithType: "ApplicationCreateParameters.withAvailableToOtherTenants(Boolean availableToOtherTenants)"
+  summary: "Set the availableToOtherTenants property: Whether the application is available to other tenants."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withAvailableToOtherTenants(java.lang.Boolean)"
+  parameters:
+  - name: "availableToOtherTenants"
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationCreateParameters withAvailableToOtherTenants(Boolean availableToOtherTenants)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationCreateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationCreateParameters&text=ApplicationCreateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

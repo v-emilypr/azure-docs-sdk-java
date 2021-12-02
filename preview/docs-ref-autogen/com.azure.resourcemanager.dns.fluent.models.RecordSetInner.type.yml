@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.type*"
+fullName: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.type"
+name: "type"
+nameWithType: "RecordSetInner.type"
+members:
+- uid: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.type()"
+  fullName: "com.azure.resourcemanager.dns.fluent.models.RecordSetInner.type()"
+  name: "type()"
+  nameWithType: "RecordSetInner.type()"
+  summary: "Get the type property: The type of the record set."
+  overridden: "com.azure.core.management.ProxyResource.type()"
+  syntax: "public String type()"
+  returns:
+    description: "the type value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dns.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dns:1.0.0-hybridbeta.1

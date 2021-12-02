@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.ZoneDeleteResultInner*"
+fullName: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.ZoneDeleteResultInner"
+name: "ZoneDeleteResultInner"
+nameWithType: "ZoneDeleteResultInner.ZoneDeleteResultInner"
+members:
+- uid: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.ZoneDeleteResultInner()"
+  fullName: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.ZoneDeleteResultInner()"
+  name: "ZoneDeleteResultInner()"
+  nameWithType: "ZoneDeleteResultInner.ZoneDeleteResultInner()"
+  syntax: "public ZoneDeleteResultInner()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.dns.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dns:1.0.0-hybridbeta.1

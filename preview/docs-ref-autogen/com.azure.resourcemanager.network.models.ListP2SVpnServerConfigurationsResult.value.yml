@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.value*"
+fullName: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.value"
+name: "value"
+nameWithType: "ListP2SVpnServerConfigurationsResult.value"
+members:
+- uid: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.value()"
+  fullName: "com.azure.resourcemanager.network.models.ListP2SVpnServerConfigurationsResult.value()"
+  name: "value()"
+  nameWithType: "ListP2SVpnServerConfigurationsResult.value()"
+  summary: "Get the value property: List of P2SVpnServerConfigurations."
+  syntax: "public List<P2SVpnServerConfigurationInner> value()"
+  returns:
+    description: "the value value."
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationInner?alt=com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigurationInner&text=P2SVpnServerConfigurationInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

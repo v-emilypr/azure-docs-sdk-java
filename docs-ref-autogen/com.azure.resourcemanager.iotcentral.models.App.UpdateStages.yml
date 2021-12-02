@@ -8,4 +8,4 @@ syntax: "public static interface App.UpdateStages"
 type: "interface"
 metadata: {}
 package: "com.azure.resourcemanager.iotcentral.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-iotcentral:1.0.0
+artifact: com.azure.resourcemanager:azure-resourcemanager-iotcentral:1.0.0-alpha.20211201.1

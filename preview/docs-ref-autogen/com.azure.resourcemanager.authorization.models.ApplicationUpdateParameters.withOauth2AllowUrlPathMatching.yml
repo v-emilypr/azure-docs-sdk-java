@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withOauth2AllowUrlPathMatching*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withOauth2AllowUrlPathMatching"
+name: "withOauth2AllowUrlPathMatching"
+nameWithType: "ApplicationUpdateParameters.withOauth2AllowUrlPathMatching"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withOauth2AllowUrlPathMatching(java.lang.Boolean)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withOauth2AllowUrlPathMatching(Boolean oauth2AllowUrlPathMatching)"
+  name: "withOauth2AllowUrlPathMatching(Boolean oauth2AllowUrlPathMatching)"
+  nameWithType: "ApplicationUpdateParameters.withOauth2AllowUrlPathMatching(Boolean oauth2AllowUrlPathMatching)"
+  summary: "Set the oauth2AllowUrlPathMatching property: Specifies whether during a token Request Azure AD will allow path matching of the redirect URI against the applications collection of replyURLs. The default is false."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withOauth2AllowUrlPathMatching(java.lang.Boolean)"
+  parameters:
+  - name: "oauth2AllowUrlPathMatching"
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationUpdateParameters withOauth2AllowUrlPathMatching(Boolean oauth2AllowUrlPathMatching)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters&text=ApplicationUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

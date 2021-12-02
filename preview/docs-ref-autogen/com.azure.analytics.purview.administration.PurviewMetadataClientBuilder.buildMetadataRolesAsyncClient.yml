@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataRolesAsyncClient*"
+fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataRolesAsyncClient"
+name: "buildMetadataRolesAsyncClient"
+nameWithType: "PurviewMetadataClientBuilder.buildMetadataRolesAsyncClient"
+members:
+- uid: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataRolesAsyncClient()"
+  fullName: "com.azure.analytics.purview.administration.PurviewMetadataClientBuilder.buildMetadataRolesAsyncClient()"
+  name: "buildMetadataRolesAsyncClient()"
+  nameWithType: "PurviewMetadataClientBuilder.buildMetadataRolesAsyncClient()"
+  summary: "Builds an instance of MetadataRolesAsyncClient async client."
+  syntax: "public MetadataRolesAsyncClient buildMetadataRolesAsyncClient()"
+  returns:
+    description: "an instance of MetadataRolesAsyncClient."
+    type: "<xref href=\"com.azure.analytics.purview.administration.MetadataRolesAsyncClient?alt=com.azure.analytics.purview.administration.MetadataRolesAsyncClient&text=MetadataRolesAsyncClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.purview.administration"
+artifact: com.azure:azure-analytics-purview-administration:1.0.0-alpha.20211201.1

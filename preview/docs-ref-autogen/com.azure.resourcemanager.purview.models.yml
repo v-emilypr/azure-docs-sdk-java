@@ -76,4 +76,4 @@ interfaces:
 - "com.azure.resourcemanager.purview.models.PrivateLinkResources"
 metadata: {}
 package: "com.azure.resourcemanager.purview.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-purview:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-purview:1.0.0-alpha.20211201.1

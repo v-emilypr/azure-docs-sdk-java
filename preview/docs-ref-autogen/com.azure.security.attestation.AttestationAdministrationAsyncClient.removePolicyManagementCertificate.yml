@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.AttestationAdministrationAsyncClient.removePolicyManagementCertificate*"
+fullName: "com.azure.security.attestation.AttestationAdministrationAsyncClient.removePolicyManagementCertificate"
+name: "removePolicyManagementCertificate"
+nameWithType: "AttestationAdministrationAsyncClient.removePolicyManagementCertificate"
+members:
+- uid: "com.azure.security.attestation.AttestationAdministrationAsyncClient.removePolicyManagementCertificate(com.azure.security.attestation.models.PolicyManagementCertificateOptions)"
+  fullName: "com.azure.security.attestation.AttestationAdministrationAsyncClient.removePolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  name: "removePolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  nameWithType: "AttestationAdministrationAsyncClient.removePolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  summary: "Removes a policy management certificate from the set of policy management certificates."
+  parameters:
+  - description: "Options for this API call, encapsulating both the X.509 certificate to remove from the set of policy\n               signing certificates and the signing key used to sign the request to the service."
+    name: "options"
+    type: "<xref href=\"com.azure.security.attestation.models.PolicyManagementCertificateOptions?alt=com.azure.security.attestation.models.PolicyManagementCertificateOptions&text=PolicyManagementCertificateOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<PolicyCertificatesModificationResult> removePolicyManagementCertificate(PolicyManagementCertificateOptions options)"
+  returns:
+    description: "the response to an attestation policy operation."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.PolicyCertificatesModificationResult?alt=com.azure.security.attestation.models.PolicyCertificatesModificationResult&text=PolicyCertificatesModificationResult\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation"
+artifact: com.azure:azure-security-attestation:1.0.0-alpha.20211201.1

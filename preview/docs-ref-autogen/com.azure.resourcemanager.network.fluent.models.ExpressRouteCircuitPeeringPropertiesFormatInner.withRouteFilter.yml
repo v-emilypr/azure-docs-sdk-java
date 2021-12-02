@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner.withRouteFilter*"
+fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner.withRouteFilter"
+name: "withRouteFilter"
+nameWithType: "ExpressRouteCircuitPeeringPropertiesFormatInner.withRouteFilter"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner.withRouteFilter(com.azure.resourcemanager.network.fluent.models.RouteFilterInner)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner.withRouteFilter(RouteFilterInner routeFilter)"
+  name: "withRouteFilter(RouteFilterInner routeFilter)"
+  nameWithType: "ExpressRouteCircuitPeeringPropertiesFormatInner.withRouteFilter(RouteFilterInner routeFilter)"
+  summary: "Set the routeFilter property: The reference of the RouteFilter resource."
+  parameters:
+  - description: "the routeFilter value to set."
+    name: "routeFilter"
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.RouteFilterInner?alt=com.azure.resourcemanager.network.fluent.models.RouteFilterInner&text=RouteFilterInner\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ExpressRouteCircuitPeeringPropertiesFormatInner withRouteFilter(RouteFilterInner routeFilter)"
+  returns:
+    description: "the ExpressRouteCircuitPeeringPropertiesFormatInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner?alt=com.azure.resourcemanager.network.fluent.models.ExpressRouteCircuitPeeringPropertiesFormatInner&text=ExpressRouteCircuitPeeringPropertiesFormatInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

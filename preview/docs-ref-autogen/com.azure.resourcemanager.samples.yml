@@ -1,0 +1,14 @@
+### YamlMime:JavaPackage
+uid: "com.azure.resourcemanager.samples"
+fullName: "com.azure.resourcemanager.samples"
+name: "com.azure.resourcemanager.samples"
+summary: "This package contains the classes for compute samples."
+classes:
+- "com.azure.resourcemanager.samples.DockerUtils"
+- "com.azure.resourcemanager.samples.DockerUtils.DockerSSLConfig"
+- "com.azure.resourcemanager.samples.SSHShell"
+- "com.azure.resourcemanager.samples.SSHShell.SshPublicPrivateKey"
+- "com.azure.resourcemanager.samples.Utils"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

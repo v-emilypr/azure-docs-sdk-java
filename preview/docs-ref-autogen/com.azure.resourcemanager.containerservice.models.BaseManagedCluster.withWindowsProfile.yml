@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withWindowsProfile*"
+fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withWindowsProfile"
+name: "withWindowsProfile"
+nameWithType: "BaseManagedCluster.withWindowsProfile"
+members:
+- uid: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withWindowsProfile(com.azure.resourcemanager.containerservice.models.ManagedClusterWindowsProfile)"
+  fullName: "com.azure.resourcemanager.containerservice.models.BaseManagedCluster.withWindowsProfile(ManagedClusterWindowsProfile windowsProfile)"
+  name: "withWindowsProfile(ManagedClusterWindowsProfile windowsProfile)"
+  nameWithType: "BaseManagedCluster.withWindowsProfile(ManagedClusterWindowsProfile windowsProfile)"
+  summary: "Set the windowsProfile property: Profile for Windows VMs in the container service cluster."
+  parameters:
+  - description: "the windowsProfile value to set."
+    name: "windowsProfile"
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.ManagedClusterWindowsProfile?alt=com.azure.resourcemanager.containerservice.models.ManagedClusterWindowsProfile&text=ManagedClusterWindowsProfile\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public BaseManagedCluster withWindowsProfile(ManagedClusterWindowsProfile windowsProfile)"
+  returns:
+    description: "the BaseManagedCluster object itself."
+    type: "<xref href=\"com.azure.resourcemanager.containerservice.models.BaseManagedCluster?alt=com.azure.resourcemanager.containerservice.models.BaseManagedCluster&text=BaseManagedCluster\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.containerservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-containerservice:1.0.0-hybridbeta.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withBaseUrl*"
+fullName: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withBaseUrl"
+name: "withBaseUrl"
+nameWithType: "ValidateContainerSettingsRequest.withBaseUrl"
+members:
+- uid: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withBaseUrl(java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest.withBaseUrl(String baseUrl)"
+  name: "withBaseUrl(String baseUrl)"
+  nameWithType: "ValidateContainerSettingsRequest.withBaseUrl(String baseUrl)"
+  summary: "Set the baseUrl property: Base URL of the container registry."
+  parameters:
+  - description: "the baseUrl value to set."
+    name: "baseUrl"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ValidateContainerSettingsRequest withBaseUrl(String baseUrl)"
+  returns:
+    description: "the ValidateContainerSettingsRequest object itself."
+    type: "<xref href=\"com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest?alt=com.azure.resourcemanager.appservice.models.ValidateContainerSettingsRequest&text=ValidateContainerSettingsRequest\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

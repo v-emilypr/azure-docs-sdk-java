@@ -1,0 +1,42 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl"
+fullName: "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl"
+name: "OAuth2PermissionGrantsClientImpl"
+nameWithType: "OAuth2PermissionGrantsClientImpl"
+summary: "An instance of this class provides access to all the operations defined in OAuth2PermissionGrantsClient."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class OAuth2PermissionGrantsClientImpl implements InnerSupportsDelete<Void>, OAuth2PermissionGrantsClient"
+methods:
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.create(java.lang.String)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.createAsync(java.lang.String)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.createAsync(java.lang.String,com.azure.resourcemanager.authorization.fluent.models.OAuth2PermissionGrantInner)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.createWithResponse(java.lang.String,com.azure.resourcemanager.authorization.fluent.models.OAuth2PermissionGrantInner,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.createWithResponseAsync(java.lang.String,com.azure.resourcemanager.authorization.fluent.models.OAuth2PermissionGrantInner)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.delete(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.deleteAsync(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.deleteWithResponse(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.deleteWithResponseAsync(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.list(java.lang.String)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.list(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.listAsync(java.lang.String)"
+- "com.azure.resourcemanager.authorization.implementation.OAuth2PermissionGrantsClientImpl.listAsync(java.lang.String,java.lang.String)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.authorization.fluent.OAuth2PermissionGrantsClient?alt=com.azure.resourcemanager.authorization.fluent.OAuth2PermissionGrantsClient&text=OAuth2PermissionGrantsClient\" data-throw-if-not-resolved=\"False\" />"
+- "<xref href=\"com.azure.resourcemanager.resources.fluentcore.collection.InnerSupportsDelete?alt=com.azure.resourcemanager.resources.fluentcore.collection.InnerSupportsDelete&text=InnerSupportsDelete\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.Void?alt=java.lang.Void&text=Void\" data-throw-if-not-resolved=\"False\" />&gt;"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

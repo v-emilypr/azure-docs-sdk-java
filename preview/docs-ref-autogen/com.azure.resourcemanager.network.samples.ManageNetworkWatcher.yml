@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.network.samples.ManageNetworkWatcher"
+fullName: "com.azure.resourcemanager.network.samples.ManageNetworkWatcher"
+name: "ManageNetworkWatcher"
+nameWithType: "ManageNetworkWatcher"
+summary: "Azure Network sample for managing network watcher. - Create Network Watcher - Manage packet capture - track traffic to and from a virtual machine Create a VM Start a packet capture Stop a packet capture Get a packet capture Delete a packet capture - Verify IP flow - verify if traffic is allowed to or from a virtual machine Get the IP address of a NIC on a virtual machine Test IP flow on the NIC - Analyze next hop - get the next hop type and IP address for a virtual machine - Retrieve network topology for a resource group - Analyze Virtual Machine Security by examining effective network security rules applied to a VM Get security group view for the VM - Configure Network Security Group Flow Logs Get flow log settings Enable NSG flow log Disable NSG flow log - Download a packet capture - Download a flow log - Delete network watcher"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageNetworkWatcher"
+methods:
+- "com.azure.resourcemanager.network.samples.ManageNetworkWatcher.main(java.lang.String[])"
+- "com.azure.resourcemanager.network.samples.ManageNetworkWatcher.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.network.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

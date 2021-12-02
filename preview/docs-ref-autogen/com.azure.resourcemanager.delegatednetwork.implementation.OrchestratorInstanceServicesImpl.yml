@@ -39,4 +39,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.delegatednetwork.models.OrchestratorInstanceServices?alt=com.azure.resourcemanager.delegatednetwork.models.OrchestratorInstanceServices&text=OrchestratorInstanceServices\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.delegatednetwork.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-delegatednetwork:1.0.0-beta.1
+artifact: com.azure.resourcemanager:azure-resourcemanager-delegatednetwork:1.0.0-alpha.20211130.1

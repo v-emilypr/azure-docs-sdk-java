@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withWwwHomepage*"
+fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withWwwHomepage"
+name: "withWwwHomepage"
+nameWithType: "ApplicationUpdateParameters.withWwwHomepage"
+members:
+- uid: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withWwwHomepage(java.lang.String)"
+  fullName: "com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters.withWwwHomepage(String wwwHomepage)"
+  name: "withWwwHomepage(String wwwHomepage)"
+  nameWithType: "ApplicationUpdateParameters.withWwwHomepage(String wwwHomepage)"
+  summary: "Set the wwwHomepage property: The primary Web page."
+  overridden: "com.azure.resourcemanager.authorization.models.ApplicationBase.withWwwHomepage(java.lang.String)"
+  parameters:
+  - name: "wwwHomepage"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationUpdateParameters withWwwHomepage(String wwwHomepage)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters?alt=com.azure.resourcemanager.authorization.models.ApplicationUpdateParameters&text=ApplicationUpdateParameters\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.authorization.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-authorization:1.0.0-hybridbeta.1

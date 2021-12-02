@@ -1,0 +1,48 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.Utils.randomResourceName*"
+fullName: "com.azure.resourcemanager.samples.Utils.randomResourceName"
+name: "randomResourceName"
+nameWithType: "Utils.randomResourceName"
+members:
+- uid: "com.azure.resourcemanager.samples.Utils.randomResourceName(com.azure.resourcemanager.AzureResourceManager,java.lang.String,int)"
+  fullName: "com.azure.resourcemanager.samples.Utils.randomResourceName(AzureResourceManager azure, String prefix, int maxLen)"
+  name: "randomResourceName(AzureResourceManager azure, String prefix, int maxLen)"
+  nameWithType: "Utils.randomResourceName(AzureResourceManager azure, String prefix, int maxLen)"
+  summary: "Creates a randomized resource name. Please provider your own implementation, or avoid using the method, if code is to be used in production."
+  parameters:
+  - description: "the AzureResourceManager instance."
+    name: "azure"
+    type: "<xref href=\"com.azure.resourcemanager.AzureResourceManager?alt=com.azure.resourcemanager.AzureResourceManager&text=AzureResourceManager\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the prefix to the name."
+    name: "prefix"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the max length of the name."
+    name: "maxLen"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static String randomResourceName(AzureResourceManager azure, String prefix, int maxLen)"
+  returns:
+    description: "the randomized resource name."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.samples.Utils.randomResourceName(com.azure.resourcemanager.AzureResourceManager.Authenticated,java.lang.String,int)"
+  fullName: "com.azure.resourcemanager.samples.Utils.randomResourceName(AzureResourceManager.Authenticated authenticated, String prefix, int maxLen)"
+  name: "randomResourceName(AzureResourceManager.Authenticated authenticated, String prefix, int maxLen)"
+  nameWithType: "Utils.randomResourceName(AzureResourceManager.Authenticated authenticated, String prefix, int maxLen)"
+  summary: "Creates a randomized resource name. Please provider your own implementation, or avoid using the method, if code is to be used in production."
+  parameters:
+  - description: "the AzureResourceManager.Authenticated instance."
+    name: "authenticated"
+    type: "<xref href=\"com.azure.resourcemanager.AzureResourceManager.Authenticated?alt=com.azure.resourcemanager.AzureResourceManager.Authenticated&text=Authenticated\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the prefix to the name."
+    name: "prefix"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "the max length of the name."
+    name: "maxLen"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static String randomResourceName(AzureResourceManager.Authenticated authenticated, String prefix, int maxLen)"
+  returns:
+    description: "the randomized resource name."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

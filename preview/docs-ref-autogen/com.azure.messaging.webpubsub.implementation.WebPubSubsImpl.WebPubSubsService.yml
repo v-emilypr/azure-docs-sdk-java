@@ -3,7 +3,7 @@ uid: "com.azure.messaging.webpubsub.implementation.WebPubSubsImpl.WebPubSubsServ
 fullName: "com.azure.messaging.webpubsub.implementation.WebPubSubsImpl.WebPubSubsService"
 name: "WebPubSubsImpl.WebPubSubsService"
 nameWithType: "WebPubSubsImpl.WebPubSubsService"
-summary: "The interface defining all the services for AzureWebPubSubServiceRestAPIWebPubSubs to be used by the proxy service to perform REST calls."
+summary: "The interface defining all the services for AzureWebPubSubServiceRestApiWebPubSubs to be used by the proxy service to perform REST calls."
 syntax: "public static interface WebPubSubsImpl.WebPubSubsService"
 methods:
 - "com.azure.messaging.webpubsub.implementation.WebPubSubsImpl.WebPubSubsService.addConnectionToGroup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.azure.core.http.rest.RequestOptions,com.azure.core.util.Context)"
@@ -29,4 +29,4 @@ methods:
 type: "interface"
 metadata: {}
 package: "com.azure.messaging.webpubsub.implementation"
-artifact: com.azure:azure-messaging-webpubsub:1.0.0-beta.6
+artifact: com.azure:azure-messaging-webpubsub:1.1.0-alpha.20211201.1

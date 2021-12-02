@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.resources.fluent.models.PolicyDefinitionProperties.withParameters*"
+fullName: "com.azure.resourcemanager.resources.fluent.models.PolicyDefinitionProperties.withParameters"
+name: "withParameters"
+nameWithType: "PolicyDefinitionProperties.withParameters"
+members:
+- uid: "com.azure.resourcemanager.resources.fluent.models.PolicyDefinitionProperties.withParameters(java.lang.Object)"
+  fullName: "com.azure.resourcemanager.resources.fluent.models.PolicyDefinitionProperties.withParameters(Object parameters)"
+  name: "withParameters(Object parameters)"
+  nameWithType: "PolicyDefinitionProperties.withParameters(Object parameters)"
+  summary: "Set the parameters property: Required if a parameter is used in policy rule."
+  parameters:
+  - description: "the parameters value to set."
+    name: "parameters"
+    type: "<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PolicyDefinitionProperties withParameters(Object parameters)"
+  returns:
+    description: "the PolicyDefinitionProperties object itself."
+    type: "<xref href=\"com.azure.resourcemanager.resources.fluent.models.PolicyDefinitionProperties?alt=com.azure.resourcemanager.resources.fluent.models.PolicyDefinitionProperties&text=PolicyDefinitionProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.resources.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-resources:1.0.0-hybridbeta.1

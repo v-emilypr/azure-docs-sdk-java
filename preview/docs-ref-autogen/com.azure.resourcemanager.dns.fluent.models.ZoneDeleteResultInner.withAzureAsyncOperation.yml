@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.withAzureAsyncOperation*"
+fullName: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.withAzureAsyncOperation"
+name: "withAzureAsyncOperation"
+nameWithType: "ZoneDeleteResultInner.withAzureAsyncOperation"
+members:
+- uid: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.withAzureAsyncOperation(java.lang.String)"
+  fullName: "com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner.withAzureAsyncOperation(String azureAsyncOperation)"
+  name: "withAzureAsyncOperation(String azureAsyncOperation)"
+  nameWithType: "ZoneDeleteResultInner.withAzureAsyncOperation(String azureAsyncOperation)"
+  summary: "Set the azureAsyncOperation property: Users can perform a Get on Azure-AsyncOperation to get the status of their delete Zone operations."
+  parameters:
+  - description: "the azureAsyncOperation value to set."
+    name: "azureAsyncOperation"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ZoneDeleteResultInner withAzureAsyncOperation(String azureAsyncOperation)"
+  returns:
+    description: "the ZoneDeleteResultInner object itself."
+    type: "<xref href=\"com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner?alt=com.azure.resourcemanager.dns.fluent.models.ZoneDeleteResultInner&text=ZoneDeleteResultInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dns.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dns:1.0.0-hybridbeta.1

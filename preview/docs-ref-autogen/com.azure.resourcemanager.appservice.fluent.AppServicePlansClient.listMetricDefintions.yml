@@ -1,0 +1,45 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appservice.fluent.AppServicePlansClient.listMetricDefintions*"
+fullName: "com.azure.resourcemanager.appservice.fluent.AppServicePlansClient.listMetricDefintions"
+name: "listMetricDefintions"
+nameWithType: "AppServicePlansClient.listMetricDefintions"
+members:
+- uid: "com.azure.resourcemanager.appservice.fluent.AppServicePlansClient.listMetricDefintions(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.AppServicePlansClient.listMetricDefintions(String resourceGroupName, String name)"
+  name: "listMetricDefintions(String resourceGroupName, String name)"
+  nameWithType: "AppServicePlansClient.listMetricDefintions(String resourceGroupName, String name)"
+  summary: "Get metrics that can be queried for an App Service plan, and their definitions."
+  parameters:
+  - description: "Name of the resource group to which the resource belongs."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Name of the App Service plan."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract PagedIterable<ResourceMetricDefinitionInner> listMetricDefintions(String resourceGroupName, String name)"
+  returns:
+    description: "metrics that can be queried for an App Service plan, and their definitions."
+    type: "<xref href=\"com.azure.core.http.rest.PagedIterable?alt=com.azure.core.http.rest.PagedIterable&text=PagedIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appservice.fluent.models.ResourceMetricDefinitionInner?alt=com.azure.resourcemanager.appservice.fluent.models.ResourceMetricDefinitionInner&text=ResourceMetricDefinitionInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.resourcemanager.appservice.fluent.AppServicePlansClient.listMetricDefintions(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.appservice.fluent.AppServicePlansClient.listMetricDefintions(String resourceGroupName, String name, Context context)"
+  name: "listMetricDefintions(String resourceGroupName, String name, Context context)"
+  nameWithType: "AppServicePlansClient.listMetricDefintions(String resourceGroupName, String name, Context context)"
+  summary: "Get metrics that can be queried for an App Service plan, and their definitions."
+  parameters:
+  - description: "Name of the resource group to which the resource belongs."
+    name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Name of the App Service plan."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The context to associate with this operation."
+    name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract PagedIterable<ResourceMetricDefinitionInner> listMetricDefintions(String resourceGroupName, String name, Context context)"
+  returns:
+    description: "metrics that can be queried for an App Service plan, and their definitions."
+    type: "<xref href=\"com.azure.core.http.rest.PagedIterable?alt=com.azure.core.http.rest.PagedIterable&text=PagedIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appservice.fluent.models.ResourceMetricDefinitionInner?alt=com.azure.resourcemanager.appservice.fluent.models.ResourceMetricDefinitionInner&text=ResourceMetricDefinitionInner\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.fluent"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appservice:1.0.0-hybridbeta.1

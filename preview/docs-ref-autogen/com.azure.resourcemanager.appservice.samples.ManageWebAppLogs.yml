@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appservice.samples.ManageWebAppLogs"
+fullName: "com.azure.resourcemanager.appservice.samples.ManageWebAppLogs"
+name: "ManageWebAppLogs"
+nameWithType: "ManageWebAppLogs"
+summary: "Azure App Service basic sample for managing web app logs. - Create a function app under the same new app service plan: - Deploy to app using FTP - stream logs synchronously for 30 seconds - stream logs asynchronously until 3 requests are completed"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ManageWebAppLogs"
+constructors:
+- "com.azure.resourcemanager.appservice.samples.ManageWebAppLogs.ManageWebAppLogs()"
+methods:
+- "com.azure.resourcemanager.appservice.samples.ManageWebAppLogs.main(java.lang.String[])"
+- "com.azure.resourcemanager.appservice.samples.ManageWebAppLogs.runSample(com.azure.resourcemanager.AzureResourceManager)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.appservice.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3

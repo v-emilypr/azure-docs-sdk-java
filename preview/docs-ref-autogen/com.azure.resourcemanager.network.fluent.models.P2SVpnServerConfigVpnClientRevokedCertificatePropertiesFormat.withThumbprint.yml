@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.withThumbprint*"
+fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.withThumbprint"
+name: "withThumbprint"
+nameWithType: "P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.withThumbprint"
+members:
+- uid: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.withThumbprint(java.lang.String)"
+  fullName: "com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.withThumbprint(String thumbprint)"
+  name: "withThumbprint(String thumbprint)"
+  nameWithType: "P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat.withThumbprint(String thumbprint)"
+  summary: "Set the thumbprint property: The revoked VPN client certificate thumbprint."
+  parameters:
+  - description: "the thumbprint value to set."
+    name: "thumbprint"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat withThumbprint(String thumbprint)"
+  returns:
+    description: "the P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat object itself."
+    type: "<xref href=\"com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat?alt=com.azure.resourcemanager.network.fluent.models.P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat&text=P2SVpnServerConfigVpnClientRevokedCertificatePropertiesFormat\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.network.fluent.models"
+artifact: com.azure.resourcemanager:azure-resourcemanager-network:1.0.0-hybridbeta.1

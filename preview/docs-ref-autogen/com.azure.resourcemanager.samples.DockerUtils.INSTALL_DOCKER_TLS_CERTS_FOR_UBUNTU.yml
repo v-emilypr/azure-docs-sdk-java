@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.samples.DockerUtils.INSTALL_DOCKER_TLS_CERTS_FOR_UBUNTU*"
+fullName: "com.azure.resourcemanager.samples.DockerUtils.INSTALL_DOCKER_TLS_CERTS_FOR_UBUNTU"
+name: "INSTALL_DOCKER_TLS_CERTS_FOR_UBUNTU"
+nameWithType: "DockerUtils.INSTALL_DOCKER_TLS_CERTS_FOR_UBUNTU"
+members:
+- uid: "com.azure.resourcemanager.samples.DockerUtils.INSTALL_DOCKER_TLS_CERTS_FOR_UBUNTU"
+  fullName: "com.azure.resourcemanager.samples.DockerUtils.INSTALL_DOCKER_TLS_CERTS_FOR_UBUNTU"
+  name: "INSTALL_DOCKER_TLS_CERTS_FOR_UBUNTU"
+  nameWithType: "DockerUtils.INSTALL_DOCKER_TLS_CERTS_FOR_UBUNTU"
+  summary: "Bash script that sets up the TLS certificates to be used in a secured Docker configuration file; must be run on the Docker dockerHostUrl after the VM is provisioned."
+  syntax: "public static final String INSTALL_DOCKER_TLS_CERTS_FOR_UBUNTU"
+type: "field"
+metadata: {}
+package: "com.azure.resourcemanager.samples"
+artifact: com.azure.resourcemanager:azure-resourcemanager-samples:2.0.0-alpha.20211130.3
