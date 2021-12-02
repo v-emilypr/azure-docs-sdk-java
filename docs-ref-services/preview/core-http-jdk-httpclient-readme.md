@@ -1,6 +1,6 @@
 ---
-title: Azure Core Netty HTTP plugin library for Java
-keywords: Azure, java, SDK, API, azure-core-http-netty, core
+title: Azure Core JDK HTTP plugin library for Java
+keywords: Azure, java, SDK, API, azure-core-http-jdk-httpclient, core
 author: alzimmermsft
 ms.author: alzimmermsft
 ms.date: 12/02/2021
@@ -11,57 +11,26 @@ ms.devlang: java
 ms.service: core
 ---
 
-# Azure Core Netty HTTP plugin library for Java - Version 1.12.0-alpha.20211202.1 
+# Azure Core JDK HTTP plugin library for Java - Version 1.0.0-alpha.20211202.1 
 
 
-Azure Core Netty HTTP client is a plugin for the `azure-core` HTTP client API.
+This is an azure-core HTTP client that makes use of the asynchronous HttpClient that was made generally available as 
+part of JDK 11. 
 
 ## Getting started
 
 ### Prerequisites
 
-- A [Java Development Kit (JDK)][jdk_link], version 8 or later.
+- A [Java Development Kit (JDK)][jdk_link], version 11 or later.
 
-### Include the package
-#### Include the BOM file
+### Adding the package to your product
 
-Please include the azure-sdk-bom to your project to take dependency on the General Availability (GA) version of the library. In the following snippet, replace the {bom_version_to_target} placeholder with the version number.
-To learn more about the BOM, see the [AZURE SDK BOM README](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/boms/azure-sdk-bom/README.md).
-
-```xml
-<dependencyManagement>
-    <dependencies>
-        <dependency>
-            <groupId>com.azure</groupId>
-            <artifactId>azure-sdk-bom</artifactId>
-            <version>{bom_version_to_target}</version>
-            <type>pom</type>
-            <scope>import</scope>
-        </dependency>
-    </dependencies>
-</dependencyManagement>
-```
-and then include the direct dependency in the dependencies section without the version tag.
-
-```xml
-<dependencies>
-  <dependency>
-    <groupId>com.azure</groupId>
-    <artifactId>azure-core-http-netty</artifactId>
-  </dependency>
-</dependencies>
-```
-
-#### Include direct dependency
-If you want to take dependency on a particular version of the library that is not present in the BOM,
-add the direct dependency to your project as follows.
-
-[//]: # ({x-version-update-start;com.azure:azure-core-http-netty;current})
+[//]: # ({x-version-update-start;com.azure:azure-core-http-jdk-httpclient;current})
 ```xml
 <dependency>
     <groupId>com.azure</groupId>
-    <artifactId>azure-core-http-netty</artifactId>
-    <version>1.11.3</version>
+    <artifactId>azure-core-http-jdk-httpclient</artifactId>
+    <version>1.0.0-beta.1</version>
 </dependency>
 ```
 [//]: # ({x-version-update-end})
@@ -77,18 +46,24 @@ The following sections provide several code snippets covering some of the most c
 
 ### Create a Simple Client
 
-Create a Netty Http client that uses port 80 and has no proxy.
+Create a HttpClient.
 
 ```java readme-sample-createBasicClient
-HttpClient client = new NettyAsyncHttpClientBuilder().build();
+HttpClient client = new JdkAsyncHttpClientBuilder().build();
+```
+
+Create a HttpClient using a connection timeout of 60 seconds.
+
+```java readme-sample-createClientWithConnectionTimeout
+HttpClient client = new JdkAsyncHttpClientBuilder().connectionTimeout(Duration.ofSeconds(60)).build();
 ```
 
 ### Create a Client with Proxy
 
-Create a Netty Http client that is using a proxy.
+Create a HttpClient that is using a proxy.
 
 ```java readme-sample-createProxyClient
-HttpClient client = new NettyAsyncHttpClientBuilder()
+HttpClient client = new JdkAsyncHttpClientBuilder()
     .proxy(new ProxyOptions(ProxyOptions.Type.HTTP, new InetSocketAddress("<proxy-host>", 8888)))
     .build();
 ```
@@ -118,9 +93,9 @@ For details on contributing to this repository, see the [contributing guide](htt
 1. Push to the branch (`git push origin my-new-feature`)
 1. Create new Pull Request
 
-<!-- Links -->
+<!-- links -->
 [logging]: https://github.com/Azure/azure-sdk-for-java/wiki/Logging-with-Azure-SDK
 [jdk_link]: https://docs.microsoft.com/java/azure/jdk/?view=azure-java-stable
 
-![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-java%2Fsdk%2Fcore%2Fazure-core-http-netty%2FREADME.png)
+![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-java%2Fsdk%2Fcore%2Fazure-core-http-jdk-httpclient%2FREADME.png)
 
