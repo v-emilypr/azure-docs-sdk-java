@@ -11,10 +11,10 @@ ms.devlang: java
 ms.service: resources
 ---
 
-# Azure Resource Manager client library for Java - Version 2.11.0-alpha.20211201.2 
+# Azure Resource Manager client library for Java - Version 1.0.0-hybridbeta.1 
+ (Hybrid)
 
-
-Azure Resource Manager client library for Java
+Azure Resource Manager client library for Java (Hybrid)
 
 For documentation on how to use this package, please see [Azure Management Libraries for Java](https://aka.ms/azsdk/java/mgmt).
 
@@ -32,7 +32,7 @@ For documentation on how to use this package, please see [Azure Management Libra
 <dependency>
     <groupId>com.azure.resourcemanager</groupId>
     <artifactId>azure-resourcemanager</artifactId>
-    <version>2.10.0</version>
+    <version>1.0.0-hybrid</version>
 </dependency>
 ```
 [//]: # ({x-version-update-end})
