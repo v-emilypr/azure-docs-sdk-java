@@ -1,0 +1,14 @@
+{
+  "Name": "azure-resourcemanager-netapp",
+  "Version": "1.0.0-alpha.20211202.1",
+  "DevVersion": "1.0.0-alpha.20211202.1",
+  "DirectoryPath": "sdk/netapp/azure-resourcemanager-netapp",
+  "ServiceDirectory": "netapp",
+  "ReadMePath": "sdk/netapp/azure-resourcemanager-netapp/README.md",
+  "ChangeLogPath": "sdk/netapp/azure-resourcemanager-netapp/CHANGELOG.md",
+  "Group": "com.azure.resourcemanager",
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-resourcemanager-netapp",
+  "ReleaseStatus": "Unreleased"
+}
