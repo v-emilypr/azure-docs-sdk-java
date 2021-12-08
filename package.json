@@ -1038,7 +1038,7 @@
       {
         "packageArtifactId": "azure-cosmos-encryption",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-beta.9",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1140,7 +1140,7 @@
       {
         "packageArtifactId": "azure-resourcemanager-apimanagement",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.2",
+        "packageVersion": "1.0.0-alpha.20211207.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1374,7 +1374,7 @@
       {
         "packageArtifactId": "azure-resourcemanager-imagebuilder",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-beta.2",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1609,13 +1609,13 @@
       {
         "packageArtifactId": "azure-resourcemanager-avs",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.3",
+        "packageVersion": "1.0.0-alpha.20211207.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
         "packageArtifactId": "azure-resourcemanager-vmwarecloudsimple",
         "packageGroupId": "com.azure.resourcemanager",
-        "packageVersion": "1.0.0-beta.1",
+        "packageVersion": "1.0.0-alpha.20211207.1",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1767,7 +1767,7 @@
         "excludePath": [],
         "inputPath": [],
         "packageGroupId": "com.azure",
-        "packageVersion": "1.2.1-beta.1232188",
+        "packageVersion": "1.2.1-beta.1232540",
         "packageArtifactId": "azure-sdk-template",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
