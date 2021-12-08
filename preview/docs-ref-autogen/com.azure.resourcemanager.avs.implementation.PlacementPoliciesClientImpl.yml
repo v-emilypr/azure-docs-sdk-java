@@ -41,4 +41,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.avs.fluent.PlacementPoliciesClient?alt=com.azure.resourcemanager.avs.fluent.PlacementPoliciesClient&text=PlacementPoliciesClient\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.avs.implementation"
-artifact: com.azure.resourcemanager:azure-resourcemanager-avs:1.0.0-beta.3
+artifact: com.azure.resourcemanager:azure-resourcemanager-avs:1.0.0-alpha.20211207.1

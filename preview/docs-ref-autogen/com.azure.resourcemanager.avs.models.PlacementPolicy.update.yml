@@ -15,4 +15,4 @@ implements:
 - "<xref href=\"com.azure.resourcemanager.avs.models.PlacementPolicy.UpdateStages.WithVmMembers?alt=com.azure.resourcemanager.avs.models.PlacementPolicy.UpdateStages.WithVmMembers&text=WithVmMembers\" data-throw-if-not-resolved=\"False\" />"
 metadata: {}
 package: "com.azure.resourcemanager.avs.models"
-artifact: com.azure.resourcemanager:azure-resourcemanager-avs:1.0.0-beta.3
+artifact: com.azure.resourcemanager:azure-resourcemanager-avs:1.0.0-alpha.20211207.1
