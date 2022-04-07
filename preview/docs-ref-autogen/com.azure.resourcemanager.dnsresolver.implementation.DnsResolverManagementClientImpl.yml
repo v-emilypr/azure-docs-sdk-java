@@ -1,0 +1,43 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl"
+name: "DnsResolverManagementClientImpl"
+nameWithType: "DnsResolverManagementClientImpl"
+summary: "Initializes a new instance of the DnsResolverManagementClientImpl type."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class DnsResolverManagementClientImpl implements DnsResolverManagementClient"
+methods:
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.<T,U>getLroFinalResultOrError(com.azure.core.util.polling.AsyncPollResponse<com.azure.core.management.polling.PollResult<T>,U>)"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.<T,U>getLroResult(reactor.core.publisher.Mono<com.azure.core.http.rest.Response<reactor.core.publisher.Flux<java.nio.ByteBuffer>>>,com.azure.core.http.HttpPipeline,java.lang.reflect.Type,java.lang.reflect.Type,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getApiVersion()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getContext()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getDefaultPollInterval()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getDnsForwardingRulesets()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getDnsResolvers()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getEndpoint()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getForwardingRules()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getHttpPipeline()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getInboundEndpoints()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getOutboundEndpoints()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getSubscriptionId()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.getVirtualNetworkLinks()"
+- "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverManagementClientImpl.mergeContext(com.azure.core.util.Context)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.dnsresolver.fluent.DnsResolverManagementClient?alt=com.azure.resourcemanager.dnsresolver.fluent.DnsResolverManagementClient&text=DnsResolverManagementClient\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DateTimeOffset.getOffsetDateTime*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DateTimeOffset.getOffsetDateTime"
+name: "getOffsetDateTime"
+nameWithType: "DateTimeOffset.getOffsetDateTime"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DateTimeOffset.getOffsetDateTime()"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DateTimeOffset.getOffsetDateTime()"
+  name: "getOffsetDateTime()"
+  nameWithType: "DateTimeOffset.getOffsetDateTime()"
+  summary: "Returns OffsetDateTime equivalent to this DateTimeOffset object."
+  syntax: "public OffsetDateTime getOffsetDateTime()"
+  returns:
+    description: "OffsetDateTime equivalent to this DateTimeOffset object."
+    type: "<xref href=\"java.time.OffsetDateTime?alt=java.time.OffsetDateTime&text=OffsetDateTime\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

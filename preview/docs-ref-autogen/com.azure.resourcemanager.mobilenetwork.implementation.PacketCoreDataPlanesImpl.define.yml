@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlanesImpl.define*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlanesImpl.define"
+name: "define"
+nameWithType: "PacketCoreDataPlanesImpl.define"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlanesImpl.define(java.lang.String)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlanesImpl.define(String name)"
+  name: "define(String name)"
+  nameWithType: "PacketCoreDataPlanesImpl.define(String name)"
+  summary: "Begins definition for a new PacketCoreDataPlane resource."
+  parameters:
+  - name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PacketCoreDataPlaneImpl define(String name)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl&text=PacketCoreDataPlaneImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

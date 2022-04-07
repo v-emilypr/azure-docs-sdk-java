@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mediaservices.implementation.StreamingEndpointImpl.withSku*"
+fullName: "com.azure.resourcemanager.mediaservices.implementation.StreamingEndpointImpl.withSku"
+name: "withSku"
+nameWithType: "StreamingEndpointImpl.withSku"
+members:
+- uid: "com.azure.resourcemanager.mediaservices.implementation.StreamingEndpointImpl.withSku(com.azure.resourcemanager.mediaservices.models.ArmStreamingEndpointCurrentSku)"
+  fullName: "com.azure.resourcemanager.mediaservices.implementation.StreamingEndpointImpl.withSku(ArmStreamingEndpointCurrentSku sku)"
+  name: "withSku(ArmStreamingEndpointCurrentSku sku)"
+  nameWithType: "StreamingEndpointImpl.withSku(ArmStreamingEndpointCurrentSku sku)"
+  summary: "Specifies the sku property: The streaming endpoint sku.."
+  parameters:
+  - name: "sku"
+    type: "<xref href=\"com.azure.resourcemanager.mediaservices.models.ArmStreamingEndpointCurrentSku?alt=com.azure.resourcemanager.mediaservices.models.ArmStreamingEndpointCurrentSku&text=ArmStreamingEndpointCurrentSku\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public StreamingEndpointImpl withSku(ArmStreamingEndpointCurrentSku sku)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mediaservices.implementation.StreamingEndpointImpl?alt=com.azure.resourcemanager.mediaservices.implementation.StreamingEndpointImpl&text=StreamingEndpointImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mediaservices.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mediaservices:2.0.0

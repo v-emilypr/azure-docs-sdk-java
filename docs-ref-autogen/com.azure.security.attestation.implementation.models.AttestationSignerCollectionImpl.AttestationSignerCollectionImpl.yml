@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationSignerCollectionImpl.AttestationSignerCollectionImpl*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationSignerCollectionImpl.AttestationSignerCollectionImpl"
+name: "AttestationSignerCollectionImpl"
+nameWithType: "AttestationSignerCollectionImpl.AttestationSignerCollectionImpl"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationSignerCollectionImpl.AttestationSignerCollectionImpl(java.util.List<com.azure.security.attestation.models.AttestationSigner>)"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationSignerCollectionImpl.AttestationSignerCollectionImpl(List<AttestationSigner> newSigners)"
+  name: "AttestationSignerCollectionImpl(List<AttestationSigner> newSigners)"
+  nameWithType: "AttestationSignerCollectionImpl.AttestationSignerCollectionImpl(List<AttestationSigner> newSigners)"
+  parameters:
+  - name: "newSigners"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.security.attestation.models.AttestationSigner?alt=com.azure.security.attestation.models.AttestationSigner&text=AttestationSigner\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public AttestationSignerCollectionImpl(List<AttestationSigner> newSigners)"
+type: "constructor"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.1.0

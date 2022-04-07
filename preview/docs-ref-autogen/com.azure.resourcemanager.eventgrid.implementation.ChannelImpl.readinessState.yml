@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.readinessState*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.readinessState"
+name: "readinessState"
+nameWithType: "ChannelImpl.readinessState"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.readinessState()"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.readinessState()"
+  name: "readinessState()"
+  nameWithType: "ChannelImpl.readinessState()"
+  summary: "Gets the readinessState property: The readiness state of the corresponding partner topic."
+  syntax: "public ReadinessState readinessState()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.eventgrid.models.ReadinessState?alt=com.azure.resourcemanager.eventgrid.models.ReadinessState&text=ReadinessState\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

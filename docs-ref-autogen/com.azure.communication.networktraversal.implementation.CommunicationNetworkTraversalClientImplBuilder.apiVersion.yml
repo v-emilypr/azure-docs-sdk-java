@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.apiVersion*"
+fullName: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.apiVersion"
+name: "apiVersion"
+nameWithType: "CommunicationNetworkTraversalClientImplBuilder.apiVersion"
+members:
+- uid: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.apiVersion(java.lang.String)"
+  fullName: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.apiVersion(String apiVersion)"
+  name: "apiVersion(String apiVersion)"
+  nameWithType: "CommunicationNetworkTraversalClientImplBuilder.apiVersion(String apiVersion)"
+  summary: "Sets Api Version."
+  parameters:
+  - description: "the apiVersion value."
+    name: "apiVersion"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public CommunicationNetworkTraversalClientImplBuilder apiVersion(String apiVersion)"
+  returns:
+    description: "the CommunicationNetworkTraversalClientImplBuilder."
+    type: "<xref href=\"com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder?alt=com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder&text=CommunicationNetworkTraversalClientImplBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.communication.networktraversal.implementation"
+artifact: com.azure:azure-communication-networktraversal:1.0.0

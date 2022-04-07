@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.ai.formrecognizer.implementation.util.DocumentLanguageHelper.DocumentLanguageAccessor.setCode*"
+fullName: "com.azure.ai.formrecognizer.implementation.util.DocumentLanguageHelper.DocumentLanguageAccessor.setCode"
+name: "setCode"
+nameWithType: "DocumentLanguageHelper.DocumentLanguageAccessor.setCode"
+members:
+- uid: "com.azure.ai.formrecognizer.implementation.util.DocumentLanguageHelper.DocumentLanguageAccessor.setCode(com.azure.ai.formrecognizer.models.DocumentLanguage,java.lang.String)"
+  fullName: "com.azure.ai.formrecognizer.implementation.util.DocumentLanguageHelper.DocumentLanguageAccessor.setCode(DocumentLanguage documentLanguage, String content)"
+  name: "setCode(DocumentLanguage documentLanguage, String content)"
+  nameWithType: "DocumentLanguageHelper.DocumentLanguageAccessor.setCode(DocumentLanguage documentLanguage, String content)"
+  parameters:
+  - name: "documentLanguage"
+    type: "<xref href=\"com.azure.ai.formrecognizer.models.DocumentLanguage?alt=com.azure.ai.formrecognizer.models.DocumentLanguage&text=DocumentLanguage\" data-throw-if-not-resolved=\"False\" />"
+  - name: "content"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract void setCode(DocumentLanguage documentLanguage, String content)"
+type: "method"
+metadata: {}
+package: "com.azure.ai.formrecognizer.implementation.util"
+artifact: com.azure:azure-ai-formrecognizer:4.0.0-beta.4

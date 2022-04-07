@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.amqp.implementation.AmqpLoggingUtils.addSignalTypeAndResult*"
+fullName: "com.azure.core.amqp.implementation.AmqpLoggingUtils.addSignalTypeAndResult"
+name: "addSignalTypeAndResult"
+nameWithType: "AmqpLoggingUtils.addSignalTypeAndResult"
+members:
+- uid: "com.azure.core.amqp.implementation.AmqpLoggingUtils.addSignalTypeAndResult(com.azure.core.util.logging.LoggingEventBuilder,reactor.core.publisher.SignalType,reactor.core.publisher.Sinks.EmitResult)"
+  fullName: "com.azure.core.amqp.implementation.AmqpLoggingUtils.addSignalTypeAndResult(LoggingEventBuilder logBuilder, SignalType signalType, Sinks.EmitResult result)"
+  name: "addSignalTypeAndResult(LoggingEventBuilder logBuilder, SignalType signalType, Sinks.EmitResult result)"
+  nameWithType: "AmqpLoggingUtils.addSignalTypeAndResult(LoggingEventBuilder logBuilder, SignalType signalType, Sinks.EmitResult result)"
+  summary: "Adds <xref uid=\"reactor.core.publisher.SignalType\" data-throw-if-not-resolved=\"false\" data-raw-source=\"SignalType\"></xref> under `signalType` key and <xref uid=\"reactor.core.publisher.Sinks.EmitResult\" data-throw-if-not-resolved=\"false\" data-raw-source=\"reactor.core.publisher.Sinks.EmitResult\"></xref> under `emitResult` key to the <xref uid=\"com.azure.core.util.logging.LoggingEventBuilder\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LoggingEventBuilder\"></xref>"
+  parameters:
+  - name: "logBuilder"
+    type: "<xref href=\"com.azure.core.util.logging.LoggingEventBuilder?alt=com.azure.core.util.logging.LoggingEventBuilder&text=LoggingEventBuilder\" data-throw-if-not-resolved=\"False\" />"
+  - name: "signalType"
+    type: "<xref href=\"reactor.core.publisher.SignalType?alt=reactor.core.publisher.SignalType&text=SignalType\" data-throw-if-not-resolved=\"False\" />"
+  - name: "result"
+    type: "<xref href=\"reactor.core.publisher.Sinks.EmitResult?alt=reactor.core.publisher.Sinks.EmitResult&text=EmitResult\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static LoggingEventBuilder addSignalTypeAndResult(LoggingEventBuilder logBuilder, SignalType signalType, Sinks.EmitResult result)"
+  returns:
+    description: "updated <xref uid=\"com.azure.core.util.logging.LoggingEventBuilder\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LoggingEventBuilder\"></xref> for chaining."
+    type: "<xref href=\"com.azure.core.util.logging.LoggingEventBuilder?alt=com.azure.core.util.logging.LoggingEventBuilder&text=LoggingEventBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.core.amqp.implementation"
+artifact: com.azure:azure-core-amqp:2.4.2

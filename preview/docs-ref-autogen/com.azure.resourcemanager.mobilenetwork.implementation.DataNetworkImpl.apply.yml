@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.DataNetworkImpl.apply*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.DataNetworkImpl.apply"
+name: "apply"
+nameWithType: "DataNetworkImpl.apply"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.DataNetworkImpl.apply()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.DataNetworkImpl.apply()"
+  name: "apply()"
+  nameWithType: "DataNetworkImpl.apply()"
+  summary: "Executes the update request."
+  syntax: "public DataNetwork apply()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.DataNetwork?alt=com.azure.resourcemanager.mobilenetwork.models.DataNetwork&text=DataNetwork\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.DataNetworkImpl.apply(com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.DataNetworkImpl.apply(Context context)"
+  name: "apply(Context context)"
+  nameWithType: "DataNetworkImpl.apply(Context context)"
+  summary: "Executes the update request."
+  parameters:
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DataNetwork apply(Context context)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.DataNetwork?alt=com.azure.resourcemanager.mobilenetwork.models.DataNetwork&text=DataNetwork\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

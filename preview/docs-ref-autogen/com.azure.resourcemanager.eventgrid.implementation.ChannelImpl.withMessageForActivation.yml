@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.withMessageForActivation*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.withMessageForActivation"
+name: "withMessageForActivation"
+nameWithType: "ChannelImpl.withMessageForActivation"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.withMessageForActivation(java.lang.String)"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.withMessageForActivation(String messageForActivation)"
+  name: "withMessageForActivation(String messageForActivation)"
+  nameWithType: "ChannelImpl.withMessageForActivation(String messageForActivation)"
+  summary: "Specifies the messageForActivation property: Context or helpful message that can be used during the approval process by the subscriber.."
+  parameters:
+  - name: "messageForActivation"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ChannelImpl withMessageForActivation(String messageForActivation)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.eventgrid.implementation.ChannelImpl?alt=com.azure.resourcemanager.eventgrid.implementation.ChannelImpl&text=ChannelImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

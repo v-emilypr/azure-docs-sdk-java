@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.amqp.implementation.ClientConstants.CONNECTION_ID_KEY*"
+fullName: "com.azure.core.amqp.implementation.ClientConstants.CONNECTION_ID_KEY"
+name: "CONNECTION_ID_KEY"
+nameWithType: "ClientConstants.CONNECTION_ID_KEY"
+members:
+- uid: "com.azure.core.amqp.implementation.ClientConstants.CONNECTION_ID_KEY"
+  fullName: "com.azure.core.amqp.implementation.ClientConstants.CONNECTION_ID_KEY"
+  name: "CONNECTION_ID_KEY"
+  nameWithType: "ClientConstants.CONNECTION_ID_KEY"
+  syntax: "public static final String CONNECTION_ID_KEY"
+type: "field"
+metadata: {}
+package: "com.azure.core.amqp.implementation"
+artifact: com.azure:azure-core-amqp:2.4.2

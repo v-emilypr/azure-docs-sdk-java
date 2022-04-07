@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.keyvault.keys.implementation.models.LifetimeActionType.setType*"
+fullName: "com.azure.security.keyvault.keys.implementation.models.LifetimeActionType.setType"
+name: "setType"
+nameWithType: "LifetimeActionType.setType"
+members:
+- uid: "com.azure.security.keyvault.keys.implementation.models.LifetimeActionType.setType(com.azure.security.keyvault.keys.models.KeyRotationPolicyAction)"
+  fullName: "com.azure.security.keyvault.keys.implementation.models.LifetimeActionType.setType(KeyRotationPolicyAction type)"
+  name: "setType(KeyRotationPolicyAction type)"
+  nameWithType: "LifetimeActionType.setType(KeyRotationPolicyAction type)"
+  summary: "Set the <xref uid=\"com.azure.security.keyvault.keys.models.KeyRotationPolicyAction\" data-throw-if-not-resolved=\"false\" data-raw-source=\"type\"></xref> of the action."
+  parameters:
+  - description: "The <xref uid=\"com.azure.security.keyvault.keys.models.KeyRotationPolicyAction\" data-throw-if-not-resolved=\"false\" data-raw-source=\"type\"></xref> to set."
+    name: "type"
+    type: "<xref href=\"com.azure.security.keyvault.keys.models.KeyRotationPolicyAction?alt=com.azure.security.keyvault.keys.models.KeyRotationPolicyAction&text=KeyRotationPolicyAction\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public LifetimeActionType setType(KeyRotationPolicyAction type)"
+  returns:
+    description: "The updated <xref uid=\"com.azure.security.keyvault.keys.implementation.models.LifetimeActionType\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LifetimeActionType\"></xref> object."
+    type: "<xref href=\"com.azure.security.keyvault.keys.implementation.models.LifetimeActionType?alt=com.azure.security.keyvault.keys.implementation.models.LifetimeActionType&text=LifetimeActionType\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.keyvault.keys.implementation.models"
+artifact: com.azure:azure-security-keyvault-keys:4.4.0-beta.7

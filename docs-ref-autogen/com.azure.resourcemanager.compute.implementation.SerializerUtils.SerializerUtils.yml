@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.compute.implementation.SerializerUtils.SerializerUtils*"
+fullName: "com.azure.resourcemanager.compute.implementation.SerializerUtils.SerializerUtils"
+name: "SerializerUtils"
+nameWithType: "SerializerUtils.SerializerUtils"
+members:
+- uid: "com.azure.resourcemanager.compute.implementation.SerializerUtils.SerializerUtils()"
+  fullName: "com.azure.resourcemanager.compute.implementation.SerializerUtils.SerializerUtils()"
+  name: "SerializerUtils()"
+  nameWithType: "SerializerUtils.SerializerUtils()"
+  syntax: "public SerializerUtils()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.compute.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-compute:2.13.0

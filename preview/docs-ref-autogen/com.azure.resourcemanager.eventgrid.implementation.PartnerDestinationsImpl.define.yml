@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.define*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.define"
+name: "define"
+nameWithType: "PartnerDestinationsImpl.define"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.define(java.lang.String)"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.define(String name)"
+  name: "define(String name)"
+  nameWithType: "PartnerDestinationsImpl.define(String name)"
+  summary: "Begins definition for a new PartnerDestination resource."
+  parameters:
+  - name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PartnerDestinationImpl define(String name)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl?alt=com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl&text=PartnerDestinationImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

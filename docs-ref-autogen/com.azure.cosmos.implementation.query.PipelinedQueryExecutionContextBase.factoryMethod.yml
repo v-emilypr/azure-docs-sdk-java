@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase.factoryMethod*"
+fullName: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase<T>.factoryMethod"
+name: "factoryMethod"
+nameWithType: "PipelinedQueryExecutionContextBase<T>.factoryMethod"
+members:
+- uid: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase.factoryMethod"
+  fullName: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase<T>.factoryMethod"
+  name: "factoryMethod"
+  nameWithType: "PipelinedQueryExecutionContextBase<T>.factoryMethod"
+  syntax: "protected final Function<JsonNode,T> factoryMethod"
+type: "field"
+metadata: {}
+package: "com.azure.cosmos.implementation.query"
+artifact: com.azure:azure-cosmos:4.28.0

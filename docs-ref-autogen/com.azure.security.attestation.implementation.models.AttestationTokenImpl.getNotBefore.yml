@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getNotBefore*"
+fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getNotBefore"
+name: "getNotBefore"
+nameWithType: "AttestationTokenImpl.getNotBefore"
+members:
+- uid: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getNotBefore()"
+  fullName: "com.azure.security.attestation.implementation.models.AttestationTokenImpl.getNotBefore()"
+  name: "getNotBefore()"
+  nameWithType: "AttestationTokenImpl.getNotBefore()"
+  summary: "Get the NotBefore property: The time before which a token cannot be considered valid. The ExpiresOn property corresponds to the \"exp\" claim in a Json Web Token. See [RFC 7519 section 4.1.4][]\n\n\n[RFC 7519 section 4.1.4]: https://datatracker.ietf.org/doc/html/rfc7519#section-4.1.4"
+  syntax: "public OffsetDateTime getNotBefore()"
+  returns:
+    type: "<xref href=\"java.time.OffsetDateTime?alt=java.time.OffsetDateTime&text=OffsetDateTime\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.security.attestation.implementation.models"
+artifact: com.azure:azure-security-attestation:1.1.0

@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.rootKeyHexString*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.rootKeyHexString"
+name: "rootKeyHexString"
+nameWithType: "DataEncryptionKey.rootKeyHexString"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.rootKeyHexString"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.rootKeyHexString"
+  name: "rootKeyHexString"
+  nameWithType: "DataEncryptionKey.rootKeyHexString"
+  summary: "Root key in hex format."
+  syntax: "protected String rootKeyHexString"
+type: "field"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

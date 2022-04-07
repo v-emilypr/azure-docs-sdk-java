@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.HttpConstants.Versions.useSnapshotInsteadOfBeta*"
+fullName: "com.azure.cosmos.implementation.HttpConstants.Versions.useSnapshotInsteadOfBeta"
+name: "useSnapshotInsteadOfBeta"
+nameWithType: "HttpConstants.Versions.useSnapshotInsteadOfBeta"
+members:
+- uid: "com.azure.cosmos.implementation.HttpConstants.Versions.useSnapshotInsteadOfBeta()"
+  fullName: "com.azure.cosmos.implementation.HttpConstants.Versions.useSnapshotInsteadOfBeta()"
+  name: "useSnapshotInsteadOfBeta()"
+  nameWithType: "HttpConstants.Versions.useSnapshotInsteadOfBeta()"
+  syntax: "public static void useSnapshotInsteadOfBeta()"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

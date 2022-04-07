@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.deviceprovisioningservices.implementation.CertificateResponseImpl.withIsVerified*"
+fullName: "com.azure.resourcemanager.deviceprovisioningservices.implementation.CertificateResponseImpl.withIsVerified"
+name: "withIsVerified"
+nameWithType: "CertificateResponseImpl.withIsVerified"
+members:
+- uid: "com.azure.resourcemanager.deviceprovisioningservices.implementation.CertificateResponseImpl.withIsVerified(java.lang.Boolean)"
+  fullName: "com.azure.resourcemanager.deviceprovisioningservices.implementation.CertificateResponseImpl.withIsVerified(Boolean isVerified)"
+  name: "withIsVerified(Boolean isVerified)"
+  nameWithType: "CertificateResponseImpl.withIsVerified(Boolean isVerified)"
+  summary: "Specifies the isVerified property: True indicates that the certificate will be created in verified state and proof of possession will not be required.."
+  parameters:
+  - name: "isVerified"
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public CertificateResponseImpl withIsVerified(Boolean isVerified)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.deviceprovisioningservices.implementation.CertificateResponseImpl?alt=com.azure.resourcemanager.deviceprovisioningservices.implementation.CertificateResponseImpl&text=CertificateResponseImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.deviceprovisioningservices.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-deviceprovisioningservices:1.1.0-beta.1

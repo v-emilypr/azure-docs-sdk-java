@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.implementation.ImplUtils.writeByteBufferToStream*"
+fullName: "com.azure.core.implementation.ImplUtils.writeByteBufferToStream"
+name: "writeByteBufferToStream"
+nameWithType: "ImplUtils.writeByteBufferToStream"
+members:
+- uid: "com.azure.core.implementation.ImplUtils.writeByteBufferToStream(java.nio.ByteBuffer,java.io.OutputStream)"
+  fullName: "com.azure.core.implementation.ImplUtils.writeByteBufferToStream(ByteBuffer buffer, OutputStream stream)"
+  name: "writeByteBufferToStream(ByteBuffer buffer, OutputStream stream)"
+  nameWithType: "ImplUtils.writeByteBufferToStream(ByteBuffer buffer, OutputStream stream)"
+  summary: "Writes a <xref uid=\"java.nio.ByteBuffer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"ByteBuffer\"></xref> into an <xref uid=\"java.io.OutputStream\" data-throw-if-not-resolved=\"false\" data-raw-source=\"OutputStream\"></xref>.\n\nThis method provides writing optimization based on the type of <xref uid=\"java.nio.ByteBuffer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"ByteBuffer\"></xref> and <xref uid=\"java.io.OutputStream\" data-throw-if-not-resolved=\"false\" data-raw-source=\"OutputStream\"></xref> passed. For example, if the <xref uid=\"java.nio.ByteBuffer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"ByteBuffer\"></xref> has a backing `byte[]` this method will access that directly to write to the `stream` instead of buffering the contents of the <xref uid=\"java.nio.ByteBuffer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"ByteBuffer\"></xref> into a temporary buffer."
+  parameters:
+  - description: "The <xref uid=\"java.nio.ByteBuffer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"ByteBuffer\"></xref> to write into the <code>stream</code>."
+    name: "buffer"
+    type: "<xref href=\"java.nio.ByteBuffer?alt=java.nio.ByteBuffer&text=ByteBuffer\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The <xref uid=\"java.io.OutputStream\" data-throw-if-not-resolved=\"false\" data-raw-source=\"OutputStream\"></xref> where the <code>buffer</code> will be written."
+    name: "stream"
+    type: "<xref href=\"java.io.OutputStream?alt=java.io.OutputStream&text=OutputStream\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static void writeByteBufferToStream(ByteBuffer buffer, OutputStream stream)"
+  exceptions:
+  - description: "If an I/O occurs while writing the <code>buffer</code> into the <code>stream</code>."
+    type: "<xref href=\"java.io.IOException?alt=java.io.IOException&text=IOException\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.core.implementation"
+artifact: com.azure:azure-core:1.27.0

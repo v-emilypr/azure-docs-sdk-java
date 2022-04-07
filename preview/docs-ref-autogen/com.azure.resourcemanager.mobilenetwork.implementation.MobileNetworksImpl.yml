@@ -1,0 +1,44 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl"
+name: "MobileNetworksImpl"
+nameWithType: "MobileNetworksImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class MobileNetworksImpl implements MobileNetworks"
+constructors:
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.MobileNetworksImpl(com.azure.resourcemanager.mobilenetwork.fluent.MobileNetworksClient,com.azure.resourcemanager.mobilenetwork.MobileNetworkManager)"
+methods:
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.define(java.lang.String)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.delete(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.deleteById(java.lang.String)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.deleteByIdWithResponse(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.deleteByResourceGroup(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.getById(java.lang.String)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.getByIdWithResponse(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.getByResourceGroup(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.getByResourceGroupWithResponse(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.list()"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.list(com.azure.core.util.Context)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.listByResourceGroup(java.lang.String)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.listByResourceGroup(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.listSimIds(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.listSimIds(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.MobileNetworks?alt=com.azure.resourcemanager.mobilenetwork.models.MobileNetworks&text=MobileNetworks\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.buildClient*"
+fullName: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.buildClient"
+name: "buildClient"
+nameWithType: "CommunicationNetworkTraversalClientImplBuilder.buildClient"
+members:
+- uid: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.buildClient()"
+  fullName: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.buildClient()"
+  name: "buildClient()"
+  nameWithType: "CommunicationNetworkTraversalClientImplBuilder.buildClient()"
+  summary: "Builds an instance of CommunicationNetworkTraversalClientImpl with the provided parameters."
+  syntax: "public CommunicationNetworkTraversalClientImpl buildClient()"
+  returns:
+    description: "an instance of CommunicationNetworkTraversalClientImpl."
+    type: "<xref href=\"com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImpl?alt=com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImpl&text=CommunicationNetworkTraversalClientImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.communication.networktraversal.implementation"
+artifact: com.azure:azure-communication-networktraversal:1.0.0

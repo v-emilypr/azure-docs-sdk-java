@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.ServiceImpl.withServicePrecedence*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.ServiceImpl.withServicePrecedence"
+name: "withServicePrecedence"
+nameWithType: "ServiceImpl.withServicePrecedence"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.ServiceImpl.withServicePrecedence(int)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.ServiceImpl.withServicePrecedence(int servicePrecedence)"
+  name: "withServicePrecedence(int servicePrecedence)"
+  nameWithType: "ServiceImpl.withServicePrecedence(int servicePrecedence)"
+  summary: "Specifies the servicePrecedence property: A precedence value that is used to decide between services when identifying the QoS values to use for a particular Sim. A lower value means a higher priority. This value should be unique among all services configured in the Mobile Network.."
+  parameters:
+  - name: "servicePrecedence"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ServiceImpl withServicePrecedence(int servicePrecedence)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.ServiceImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.ServiceImpl&text=ServiceImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

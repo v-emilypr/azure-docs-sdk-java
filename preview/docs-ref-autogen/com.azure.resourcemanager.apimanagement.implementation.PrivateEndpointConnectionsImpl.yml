@@ -1,0 +1,44 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl"
+fullName: "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl"
+name: "PrivateEndpointConnectionsImpl"
+nameWithType: "PrivateEndpointConnectionsImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class PrivateEndpointConnectionsImpl implements PrivateEndpointConnections"
+constructors:
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.PrivateEndpointConnectionsImpl(com.azure.resourcemanager.apimanagement.fluent.PrivateEndpointConnectionsClient,com.azure.resourcemanager.apimanagement.ApiManagementManager)"
+methods:
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.define(java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.delete(java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.delete(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.deleteById(java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.deleteByIdWithResponse(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.getById(java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.getByIdWithResponse(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.getByName(java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.getByNameWithResponse(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.getPrivateLinkResource(java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.getPrivateLinkResourceWithResponse(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.listByService(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.listByService(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.listPrivateLinkResources(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.listPrivateLinkResourcesWithResponse(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.apimanagement.models.PrivateEndpointConnections?alt=com.azure.resourcemanager.apimanagement.models.PrivateEndpointConnections&text=PrivateEndpointConnections\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.apimanagement.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-apimanagement:1.0.0-beta.3

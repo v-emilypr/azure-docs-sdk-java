@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getCopyDestinationSnapshot*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getCopyDestinationSnapshot"
+name: "getCopyDestinationSnapshot"
+nameWithType: "BlobPropertiesInternal.getCopyDestinationSnapshot"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getCopyDestinationSnapshot()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getCopyDestinationSnapshot()"
+  name: "getCopyDestinationSnapshot()"
+  nameWithType: "BlobPropertiesInternal.getCopyDestinationSnapshot()"
+  syntax: "public abstract String getCopyDestinationSnapshot()"
+  returns:
+    description: "the snapshot time of the last successful incremental copy snapshot for this blob. If this blob isn't an\n incremental copy blob or incremental copy snapshot or <xref uid=\"com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getCopyStatus()\" data-throw-if-not-resolved=\"false\" data-raw-source=\"getCopyStatus\"></xref> isn't <xref uid=\"com.azure.storage.blob.models.CopyStatusType.SUCCESS\" data-throw-if-not-resolved=\"false\" data-raw-source=\"success\"></xref> this won't be set."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0

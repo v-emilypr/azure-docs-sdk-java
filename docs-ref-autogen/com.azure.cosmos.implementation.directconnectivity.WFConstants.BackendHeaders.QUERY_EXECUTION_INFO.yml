@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.directconnectivity.WFConstants.BackendHeaders.QUERY_EXECUTION_INFO*"
+fullName: "com.azure.cosmos.implementation.directconnectivity.WFConstants.BackendHeaders.QUERY_EXECUTION_INFO"
+name: "QUERY_EXECUTION_INFO"
+nameWithType: "WFConstants.BackendHeaders.QUERY_EXECUTION_INFO"
+members:
+- uid: "com.azure.cosmos.implementation.directconnectivity.WFConstants.BackendHeaders.QUERY_EXECUTION_INFO"
+  fullName: "com.azure.cosmos.implementation.directconnectivity.WFConstants.BackendHeaders.QUERY_EXECUTION_INFO"
+  name: "QUERY_EXECUTION_INFO"
+  nameWithType: "WFConstants.BackendHeaders.QUERY_EXECUTION_INFO"
+  syntax: "public static final String QUERY_EXECUTION_INFO"
+type: "field"
+metadata: {}
+package: "com.azure.cosmos.implementation.directconnectivity"
+artifact: com.azure:azure-cosmos:4.28.0

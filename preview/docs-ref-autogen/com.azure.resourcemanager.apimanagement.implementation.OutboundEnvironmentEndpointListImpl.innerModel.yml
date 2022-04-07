@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.apimanagement.implementation.OutboundEnvironmentEndpointListImpl.innerModel*"
+fullName: "com.azure.resourcemanager.apimanagement.implementation.OutboundEnvironmentEndpointListImpl.innerModel"
+name: "innerModel"
+nameWithType: "OutboundEnvironmentEndpointListImpl.innerModel"
+members:
+- uid: "com.azure.resourcemanager.apimanagement.implementation.OutboundEnvironmentEndpointListImpl.innerModel()"
+  fullName: "com.azure.resourcemanager.apimanagement.implementation.OutboundEnvironmentEndpointListImpl.innerModel()"
+  name: "innerModel()"
+  nameWithType: "OutboundEnvironmentEndpointListImpl.innerModel()"
+  summary: "Gets the inner com.azure.resourcemanager.apimanagement.fluent.models.OutboundEnvironmentEndpointListInner object."
+  syntax: "public OutboundEnvironmentEndpointListInner innerModel()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.apimanagement.fluent.models.OutboundEnvironmentEndpointListInner?alt=com.azure.resourcemanager.apimanagement.fluent.models.OutboundEnvironmentEndpointListInner&text=OutboundEnvironmentEndpointListInner\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.apimanagement.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-apimanagement:1.0.0-beta.3

@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.EncryptionSettings.buildProtectedDataEncryptionKey*"
+fullName: "com.azure.cosmos.encryption.implementation.EncryptionSettings.buildProtectedDataEncryptionKey"
+name: "buildProtectedDataEncryptionKey"
+nameWithType: "EncryptionSettings.buildProtectedDataEncryptionKey"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.EncryptionSettings.buildProtectedDataEncryptionKey(com.azure.cosmos.models.CosmosClientEncryptionKeyProperties,com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionKeyStoreProvider,java.lang.String)"
+  fullName: "com.azure.cosmos.encryption.implementation.EncryptionSettings.buildProtectedDataEncryptionKey(CosmosClientEncryptionKeyProperties keyProperties, EncryptionKeyStoreProvider encryptionKeyStoreProvider, String keyId)"
+  name: "buildProtectedDataEncryptionKey(CosmosClientEncryptionKeyProperties keyProperties, EncryptionKeyStoreProvider encryptionKeyStoreProvider, String keyId)"
+  nameWithType: "EncryptionSettings.buildProtectedDataEncryptionKey(CosmosClientEncryptionKeyProperties keyProperties, EncryptionKeyStoreProvider encryptionKeyStoreProvider, String keyId)"
+  parameters:
+  - name: "keyProperties"
+    type: "<xref href=\"com.azure.cosmos.models.CosmosClientEncryptionKeyProperties?alt=com.azure.cosmos.models.CosmosClientEncryptionKeyProperties&text=CosmosClientEncryptionKeyProperties\" data-throw-if-not-resolved=\"False\" />"
+  - name: "encryptionKeyStoreProvider"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionKeyStoreProvider?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionKeyStoreProvider&text=EncryptionKeyStoreProvider\" data-throw-if-not-resolved=\"False\" />"
+  - name: "keyId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ProtectedDataEncryptionKey buildProtectedDataEncryptionKey(CosmosClientEncryptionKeyProperties keyProperties, EncryptionKeyStoreProvider encryptionKeyStoreProvider, String keyId)"
+  exceptions:
+  - type: "<xref href=\"java.lang.Exception?alt=java.lang.Exception&text=Exception\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ProtectedDataEncryptionKey?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ProtectedDataEncryptionKey&text=ProtectedDataEncryptionKey\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

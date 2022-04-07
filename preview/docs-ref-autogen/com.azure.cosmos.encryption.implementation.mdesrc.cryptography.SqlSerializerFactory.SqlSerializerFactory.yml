@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.SqlSerializerFactory*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.SqlSerializerFactory"
+name: "SqlSerializerFactory"
+nameWithType: "SqlSerializerFactory.SqlSerializerFactory"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.SqlSerializerFactory()"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.SqlSerializerFactory()"
+  name: "SqlSerializerFactory()"
+  nameWithType: "SqlSerializerFactory.SqlSerializerFactory()"
+  summary: "Initializes a new instance of the SqlSerializerFactory class."
+  syntax: "public SqlSerializerFactory()"
+  exceptions:
+  - description: "on error"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException&text=MicrosoftDataEncryptionException\" data-throw-if-not-resolved=\"False\" />"
+type: "constructor"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

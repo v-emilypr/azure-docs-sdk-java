@@ -1,0 +1,32 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointImpl.withRegion*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointImpl.withRegion"
+name: "withRegion"
+nameWithType: "OutboundEndpointImpl.withRegion"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointImpl.withRegion(com.azure.core.management.Region)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointImpl.withRegion(Region location)"
+  name: "withRegion(Region location)"
+  nameWithType: "OutboundEndpointImpl.withRegion(Region location)"
+  summary: "Specifies the region for the resource."
+  parameters:
+  - name: "location"
+    type: "<xref href=\"com.azure.core.management.Region?alt=com.azure.core.management.Region&text=Region\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public OutboundEndpointImpl withRegion(Region location)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointImpl?alt=com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointImpl&text=OutboundEndpointImpl\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointImpl.withRegion(java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointImpl.withRegion(String location)"
+  name: "withRegion(String location)"
+  nameWithType: "OutboundEndpointImpl.withRegion(String location)"
+  summary: "Specifies the region for the resource."
+  parameters:
+  - name: "location"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public OutboundEndpointImpl withRegion(String location)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointImpl?alt=com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointImpl&text=OutboundEndpointImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

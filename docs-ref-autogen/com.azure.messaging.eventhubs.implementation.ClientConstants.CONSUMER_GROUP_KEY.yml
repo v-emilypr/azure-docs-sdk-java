@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.eventhubs.implementation.ClientConstants.CONSUMER_GROUP_KEY*"
+fullName: "com.azure.messaging.eventhubs.implementation.ClientConstants.CONSUMER_GROUP_KEY"
+name: "CONSUMER_GROUP_KEY"
+nameWithType: "ClientConstants.CONSUMER_GROUP_KEY"
+members:
+- uid: "com.azure.messaging.eventhubs.implementation.ClientConstants.CONSUMER_GROUP_KEY"
+  fullName: "com.azure.messaging.eventhubs.implementation.ClientConstants.CONSUMER_GROUP_KEY"
+  name: "CONSUMER_GROUP_KEY"
+  nameWithType: "ClientConstants.CONSUMER_GROUP_KEY"
+  syntax: "public static final String CONSUMER_GROUP_KEY"
+type: "field"
+metadata: {}
+package: "com.azure.messaging.eventhubs.implementation"
+artifact: com.azure:azure-messaging-eventhubs:5.11.1

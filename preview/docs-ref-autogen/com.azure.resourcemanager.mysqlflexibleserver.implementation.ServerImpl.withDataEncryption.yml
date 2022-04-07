@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withDataEncryption*"
+fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withDataEncryption"
+name: "withDataEncryption"
+nameWithType: "ServerImpl.withDataEncryption"
+members:
+- uid: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withDataEncryption(com.azure.resourcemanager.mysqlflexibleserver.models.DataEncryption)"
+  fullName: "com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl.withDataEncryption(DataEncryption dataEncryption)"
+  name: "withDataEncryption(DataEncryption dataEncryption)"
+  nameWithType: "ServerImpl.withDataEncryption(DataEncryption dataEncryption)"
+  summary: "Specifies the dataEncryption property: The Data Encryption for CMK.."
+  parameters:
+  - name: "dataEncryption"
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.models.DataEncryption?alt=com.azure.resourcemanager.mysqlflexibleserver.models.DataEncryption&text=DataEncryption\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ServerImpl withDataEncryption(DataEncryption dataEncryption)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl?alt=com.azure.resourcemanager.mysqlflexibleserver.implementation.ServerImpl&text=ServerImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mysqlflexibleserver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mysqlflexibleserver:1.0.0-beta.2

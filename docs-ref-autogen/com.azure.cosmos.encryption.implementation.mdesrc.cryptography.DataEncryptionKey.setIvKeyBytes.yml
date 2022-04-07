@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.setIvKeyBytes*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.setIvKeyBytes"
+name: "setIvKeyBytes"
+nameWithType: "DataEncryptionKey.setIvKeyBytes"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.setIvKeyBytes(byte[])"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.setIvKeyBytes(byte[] value)"
+  name: "setIvKeyBytes(byte[] value)"
+  nameWithType: "DataEncryptionKey.setIvKeyBytes(byte[] value)"
+  summary: "Sets the IV key bytes"
+  parameters:
+  - description: "IV key bytes"
+    name: "value"
+    type: "<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]"
+  syntax: "protected void setIvKeyBytes(byte[] value)"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

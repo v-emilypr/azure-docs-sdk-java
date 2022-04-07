@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.defaultPollInterval*"
+fullName: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.defaultPollInterval"
+name: "defaultPollInterval"
+nameWithType: "BatchManagementClientBuilder.defaultPollInterval"
+members:
+- uid: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.defaultPollInterval(java.time.Duration)"
+  fullName: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.defaultPollInterval(Duration defaultPollInterval)"
+  name: "defaultPollInterval(Duration defaultPollInterval)"
+  nameWithType: "BatchManagementClientBuilder.defaultPollInterval(Duration defaultPollInterval)"
+  summary: "Sets The default poll interval for long-running operation."
+  parameters:
+  - description: "the defaultPollInterval value."
+    name: "defaultPollInterval"
+    type: "<xref href=\"java.time.Duration?alt=java.time.Duration&text=Duration\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public BatchManagementClientBuilder defaultPollInterval(Duration defaultPollInterval)"
+  returns:
+    description: "the BatchManagementClientBuilder."
+    type: "<xref href=\"com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder?alt=com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder&text=BatchManagementClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.batch.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-batch:1.0.0

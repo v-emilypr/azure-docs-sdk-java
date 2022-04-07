@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isCurrentVersion*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isCurrentVersion"
+name: "isCurrentVersion"
+nameWithType: "BlobPropertiesInternal.isCurrentVersion"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isCurrentVersion()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isCurrentVersion()"
+  name: "isCurrentVersion()"
+  nameWithType: "BlobPropertiesInternal.isCurrentVersion()"
+  syntax: "public abstract Boolean isCurrentVersion()"
+  returns:
+    description: "the flag indicating whether version identifier points to current version of the blob."
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0-beta.3

@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.getByName*"
+fullName: "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.getByName"
+name: "getByName"
+nameWithType: "PrivateEndpointConnectionsImpl.getByName"
+members:
+- uid: "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.getByName(java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.apimanagement.implementation.PrivateEndpointConnectionsImpl.getByName(String resourceGroupName, String serviceName, String privateEndpointConnectionName)"
+  name: "getByName(String resourceGroupName, String serviceName, String privateEndpointConnectionName)"
+  nameWithType: "PrivateEndpointConnectionsImpl.getByName(String resourceGroupName, String serviceName, String privateEndpointConnectionName)"
+  summary: "Gets the details of the Private Endpoint Connection specified by its identifier."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serviceName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "privateEndpointConnectionName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PrivateEndpointConnection getByName(String resourceGroupName, String serviceName, String privateEndpointConnectionName)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.apimanagement.models.PrivateEndpointConnection?alt=com.azure.resourcemanager.apimanagement.models.PrivateEndpointConnection&text=PrivateEndpointConnection\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.apimanagement.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-apimanagement:1.0.0-beta.3

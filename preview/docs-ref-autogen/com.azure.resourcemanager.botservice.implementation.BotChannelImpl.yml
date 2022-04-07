@@ -1,0 +1,38 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.botservice.implementation.BotChannelImpl"
+fullName: "com.azure.resourcemanager.botservice.implementation.BotChannelImpl"
+name: "BotChannelImpl"
+nameWithType: "BotChannelImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class BotChannelImpl implements BotChannel"
+methods:
+- "com.azure.resourcemanager.botservice.implementation.BotChannelImpl.etag()"
+- "com.azure.resourcemanager.botservice.implementation.BotChannelImpl.id()"
+- "com.azure.resourcemanager.botservice.implementation.BotChannelImpl.innerModel()"
+- "com.azure.resourcemanager.botservice.implementation.BotChannelImpl.kind()"
+- "com.azure.resourcemanager.botservice.implementation.BotChannelImpl.location()"
+- "com.azure.resourcemanager.botservice.implementation.BotChannelImpl.name()"
+- "com.azure.resourcemanager.botservice.implementation.BotChannelImpl.properties()"
+- "com.azure.resourcemanager.botservice.implementation.BotChannelImpl.sku()"
+- "com.azure.resourcemanager.botservice.implementation.BotChannelImpl.tags()"
+- "com.azure.resourcemanager.botservice.implementation.BotChannelImpl.type()"
+- "com.azure.resourcemanager.botservice.implementation.BotChannelImpl.zones()"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.botservice.models.BotChannel?alt=com.azure.resourcemanager.botservice.models.BotChannel&text=BotChannel\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.botservice.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-botservice:1.0.0-beta.3

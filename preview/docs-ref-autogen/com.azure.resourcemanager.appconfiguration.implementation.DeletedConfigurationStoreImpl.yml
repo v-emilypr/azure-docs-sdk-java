@@ -1,0 +1,37 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl"
+fullName: "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl"
+name: "DeletedConfigurationStoreImpl"
+nameWithType: "DeletedConfigurationStoreImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class DeletedConfigurationStoreImpl implements DeletedConfigurationStore"
+methods:
+- "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl.configurationStoreId()"
+- "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl.deletionDate()"
+- "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl.id()"
+- "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl.innerModel()"
+- "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl.location()"
+- "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl.name()"
+- "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl.purgeProtectionEnabled()"
+- "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl.scheduledPurgeDate()"
+- "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl.tags()"
+- "com.azure.resourcemanager.appconfiguration.implementation.DeletedConfigurationStoreImpl.type()"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.appconfiguration.models.DeletedConfigurationStore?alt=com.azure.resourcemanager.appconfiguration.models.DeletedConfigurationStore&text=DeletedConfigurationStore\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.appconfiguration.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appconfiguration:1.0.0-beta.5

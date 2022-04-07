@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.query.DocumentQueryExecutionContextBase.getFeedResponse*"
+fullName: "com.azure.cosmos.implementation.query.DocumentQueryExecutionContextBase<T>.getFeedResponse"
+name: "getFeedResponse"
+nameWithType: "DocumentQueryExecutionContextBase<T>.getFeedResponse"
+members:
+- uid: "com.azure.cosmos.implementation.query.DocumentQueryExecutionContextBase.getFeedResponse(java.util.function.Function<com.fasterxml.jackson.databind.JsonNode,T>,reactor.core.publisher.Mono<com.azure.cosmos.implementation.RxDocumentServiceResponse>)"
+  fullName: "com.azure.cosmos.implementation.query.DocumentQueryExecutionContextBase<T>.getFeedResponse(Function<JsonNode,T> factoryMethod, Mono<RxDocumentServiceResponse> response)"
+  name: "getFeedResponse(Function<JsonNode,T> factoryMethod, Mono<RxDocumentServiceResponse> response)"
+  nameWithType: "DocumentQueryExecutionContextBase<T>.getFeedResponse(Function<JsonNode,T> factoryMethod, Mono<RxDocumentServiceResponse> response)"
+  parameters:
+  - name: "factoryMethod"
+    type: "<xref href=\"java.util.function.Function?alt=java.util.function.Function&text=Function\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.fasterxml.jackson.databind.JsonNode?alt=com.fasterxml.jackson.databind.JsonNode&text=JsonNode\" data-throw-if-not-resolved=\"False\" />,<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+  - name: "response"
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.cosmos.implementation.RxDocumentServiceResponse?alt=com.azure.cosmos.implementation.RxDocumentServiceResponse&text=RxDocumentServiceResponse\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "protected Mono<FeedResponse<T>> getFeedResponse(Function<JsonNode,T> factoryMethod, Mono<RxDocumentServiceResponse> response)"
+  returns:
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.cosmos.models.FeedResponse?alt=com.azure.cosmos.models.FeedResponse&text=FeedResponse\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation.query"
+artifact: com.azure:azure-cosmos:4.28.0

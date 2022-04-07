@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl.update*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl.update"
+name: "update"
+nameWithType: "PartnerDestinationImpl.update"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl.update()"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl.update()"
+  name: "update()"
+  nameWithType: "PartnerDestinationImpl.update()"
+  summary: "Begins update for the PartnerDestination resource."
+  syntax: "public PartnerDestinationImpl update()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl?alt=com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl&text=PartnerDestinationImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

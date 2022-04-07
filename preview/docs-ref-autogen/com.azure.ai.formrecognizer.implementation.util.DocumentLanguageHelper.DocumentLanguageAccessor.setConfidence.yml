@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.ai.formrecognizer.implementation.util.DocumentLanguageHelper.DocumentLanguageAccessor.setConfidence*"
+fullName: "com.azure.ai.formrecognizer.implementation.util.DocumentLanguageHelper.DocumentLanguageAccessor.setConfidence"
+name: "setConfidence"
+nameWithType: "DocumentLanguageHelper.DocumentLanguageAccessor.setConfidence"
+members:
+- uid: "com.azure.ai.formrecognizer.implementation.util.DocumentLanguageHelper.DocumentLanguageAccessor.setConfidence(com.azure.ai.formrecognizer.models.DocumentLanguage,java.lang.Float)"
+  fullName: "com.azure.ai.formrecognizer.implementation.util.DocumentLanguageHelper.DocumentLanguageAccessor.setConfidence(DocumentLanguage documentLanguage, Float confidence)"
+  name: "setConfidence(DocumentLanguage documentLanguage, Float confidence)"
+  nameWithType: "DocumentLanguageHelper.DocumentLanguageAccessor.setConfidence(DocumentLanguage documentLanguage, Float confidence)"
+  parameters:
+  - name: "documentLanguage"
+    type: "<xref href=\"com.azure.ai.formrecognizer.models.DocumentLanguage?alt=com.azure.ai.formrecognizer.models.DocumentLanguage&text=DocumentLanguage\" data-throw-if-not-resolved=\"False\" />"
+  - name: "confidence"
+    type: "<xref href=\"java.lang.Float?alt=java.lang.Float&text=Float\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract void setConfidence(DocumentLanguage documentLanguage, Float confidence)"
+type: "method"
+metadata: {}
+package: "com.azure.ai.formrecognizer.implementation.util"
+artifact: com.azure:azure-ai-formrecognizer:4.0.0-beta.4

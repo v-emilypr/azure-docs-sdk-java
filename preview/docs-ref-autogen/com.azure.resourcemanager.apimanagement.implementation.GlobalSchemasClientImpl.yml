@@ -1,0 +1,41 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl"
+fullName: "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl"
+name: "GlobalSchemasClientImpl"
+nameWithType: "GlobalSchemasClientImpl"
+summary: "An instance of this class provides access to all the operations defined in GlobalSchemasClient."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class GlobalSchemasClientImpl implements GlobalSchemasClient"
+methods:
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.beginCreateOrUpdate(java.lang.String,java.lang.String,java.lang.String,com.azure.resourcemanager.apimanagement.fluent.models.GlobalSchemaContractInner,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.beginCreateOrUpdate(java.lang.String,java.lang.String,java.lang.String,com.azure.resourcemanager.apimanagement.fluent.models.GlobalSchemaContractInner,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.createOrUpdate(java.lang.String,java.lang.String,java.lang.String,com.azure.resourcemanager.apimanagement.fluent.models.GlobalSchemaContractInner)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.createOrUpdate(java.lang.String,java.lang.String,java.lang.String,com.azure.resourcemanager.apimanagement.fluent.models.GlobalSchemaContractInner,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.createOrUpdate(java.lang.String,java.lang.String,java.lang.String,com.azure.resourcemanager.apimanagement.fluent.models.GlobalSchemaContractInner,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.delete(java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.deleteWithResponse(java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.get(java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.getEntityTag(java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.getEntityTagWithResponse(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.getWithResponse(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.listByService(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasClientImpl.listByService(java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.Integer,com.azure.core.util.Context)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.apimanagement.fluent.GlobalSchemasClient?alt=com.azure.resourcemanager.apimanagement.fluent.GlobalSchemasClient&text=GlobalSchemasClient\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.apimanagement.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-apimanagement:1.0.0-beta.3

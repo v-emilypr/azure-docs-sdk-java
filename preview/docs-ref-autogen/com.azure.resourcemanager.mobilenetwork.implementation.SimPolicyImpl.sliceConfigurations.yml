@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.sliceConfigurations*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.sliceConfigurations"
+name: "sliceConfigurations"
+nameWithType: "SimPolicyImpl.sliceConfigurations"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.sliceConfigurations()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.sliceConfigurations()"
+  name: "sliceConfigurations()"
+  nameWithType: "SimPolicyImpl.sliceConfigurations()"
+  summary: "Gets the sliceConfigurations property: The allowed slices and the settings to use for them. The list must not contain duplicate items and must contain at least one item."
+  syntax: "public List<SliceConfiguration> sliceConfigurations()"
+  returns:
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.mobilenetwork.models.SliceConfiguration?alt=com.azure.resourcemanager.mobilenetwork.models.SliceConfiguration&text=SliceConfiguration\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

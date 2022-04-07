@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ProtectedDataEncryptionKey.getEncryptedValue*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ProtectedDataEncryptionKey.getEncryptedValue"
+name: "getEncryptedValue"
+nameWithType: "ProtectedDataEncryptionKey.getEncryptedValue"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ProtectedDataEncryptionKey.getEncryptedValue()"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ProtectedDataEncryptionKey.getEncryptedValue()"
+  name: "getEncryptedValue()"
+  nameWithType: "ProtectedDataEncryptionKey.getEncryptedValue()"
+  summary: "Getter for encryptedValue."
+  syntax: "public byte[] getEncryptedValue()"
+  returns:
+    description: "encryptedValue value."
+    type: "<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

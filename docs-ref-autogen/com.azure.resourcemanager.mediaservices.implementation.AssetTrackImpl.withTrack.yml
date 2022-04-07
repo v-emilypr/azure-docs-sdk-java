@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mediaservices.implementation.AssetTrackImpl.withTrack*"
+fullName: "com.azure.resourcemanager.mediaservices.implementation.AssetTrackImpl.withTrack"
+name: "withTrack"
+nameWithType: "AssetTrackImpl.withTrack"
+members:
+- uid: "com.azure.resourcemanager.mediaservices.implementation.AssetTrackImpl.withTrack(com.azure.resourcemanager.mediaservices.models.TrackBase)"
+  fullName: "com.azure.resourcemanager.mediaservices.implementation.AssetTrackImpl.withTrack(TrackBase track)"
+  name: "withTrack(TrackBase track)"
+  nameWithType: "AssetTrackImpl.withTrack(TrackBase track)"
+  summary: "Specifies the track property: Detailed information about a track in the asset.."
+  parameters:
+  - name: "track"
+    type: "<xref href=\"com.azure.resourcemanager.mediaservices.models.TrackBase?alt=com.azure.resourcemanager.mediaservices.models.TrackBase&text=TrackBase\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AssetTrackImpl withTrack(TrackBase track)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mediaservices.implementation.AssetTrackImpl?alt=com.azure.resourcemanager.mediaservices.implementation.AssetTrackImpl&text=AssetTrackImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mediaservices.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mediaservices:2.0.0

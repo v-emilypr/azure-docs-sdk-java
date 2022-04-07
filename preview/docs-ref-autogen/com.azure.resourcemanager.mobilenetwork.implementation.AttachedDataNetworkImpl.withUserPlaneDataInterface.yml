@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworkImpl.withUserPlaneDataInterface*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworkImpl.withUserPlaneDataInterface"
+name: "withUserPlaneDataInterface"
+nameWithType: "AttachedDataNetworkImpl.withUserPlaneDataInterface"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworkImpl.withUserPlaneDataInterface(com.azure.resourcemanager.mobilenetwork.models.InterfaceProperties)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworkImpl.withUserPlaneDataInterface(InterfaceProperties userPlaneDataInterface)"
+  name: "withUserPlaneDataInterface(InterfaceProperties userPlaneDataInterface)"
+  nameWithType: "AttachedDataNetworkImpl.withUserPlaneDataInterface(InterfaceProperties userPlaneDataInterface)"
+  summary: "Specifies the userPlaneDataInterface property: The user plane interface on the data network. In 5G networks this is called as N6 interface whereas in 4G networks this is called as SGi interface.."
+  parameters:
+  - name: "userPlaneDataInterface"
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.InterfaceProperties?alt=com.azure.resourcemanager.mobilenetwork.models.InterfaceProperties&text=InterfaceProperties\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttachedDataNetworkImpl withUserPlaneDataInterface(InterfaceProperties userPlaneDataInterface)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworkImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworkImpl&text=AttachedDataNetworkImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

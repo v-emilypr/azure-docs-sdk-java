@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams.convertGenericType*"
+fullName: "com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams<T>.<TNew>convertGenericType"
+name: "<TNew>convertGenericType"
+nameWithType: "PipelinedDocumentQueryParams<T>.<TNew>convertGenericType"
+members:
+- uid: "com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams.<TNew>convertGenericType(java.lang.Class<TNew>)"
+  fullName: "com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams<T>.<TNew>convertGenericType(Class<TNew> tNew)"
+  name: "<TNew>convertGenericType(Class<TNew> tNew)"
+  nameWithType: "PipelinedDocumentQueryParams<T>.<TNew>convertGenericType(Class<TNew> tNew)"
+  parameters:
+  - name: "tNew"
+    type: "<xref href=\"java.lang.Class?alt=java.lang.Class&text=Class\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"TNew?alt=TNew&text=TNew\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public PipelinedDocumentQueryParams<TNew> <TNew>convertGenericType(Class<TNew> tNew)"
+  returns:
+    type: "<xref href=\"com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams?alt=com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams&text=PipelinedDocumentQueryParams\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"TNew?alt=TNew&text=TNew\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation.query"
+artifact: com.azure:azure-cosmos:4.28.0

@@ -1,0 +1,24 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.query.Paginator.getPreFetchCount*"
+fullName: "com.azure.cosmos.implementation.query.Paginator.getPreFetchCount"
+name: "getPreFetchCount"
+nameWithType: "Paginator.getPreFetchCount"
+members:
+- uid: "com.azure.cosmos.implementation.query.Paginator.getPreFetchCount(com.azure.cosmos.models.CosmosQueryRequestOptions,int,int)"
+  fullName: "com.azure.cosmos.implementation.query.Paginator.getPreFetchCount(CosmosQueryRequestOptions queryOptions, int top, int maxPageSize)"
+  name: "getPreFetchCount(CosmosQueryRequestOptions queryOptions, int top, int maxPageSize)"
+  nameWithType: "Paginator.getPreFetchCount(CosmosQueryRequestOptions queryOptions, int top, int maxPageSize)"
+  parameters:
+  - name: "queryOptions"
+    type: "<xref href=\"com.azure.cosmos.models.CosmosQueryRequestOptions?alt=com.azure.cosmos.models.CosmosQueryRequestOptions&text=CosmosQueryRequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  - name: "top"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+  - name: "maxPageSize"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static int getPreFetchCount(CosmosQueryRequestOptions queryOptions, int top, int maxPageSize)"
+  returns:
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation.query"
+artifact: com.azure:azure-cosmos:4.28.0

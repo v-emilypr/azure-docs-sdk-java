@@ -1,0 +1,16 @@
+### YamlMime:JavaType
+uid: "com.azure.cosmos.implementation.query.orderbyquery.ComparisonFilters"
+fullName: "com.azure.cosmos.implementation.query.orderbyquery.ComparisonFilters"
+name: "ComparisonFilters"
+nameWithType: "ComparisonFilters"
+syntax: "public interface ComparisonFilters"
+methods:
+- "com.azure.cosmos.implementation.query.orderbyquery.ComparisonFilters.equalTo()"
+- "com.azure.cosmos.implementation.query.orderbyquery.ComparisonFilters.greaterThan()"
+- "com.azure.cosmos.implementation.query.orderbyquery.ComparisonFilters.greaterThanOrEqualTo()"
+- "com.azure.cosmos.implementation.query.orderbyquery.ComparisonFilters.lessThan()"
+- "com.azure.cosmos.implementation.query.orderbyquery.ComparisonFilters.lessThanOrEqualTo()"
+type: "interface"
+metadata: {}
+package: "com.azure.cosmos.implementation.query.orderbyquery"
+artifact: com.azure:azure-cosmos:4.28.0

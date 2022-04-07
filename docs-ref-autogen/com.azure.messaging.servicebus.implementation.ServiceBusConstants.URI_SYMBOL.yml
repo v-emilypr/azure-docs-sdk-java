@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.URI_SYMBOL*"
+fullName: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.URI_SYMBOL"
+name: "URI_SYMBOL"
+nameWithType: "ServiceBusConstants.URI_SYMBOL"
+members:
+- uid: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.URI_SYMBOL"
+  fullName: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.URI_SYMBOL"
+  name: "URI_SYMBOL"
+  nameWithType: "ServiceBusConstants.URI_SYMBOL"
+  summary: "Amqp symbol for specific type."
+  syntax: "public static final Symbol URI_SYMBOL"
+type: "field"
+metadata: {}
+package: "com.azure.messaging.servicebus.implementation"
+artifact: com.azure:azure-messaging-servicebus:7.7.0

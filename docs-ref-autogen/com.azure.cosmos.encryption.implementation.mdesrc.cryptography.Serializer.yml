@@ -1,0 +1,37 @@
+### YamlMime:JavaType
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer<T>"
+name: "Serializer<T>"
+nameWithType: "Serializer<T>"
+summary: "Contains the methods for serializing and deserializing data objects."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public abstract class Serializer<T> implements ISerializer"
+constructors:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer.Serializer()"
+fields:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer.identifier"
+methods:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer.deserialize(byte[])"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer.getIdentifier()"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer.serialize(java.lang.Object)"
+type: "class"
+typeParameters:
+- name: "T"
+implements:
+- "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer&text=ISerializer\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

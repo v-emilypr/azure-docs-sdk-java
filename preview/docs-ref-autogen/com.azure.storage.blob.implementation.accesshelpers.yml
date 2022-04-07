@@ -1,0 +1,13 @@
+### YamlMime:JavaPackage
+uid: "com.azure.storage.blob.implementation.accesshelpers"
+fullName: "com.azure.storage.blob.implementation.accesshelpers"
+name: "com.azure.storage.blob.implementation.accesshelpers"
+classes:
+- "com.azure.storage.blob.implementation.accesshelpers.BlobDownloadHeadersConstructorProxy"
+- "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy"
+interfaces:
+- "com.azure.storage.blob.implementation.accesshelpers.BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor"
+- "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor"
+metadata: {}
+package: "com.azure.storage.blob.implementation.accesshelpers"
+artifact: com.azure:azure-storage-blob:12.15.0-beta.3

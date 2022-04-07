@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.DirectConnectionConfigHelper.DirectConnectionConfigAccessor.setIoThreadPriority*"
+fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.DirectConnectionConfigHelper.DirectConnectionConfigAccessor.setIoThreadPriority"
+name: "setIoThreadPriority"
+nameWithType: "ImplementationBridgeHelpers.DirectConnectionConfigHelper.DirectConnectionConfigAccessor.setIoThreadPriority"
+members:
+- uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.DirectConnectionConfigHelper.DirectConnectionConfigAccessor.setIoThreadPriority(com.azure.cosmos.DirectConnectionConfig,int)"
+  fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.DirectConnectionConfigHelper.DirectConnectionConfigAccessor.setIoThreadPriority(DirectConnectionConfig config, int ioThreadPriority)"
+  name: "setIoThreadPriority(DirectConnectionConfig config, int ioThreadPriority)"
+  nameWithType: "ImplementationBridgeHelpers.DirectConnectionConfigHelper.DirectConnectionConfigAccessor.setIoThreadPriority(DirectConnectionConfig config, int ioThreadPriority)"
+  parameters:
+  - name: "config"
+    type: "<xref href=\"com.azure.cosmos.DirectConnectionConfig?alt=com.azure.cosmos.DirectConnectionConfig&text=DirectConnectionConfig\" data-throw-if-not-resolved=\"False\" />"
+  - name: "ioThreadPriority"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract DirectConnectionConfig setIoThreadPriority(DirectConnectionConfig config, int ioThreadPriority)"
+  returns:
+    type: "<xref href=\"com.azure.cosmos.DirectConnectionConfig?alt=com.azure.cosmos.DirectConnectionConfig&text=DirectConnectionConfig\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

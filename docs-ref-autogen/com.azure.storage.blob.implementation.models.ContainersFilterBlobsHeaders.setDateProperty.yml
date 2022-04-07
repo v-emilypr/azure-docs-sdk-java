@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setDateProperty*"
+fullName: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setDateProperty"
+name: "setDateProperty"
+nameWithType: "ContainersFilterBlobsHeaders.setDateProperty"
+members:
+- uid: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setDateProperty(java.time.OffsetDateTime)"
+  fullName: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setDateProperty(OffsetDateTime dateProperty)"
+  name: "setDateProperty(OffsetDateTime dateProperty)"
+  nameWithType: "ContainersFilterBlobsHeaders.setDateProperty(OffsetDateTime dateProperty)"
+  summary: "Set the dateProperty property: The Date property."
+  parameters:
+  - description: "the dateProperty value to set."
+    name: "dateProperty"
+    type: "<xref href=\"java.time.OffsetDateTime?alt=java.time.OffsetDateTime&text=OffsetDateTime\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ContainersFilterBlobsHeaders setDateProperty(OffsetDateTime dateProperty)"
+  returns:
+    description: "the ContainersFilterBlobsHeaders object itself."
+    type: "<xref href=\"com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders?alt=com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders&text=ContainersFilterBlobsHeaders\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0

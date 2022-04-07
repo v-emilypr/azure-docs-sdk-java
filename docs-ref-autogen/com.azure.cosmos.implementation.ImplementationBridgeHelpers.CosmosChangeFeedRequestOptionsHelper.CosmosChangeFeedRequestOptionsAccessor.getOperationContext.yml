@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.getOperationContext*"
+fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.getOperationContext"
+name: "getOperationContext"
+nameWithType: "ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.getOperationContext"
+members:
+- uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.getOperationContext(com.azure.cosmos.models.CosmosChangeFeedRequestOptions)"
+  fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.getOperationContext(CosmosChangeFeedRequestOptions changeFeedRequestOptions)"
+  name: "getOperationContext(CosmosChangeFeedRequestOptions changeFeedRequestOptions)"
+  nameWithType: "ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.getOperationContext(CosmosChangeFeedRequestOptions changeFeedRequestOptions)"
+  parameters:
+  - name: "changeFeedRequestOptions"
+    type: "<xref href=\"com.azure.cosmos.models.CosmosChangeFeedRequestOptions?alt=com.azure.cosmos.models.CosmosChangeFeedRequestOptions&text=CosmosChangeFeedRequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract OperationContextAndListenerTuple getOperationContext(CosmosChangeFeedRequestOptions changeFeedRequestOptions)"
+  returns:
+    type: "<xref href=\"com.azure.cosmos.implementation.spark.OperationContextAndListenerTuple?alt=com.azure.cosmos.implementation.spark.OperationContextAndListenerTuple&text=OperationContextAndListenerTuple\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

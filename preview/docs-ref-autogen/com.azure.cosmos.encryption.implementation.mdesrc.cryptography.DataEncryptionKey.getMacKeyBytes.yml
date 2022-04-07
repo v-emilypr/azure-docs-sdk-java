@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.getMacKeyBytes*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.getMacKeyBytes"
+name: "getMacKeyBytes"
+nameWithType: "DataEncryptionKey.getMacKeyBytes"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.getMacKeyBytes()"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.getMacKeyBytes()"
+  name: "getMacKeyBytes()"
+  nameWithType: "DataEncryptionKey.getMacKeyBytes()"
+  summary: "Gets the Mac key bytes."
+  syntax: "protected byte[] getMacKeyBytes()"
+  returns:
+    description: "Mac key bytes"
+    type: "<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

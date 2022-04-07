@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getImmutabilityPolicy*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getImmutabilityPolicy"
+name: "getImmutabilityPolicy"
+nameWithType: "BlobPropertiesInternalGetProperties.getImmutabilityPolicy"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getImmutabilityPolicy()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getImmutabilityPolicy()"
+  name: "getImmutabilityPolicy()"
+  nameWithType: "BlobPropertiesInternalGetProperties.getImmutabilityPolicy()"
+  syntax: "public BlobImmutabilityPolicy getImmutabilityPolicy()"
+  returns:
+    type: "<xref href=\"com.azure.storage.blob.models.BlobImmutabilityPolicy?alt=com.azure.storage.blob.models.BlobImmutabilityPolicy&text=BlobImmutabilityPolicy\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0-beta.3

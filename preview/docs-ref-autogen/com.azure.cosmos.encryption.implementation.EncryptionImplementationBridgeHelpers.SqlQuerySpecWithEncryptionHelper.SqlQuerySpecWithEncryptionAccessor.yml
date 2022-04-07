@@ -1,0 +1,14 @@
+### YamlMime:JavaType
+uid: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.SqlQuerySpecWithEncryptionHelper.SqlQuerySpecWithEncryptionAccessor"
+fullName: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.SqlQuerySpecWithEncryptionHelper.SqlQuerySpecWithEncryptionAccessor"
+name: "EncryptionImplementationBridgeHelpers.SqlQuerySpecWithEncryptionHelper.SqlQuerySpecWithEncryptionAccessor"
+nameWithType: "EncryptionImplementationBridgeHelpers.SqlQuerySpecWithEncryptionHelper.SqlQuerySpecWithEncryptionAccessor"
+syntax: "public static interface EncryptionImplementationBridgeHelpers.SqlQuerySpecWithEncryptionHelper.SqlQuerySpecWithEncryptionAccessor"
+methods:
+- "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.SqlQuerySpecWithEncryptionHelper.SqlQuerySpecWithEncryptionAccessor.addEncryptionParameterAsync(com.azure.cosmos.encryption.models.SqlQuerySpecWithEncryption,java.lang.String,com.azure.cosmos.models.SqlParameter,com.azure.cosmos.encryption.CosmosEncryptionAsyncContainer)"
+- "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.SqlQuerySpecWithEncryptionHelper.SqlQuerySpecWithEncryptionAccessor.getEncryptionParamMap(com.azure.cosmos.encryption.models.SqlQuerySpecWithEncryption)"
+- "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.SqlQuerySpecWithEncryptionHelper.SqlQuerySpecWithEncryptionAccessor.getSqlQuerySpec(com.azure.cosmos.encryption.models.SqlQuerySpecWithEncryption)"
+type: "interface"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

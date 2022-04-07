@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.setCosmosEncryptionAsyncContainerAccessor*"
+fullName: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.setCosmosEncryptionAsyncContainerAccessor"
+name: "setCosmosEncryptionAsyncContainerAccessor"
+nameWithType: "EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.setCosmosEncryptionAsyncContainerAccessor"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.setCosmosEncryptionAsyncContainerAccessor(com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.CosmosEncryptionAsyncContainerAccessor)"
+  fullName: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.setCosmosEncryptionAsyncContainerAccessor(EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.CosmosEncryptionAsyncContainerAccessor newAccessor)"
+  name: "setCosmosEncryptionAsyncContainerAccessor(EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.CosmosEncryptionAsyncContainerAccessor newAccessor)"
+  nameWithType: "EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.setCosmosEncryptionAsyncContainerAccessor(EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.CosmosEncryptionAsyncContainerAccessor newAccessor)"
+  parameters:
+  - name: "newAccessor"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.CosmosEncryptionAsyncContainerAccessor?alt=com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.CosmosEncryptionAsyncContainerAccessor&text=CosmosEncryptionAsyncContainerAccessor\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static void setCosmosEncryptionAsyncContainerAccessor(EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncContainerHelper.CosmosEncryptionAsyncContainerAccessor newAccessor)"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

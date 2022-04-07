@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.isAccessTierInferred*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.isAccessTierInferred"
+name: "isAccessTierInferred"
+nameWithType: "BlobPropertiesInternalConstructorProperties.isAccessTierInferred"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.isAccessTierInferred()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.isAccessTierInferred()"
+  name: "isAccessTierInferred()"
+  nameWithType: "BlobPropertiesInternalConstructorProperties.isAccessTierInferred()"
+  syntax: "public Boolean isAccessTierInferred()"
+  returns:
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0-beta.3

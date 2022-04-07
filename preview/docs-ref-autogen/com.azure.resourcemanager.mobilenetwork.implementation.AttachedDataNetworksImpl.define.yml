@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworksImpl.define*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworksImpl.define"
+name: "define"
+nameWithType: "AttachedDataNetworksImpl.define"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworksImpl.define(java.lang.String)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworksImpl.define(String name)"
+  name: "define(String name)"
+  nameWithType: "AttachedDataNetworksImpl.define(String name)"
+  summary: "Begins definition for a new AttachedDataNetwork resource."
+  parameters:
+  - name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AttachedDataNetworkImpl define(String name)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworkImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.AttachedDataNetworkImpl&text=AttachedDataNetworkImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

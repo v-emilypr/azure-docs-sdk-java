@@ -1,0 +1,32 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SliceImpl.withRegion*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SliceImpl.withRegion"
+name: "withRegion"
+nameWithType: "SliceImpl.withRegion"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SliceImpl.withRegion(com.azure.core.management.Region)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SliceImpl.withRegion(Region location)"
+  name: "withRegion(Region location)"
+  nameWithType: "SliceImpl.withRegion(Region location)"
+  summary: "Specifies the region for the resource."
+  parameters:
+  - name: "location"
+    type: "<xref href=\"com.azure.core.management.Region?alt=com.azure.core.management.Region&text=Region\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SliceImpl withRegion(Region location)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.SliceImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.SliceImpl&text=SliceImpl\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SliceImpl.withRegion(java.lang.String)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SliceImpl.withRegion(String location)"
+  name: "withRegion(String location)"
+  nameWithType: "SliceImpl.withRegion(String location)"
+  summary: "Specifies the region for the resource."
+  parameters:
+  - name: "location"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SliceImpl withRegion(String location)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.SliceImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.SliceImpl&text=SliceImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

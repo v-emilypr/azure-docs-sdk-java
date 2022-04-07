@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getVersionId*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getVersionId"
+name: "getVersionId"
+nameWithType: "BlobPropertiesInternal.getVersionId"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getVersionId()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getVersionId()"
+  name: "getVersionId()"
+  nameWithType: "BlobPropertiesInternal.getVersionId()"
+  syntax: "public abstract String getVersionId()"
+  returns:
+    description: "the version identifier the blob."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0-beta.3

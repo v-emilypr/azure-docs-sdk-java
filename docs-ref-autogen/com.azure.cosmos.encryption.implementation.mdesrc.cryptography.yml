@@ -1,0 +1,36 @@
+### YamlMime:JavaPackage
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+name: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+classes:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataProtector"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DateTimeOffset"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionKeyStoreProvider"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettingsImpl"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionExceptionResource"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ProtectedDataEncryptionKey"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Quadruple"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SerializerFactory"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.StandardSerializerFactory"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Triple"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Tuple"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Type"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.UserKeyStoreProviderCatalog"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Utils"
+enums:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKeyAlgorithm"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKeyAlgorithm"
+interfaces:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

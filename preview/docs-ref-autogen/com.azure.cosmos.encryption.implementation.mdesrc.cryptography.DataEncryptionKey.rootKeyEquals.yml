@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.rootKeyEquals*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.rootKeyEquals"
+name: "rootKeyEquals"
+nameWithType: "DataEncryptionKey.rootKeyEquals"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.rootKeyEquals(com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.rootKeyEquals(DataEncryptionKey otherKey)"
+  name: "rootKeyEquals(DataEncryptionKey otherKey)"
+  nameWithType: "DataEncryptionKey.rootKeyEquals(DataEncryptionKey otherKey)"
+  summary: "Determines if the current DataEncryptionKey's root key is equal to the specified DataEncryptionKey's root key"
+  parameters:
+  - description: "The DataEncryptionKey's to compare with the current DataEncryptionKey's"
+    name: "otherKey"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey&text=DataEncryptionKey\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public boolean rootKeyEquals(DataEncryptionKey otherKey)"
+  returns:
+    description: "true or false"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

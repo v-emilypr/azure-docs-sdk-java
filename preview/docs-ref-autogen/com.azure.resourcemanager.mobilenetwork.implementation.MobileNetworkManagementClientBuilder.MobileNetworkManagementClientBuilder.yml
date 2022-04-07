@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientBuilder.MobileNetworkManagementClientBuilder*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientBuilder.MobileNetworkManagementClientBuilder"
+name: "MobileNetworkManagementClientBuilder"
+nameWithType: "MobileNetworkManagementClientBuilder.MobileNetworkManagementClientBuilder"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientBuilder.MobileNetworkManagementClientBuilder()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientBuilder.MobileNetworkManagementClientBuilder()"
+  name: "MobileNetworkManagementClientBuilder()"
+  nameWithType: "MobileNetworkManagementClientBuilder.MobileNetworkManagementClientBuilder()"
+  syntax: "public MobileNetworkManagementClientBuilder()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponse.setDecodeStartTime*"
+fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponse.setDecodeStartTime"
+name: "setDecodeStartTime"
+nameWithType: "RntbdResponse.setDecodeStartTime"
+members:
+- uid: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponse.setDecodeStartTime(java.time.Instant)"
+  fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponse.setDecodeStartTime(Instant decodeStartTime)"
+  name: "setDecodeStartTime(Instant decodeStartTime)"
+  nameWithType: "RntbdResponse.setDecodeStartTime(Instant decodeStartTime)"
+  parameters:
+  - name: "decodeStartTime"
+    type: "<xref href=\"java.time.Instant?alt=java.time.Instant&text=Instant\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void setDecodeStartTime(Instant decodeStartTime)"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation.directconnectivity.rntbd"
+artifact: com.azure:azure-cosmos:4.28.0

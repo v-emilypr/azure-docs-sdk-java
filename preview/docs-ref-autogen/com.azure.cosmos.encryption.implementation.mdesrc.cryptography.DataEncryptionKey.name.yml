@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.name*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.name"
+name: "name"
+nameWithType: "DataEncryptionKey.name"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.name"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.name"
+  name: "name"
+  nameWithType: "DataEncryptionKey.name"
+  summary: "Name of the encryption key."
+  syntax: "protected String name"
+type: "field"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

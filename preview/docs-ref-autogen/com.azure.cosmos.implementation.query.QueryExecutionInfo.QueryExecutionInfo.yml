@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.query.QueryExecutionInfo.QueryExecutionInfo*"
+fullName: "com.azure.cosmos.implementation.query.QueryExecutionInfo.QueryExecutionInfo"
+name: "QueryExecutionInfo"
+nameWithType: "QueryExecutionInfo.QueryExecutionInfo"
+members:
+- uid: "com.azure.cosmos.implementation.query.QueryExecutionInfo.QueryExecutionInfo()"
+  fullName: "com.azure.cosmos.implementation.query.QueryExecutionInfo.QueryExecutionInfo()"
+  name: "QueryExecutionInfo()"
+  nameWithType: "QueryExecutionInfo.QueryExecutionInfo()"
+  syntax: "public QueryExecutionInfo()"
+type: "constructor"
+metadata: {}
+package: "com.azure.cosmos.implementation.query"
+artifact: com.azure:azure-cosmos:4.26.0-beta.1

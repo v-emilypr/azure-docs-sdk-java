@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Utils.validateNotNullOrWhitespace*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Utils.validateNotNullOrWhitespace"
+name: "validateNotNullOrWhitespace"
+nameWithType: "Utils.validateNotNullOrWhitespace"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Utils.validateNotNullOrWhitespace(java.lang.String,java.lang.String)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Utils.validateNotNullOrWhitespace(String s, String name)"
+  name: "validateNotNullOrWhitespace(String s, String name)"
+  nameWithType: "Utils.validateNotNullOrWhitespace(String s, String name)"
+  summary: "Validates that the string isn't null and doesn't contain white spaces."
+  parameters:
+  - description: "the string"
+    name: "s"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "name of the string"
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static void validateNotNullOrWhitespace(String s, String name)"
+  exceptions:
+  - type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException&text=MicrosoftDataEncryptionException\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

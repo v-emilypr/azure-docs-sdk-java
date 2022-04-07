@@ -1,0 +1,38 @@
+### YamlMime:JavaType
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey"
+name: "KeyEncryptionKey"
+nameWithType: "KeyEncryptionKey"
+summary: "A \"KeyEncryptionKey\" represents a key-protecting key stored in an external key store. The key protects (encrypts) one or more DataEncryptionKeys."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class KeyEncryptionKey"
+constructors:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.KeyEncryptionKey(java.lang.String,java.lang.String,com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionKeyStoreProvider,boolean)"
+methods:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.decryptEncryptionKey(byte[])"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.encryptEncryptionKey(byte[])"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.equals(java.lang.Object)"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.getIsEnclaveSupported()"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.getKeyStoreProvider()"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.getName()"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.getOrCreate(java.lang.String,java.lang.String,com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionKeyStoreProvider,boolean)"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.getPath()"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.getSignature()"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.hashCode()"
+type: "class"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

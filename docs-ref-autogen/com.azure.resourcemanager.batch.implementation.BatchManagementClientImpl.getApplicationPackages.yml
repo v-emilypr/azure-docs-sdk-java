@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.batch.implementation.BatchManagementClientImpl.getApplicationPackages*"
+fullName: "com.azure.resourcemanager.batch.implementation.BatchManagementClientImpl.getApplicationPackages"
+name: "getApplicationPackages"
+nameWithType: "BatchManagementClientImpl.getApplicationPackages"
+members:
+- uid: "com.azure.resourcemanager.batch.implementation.BatchManagementClientImpl.getApplicationPackages()"
+  fullName: "com.azure.resourcemanager.batch.implementation.BatchManagementClientImpl.getApplicationPackages()"
+  name: "getApplicationPackages()"
+  nameWithType: "BatchManagementClientImpl.getApplicationPackages()"
+  summary: "Gets the ApplicationPackagesClient object to access its operations."
+  syntax: "public ApplicationPackagesClient getApplicationPackages()"
+  returns:
+    description: "the ApplicationPackagesClient object."
+    type: "<xref href=\"com.azure.resourcemanager.batch.fluent.ApplicationPackagesClient?alt=com.azure.resourcemanager.batch.fluent.ApplicationPackagesClient&text=ApplicationPackagesClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.batch.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-batch:1.0.0

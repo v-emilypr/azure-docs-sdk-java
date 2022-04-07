@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getCopySource*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getCopySource"
+name: "getCopySource"
+nameWithType: "BlobPropertiesInternalGetProperties.getCopySource"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getCopySource()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getCopySource()"
+  name: "getCopySource()"
+  nameWithType: "BlobPropertiesInternalGetProperties.getCopySource()"
+  syntax: "public String getCopySource()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0

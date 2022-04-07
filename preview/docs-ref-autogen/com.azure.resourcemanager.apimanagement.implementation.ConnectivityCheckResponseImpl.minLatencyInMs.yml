@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.apimanagement.implementation.ConnectivityCheckResponseImpl.minLatencyInMs*"
+fullName: "com.azure.resourcemanager.apimanagement.implementation.ConnectivityCheckResponseImpl.minLatencyInMs"
+name: "minLatencyInMs"
+nameWithType: "ConnectivityCheckResponseImpl.minLatencyInMs"
+members:
+- uid: "com.azure.resourcemanager.apimanagement.implementation.ConnectivityCheckResponseImpl.minLatencyInMs()"
+  fullName: "com.azure.resourcemanager.apimanagement.implementation.ConnectivityCheckResponseImpl.minLatencyInMs()"
+  name: "minLatencyInMs()"
+  nameWithType: "ConnectivityCheckResponseImpl.minLatencyInMs()"
+  summary: "Gets the minLatencyInMs property: Minimum latency in milliseconds."
+  syntax: "public Long minLatencyInMs()"
+  returns:
+    type: "<xref href=\"java.lang.Long?alt=java.lang.Long&text=Long\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.apimanagement.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-apimanagement:1.0.0-beta.3

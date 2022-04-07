@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.REAL_ID*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.REAL_ID"
+name: "REAL_ID"
+nameWithType: "SqlSerializerFactory.REAL_ID"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.REAL_ID"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.REAL_ID"
+  name: "REAL_ID"
+  nameWithType: "SqlSerializerFactory.REAL_ID"
+  syntax: "public static final String REAL_ID"
+type: "field"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

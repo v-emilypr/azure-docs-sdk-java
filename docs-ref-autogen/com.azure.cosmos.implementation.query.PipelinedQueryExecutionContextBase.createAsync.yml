@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase.createAsync*"
+fullName: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase<T>.<T>createAsync"
+name: "<T>createAsync"
+nameWithType: "PipelinedQueryExecutionContextBase<T>.<T>createAsync"
+members:
+- uid: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase.<T>createAsync(com.azure.cosmos.implementation.DiagnosticsClientContext,com.azure.cosmos.implementation.query.IDocumentQueryClient,com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams<T>,java.lang.Class<T>)"
+  fullName: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase<T>.<T>createAsync(DiagnosticsClientContext diagnosticsClientContext, IDocumentQueryClient client, PipelinedDocumentQueryParams<T> initParams, Class<T> classOfT)"
+  name: "<T>createAsync(DiagnosticsClientContext diagnosticsClientContext, IDocumentQueryClient client, PipelinedDocumentQueryParams<T> initParams, Class<T> classOfT)"
+  nameWithType: "PipelinedQueryExecutionContextBase<T>.<T>createAsync(DiagnosticsClientContext diagnosticsClientContext, IDocumentQueryClient client, PipelinedDocumentQueryParams<T> initParams, Class<T> classOfT)"
+  parameters:
+  - name: "diagnosticsClientContext"
+    type: "<xref href=\"com.azure.cosmos.implementation.DiagnosticsClientContext?alt=com.azure.cosmos.implementation.DiagnosticsClientContext&text=DiagnosticsClientContext\" data-throw-if-not-resolved=\"False\" />"
+  - name: "client"
+    type: "<xref href=\"com.azure.cosmos.implementation.query.IDocumentQueryClient?alt=com.azure.cosmos.implementation.query.IDocumentQueryClient&text=IDocumentQueryClient\" data-throw-if-not-resolved=\"False\" />"
+  - name: "initParams"
+    type: "<xref href=\"com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams?alt=com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams&text=PipelinedDocumentQueryParams\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+  - name: "classOfT"
+    type: "<xref href=\"java.lang.Class?alt=java.lang.Class&text=Class\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public static Flux<PipelinedQueryExecutionContextBase<T>> <T>createAsync(DiagnosticsClientContext diagnosticsClientContext, IDocumentQueryClient client, PipelinedDocumentQueryParams<T> initParams, Class<T> classOfT)"
+  returns:
+    type: "<xref href=\"reactor.core.publisher.Flux?alt=reactor.core.publisher.Flux&text=Flux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase?alt=com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase&text=PipelinedQueryExecutionContextBase\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation.query"
+artifact: com.azure:azure-cosmos:4.28.0

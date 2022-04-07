@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Type.getSize*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Type.getSize"
+name: "getSize"
+nameWithType: "Type.getSize"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Type.getSize()"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Type.getSize()"
+  name: "getSize()"
+  nameWithType: "Type.getSize()"
+  summary: "Getter for Size."
+  syntax: "public int getSize()"
+  returns:
+    description: "The maximum size of value."
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

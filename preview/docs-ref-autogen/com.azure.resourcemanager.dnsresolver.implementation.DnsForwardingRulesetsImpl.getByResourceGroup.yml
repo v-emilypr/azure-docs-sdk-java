@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetsImpl.getByResourceGroup*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetsImpl.getByResourceGroup"
+name: "getByResourceGroup"
+nameWithType: "DnsForwardingRulesetsImpl.getByResourceGroup"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetsImpl.getByResourceGroup(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetsImpl.getByResourceGroup(String resourceGroupName, String dnsForwardingRulesetName)"
+  name: "getByResourceGroup(String resourceGroupName, String dnsForwardingRulesetName)"
+  nameWithType: "DnsForwardingRulesetsImpl.getByResourceGroup(String resourceGroupName, String dnsForwardingRulesetName)"
+  summary: "Gets a DNS forwarding ruleset properties."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "dnsForwardingRulesetName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DnsForwardingRuleset getByResourceGroup(String resourceGroupName, String dnsForwardingRulesetName)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.models.DnsForwardingRuleset?alt=com.azure.resourcemanager.dnsresolver.models.DnsForwardingRuleset&text=DnsForwardingRuleset\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

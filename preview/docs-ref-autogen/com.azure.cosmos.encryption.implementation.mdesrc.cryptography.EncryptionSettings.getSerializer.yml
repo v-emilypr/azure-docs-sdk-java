@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getSerializer*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getSerializer"
+name: "getSerializer"
+nameWithType: "EncryptionSettings.getSerializer"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getSerializer()"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getSerializer()"
+  name: "getSerializer()"
+  nameWithType: "EncryptionSettings.getSerializer()"
+  summary: "Gets the ISerializer."
+  syntax: "public abstract ISerializer getSerializer()"
+  returns:
+    description: "ISerializer instance"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer&text=ISerializer\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

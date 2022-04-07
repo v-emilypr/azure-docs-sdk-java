@@ -1,0 +1,24 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.StandardSerializerFactory.getSerializer*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.StandardSerializerFactory.getSerializer"
+name: "getSerializer"
+nameWithType: "StandardSerializerFactory.getSerializer"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.StandardSerializerFactory.getSerializer(java.lang.String)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.StandardSerializerFactory.getSerializer(String id)"
+  name: "getSerializer(String id)"
+  nameWithType: "StandardSerializerFactory.getSerializer(String id)"
+  summary: "Gets a registered serializer by its Identifier Property."
+  overridden: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SerializerFactory.getSerializer(java.lang.String)"
+  parameters:
+  - name: "id"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ISerializer getSerializer(String id)"
+  exceptions:
+  - type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException&text=MicrosoftDataEncryptionException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer&text=ISerializer\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

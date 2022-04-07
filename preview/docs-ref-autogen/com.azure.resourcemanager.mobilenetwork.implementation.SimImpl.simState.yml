@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.simState*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.simState"
+name: "simState"
+nameWithType: "SimImpl.simState"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.simState()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.simState()"
+  name: "simState()"
+  nameWithType: "SimImpl.simState()"
+  summary: "Gets the simState property: The state of the sim resource."
+  syntax: "public SimState simState()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.SimState?alt=com.azure.resourcemanager.mobilenetwork.models.SimState&text=SimState\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

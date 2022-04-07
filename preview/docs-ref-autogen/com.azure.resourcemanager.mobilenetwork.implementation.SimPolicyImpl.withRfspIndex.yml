@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withRfspIndex*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withRfspIndex"
+name: "withRfspIndex"
+nameWithType: "SimPolicyImpl.withRfspIndex"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withRfspIndex(java.lang.Integer)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withRfspIndex(Integer rfspIndex)"
+  name: "withRfspIndex(Integer rfspIndex)"
+  nameWithType: "SimPolicyImpl.withRfspIndex(Integer rfspIndex)"
+  summary: "Specifies the rfspIndex property: RAT/Frequency Selection Priority Index, defined in 3GPP TS 36.413. This is an optional setting and by default is unspecified.."
+  parameters:
+  - name: "rfspIndex"
+    type: "<xref href=\"java.lang.Integer?alt=java.lang.Integer&text=Integer\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SimPolicyImpl withRfspIndex(Integer rfspIndex)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl&text=SimPolicyImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.eventhubs.implementation.ClientConstants.PARTITION_KEY_KEY*"
+fullName: "com.azure.messaging.eventhubs.implementation.ClientConstants.PARTITION_KEY_KEY"
+name: "PARTITION_KEY_KEY"
+nameWithType: "ClientConstants.PARTITION_KEY_KEY"
+members:
+- uid: "com.azure.messaging.eventhubs.implementation.ClientConstants.PARTITION_KEY_KEY"
+  fullName: "com.azure.messaging.eventhubs.implementation.ClientConstants.PARTITION_KEY_KEY"
+  name: "PARTITION_KEY_KEY"
+  nameWithType: "ClientConstants.PARTITION_KEY_KEY"
+  syntax: "public static final String PARTITION_KEY_KEY"
+type: "field"
+metadata: {}
+package: "com.azure.messaging.eventhubs.implementation"
+artifact: com.azure:azure-messaging-eventhubs:5.11.1

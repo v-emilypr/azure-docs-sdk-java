@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm.AeadAes256CbcHmac256EncryptionAlgorithm*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm.AeadAes256CbcHmac256EncryptionAlgorithm"
+name: "AeadAes256CbcHmac256EncryptionAlgorithm"
+nameWithType: "AeadAes256CbcHmac256EncryptionAlgorithm.AeadAes256CbcHmac256EncryptionAlgorithm"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm.AeadAes256CbcHmac256EncryptionAlgorithm(com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey,com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm.AeadAes256CbcHmac256EncryptionAlgorithm(DataEncryptionKey dataEncryptionKey, EncryptionType encryptionType)"
+  name: "AeadAes256CbcHmac256EncryptionAlgorithm(DataEncryptionKey dataEncryptionKey, EncryptionType encryptionType)"
+  nameWithType: "AeadAes256CbcHmac256EncryptionAlgorithm.AeadAes256CbcHmac256EncryptionAlgorithm(DataEncryptionKey dataEncryptionKey, EncryptionType encryptionType)"
+  summary: "Constructor for AeadAes256CbcHmac256EncryptionAlgorithm"
+  parameters:
+  - description: "data encryption key"
+    name: "dataEncryptionKey"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey&text=DataEncryptionKey\" data-throw-if-not-resolved=\"False\" />"
+  - description: "encryption type"
+    name: "encryptionType"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType&text=EncryptionType\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AeadAes256CbcHmac256EncryptionAlgorithm(DataEncryptionKey dataEncryptionKey, EncryptionType encryptionType)"
+  exceptions:
+  - type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException&text=MicrosoftDataEncryptionException\" data-throw-if-not-resolved=\"False\" />"
+type: "constructor"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

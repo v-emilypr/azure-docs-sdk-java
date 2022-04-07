@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getDefaultEncryptionType*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getDefaultEncryptionType"
+name: "getDefaultEncryptionType"
+nameWithType: "EncryptionSettings.getDefaultEncryptionType"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getDefaultEncryptionType(com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getDefaultEncryptionType(DataEncryptionKey d)"
+  name: "getDefaultEncryptionType(DataEncryptionKey d)"
+  nameWithType: "EncryptionSettings.getDefaultEncryptionType(DataEncryptionKey d)"
+  summary: "Get the default encryption type."
+  parameters:
+  - description: "encryption key"
+    name: "d"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey&text=DataEncryptionKey\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "protected static EncryptionType getDefaultEncryptionType(DataEncryptionKey d)"
+  returns:
+    description: "type of encryption"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType&text=EncryptionType\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

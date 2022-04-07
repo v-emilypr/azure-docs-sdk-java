@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.ConnectionPolicy.setIoThreadPriority*"
+fullName: "com.azure.cosmos.implementation.ConnectionPolicy.setIoThreadPriority"
+name: "setIoThreadPriority"
+nameWithType: "ConnectionPolicy.setIoThreadPriority"
+members:
+- uid: "com.azure.cosmos.implementation.ConnectionPolicy.setIoThreadPriority(int)"
+  fullName: "com.azure.cosmos.implementation.ConnectionPolicy.setIoThreadPriority(int ioThreadPriority)"
+  name: "setIoThreadPriority(int ioThreadPriority)"
+  nameWithType: "ConnectionPolicy.setIoThreadPriority(int ioThreadPriority)"
+  parameters:
+  - name: "ioThreadPriority"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ConnectionPolicy setIoThreadPriority(int ioThreadPriority)"
+  returns:
+    type: "<xref href=\"com.azure.cosmos.implementation.ConnectionPolicy?alt=com.azure.cosmos.implementation.ConnectionPolicy&text=ConnectionPolicy\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

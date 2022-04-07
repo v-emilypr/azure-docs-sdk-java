@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl.withMetadata*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl.withMetadata"
+name: "withMetadata"
+nameWithType: "VirtualNetworkLinkImpl.withMetadata"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl.withMetadata(java.util.Map<java.lang.String,java.lang.String>)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl.withMetadata(Map<String,String> metadata)"
+  name: "withMetadata(Map<String,String> metadata)"
+  nameWithType: "VirtualNetworkLinkImpl.withMetadata(Map<String,String> metadata)"
+  summary: "Specifies the metadata property: Metadata attached to the virtual network link.."
+  parameters:
+  - name: "metadata"
+    type: "<xref href=\"java.util.Map?alt=java.util.Map&text=Map\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />,<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public VirtualNetworkLinkImpl withMetadata(Map<String,String> metadata)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl?alt=com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl&text=VirtualNetworkLinkImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

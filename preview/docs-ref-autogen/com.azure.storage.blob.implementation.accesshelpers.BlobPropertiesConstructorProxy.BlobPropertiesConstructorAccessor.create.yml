@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor.create*"
+fullName: "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor.create"
+name: "create"
+nameWithType: "BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor.create"
+members:
+- uid: "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor.create(com.azure.storage.blob.implementation.models.BlobPropertiesInternal)"
+  fullName: "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor.create(BlobPropertiesInternal internalProperties)"
+  name: "create(BlobPropertiesInternal internalProperties)"
+  nameWithType: "BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor.create(BlobPropertiesInternal internalProperties)"
+  summary: "Creates a new instance of <xref uid=\"com.azure.storage.blob.models.BlobProperties\" data-throw-if-not-resolved=\"false\" data-raw-source=\"BlobProperties\"></xref> backed by an internal instance of <xref uid=\"com.azure.storage.blob.implementation.models.BlobPropertiesInternal\" data-throw-if-not-resolved=\"false\" data-raw-source=\"BlobPropertiesInternal\"></xref>."
+  parameters:
+  - description: "The internal properties."
+    name: "internalProperties"
+    type: "<xref href=\"com.azure.storage.blob.implementation.models.BlobPropertiesInternal?alt=com.azure.storage.blob.implementation.models.BlobPropertiesInternal&text=BlobPropertiesInternal\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract BlobProperties create(BlobPropertiesInternal internalProperties)"
+  returns:
+    description: "A new instance of <xref uid=\"com.azure.storage.blob.models.BlobProperties\" data-throw-if-not-resolved=\"false\" data-raw-source=\"BlobProperties\"></xref>."
+    type: "<xref href=\"com.azure.storage.blob.models.BlobProperties?alt=com.azure.storage.blob.models.BlobProperties&text=BlobProperties\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.accesshelpers"
+artifact: com.azure:azure-storage-blob:12.15.0-beta.3

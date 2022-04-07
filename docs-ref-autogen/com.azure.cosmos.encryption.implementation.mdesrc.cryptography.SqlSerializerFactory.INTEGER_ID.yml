@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.INTEGER_ID*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.INTEGER_ID"
+name: "INTEGER_ID"
+nameWithType: "SqlSerializerFactory.INTEGER_ID"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.INTEGER_ID"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SqlSerializerFactory.INTEGER_ID"
+  name: "INTEGER_ID"
+  nameWithType: "SqlSerializerFactory.INTEGER_ID"
+  syntax: "public static final String INTEGER_ID"
+type: "field"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

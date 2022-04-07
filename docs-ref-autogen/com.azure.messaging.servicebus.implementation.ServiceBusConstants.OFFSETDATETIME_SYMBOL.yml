@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.OFFSETDATETIME_SYMBOL*"
+fullName: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.OFFSETDATETIME_SYMBOL"
+name: "OFFSETDATETIME_SYMBOL"
+nameWithType: "ServiceBusConstants.OFFSETDATETIME_SYMBOL"
+members:
+- uid: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.OFFSETDATETIME_SYMBOL"
+  fullName: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.OFFSETDATETIME_SYMBOL"
+  name: "OFFSETDATETIME_SYMBOL"
+  nameWithType: "ServiceBusConstants.OFFSETDATETIME_SYMBOL"
+  syntax: "public static final Symbol OFFSETDATETIME_SYMBOL"
+type: "field"
+metadata: {}
+package: "com.azure.messaging.servicebus.implementation"
+artifact: com.azure:azure-messaging-servicebus:7.7.0

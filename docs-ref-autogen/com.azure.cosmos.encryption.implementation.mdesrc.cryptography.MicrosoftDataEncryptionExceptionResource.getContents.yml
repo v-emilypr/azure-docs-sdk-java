@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionExceptionResource.getContents*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionExceptionResource.getContents"
+name: "getContents"
+nameWithType: "MicrosoftDataEncryptionExceptionResource.getContents"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionExceptionResource.getContents()"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionExceptionResource.getContents()"
+  name: "getContents()"
+  nameWithType: "MicrosoftDataEncryptionExceptionResource.getContents()"
+  overridden: "java.util.ListResourceBundle.getContents()"
+  syntax: "protected Object[][] getContents()"
+  returns:
+    type: "<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />[][]"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

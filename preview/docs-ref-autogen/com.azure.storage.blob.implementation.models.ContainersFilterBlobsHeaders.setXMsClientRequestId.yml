@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setXMsClientRequestId*"
+fullName: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setXMsClientRequestId"
+name: "setXMsClientRequestId"
+nameWithType: "ContainersFilterBlobsHeaders.setXMsClientRequestId"
+members:
+- uid: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setXMsClientRequestId(java.lang.String)"
+  fullName: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setXMsClientRequestId(String xMsClientRequestId)"
+  name: "setXMsClientRequestId(String xMsClientRequestId)"
+  nameWithType: "ContainersFilterBlobsHeaders.setXMsClientRequestId(String xMsClientRequestId)"
+  summary: "Set the xMsClientRequestId property: The x-ms-client-request-id property."
+  parameters:
+  - description: "the xMsClientRequestId value to set."
+    name: "xMsClientRequestId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ContainersFilterBlobsHeaders setXMsClientRequestId(String xMsClientRequestId)"
+  returns:
+    description: "the ContainersFilterBlobsHeaders object itself."
+    type: "<xref href=\"com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders?alt=com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders&text=ContainersFilterBlobsHeaders\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0-beta.3

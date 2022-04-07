@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.hashCode*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.hashCode"
+name: "hashCode"
+nameWithType: "KeyEncryptionKey.hashCode"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.hashCode()"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.hashCode()"
+  name: "hashCode()"
+  nameWithType: "KeyEncryptionKey.hashCode()"
+  overridden: "java.lang.Object.hashCode()"
+  syntax: "public int hashCode()"
+  returns:
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

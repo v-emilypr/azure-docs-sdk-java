@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isSealed*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isSealed"
+name: "isSealed"
+nameWithType: "BlobPropertiesInternal.isSealed"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isSealed()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isSealed()"
+  name: "isSealed()"
+  nameWithType: "BlobPropertiesInternal.isSealed()"
+  syntax: "public abstract Boolean isSealed()"
+  returns:
+    description: "the flag indicating whether this blob has been sealed (marked as read only). This is only returned for\n Append blobs."
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0-beta.3

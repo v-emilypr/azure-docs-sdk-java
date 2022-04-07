@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.identity.implementation.IdentityLogOptionsImpl.IdentityLogOptionsImpl*"
+fullName: "com.azure.identity.implementation.IdentityLogOptionsImpl.IdentityLogOptionsImpl"
+name: "IdentityLogOptionsImpl"
+nameWithType: "IdentityLogOptionsImpl.IdentityLogOptionsImpl"
+members:
+- uid: "com.azure.identity.implementation.IdentityLogOptionsImpl.IdentityLogOptionsImpl()"
+  fullName: "com.azure.identity.implementation.IdentityLogOptionsImpl.IdentityLogOptionsImpl()"
+  name: "IdentityLogOptionsImpl()"
+  nameWithType: "IdentityLogOptionsImpl.IdentityLogOptionsImpl()"
+  syntax: "public IdentityLogOptionsImpl()"
+- uid: "com.azure.identity.implementation.IdentityLogOptionsImpl.IdentityLogOptionsImpl(boolean)"
+  fullName: "com.azure.identity.implementation.IdentityLogOptionsImpl.IdentityLogOptionsImpl(boolean isUnderCredentialChainScope)"
+  name: "IdentityLogOptionsImpl(boolean isUnderCredentialChainScope)"
+  nameWithType: "IdentityLogOptionsImpl.IdentityLogOptionsImpl(boolean isUnderCredentialChainScope)"
+  parameters:
+  - name: "isUnderCredentialChainScope"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public IdentityLogOptionsImpl(boolean isUnderCredentialChainScope)"
+type: "constructor"
+metadata: {}
+package: "com.azure.identity.implementation"
+artifact: com.azure:azure-identity:1.5.0-beta.2

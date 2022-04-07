@@ -1,0 +1,45 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl"
+name: "PartnerConfigurationsImpl"
+nameWithType: "PartnerConfigurationsImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class PartnerConfigurationsImpl implements PartnerConfigurations"
+constructors:
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.PartnerConfigurationsImpl(com.azure.resourcemanager.eventgrid.fluent.PartnerConfigurationsClient,com.azure.resourcemanager.eventgrid.EventGridManager)"
+methods:
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.authorizePartner(java.lang.String,com.azure.resourcemanager.eventgrid.models.Partner)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.authorizePartnerWithResponse(java.lang.String,com.azure.resourcemanager.eventgrid.models.Partner,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.createOrUpdate(java.lang.String,com.azure.resourcemanager.eventgrid.fluent.models.PartnerConfigurationInner)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.createOrUpdate(java.lang.String,com.azure.resourcemanager.eventgrid.fluent.models.PartnerConfigurationInner,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.delete(java.lang.String)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.delete(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.getByResourceGroup(java.lang.String)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.getByResourceGroupWithResponse(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.list()"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.list(java.lang.String,java.lang.Integer,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.listByResourceGroup(java.lang.String)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.listByResourceGroup(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.unauthorizePartner(java.lang.String,com.azure.resourcemanager.eventgrid.models.Partner)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.unauthorizePartnerWithResponse(java.lang.String,com.azure.resourcemanager.eventgrid.models.Partner,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.update(java.lang.String,com.azure.resourcemanager.eventgrid.models.PartnerConfigurationUpdateParameters)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerConfigurationsImpl.update(java.lang.String,com.azure.resourcemanager.eventgrid.models.PartnerConfigurationUpdateParameters,com.azure.core.util.Context)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.eventgrid.models.PartnerConfigurations?alt=com.azure.resourcemanager.eventgrid.models.PartnerConfigurations&text=PartnerConfigurations\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

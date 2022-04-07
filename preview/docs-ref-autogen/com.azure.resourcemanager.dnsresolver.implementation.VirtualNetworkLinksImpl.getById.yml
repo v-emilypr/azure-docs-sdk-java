@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinksImpl.getById*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinksImpl.getById"
+name: "getById"
+nameWithType: "VirtualNetworkLinksImpl.getById"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinksImpl.getById(java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinksImpl.getById(String id)"
+  name: "getById(String id)"
+  nameWithType: "VirtualNetworkLinksImpl.getById(String id)"
+  summary: "Gets properties of a virtual network link to a DNS forwarding ruleset."
+  parameters:
+  - name: "id"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public VirtualNetworkLink getById(String id)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.models.VirtualNetworkLink?alt=com.azure.resourcemanager.dnsresolver.models.VirtualNetworkLink&text=VirtualNetworkLink\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

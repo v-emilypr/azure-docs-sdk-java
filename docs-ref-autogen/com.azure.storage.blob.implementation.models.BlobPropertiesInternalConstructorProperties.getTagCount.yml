@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.getTagCount*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.getTagCount"
+name: "getTagCount"
+nameWithType: "BlobPropertiesInternalConstructorProperties.getTagCount"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.getTagCount()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.getTagCount()"
+  name: "getTagCount()"
+  nameWithType: "BlobPropertiesInternalConstructorProperties.getTagCount()"
+  syntax: "public Long getTagCount()"
+  returns:
+    type: "<xref href=\"java.lang.Long?alt=java.lang.Long&text=Long\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0

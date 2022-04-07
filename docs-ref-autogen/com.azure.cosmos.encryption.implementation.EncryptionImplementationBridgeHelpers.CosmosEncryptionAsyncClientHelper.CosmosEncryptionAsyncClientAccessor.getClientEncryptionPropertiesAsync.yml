@@ -1,0 +1,32 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor.getClientEncryptionPropertiesAsync*"
+fullName: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor.getClientEncryptionPropertiesAsync"
+name: "getClientEncryptionPropertiesAsync"
+nameWithType: "EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor.getClientEncryptionPropertiesAsync"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor.getClientEncryptionPropertiesAsync(com.azure.cosmos.encryption.CosmosEncryptionAsyncClient,java.lang.String,java.lang.String,com.azure.cosmos.CosmosAsyncContainer,boolean,java.lang.String,boolean)"
+  fullName: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor.getClientEncryptionPropertiesAsync(CosmosEncryptionAsyncClient cosmosEncryptionAsyncClient, String clientEncryptionKeyId, String databaseRid, CosmosAsyncContainer cosmosAsyncContainer, boolean shouldForceRefresh, String ifNoneMatchEtag, boolean shouldForceRefreshGateway)"
+  name: "getClientEncryptionPropertiesAsync(CosmosEncryptionAsyncClient cosmosEncryptionAsyncClient, String clientEncryptionKeyId, String databaseRid, CosmosAsyncContainer cosmosAsyncContainer, boolean shouldForceRefresh, String ifNoneMatchEtag, boolean shouldForceRefreshGateway)"
+  nameWithType: "EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor.getClientEncryptionPropertiesAsync(CosmosEncryptionAsyncClient cosmosEncryptionAsyncClient, String clientEncryptionKeyId, String databaseRid, CosmosAsyncContainer cosmosAsyncContainer, boolean shouldForceRefresh, String ifNoneMatchEtag, boolean shouldForceRefreshGateway)"
+  parameters:
+  - name: "cosmosEncryptionAsyncClient"
+    type: "<xref href=\"com.azure.cosmos.encryption.CosmosEncryptionAsyncClient?alt=com.azure.cosmos.encryption.CosmosEncryptionAsyncClient&text=CosmosEncryptionAsyncClient\" data-throw-if-not-resolved=\"False\" />"
+  - name: "clientEncryptionKeyId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "databaseRid"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "cosmosAsyncContainer"
+    type: "<xref href=\"com.azure.cosmos.CosmosAsyncContainer?alt=com.azure.cosmos.CosmosAsyncContainer&text=CosmosAsyncContainer\" data-throw-if-not-resolved=\"False\" />"
+  - name: "shouldForceRefresh"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  - name: "ifNoneMatchEtag"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "shouldForceRefreshGateway"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract Mono<CosmosClientEncryptionKeyProperties> getClientEncryptionPropertiesAsync(CosmosEncryptionAsyncClient cosmosEncryptionAsyncClient, String clientEncryptionKeyId, String databaseRid, CosmosAsyncContainer cosmosAsyncContainer, boolean shouldForceRefresh, String ifNoneMatchEtag, boolean shouldForceRefreshGateway)"
+  returns:
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.cosmos.models.CosmosClientEncryptionKeyProperties?alt=com.azure.cosmos.models.CosmosClientEncryptionKeyProperties&text=CosmosClientEncryptionKeyProperties\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

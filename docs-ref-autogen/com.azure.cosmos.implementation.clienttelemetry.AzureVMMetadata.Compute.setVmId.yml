@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.clienttelemetry.AzureVMMetadata.Compute.setVmId*"
+fullName: "com.azure.cosmos.implementation.clienttelemetry.AzureVMMetadata.Compute.setVmId"
+name: "setVmId"
+nameWithType: "AzureVMMetadata.Compute.setVmId"
+members:
+- uid: "com.azure.cosmos.implementation.clienttelemetry.AzureVMMetadata.Compute.setVmId(java.lang.String)"
+  fullName: "com.azure.cosmos.implementation.clienttelemetry.AzureVMMetadata.Compute.setVmId(String vmId)"
+  name: "setVmId(String vmId)"
+  nameWithType: "AzureVMMetadata.Compute.setVmId(String vmId)"
+  parameters:
+  - name: "vmId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void setVmId(String vmId)"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation.clienttelemetry"
+artifact: com.azure:azure-cosmos:4.28.0

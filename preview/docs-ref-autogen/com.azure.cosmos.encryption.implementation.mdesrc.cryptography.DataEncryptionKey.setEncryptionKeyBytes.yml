@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.setEncryptionKeyBytes*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.setEncryptionKeyBytes"
+name: "setEncryptionKeyBytes"
+nameWithType: "DataEncryptionKey.setEncryptionKeyBytes"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.setEncryptionKeyBytes(byte[])"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey.setEncryptionKeyBytes(byte[] value)"
+  name: "setEncryptionKeyBytes(byte[] value)"
+  nameWithType: "DataEncryptionKey.setEncryptionKeyBytes(byte[] value)"
+  summary: "Sets the encryption key bytes."
+  parameters:
+  - description: "encryption key bytes in byte[]"
+    name: "value"
+    type: "<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]"
+  syntax: "protected void setEncryptionKeyBytes(byte[] value)"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

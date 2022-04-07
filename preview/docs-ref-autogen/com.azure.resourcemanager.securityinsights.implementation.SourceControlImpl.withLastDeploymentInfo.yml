@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.securityinsights.implementation.SourceControlImpl.withLastDeploymentInfo*"
+fullName: "com.azure.resourcemanager.securityinsights.implementation.SourceControlImpl.withLastDeploymentInfo"
+name: "withLastDeploymentInfo"
+nameWithType: "SourceControlImpl.withLastDeploymentInfo"
+members:
+- uid: "com.azure.resourcemanager.securityinsights.implementation.SourceControlImpl.withLastDeploymentInfo(com.azure.resourcemanager.securityinsights.models.DeploymentInfo)"
+  fullName: "com.azure.resourcemanager.securityinsights.implementation.SourceControlImpl.withLastDeploymentInfo(DeploymentInfo lastDeploymentInfo)"
+  name: "withLastDeploymentInfo(DeploymentInfo lastDeploymentInfo)"
+  nameWithType: "SourceControlImpl.withLastDeploymentInfo(DeploymentInfo lastDeploymentInfo)"
+  summary: "Specifies the lastDeploymentInfo property: Information regarding the latest deployment for the source control.."
+  parameters:
+  - name: "lastDeploymentInfo"
+    type: "<xref href=\"com.azure.resourcemanager.securityinsights.models.DeploymentInfo?alt=com.azure.resourcemanager.securityinsights.models.DeploymentInfo&text=DeploymentInfo\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SourceControlImpl withLastDeploymentInfo(DeploymentInfo lastDeploymentInfo)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.securityinsights.implementation.SourceControlImpl?alt=com.azure.resourcemanager.securityinsights.implementation.SourceControlImpl&text=SourceControlImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.securityinsights.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-securityinsights:1.0.0-beta.2

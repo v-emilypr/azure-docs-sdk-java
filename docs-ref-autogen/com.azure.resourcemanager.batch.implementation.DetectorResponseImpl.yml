@@ -1,0 +1,33 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.batch.implementation.DetectorResponseImpl"
+fullName: "com.azure.resourcemanager.batch.implementation.DetectorResponseImpl"
+name: "DetectorResponseImpl"
+nameWithType: "DetectorResponseImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class DetectorResponseImpl implements DetectorResponse"
+methods:
+- "com.azure.resourcemanager.batch.implementation.DetectorResponseImpl.etag()"
+- "com.azure.resourcemanager.batch.implementation.DetectorResponseImpl.id()"
+- "com.azure.resourcemanager.batch.implementation.DetectorResponseImpl.innerModel()"
+- "com.azure.resourcemanager.batch.implementation.DetectorResponseImpl.name()"
+- "com.azure.resourcemanager.batch.implementation.DetectorResponseImpl.type()"
+- "com.azure.resourcemanager.batch.implementation.DetectorResponseImpl.value()"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.batch.models.DetectorResponse?alt=com.azure.resourcemanager.batch.models.DetectorResponse&text=DetectorResponse\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.batch.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-batch:1.0.0

@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.security.keyvault.keys.implementation.models.LifetimeActionType.LifetimeActionType*"
+fullName: "com.azure.security.keyvault.keys.implementation.models.LifetimeActionType.LifetimeActionType"
+name: "LifetimeActionType"
+nameWithType: "LifetimeActionType.LifetimeActionType"
+members:
+- uid: "com.azure.security.keyvault.keys.implementation.models.LifetimeActionType.LifetimeActionType()"
+  fullName: "com.azure.security.keyvault.keys.implementation.models.LifetimeActionType.LifetimeActionType()"
+  name: "LifetimeActionType()"
+  nameWithType: "LifetimeActionType.LifetimeActionType()"
+  syntax: "public LifetimeActionType()"
+type: "constructor"
+metadata: {}
+package: "com.azure.security.keyvault.keys.implementation.models"
+artifact: com.azure:azure-security-keyvault-keys:4.4.0-beta.7

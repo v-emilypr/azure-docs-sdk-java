@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl.withExistingDnsForwardingRuleset*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl.withExistingDnsForwardingRuleset"
+name: "withExistingDnsForwardingRuleset"
+nameWithType: "VirtualNetworkLinkImpl.withExistingDnsForwardingRuleset"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl.withExistingDnsForwardingRuleset(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl.withExistingDnsForwardingRuleset(String resourceGroupName, String dnsForwardingRulesetName)"
+  name: "withExistingDnsForwardingRuleset(String resourceGroupName, String dnsForwardingRulesetName)"
+  nameWithType: "VirtualNetworkLinkImpl.withExistingDnsForwardingRuleset(String resourceGroupName, String dnsForwardingRulesetName)"
+  summary: "Specifies resourceGroupName, dnsForwardingRulesetName."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "dnsForwardingRulesetName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public VirtualNetworkLinkImpl withExistingDnsForwardingRuleset(String resourceGroupName, String dnsForwardingRulesetName)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl?alt=com.azure.resourcemanager.dnsresolver.implementation.VirtualNetworkLinkImpl&text=VirtualNetworkLinkImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

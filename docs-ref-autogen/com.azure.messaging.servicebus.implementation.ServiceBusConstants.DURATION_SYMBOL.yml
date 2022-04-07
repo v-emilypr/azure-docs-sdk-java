@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.DURATION_SYMBOL*"
+fullName: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.DURATION_SYMBOL"
+name: "DURATION_SYMBOL"
+nameWithType: "ServiceBusConstants.DURATION_SYMBOL"
+members:
+- uid: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.DURATION_SYMBOL"
+  fullName: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.DURATION_SYMBOL"
+  name: "DURATION_SYMBOL"
+  nameWithType: "ServiceBusConstants.DURATION_SYMBOL"
+  syntax: "public static final Symbol DURATION_SYMBOL"
+type: "field"
+metadata: {}
+package: "com.azure.messaging.servicebus.implementation"
+artifact: com.azure:azure-messaging-servicebus:7.7.0

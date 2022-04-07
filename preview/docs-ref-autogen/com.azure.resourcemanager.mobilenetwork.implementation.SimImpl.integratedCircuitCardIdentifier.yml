@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.integratedCircuitCardIdentifier*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.integratedCircuitCardIdentifier"
+name: "integratedCircuitCardIdentifier"
+nameWithType: "SimImpl.integratedCircuitCardIdentifier"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.integratedCircuitCardIdentifier()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.integratedCircuitCardIdentifier()"
+  name: "integratedCircuitCardIdentifier()"
+  nameWithType: "SimImpl.integratedCircuitCardIdentifier()"
+  summary: "Gets the integratedCircuitCardIdentifier property: The Integrated Circuit Card ID (ICC Id) for the sim."
+  syntax: "public String integratedCircuitCardIdentifier()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl.withTargetDnsServers*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl.withTargetDnsServers"
+name: "withTargetDnsServers"
+nameWithType: "ForwardingRuleImpl.withTargetDnsServers"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl.withTargetDnsServers(java.util.List<com.azure.resourcemanager.dnsresolver.models.TargetDnsServer>)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl.withTargetDnsServers(List<TargetDnsServer> targetDnsServers)"
+  name: "withTargetDnsServers(List<TargetDnsServer> targetDnsServers)"
+  nameWithType: "ForwardingRuleImpl.withTargetDnsServers(List<TargetDnsServer> targetDnsServers)"
+  summary: "Specifies the targetDnsServers property: DNS servers to forward the DNS query to.."
+  parameters:
+  - name: "targetDnsServers"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.dnsresolver.models.TargetDnsServer?alt=com.azure.resourcemanager.dnsresolver.models.TargetDnsServer&text=TargetDnsServer\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public ForwardingRuleImpl withTargetDnsServers(List<TargetDnsServer> targetDnsServers)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl?alt=com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl&text=ForwardingRuleImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

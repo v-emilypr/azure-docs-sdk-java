@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointImpl.create*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointImpl.create"
+name: "create"
+nameWithType: "InboundEndpointImpl.create"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointImpl.create()"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointImpl.create()"
+  name: "create()"
+  nameWithType: "InboundEndpointImpl.create()"
+  summary: "Executes the create request."
+  syntax: "public InboundEndpoint create()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.models.InboundEndpoint?alt=com.azure.resourcemanager.dnsresolver.models.InboundEndpoint&text=InboundEndpoint\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointImpl.create(com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointImpl.create(Context context)"
+  name: "create(Context context)"
+  nameWithType: "InboundEndpointImpl.create(Context context)"
+  summary: "Executes the create request."
+  parameters:
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public InboundEndpoint create(Context context)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.models.InboundEndpoint?alt=com.azure.resourcemanager.dnsresolver.models.InboundEndpoint&text=InboundEndpoint\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

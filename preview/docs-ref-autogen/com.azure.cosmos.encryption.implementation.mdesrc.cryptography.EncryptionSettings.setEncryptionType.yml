@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.setEncryptionType*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.setEncryptionType"
+name: "setEncryptionType"
+nameWithType: "EncryptionSettings.setEncryptionType"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.setEncryptionType(com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.setEncryptionType(EncryptionType e)"
+  name: "setEncryptionType(EncryptionType e)"
+  nameWithType: "EncryptionSettings.setEncryptionType(EncryptionType e)"
+  summary: "Set the encryption type"
+  parameters:
+  - description: "encryption type"
+    name: "e"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType&text=EncryptionType\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "protected void setEncryptionType(EncryptionType e)"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

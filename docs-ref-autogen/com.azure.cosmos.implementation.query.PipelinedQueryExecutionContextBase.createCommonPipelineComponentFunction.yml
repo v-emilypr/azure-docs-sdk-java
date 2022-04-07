@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase.createCommonPipelineComponentFunction*"
+fullName: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase<T>.<T>createCommonPipelineComponentFunction"
+name: "<T>createCommonPipelineComponentFunction"
+nameWithType: "PipelinedQueryExecutionContextBase<T>.<T>createCommonPipelineComponentFunction"
+members:
+- uid: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase.<T>createCommonPipelineComponentFunction(java.util.function.BiFunction<java.lang.String,com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams<T>,reactor.core.publisher.Flux<com.azure.cosmos.implementation.query.IDocumentQueryExecutionComponent<T>>>,com.azure.cosmos.implementation.query.QueryInfo)"
+  fullName: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase<T>.<T>createCommonPipelineComponentFunction(BiFunction<String,PipelinedDocumentQueryParams<T>,Flux<IDocumentQueryExecutionComponent<T>>> createBaseComponent, QueryInfo queryInfo)"
+  name: "<T>createCommonPipelineComponentFunction(BiFunction<String,PipelinedDocumentQueryParams<T>,Flux<IDocumentQueryExecutionComponent<T>>> createBaseComponent, QueryInfo queryInfo)"
+  nameWithType: "PipelinedQueryExecutionContextBase<T>.<T>createCommonPipelineComponentFunction(BiFunction<String,PipelinedDocumentQueryParams<T>,Flux<IDocumentQueryExecutionComponent<T>>> createBaseComponent, QueryInfo queryInfo)"
+  parameters:
+  - name: "createBaseComponent"
+    type: "<xref href=\"java.util.function.BiFunction?alt=java.util.function.BiFunction&text=BiFunction\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />,<xref href=\"com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams?alt=com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams&text=PipelinedDocumentQueryParams\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;,<xref href=\"reactor.core.publisher.Flux?alt=reactor.core.publisher.Flux&text=Flux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.cosmos.implementation.query.IDocumentQueryExecutionComponent?alt=com.azure.cosmos.implementation.query.IDocumentQueryExecutionComponent&text=IDocumentQueryExecutionComponent\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;&gt;&gt;"
+  - name: "queryInfo"
+    type: "<xref href=\"com.azure.cosmos.implementation.query.QueryInfo?alt=com.azure.cosmos.implementation.query.QueryInfo&text=QueryInfo\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "protected static BiFunction<String,PipelinedDocumentQueryParams<T>,Flux<IDocumentQueryExecutionComponent<T>>> <T>createCommonPipelineComponentFunction(BiFunction<String,PipelinedDocumentQueryParams<T>,Flux<IDocumentQueryExecutionComponent<T>>> createBaseComponent, QueryInfo queryInfo)"
+  returns:
+    type: "<xref href=\"java.util.function.BiFunction?alt=java.util.function.BiFunction&text=BiFunction\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />,<xref href=\"com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams?alt=com.azure.cosmos.implementation.query.PipelinedDocumentQueryParams&text=PipelinedDocumentQueryParams\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;,<xref href=\"reactor.core.publisher.Flux?alt=reactor.core.publisher.Flux&text=Flux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.cosmos.implementation.query.IDocumentQueryExecutionComponent?alt=com.azure.cosmos.implementation.query.IDocumentQueryExecutionComponent&text=IDocumentQueryExecutionComponent\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;&gt;&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation.query"
+artifact: com.azure:azure-cosmos:4.28.0

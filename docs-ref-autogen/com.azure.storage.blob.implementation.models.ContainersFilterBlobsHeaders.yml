@@ -1,0 +1,36 @@
+### YamlMime:JavaType
+uid: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders"
+fullName: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders"
+name: "ContainersFilterBlobsHeaders"
+nameWithType: "ContainersFilterBlobsHeaders"
+summary: "The ContainersFilterBlobsHeaders model."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ContainersFilterBlobsHeaders"
+constructors:
+- "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.ContainersFilterBlobsHeaders()"
+methods:
+- "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.getDateProperty()"
+- "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.getXMsClientRequestId()"
+- "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.getXMsRequestId()"
+- "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.getXMsVersion()"
+- "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setDateProperty(java.time.OffsetDateTime)"
+- "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setXMsClientRequestId(java.lang.String)"
+- "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setXMsRequestId(java.lang.String)"
+- "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setXMsVersion(java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0

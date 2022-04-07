@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl.withDomainName*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl.withDomainName"
+name: "withDomainName"
+nameWithType: "ForwardingRuleImpl.withDomainName"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl.withDomainName(java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl.withDomainName(String domainName)"
+  name: "withDomainName(String domainName)"
+  nameWithType: "ForwardingRuleImpl.withDomainName(String domainName)"
+  summary: "Specifies the domainName property: The domain name for the forwarding rule.."
+  parameters:
+  - name: "domainName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ForwardingRuleImpl withDomainName(String domainName)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl?alt=com.azure.resourcemanager.dnsresolver.implementation.ForwardingRuleImpl&text=ForwardingRuleImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

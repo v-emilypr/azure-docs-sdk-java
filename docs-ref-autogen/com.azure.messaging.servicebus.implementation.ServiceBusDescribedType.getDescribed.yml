@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.servicebus.implementation.ServiceBusDescribedType.getDescribed*"
+fullName: "com.azure.messaging.servicebus.implementation.ServiceBusDescribedType.getDescribed"
+name: "getDescribed"
+nameWithType: "ServiceBusDescribedType.getDescribed"
+members:
+- uid: "com.azure.messaging.servicebus.implementation.ServiceBusDescribedType.getDescribed()"
+  fullName: "com.azure.messaging.servicebus.implementation.ServiceBusDescribedType.getDescribed()"
+  name: "getDescribed()"
+  nameWithType: "ServiceBusDescribedType.getDescribed()"
+  syntax: "public Object getDescribed()"
+  returns:
+    type: "<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.messaging.servicebus.implementation"
+artifact: com.azure:azure-messaging-servicebus:7.7.0

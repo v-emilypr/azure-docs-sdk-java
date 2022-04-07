@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.MobileNetworksImpl*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.MobileNetworksImpl"
+name: "MobileNetworksImpl"
+nameWithType: "MobileNetworksImpl.MobileNetworksImpl"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.MobileNetworksImpl(com.azure.resourcemanager.mobilenetwork.fluent.MobileNetworksClient,com.azure.resourcemanager.mobilenetwork.MobileNetworkManager)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworksImpl.MobileNetworksImpl(MobileNetworksClient innerClient, MobileNetworkManager serviceManager)"
+  name: "MobileNetworksImpl(MobileNetworksClient innerClient, MobileNetworkManager serviceManager)"
+  nameWithType: "MobileNetworksImpl.MobileNetworksImpl(MobileNetworksClient innerClient, MobileNetworkManager serviceManager)"
+  parameters:
+  - name: "innerClient"
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.fluent.MobileNetworksClient?alt=com.azure.resourcemanager.mobilenetwork.fluent.MobileNetworksClient&text=MobileNetworksClient\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serviceManager"
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.MobileNetworkManager?alt=com.azure.resourcemanager.mobilenetwork.MobileNetworkManager&text=MobileNetworkManager\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public MobileNetworksImpl(MobileNetworksClient innerClient, MobileNetworkManager serviceManager)"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointImpl.ipConfigurations*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointImpl.ipConfigurations"
+name: "ipConfigurations"
+nameWithType: "InboundEndpointImpl.ipConfigurations"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointImpl.ipConfigurations()"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointImpl.ipConfigurations()"
+  name: "ipConfigurations()"
+  nameWithType: "InboundEndpointImpl.ipConfigurations()"
+  summary: "Gets the ipConfigurations property: IP configurations for the inbound endpoint."
+  syntax: "public List<IpConfiguration> ipConfigurations()"
+  returns:
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.dnsresolver.models.IpConfiguration?alt=com.azure.resourcemanager.dnsresolver.models.IpConfiguration&text=IpConfiguration\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

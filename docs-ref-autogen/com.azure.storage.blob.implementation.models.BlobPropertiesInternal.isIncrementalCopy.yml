@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isIncrementalCopy*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isIncrementalCopy"
+name: "isIncrementalCopy"
+nameWithType: "BlobPropertiesInternal.isIncrementalCopy"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isIncrementalCopy()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isIncrementalCopy()"
+  name: "isIncrementalCopy()"
+  nameWithType: "BlobPropertiesInternal.isIncrementalCopy()"
+  syntax: "public abstract Boolean isIncrementalCopy()"
+  returns:
+    description: "the status of the blob being an incremental copy blob"
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0

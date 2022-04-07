@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosQueryRequestOptionsHelper.CosmosQueryRequestOptionsAccessor.setCorrelationActivityId*"
+fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosQueryRequestOptionsHelper.CosmosQueryRequestOptionsAccessor.setCorrelationActivityId"
+name: "setCorrelationActivityId"
+nameWithType: "ImplementationBridgeHelpers.CosmosQueryRequestOptionsHelper.CosmosQueryRequestOptionsAccessor.setCorrelationActivityId"
+members:
+- uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosQueryRequestOptionsHelper.CosmosQueryRequestOptionsAccessor.setCorrelationActivityId(com.azure.cosmos.models.CosmosQueryRequestOptions,java.util.UUID)"
+  fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosQueryRequestOptionsHelper.CosmosQueryRequestOptionsAccessor.setCorrelationActivityId(CosmosQueryRequestOptions queryRequestOptions, UUID correlationActivityId)"
+  name: "setCorrelationActivityId(CosmosQueryRequestOptions queryRequestOptions, UUID correlationActivityId)"
+  nameWithType: "ImplementationBridgeHelpers.CosmosQueryRequestOptionsHelper.CosmosQueryRequestOptionsAccessor.setCorrelationActivityId(CosmosQueryRequestOptions queryRequestOptions, UUID correlationActivityId)"
+  parameters:
+  - name: "queryRequestOptions"
+    type: "<xref href=\"com.azure.cosmos.models.CosmosQueryRequestOptions?alt=com.azure.cosmos.models.CosmosQueryRequestOptions&text=CosmosQueryRequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  - name: "correlationActivityId"
+    type: "<xref href=\"java.util.UUID?alt=java.util.UUID&text=UUID\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract CosmosQueryRequestOptions setCorrelationActivityId(CosmosQueryRequestOptions queryRequestOptions, UUID correlationActivityId)"
+  returns:
+    type: "<xref href=\"com.azure.cosmos.models.CosmosQueryRequestOptions?alt=com.azure.cosmos.models.CosmosQueryRequestOptions&text=CosmosQueryRequestOptions\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

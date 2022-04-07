@@ -1,0 +1,36 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetsImpl.listByResourceGroup*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetsImpl.listByResourceGroup"
+name: "listByResourceGroup"
+nameWithType: "DnsForwardingRulesetsImpl.listByResourceGroup"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetsImpl.listByResourceGroup(java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetsImpl.listByResourceGroup(String resourceGroupName)"
+  name: "listByResourceGroup(String resourceGroupName)"
+  nameWithType: "DnsForwardingRulesetsImpl.listByResourceGroup(String resourceGroupName)"
+  summary: "Lists DNS forwarding rulesets within a resource group."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PagedIterable<DnsForwardingRuleset> listByResourceGroup(String resourceGroupName)"
+  returns:
+    type: "<xref href=\"com.azure.core.http.rest.PagedIterable?alt=com.azure.core.http.rest.PagedIterable&text=PagedIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.dnsresolver.models.DnsForwardingRuleset?alt=com.azure.resourcemanager.dnsresolver.models.DnsForwardingRuleset&text=DnsForwardingRuleset\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetsImpl.listByResourceGroup(java.lang.String,java.lang.Integer,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetsImpl.listByResourceGroup(String resourceGroupName, Integer top, Context context)"
+  name: "listByResourceGroup(String resourceGroupName, Integer top, Context context)"
+  nameWithType: "DnsForwardingRulesetsImpl.listByResourceGroup(String resourceGroupName, Integer top, Context context)"
+  summary: "Lists DNS forwarding rulesets within a resource group."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "top"
+    type: "<xref href=\"java.lang.Integer?alt=java.lang.Integer&text=Integer\" data-throw-if-not-resolved=\"False\" />"
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PagedIterable<DnsForwardingRuleset> listByResourceGroup(String resourceGroupName, Integer top, Context context)"
+  returns:
+    type: "<xref href=\"com.azure.core.http.rest.PagedIterable?alt=com.azure.core.http.rest.PagedIterable&text=PagedIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.dnsresolver.models.DnsForwardingRuleset?alt=com.azure.resourcemanager.dnsresolver.models.DnsForwardingRuleset&text=DnsForwardingRuleset\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

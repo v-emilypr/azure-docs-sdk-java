@@ -1,0 +1,42 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl"
+fullName: "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl"
+name: "GlobalSchemasImpl"
+nameWithType: "GlobalSchemasImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class GlobalSchemasImpl implements GlobalSchemas"
+constructors:
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.GlobalSchemasImpl(com.azure.resourcemanager.apimanagement.fluent.GlobalSchemasClient,com.azure.resourcemanager.apimanagement.ApiManagementManager)"
+methods:
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.define(java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.delete(java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.deleteById(java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.deleteByIdWithResponse(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.deleteWithResponse(java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.get(java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.getById(java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.getByIdWithResponse(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.getEntityTag(java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.getEntityTagWithResponse(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.getWithResponse(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.listByService(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemasImpl.listByService(java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.Integer,com.azure.core.util.Context)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.apimanagement.models.GlobalSchemas?alt=com.azure.resourcemanager.apimanagement.models.GlobalSchemas&text=GlobalSchemas\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.apimanagement.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-apimanagement:1.0.0-beta.3

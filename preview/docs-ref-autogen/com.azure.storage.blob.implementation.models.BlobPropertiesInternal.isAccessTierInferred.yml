@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isAccessTierInferred*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isAccessTierInferred"
+name: "isAccessTierInferred"
+nameWithType: "BlobPropertiesInternal.isAccessTierInferred"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isAccessTierInferred()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.isAccessTierInferred()"
+  name: "isAccessTierInferred()"
+  nameWithType: "BlobPropertiesInternal.isAccessTierInferred()"
+  syntax: "public abstract Boolean isAccessTierInferred()"
+  returns:
+    description: "the status of the tier being inferred for the blob. This is only set for Page blobs on a premium storage\n account or for Block blobs on blob storage or general purpose V2 account."
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0-beta.3

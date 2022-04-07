@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase.PipelinedQueryExecutionContextBase*"
+fullName: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase<T>.PipelinedQueryExecutionContextBase"
+name: "PipelinedQueryExecutionContextBase"
+nameWithType: "PipelinedQueryExecutionContextBase<T>.PipelinedQueryExecutionContextBase"
+members:
+- uid: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase.PipelinedQueryExecutionContextBase(int,com.azure.cosmos.implementation.query.QueryInfo,java.util.function.Function<com.fasterxml.jackson.databind.JsonNode,T>)"
+  fullName: "com.azure.cosmos.implementation.query.PipelinedQueryExecutionContextBase<T>.PipelinedQueryExecutionContextBase(int actualPageSize, QueryInfo queryInfo, Function<JsonNode,T> factoryMethod)"
+  name: "PipelinedQueryExecutionContextBase(int actualPageSize, QueryInfo queryInfo, Function<JsonNode,T> factoryMethod)"
+  nameWithType: "PipelinedQueryExecutionContextBase<T>.PipelinedQueryExecutionContextBase(int actualPageSize, QueryInfo queryInfo, Function<JsonNode,T> factoryMethod)"
+  parameters:
+  - name: "actualPageSize"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+  - name: "queryInfo"
+    type: "<xref href=\"com.azure.cosmos.implementation.query.QueryInfo?alt=com.azure.cosmos.implementation.query.QueryInfo&text=QueryInfo\" data-throw-if-not-resolved=\"False\" />"
+  - name: "factoryMethod"
+    type: "<xref href=\"java.util.function.Function?alt=java.util.function.Function&text=Function\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.fasterxml.jackson.databind.JsonNode?alt=com.fasterxml.jackson.databind.JsonNode&text=JsonNode\" data-throw-if-not-resolved=\"False\" />,<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "protected PipelinedQueryExecutionContextBase(int actualPageSize, QueryInfo queryInfo, Function<JsonNode,T> factoryMethod)"
+type: "constructor"
+metadata: {}
+package: "com.azure.cosmos.implementation.query"
+artifact: com.azure:azure-cosmos:4.28.0

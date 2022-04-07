@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemaContractImpl.withDescription*"
+fullName: "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemaContractImpl.withDescription"
+name: "withDescription"
+nameWithType: "GlobalSchemaContractImpl.withDescription"
+members:
+- uid: "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemaContractImpl.withDescription(java.lang.String)"
+  fullName: "com.azure.resourcemanager.apimanagement.implementation.GlobalSchemaContractImpl.withDescription(String description)"
+  name: "withDescription(String description)"
+  nameWithType: "GlobalSchemaContractImpl.withDescription(String description)"
+  summary: "Specifies the description property: Free-form schema entity description.."
+  parameters:
+  - name: "description"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public GlobalSchemaContractImpl withDescription(String description)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.apimanagement.implementation.GlobalSchemaContractImpl?alt=com.azure.resourcemanager.apimanagement.implementation.GlobalSchemaContractImpl&text=GlobalSchemaContractImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.apimanagement.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-apimanagement:1.0.0-beta.3

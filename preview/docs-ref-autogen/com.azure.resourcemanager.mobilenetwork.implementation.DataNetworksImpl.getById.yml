@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.DataNetworksImpl.getById*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.DataNetworksImpl.getById"
+name: "getById"
+nameWithType: "DataNetworksImpl.getById"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.DataNetworksImpl.getById(java.lang.String)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.DataNetworksImpl.getById(String id)"
+  name: "getById(String id)"
+  nameWithType: "DataNetworksImpl.getById(String id)"
+  summary: "Gets information about the specified mobile network dataNetwork."
+  parameters:
+  - name: "id"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DataNetwork getById(String id)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.DataNetwork?alt=com.azure.resourcemanager.mobilenetwork.models.DataNetwork&text=DataNetwork\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

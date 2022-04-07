@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.amqp.implementation.ClientConstants.INTERVAL_KEY*"
+fullName: "com.azure.core.amqp.implementation.ClientConstants.INTERVAL_KEY"
+name: "INTERVAL_KEY"
+nameWithType: "ClientConstants.INTERVAL_KEY"
+members:
+- uid: "com.azure.core.amqp.implementation.ClientConstants.INTERVAL_KEY"
+  fullName: "com.azure.core.amqp.implementation.ClientConstants.INTERVAL_KEY"
+  name: "INTERVAL_KEY"
+  nameWithType: "ClientConstants.INTERVAL_KEY"
+  syntax: "public static final String INTERVAL_KEY"
+type: "field"
+metadata: {}
+package: "com.azure.core.amqp.implementation"
+artifact: com.azure:azure-core-amqp:2.4.2

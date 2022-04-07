@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.getArchiveStatus*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.getArchiveStatus"
+name: "getArchiveStatus"
+nameWithType: "BlobPropertiesInternalConstructorProperties.getArchiveStatus"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.getArchiveStatus()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalConstructorProperties.getArchiveStatus()"
+  name: "getArchiveStatus()"
+  nameWithType: "BlobPropertiesInternalConstructorProperties.getArchiveStatus()"
+  syntax: "public ArchiveStatus getArchiveStatus()"
+  returns:
+    type: "<xref href=\"com.azure.storage.blob.models.ArchiveStatus?alt=com.azure.storage.blob.models.ArchiveStatus&text=ArchiveStatus\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0-beta.3

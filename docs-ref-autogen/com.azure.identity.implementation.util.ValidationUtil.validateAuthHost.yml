@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.identity.implementation.util.ValidationUtil.validateAuthHost*"
+fullName: "com.azure.identity.implementation.util.ValidationUtil.validateAuthHost"
+name: "validateAuthHost"
+nameWithType: "ValidationUtil.validateAuthHost"
+members:
+- uid: "com.azure.identity.implementation.util.ValidationUtil.validateAuthHost(java.lang.String,com.azure.core.util.logging.ClientLogger)"
+  fullName: "com.azure.identity.implementation.util.ValidationUtil.validateAuthHost(String authHost, ClientLogger logger)"
+  name: "validateAuthHost(String authHost, ClientLogger logger)"
+  nameWithType: "ValidationUtil.validateAuthHost(String authHost, ClientLogger logger)"
+  parameters:
+  - name: "authHost"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "logger"
+    type: "<xref href=\"com.azure.core.util.logging.ClientLogger?alt=com.azure.core.util.logging.ClientLogger&text=ClientLogger\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static void validateAuthHost(String authHost, ClientLogger logger)"
+type: "method"
+metadata: {}
+package: "com.azure.identity.implementation.util"
+artifact: com.azure:azure-identity:1.5.0

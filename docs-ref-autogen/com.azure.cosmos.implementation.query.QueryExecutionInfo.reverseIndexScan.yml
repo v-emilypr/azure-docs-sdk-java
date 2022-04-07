@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.query.QueryExecutionInfo.reverseIndexScan*"
+fullName: "com.azure.cosmos.implementation.query.QueryExecutionInfo.reverseIndexScan"
+name: "reverseIndexScan"
+nameWithType: "QueryExecutionInfo.reverseIndexScan"
+members:
+- uid: "com.azure.cosmos.implementation.query.QueryExecutionInfo.reverseIndexScan"
+  fullName: "com.azure.cosmos.implementation.query.QueryExecutionInfo.reverseIndexScan"
+  name: "reverseIndexScan"
+  nameWithType: "QueryExecutionInfo.reverseIndexScan"
+  syntax: "public boolean reverseIndexScan"
+type: "field"
+metadata: {}
+package: "com.azure.cosmos.implementation.query"
+artifact: com.azure:azure-cosmos:4.28.0

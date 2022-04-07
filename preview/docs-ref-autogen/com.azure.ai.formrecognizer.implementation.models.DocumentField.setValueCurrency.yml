@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.ai.formrecognizer.implementation.models.DocumentField.setValueCurrency*"
+fullName: "com.azure.ai.formrecognizer.implementation.models.DocumentField.setValueCurrency"
+name: "setValueCurrency"
+nameWithType: "DocumentField.setValueCurrency"
+members:
+- uid: "com.azure.ai.formrecognizer.implementation.models.DocumentField.setValueCurrency(com.azure.ai.formrecognizer.implementation.models.CurrencyValue)"
+  fullName: "com.azure.ai.formrecognizer.implementation.models.DocumentField.setValueCurrency(CurrencyValue valueCurrency)"
+  name: "setValueCurrency(CurrencyValue valueCurrency)"
+  nameWithType: "DocumentField.setValueCurrency(CurrencyValue valueCurrency)"
+  summary: "Set the valueCurrency property: Currency value."
+  parameters:
+  - description: "the valueCurrency value to set."
+    name: "valueCurrency"
+    type: "<xref href=\"com.azure.ai.formrecognizer.implementation.models.CurrencyValue?alt=com.azure.ai.formrecognizer.implementation.models.CurrencyValue&text=CurrencyValue\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DocumentField setValueCurrency(CurrencyValue valueCurrency)"
+  returns:
+    description: "the DocumentField object itself."
+    type: "<xref href=\"com.azure.ai.formrecognizer.implementation.models.DocumentField?alt=com.azure.ai.formrecognizer.implementation.models.DocumentField&text=DocumentField\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.ai.formrecognizer.implementation.models"
+artifact: com.azure:azure-ai-formrecognizer:4.0.0-beta.4

@@ -1,0 +1,36 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromBase64String*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromBase64String"
+name: "fromBase64String"
+nameWithType: "CryptographyExtensions.fromBase64String"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromBase64String(java.lang.Iterable<java.lang.String>)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromBase64String(Iterable<String> source)"
+  name: "fromBase64String(Iterable<String> source)"
+  nameWithType: "CryptographyExtensions.fromBase64String(Iterable<String> source)"
+  summary: "Converts each String element of source, which encodes binary data as base-64 digits, to an equivalent byte array."
+  parameters:
+  - description: "A sequence of strings to convert."
+    name: "source"
+    type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public static Iterable<byte[]> fromBase64String(Iterable<String> source)"
+  returns:
+    description: "An Iterable of byte arrays that is equivalent to source."
+    type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]&gt;"
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromBase64String(java.lang.String)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromBase64String(String source)"
+  name: "fromBase64String(String source)"
+  nameWithType: "CryptographyExtensions.fromBase64String(String source)"
+  summary: "Converts the specified string, which encodes binary data as base-64 digits, to an equivalent byte array."
+  parameters:
+  - description: "The string to convert."
+    name: "source"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static byte[] fromBase64String(String source)"
+  returns:
+    description: "An array of bytes that is equivalent to source."
+    type: "<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

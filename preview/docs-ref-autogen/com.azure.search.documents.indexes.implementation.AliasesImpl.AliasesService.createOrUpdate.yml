@@ -1,0 +1,38 @@
+### YamlMime:JavaMember
+uid: "com.azure.search.documents.indexes.implementation.AliasesImpl.AliasesService.createOrUpdate*"
+fullName: "com.azure.search.documents.indexes.implementation.AliasesImpl.AliasesService.createOrUpdate"
+name: "createOrUpdate"
+nameWithType: "AliasesImpl.AliasesService.createOrUpdate"
+members:
+- uid: "com.azure.search.documents.indexes.implementation.AliasesImpl.AliasesService.createOrUpdate(java.lang.String,java.lang.String,java.util.UUID,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.azure.search.documents.indexes.models.SearchAlias,com.azure.core.util.Context)"
+  fullName: "com.azure.search.documents.indexes.implementation.AliasesImpl.AliasesService.createOrUpdate(String endpoint, String aliasName, UUID xMsClientRequestId, String ifMatch, String ifNoneMatch, String prefer, String apiVersion, String accept, SearchAlias alias, Context context)"
+  name: "createOrUpdate(String endpoint, String aliasName, UUID xMsClientRequestId, String ifMatch, String ifNoneMatch, String prefer, String apiVersion, String accept, SearchAlias alias, Context context)"
+  nameWithType: "AliasesImpl.AliasesService.createOrUpdate(String endpoint, String aliasName, UUID xMsClientRequestId, String ifMatch, String ifNoneMatch, String prefer, String apiVersion, String accept, SearchAlias alias, Context context)"
+  parameters:
+  - name: "endpoint"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "aliasName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "xMsClientRequestId"
+    type: "<xref href=\"java.util.UUID?alt=java.util.UUID&text=UUID\" data-throw-if-not-resolved=\"False\" />"
+  - name: "ifMatch"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "ifNoneMatch"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "prefer"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "apiVersion"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "accept"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "alias"
+    type: "<xref href=\"com.azure.search.documents.indexes.models.SearchAlias?alt=com.azure.search.documents.indexes.models.SearchAlias&text=SearchAlias\" data-throw-if-not-resolved=\"False\" />"
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract Mono<Response<SearchAlias>> createOrUpdate(String endpoint, String aliasName, UUID xMsClientRequestId, String ifMatch, String ifNoneMatch, String prefer, String apiVersion, String accept, SearchAlias alias, Context context)"
+  returns:
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.search.documents.indexes.models.SearchAlias?alt=com.azure.search.documents.indexes.models.SearchAlias&text=SearchAlias\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.search.documents.indexes.implementation"
+artifact: com.azure:azure-search-documents:11.5.0-beta.7

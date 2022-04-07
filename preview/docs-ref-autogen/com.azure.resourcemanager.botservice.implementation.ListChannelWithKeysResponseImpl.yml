@@ -1,0 +1,43 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl"
+fullName: "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl"
+name: "ListChannelWithKeysResponseImpl"
+nameWithType: "ListChannelWithKeysResponseImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class ListChannelWithKeysResponseImpl implements ListChannelWithKeysResponse"
+methods:
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.changedTime()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.entityTag()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.etag()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.id()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.innerModel()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.kind()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.location()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.name()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.properties()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.provisioningState()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.resource()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.setting()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.sku()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.tags()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.type()"
+- "com.azure.resourcemanager.botservice.implementation.ListChannelWithKeysResponseImpl.zones()"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.botservice.models.ListChannelWithKeysResponse?alt=com.azure.resourcemanager.botservice.models.ListChannelWithKeysResponse&text=ListChannelWithKeysResponse\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.botservice.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-botservice:1.0.0-beta.3

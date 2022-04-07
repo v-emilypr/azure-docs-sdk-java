@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.get*"
+fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.get"
+name: "get"
+nameWithType: "SubvolumesImpl.get"
+members:
+- uid: "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.get(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.get(String resourceGroupName, String accountName, String poolName, String volumeName, String subvolumeName)"
+  name: "get(String resourceGroupName, String accountName, String poolName, String volumeName, String subvolumeName)"
+  nameWithType: "SubvolumesImpl.get(String resourceGroupName, String accountName, String poolName, String volumeName, String subvolumeName)"
+  summary: "Returns the path associated with the subvolumeName provided."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "accountName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "poolName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "volumeName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "subvolumeName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SubvolumeInfo get(String resourceGroupName, String accountName, String poolName, String volumeName, String subvolumeName)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.netapp.models.SubvolumeInfo?alt=com.azure.resourcemanager.netapp.models.SubvolumeInfo&text=SubvolumeInfo\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.netapp.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-netapp:1.0.0-beta.8

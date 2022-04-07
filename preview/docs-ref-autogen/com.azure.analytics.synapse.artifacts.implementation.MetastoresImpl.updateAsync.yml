@@ -1,0 +1,45 @@
+### YamlMime:JavaMember
+uid: "com.azure.analytics.synapse.artifacts.implementation.MetastoresImpl.updateAsync*"
+fullName: "com.azure.analytics.synapse.artifacts.implementation.MetastoresImpl.updateAsync"
+name: "updateAsync"
+nameWithType: "MetastoresImpl.updateAsync"
+members:
+- uid: "com.azure.analytics.synapse.artifacts.implementation.MetastoresImpl.updateAsync(java.lang.String,com.azure.analytics.synapse.artifacts.models.MetastoreUpdateObject)"
+  fullName: "com.azure.analytics.synapse.artifacts.implementation.MetastoresImpl.updateAsync(String id, MetastoreUpdateObject updateBody)"
+  name: "updateAsync(String id, MetastoreUpdateObject updateBody)"
+  nameWithType: "MetastoresImpl.updateAsync(String id, MetastoreUpdateObject updateBody)"
+  summary: "Update files in Syms."
+  parameters:
+  - description: "The name of the database to be updated."
+    name: "id"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The body for the update request."
+    name: "updateBody"
+    type: "<xref href=\"com.azure.analytics.synapse.artifacts.models.MetastoreUpdateObject?alt=com.azure.analytics.synapse.artifacts.models.MetastoreUpdateObject&text=MetastoreUpdateObject\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<MetastoreUpdationResponse> updateAsync(String id, MetastoreUpdateObject updateBody)"
+  returns:
+    description: "the response body on successful completion of <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\" data-raw-source=\"Mono\"></xref>."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.analytics.synapse.artifacts.models.MetastoreUpdationResponse?alt=com.azure.analytics.synapse.artifacts.models.MetastoreUpdationResponse&text=MetastoreUpdationResponse\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.analytics.synapse.artifacts.implementation.MetastoresImpl.updateAsync(java.lang.String,com.azure.analytics.synapse.artifacts.models.MetastoreUpdateObject,com.azure.core.util.Context)"
+  fullName: "com.azure.analytics.synapse.artifacts.implementation.MetastoresImpl.updateAsync(String id, MetastoreUpdateObject updateBody, Context context)"
+  name: "updateAsync(String id, MetastoreUpdateObject updateBody, Context context)"
+  nameWithType: "MetastoresImpl.updateAsync(String id, MetastoreUpdateObject updateBody, Context context)"
+  summary: "Update files in Syms."
+  parameters:
+  - description: "The name of the database to be updated."
+    name: "id"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The body for the update request."
+    name: "updateBody"
+    type: "<xref href=\"com.azure.analytics.synapse.artifacts.models.MetastoreUpdateObject?alt=com.azure.analytics.synapse.artifacts.models.MetastoreUpdateObject&text=MetastoreUpdateObject\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The context to associate with this operation."
+    name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Mono<MetastoreUpdationResponse> updateAsync(String id, MetastoreUpdateObject updateBody, Context context)"
+  returns:
+    description: "the response body on successful completion of <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\" data-raw-source=\"Mono\"></xref>."
+    type: "<xref href=\"reactor.core.publisher.Mono?alt=reactor.core.publisher.Mono&text=Mono\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.analytics.synapse.artifacts.models.MetastoreUpdationResponse?alt=com.azure.analytics.synapse.artifacts.models.MetastoreUpdationResponse&text=MetastoreUpdationResponse\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.analytics.synapse.artifacts.implementation"
+artifact: com.azure:azure-analytics-synapse-artifacts:1.0.0-beta.9

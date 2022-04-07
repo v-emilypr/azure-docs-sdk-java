@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetImpl.withIfNoneMatch*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetImpl.withIfNoneMatch"
+name: "withIfNoneMatch"
+nameWithType: "DnsForwardingRulesetImpl.withIfNoneMatch"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetImpl.withIfNoneMatch(java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetImpl.withIfNoneMatch(String ifNoneMatch)"
+  name: "withIfNoneMatch(String ifNoneMatch)"
+  nameWithType: "DnsForwardingRulesetImpl.withIfNoneMatch(String ifNoneMatch)"
+  summary: "Specifies the ifNoneMatch property: Set to '\\*' to allow a new resource to be created, but to prevent updating an existing resource. Other values will be ignored.."
+  parameters:
+  - name: "ifNoneMatch"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DnsForwardingRulesetImpl withIfNoneMatch(String ifNoneMatch)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetImpl?alt=com.azure.resourcemanager.dnsresolver.implementation.DnsForwardingRulesetImpl&text=DnsForwardingRulesetImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

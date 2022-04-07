@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelsImpl.ChannelsImpl*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelsImpl.ChannelsImpl"
+name: "ChannelsImpl"
+nameWithType: "ChannelsImpl.ChannelsImpl"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelsImpl.ChannelsImpl(com.azure.resourcemanager.eventgrid.fluent.ChannelsClient,com.azure.resourcemanager.eventgrid.EventGridManager)"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelsImpl.ChannelsImpl(ChannelsClient innerClient, EventGridManager serviceManager)"
+  name: "ChannelsImpl(ChannelsClient innerClient, EventGridManager serviceManager)"
+  nameWithType: "ChannelsImpl.ChannelsImpl(ChannelsClient innerClient, EventGridManager serviceManager)"
+  parameters:
+  - name: "innerClient"
+    type: "<xref href=\"com.azure.resourcemanager.eventgrid.fluent.ChannelsClient?alt=com.azure.resourcemanager.eventgrid.fluent.ChannelsClient&text=ChannelsClient\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serviceManager"
+    type: "<xref href=\"com.azure.resourcemanager.eventgrid.EventGridManager?alt=com.azure.resourcemanager.eventgrid.EventGridManager&text=EventGridManager\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ChannelsImpl(ChannelsClient innerClient, EventGridManager serviceManager)"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

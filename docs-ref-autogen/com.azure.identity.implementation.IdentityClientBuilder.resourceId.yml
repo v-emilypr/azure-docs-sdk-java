@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.identity.implementation.IdentityClientBuilder.resourceId*"
+fullName: "com.azure.identity.implementation.IdentityClientBuilder.resourceId"
+name: "resourceId"
+nameWithType: "IdentityClientBuilder.resourceId"
+members:
+- uid: "com.azure.identity.implementation.IdentityClientBuilder.resourceId(java.lang.String)"
+  fullName: "com.azure.identity.implementation.IdentityClientBuilder.resourceId(String resourceId)"
+  name: "resourceId(String resourceId)"
+  nameWithType: "IdentityClientBuilder.resourceId(String resourceId)"
+  parameters:
+  - name: "resourceId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public IdentityClientBuilder resourceId(String resourceId)"
+  returns:
+    type: "<xref href=\"com.azure.identity.implementation.IdentityClientBuilder?alt=com.azure.identity.implementation.IdentityClientBuilder&text=IdentityClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.identity.implementation"
+artifact: com.azure:azure-identity:1.5.0

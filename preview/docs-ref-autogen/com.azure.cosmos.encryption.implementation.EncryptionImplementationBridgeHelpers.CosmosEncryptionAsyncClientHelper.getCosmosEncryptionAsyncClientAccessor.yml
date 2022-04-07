@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.getCosmosEncryptionAsyncClientAccessor*"
+fullName: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.getCosmosEncryptionAsyncClientAccessor"
+name: "getCosmosEncryptionAsyncClientAccessor"
+nameWithType: "EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.getCosmosEncryptionAsyncClientAccessor"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.getCosmosEncryptionAsyncClientAccessor()"
+  fullName: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.getCosmosEncryptionAsyncClientAccessor()"
+  name: "getCosmosEncryptionAsyncClientAccessor()"
+  nameWithType: "EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.getCosmosEncryptionAsyncClientAccessor()"
+  syntax: "public static EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor getCosmosEncryptionAsyncClientAccessor()"
+  returns:
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor?alt=com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor&text=CosmosEncryptionAsyncClientAccessor\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

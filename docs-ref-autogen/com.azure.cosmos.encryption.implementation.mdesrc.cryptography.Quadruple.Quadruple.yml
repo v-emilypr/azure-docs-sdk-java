@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Quadruple.Quadruple*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Quadruple<W,X,Y,Z>.Quadruple"
+name: "Quadruple"
+nameWithType: "Quadruple<W,X,Y,Z>.Quadruple"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Quadruple.Quadruple(W,X,Y,Z)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Quadruple<W,X,Y,Z>.Quadruple(W w, X x, Y y, Z z)"
+  name: "Quadruple(W w, X x, Y y, Z z)"
+  nameWithType: "Quadruple<W,X,Y,Z>.Quadruple(W w, X x, Y y, Z z)"
+  summary: "Creates an object with four elements."
+  parameters:
+  - description: "element 1"
+    name: "w"
+    type: "<xref href=\"W?alt=W&text=W\" data-throw-if-not-resolved=\"False\" />"
+  - description: "element 2"
+    name: "x"
+    type: "<xref href=\"X?alt=X&text=X\" data-throw-if-not-resolved=\"False\" />"
+  - description: "element 3"
+    name: "y"
+    type: "<xref href=\"Y?alt=Y&text=Y\" data-throw-if-not-resolved=\"False\" />"
+  - description: "element 4"
+    name: "z"
+    type: "<xref href=\"Z?alt=Z&text=Z\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Quadruple(W w, X x, Y y, Z z)"
+type: "constructor"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

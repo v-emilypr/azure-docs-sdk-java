@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.kubernetesconfiguration.implementation.FluxConfigurationImpl.statusUpdatedAt*"
+fullName: "com.azure.resourcemanager.kubernetesconfiguration.implementation.FluxConfigurationImpl.statusUpdatedAt"
+name: "statusUpdatedAt"
+nameWithType: "FluxConfigurationImpl.statusUpdatedAt"
+members:
+- uid: "com.azure.resourcemanager.kubernetesconfiguration.implementation.FluxConfigurationImpl.statusUpdatedAt()"
+  fullName: "com.azure.resourcemanager.kubernetesconfiguration.implementation.FluxConfigurationImpl.statusUpdatedAt()"
+  name: "statusUpdatedAt()"
+  nameWithType: "FluxConfigurationImpl.statusUpdatedAt()"
+  summary: "Gets the statusUpdatedAt property: Datetime the fluxConfiguration synced its status on the cluster with Azure."
+  syntax: "public OffsetDateTime statusUpdatedAt()"
+  returns:
+    type: "<xref href=\"java.time.OffsetDateTime?alt=java.time.OffsetDateTime&text=OffsetDateTime\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.kubernetesconfiguration.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-kubernetesconfiguration:1.0.0-beta.3

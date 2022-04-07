@@ -1,0 +1,31 @@
+### YamlMime:JavaType
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SerializerFactory"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SerializerFactory"
+name: "SerializerFactory"
+nameWithType: "SerializerFactory"
+summary: "Abstract factory for creating serializers."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public abstract class SerializerFactory"
+constructors:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SerializerFactory.SerializerFactory()"
+methods:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SerializerFactory.<T>getDefaultSerializer(java.lang.Class<?>)"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SerializerFactory.getSerializer(java.lang.String)"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SerializerFactory.registerSerializer(com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Type,com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer,boolean)"
+type: "class"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.amqp.implementation.ClientConstants.ENTITY_PATH_KEY*"
+fullName: "com.azure.core.amqp.implementation.ClientConstants.ENTITY_PATH_KEY"
+name: "ENTITY_PATH_KEY"
+nameWithType: "ClientConstants.ENTITY_PATH_KEY"
+members:
+- uid: "com.azure.core.amqp.implementation.ClientConstants.ENTITY_PATH_KEY"
+  fullName: "com.azure.core.amqp.implementation.ClientConstants.ENTITY_PATH_KEY"
+  name: "ENTITY_PATH_KEY"
+  nameWithType: "ClientConstants.ENTITY_PATH_KEY"
+  syntax: "public static final String ENTITY_PATH_KEY"
+type: "field"
+metadata: {}
+package: "com.azure.core.amqp.implementation"
+artifact: com.azure:azure-core-amqp:2.4.2

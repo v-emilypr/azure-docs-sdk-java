@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.RxDocumentServiceResponse.getQueryResponse*"
+fullName: "com.azure.cosmos.implementation.RxDocumentServiceResponse.<T>getQueryResponse"
+name: "<T>getQueryResponse"
+nameWithType: "RxDocumentServiceResponse.<T>getQueryResponse"
+members:
+- uid: "com.azure.cosmos.implementation.RxDocumentServiceResponse.<T>getQueryResponse(java.util.function.Function<com.fasterxml.jackson.databind.JsonNode,T>,java.lang.Class<T>)"
+  fullName: "com.azure.cosmos.implementation.RxDocumentServiceResponse.<T>getQueryResponse(Function<JsonNode,T> factoryMethod, Class<T> c)"
+  name: "<T>getQueryResponse(Function<JsonNode,T> factoryMethod, Class<T> c)"
+  nameWithType: "RxDocumentServiceResponse.<T>getQueryResponse(Function<JsonNode,T> factoryMethod, Class<T> c)"
+  parameters:
+  - name: "factoryMethod"
+    type: "<xref href=\"java.util.function.Function?alt=java.util.function.Function&text=Function\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.fasterxml.jackson.databind.JsonNode?alt=com.fasterxml.jackson.databind.JsonNode&text=JsonNode\" data-throw-if-not-resolved=\"False\" />,<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+  - name: "c"
+    type: "<xref href=\"java.lang.Class?alt=java.lang.Class&text=Class\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public List<T> <T>getQueryResponse(Function<JsonNode,T> factoryMethod, Class<T> c)"
+  returns:
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

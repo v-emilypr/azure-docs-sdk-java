@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdRequestRecord.timeDecodeStarted*"
+fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdRequestRecord.timeDecodeStarted"
+name: "timeDecodeStarted"
+nameWithType: "RntbdRequestRecord.timeDecodeStarted"
+members:
+- uid: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdRequestRecord.timeDecodeStarted()"
+  fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdRequestRecord.timeDecodeStarted()"
+  name: "timeDecodeStarted()"
+  nameWithType: "RntbdRequestRecord.timeDecodeStarted()"
+  syntax: "public Instant timeDecodeStarted()"
+  returns:
+    type: "<xref href=\"java.time.Instant?alt=java.time.Instant&text=Instant\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation.directconnectivity.rntbd"
+artifact: com.azure:azure-cosmos:4.28.0

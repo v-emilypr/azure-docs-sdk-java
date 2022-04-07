@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.securityinsights.implementation.BookmarkImpl.withTactics*"
+fullName: "com.azure.resourcemanager.securityinsights.implementation.BookmarkImpl.withTactics"
+name: "withTactics"
+nameWithType: "BookmarkImpl.withTactics"
+members:
+- uid: "com.azure.resourcemanager.securityinsights.implementation.BookmarkImpl.withTactics(java.util.List<com.azure.resourcemanager.securityinsights.models.AttackTactic>)"
+  fullName: "com.azure.resourcemanager.securityinsights.implementation.BookmarkImpl.withTactics(List<AttackTactic> tactics)"
+  name: "withTactics(List<AttackTactic> tactics)"
+  nameWithType: "BookmarkImpl.withTactics(List<AttackTactic> tactics)"
+  summary: "Specifies the tactics property: A list of relevant mitre attacks."
+  parameters:
+  - name: "tactics"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.securityinsights.models.AttackTactic?alt=com.azure.resourcemanager.securityinsights.models.AttackTactic&text=AttackTactic\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public BookmarkImpl withTactics(List<AttackTactic> tactics)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.securityinsights.implementation.BookmarkImpl?alt=com.azure.resourcemanager.securityinsights.implementation.BookmarkImpl&text=BookmarkImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.securityinsights.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-securityinsights:1.0.0-beta.2

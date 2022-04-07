@@ -1,0 +1,14 @@
+### YamlMime:JavaType
+uid: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor"
+fullName: "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor"
+name: "EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor"
+nameWithType: "EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor"
+syntax: "public static interface EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor"
+methods:
+- "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor.getClientEncryptionPropertiesAsync(com.azure.cosmos.encryption.CosmosEncryptionAsyncClient,java.lang.String,java.lang.String,com.azure.cosmos.CosmosAsyncContainer,boolean,java.lang.String,boolean)"
+- "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor.getContainerPropertiesAsync(com.azure.cosmos.encryption.CosmosEncryptionAsyncClient,com.azure.cosmos.CosmosAsyncContainer,boolean)"
+- "com.azure.cosmos.encryption.implementation.EncryptionImplementationBridgeHelpers.CosmosEncryptionAsyncClientHelper.CosmosEncryptionAsyncClientAccessor.getEncryptionKeyStoreProviderImpl(com.azure.cosmos.encryption.CosmosEncryptionAsyncClient)"
+type: "interface"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

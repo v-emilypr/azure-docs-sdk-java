@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointsImpl.OutboundEndpointsImpl*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointsImpl.OutboundEndpointsImpl"
+name: "OutboundEndpointsImpl"
+nameWithType: "OutboundEndpointsImpl.OutboundEndpointsImpl"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointsImpl.OutboundEndpointsImpl(com.azure.resourcemanager.dnsresolver.fluent.OutboundEndpointsClient,com.azure.resourcemanager.dnsresolver.DnsResolverManager)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointsImpl.OutboundEndpointsImpl(OutboundEndpointsClient innerClient, DnsResolverManager serviceManager)"
+  name: "OutboundEndpointsImpl(OutboundEndpointsClient innerClient, DnsResolverManager serviceManager)"
+  nameWithType: "OutboundEndpointsImpl.OutboundEndpointsImpl(OutboundEndpointsClient innerClient, DnsResolverManager serviceManager)"
+  parameters:
+  - name: "innerClient"
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.fluent.OutboundEndpointsClient?alt=com.azure.resourcemanager.dnsresolver.fluent.OutboundEndpointsClient&text=OutboundEndpointsClient\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serviceManager"
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.DnsResolverManager?alt=com.azure.resourcemanager.dnsresolver.DnsResolverManager&text=DnsResolverManager\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public OutboundEndpointsImpl(OutboundEndpointsClient innerClient, DnsResolverManager serviceManager)"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

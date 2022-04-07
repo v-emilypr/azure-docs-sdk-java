@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientImpl.getAttachedDataNetworks*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientImpl.getAttachedDataNetworks"
+name: "getAttachedDataNetworks"
+nameWithType: "MobileNetworkManagementClientImpl.getAttachedDataNetworks"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientImpl.getAttachedDataNetworks()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientImpl.getAttachedDataNetworks()"
+  name: "getAttachedDataNetworks()"
+  nameWithType: "MobileNetworkManagementClientImpl.getAttachedDataNetworks()"
+  summary: "Gets the AttachedDataNetworksClient object to access its operations."
+  syntax: "public AttachedDataNetworksClient getAttachedDataNetworks()"
+  returns:
+    description: "the AttachedDataNetworksClient object."
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.fluent.AttachedDataNetworksClient?alt=com.azure.resourcemanager.mobilenetwork.fluent.AttachedDataNetworksClient&text=AttachedDataNetworksClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

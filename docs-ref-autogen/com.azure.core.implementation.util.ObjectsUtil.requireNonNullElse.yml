@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.implementation.util.ObjectsUtil.requireNonNullElse*"
+fullName: "com.azure.core.implementation.util.ObjectsUtil.<T>requireNonNullElse"
+name: "<T>requireNonNullElse"
+nameWithType: "ObjectsUtil.<T>requireNonNullElse"
+members:
+- uid: "com.azure.core.implementation.util.ObjectsUtil.<T>requireNonNullElse(T,T)"
+  fullName: "com.azure.core.implementation.util.ObjectsUtil.<T>requireNonNullElse(T obj, T defaultObj)"
+  name: "<T>requireNonNullElse(T obj, T defaultObj)"
+  nameWithType: "ObjectsUtil.<T>requireNonNullElse(T obj, T defaultObj)"
+  summary: "Returns the first argument if it is non-`null` and otherwise returns the non-`null` second argument."
+  parameters:
+  - description: "an object"
+    name: "obj"
+    type: "<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />"
+  - description: "a non-<code>null</code> object to return if the first argument\n                   is <code>null</code>"
+    name: "defaultObj"
+    type: "<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static T <T>requireNonNullElse(T obj, T defaultObj)"
+  returns:
+    description: "the first argument if it is non-<code>null</code> and\n        otherwise the second argument if it is non-<code>null</code>"
+    type: "<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.core.implementation.util"
+artifact: com.azure:azure-core:1.27.0

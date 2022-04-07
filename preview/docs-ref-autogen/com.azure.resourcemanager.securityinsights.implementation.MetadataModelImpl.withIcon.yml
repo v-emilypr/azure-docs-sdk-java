@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.securityinsights.implementation.MetadataModelImpl.withIcon*"
+fullName: "com.azure.resourcemanager.securityinsights.implementation.MetadataModelImpl.withIcon"
+name: "withIcon"
+nameWithType: "MetadataModelImpl.withIcon"
+members:
+- uid: "com.azure.resourcemanager.securityinsights.implementation.MetadataModelImpl.withIcon(java.lang.String)"
+  fullName: "com.azure.resourcemanager.securityinsights.implementation.MetadataModelImpl.withIcon(String icon)"
+  name: "withIcon(String icon)"
+  nameWithType: "MetadataModelImpl.withIcon(String icon)"
+  summary: "Specifies the icon property: the icon identifier. this id can later be fetched from the solution template."
+  parameters:
+  - name: "icon"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public MetadataModelImpl withIcon(String icon)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.securityinsights.implementation.MetadataModelImpl?alt=com.azure.resourcemanager.securityinsights.implementation.MetadataModelImpl&text=MetadataModelImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.securityinsights.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-securityinsights:1.0.0-beta.2

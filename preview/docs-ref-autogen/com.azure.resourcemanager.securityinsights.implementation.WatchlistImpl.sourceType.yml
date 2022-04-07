@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.securityinsights.implementation.WatchlistImpl.sourceType*"
+fullName: "com.azure.resourcemanager.securityinsights.implementation.WatchlistImpl.sourceType"
+name: "sourceType"
+nameWithType: "WatchlistImpl.sourceType"
+members:
+- uid: "com.azure.resourcemanager.securityinsights.implementation.WatchlistImpl.sourceType()"
+  fullName: "com.azure.resourcemanager.securityinsights.implementation.WatchlistImpl.sourceType()"
+  name: "sourceType()"
+  nameWithType: "WatchlistImpl.sourceType()"
+  summary: "Gets the sourceType property: The sourceType of the watchlist."
+  syntax: "public SourceType sourceType()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.securityinsights.models.SourceType?alt=com.azure.resourcemanager.securityinsights.models.SourceType&text=SourceType\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.securityinsights.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-securityinsights:1.0.0-beta.2

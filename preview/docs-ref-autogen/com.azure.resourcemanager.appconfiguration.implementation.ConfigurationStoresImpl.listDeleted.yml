@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.appconfiguration.implementation.ConfigurationStoresImpl.listDeleted*"
+fullName: "com.azure.resourcemanager.appconfiguration.implementation.ConfigurationStoresImpl.listDeleted"
+name: "listDeleted"
+nameWithType: "ConfigurationStoresImpl.listDeleted"
+members:
+- uid: "com.azure.resourcemanager.appconfiguration.implementation.ConfigurationStoresImpl.listDeleted()"
+  fullName: "com.azure.resourcemanager.appconfiguration.implementation.ConfigurationStoresImpl.listDeleted()"
+  name: "listDeleted()"
+  nameWithType: "ConfigurationStoresImpl.listDeleted()"
+  summary: "Gets information about the deleted configuration stores in a subscription."
+  syntax: "public PagedIterable<DeletedConfigurationStore> listDeleted()"
+  returns:
+    type: "<xref href=\"com.azure.core.http.rest.PagedIterable?alt=com.azure.core.http.rest.PagedIterable&text=PagedIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appconfiguration.models.DeletedConfigurationStore?alt=com.azure.resourcemanager.appconfiguration.models.DeletedConfigurationStore&text=DeletedConfigurationStore\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.resourcemanager.appconfiguration.implementation.ConfigurationStoresImpl.listDeleted(com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.appconfiguration.implementation.ConfigurationStoresImpl.listDeleted(Context context)"
+  name: "listDeleted(Context context)"
+  nameWithType: "ConfigurationStoresImpl.listDeleted(Context context)"
+  summary: "Gets information about the deleted configuration stores in a subscription."
+  parameters:
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PagedIterable<DeletedConfigurationStore> listDeleted(Context context)"
+  returns:
+    type: "<xref href=\"com.azure.core.http.rest.PagedIterable?alt=com.azure.core.http.rest.PagedIterable&text=PagedIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.appconfiguration.models.DeletedConfigurationStore?alt=com.azure.resourcemanager.appconfiguration.models.DeletedConfigurationStore&text=DeletedConfigurationStore\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.appconfiguration.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-appconfiguration:1.0.0-beta.5

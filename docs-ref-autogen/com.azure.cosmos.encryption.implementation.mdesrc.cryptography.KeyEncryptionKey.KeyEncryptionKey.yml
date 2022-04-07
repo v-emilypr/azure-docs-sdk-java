@@ -1,0 +1,32 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.KeyEncryptionKey*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.KeyEncryptionKey"
+name: "KeyEncryptionKey"
+nameWithType: "KeyEncryptionKey.KeyEncryptionKey"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.KeyEncryptionKey(java.lang.String,java.lang.String,com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionKeyStoreProvider,boolean)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.KeyEncryptionKey(String name, String path, EncryptionKeyStoreProvider keystore, boolean isEnclaveSupported)"
+  name: "KeyEncryptionKey(String name, String path, EncryptionKeyStoreProvider keystore, boolean isEnclaveSupported)"
+  nameWithType: "KeyEncryptionKey.KeyEncryptionKey(String name, String path, EncryptionKeyStoreProvider keystore, boolean isEnclaveSupported)"
+  summary: "Constructs a new KeyEncryptionKey."
+  parameters:
+  - description: "The name of the KeyEncryptionKey"
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "The path of the key in the KeyEncryptionKey store."
+    name: "path"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - description: "A component that has access to the KeyEncryptionKey."
+    name: "keystore"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionKeyStoreProvider?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionKeyStoreProvider&text=EncryptionKeyStoreProvider\" data-throw-if-not-resolved=\"False\" />"
+  - description: "Specifies whether the KeyEncryptionKey is enclave-enabled."
+    name: "isEnclaveSupported"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public KeyEncryptionKey(String name, String path, EncryptionKeyStoreProvider keystore, boolean isEnclaveSupported)"
+  exceptions:
+  - description: "on error"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException&text=MicrosoftDataEncryptionException\" data-throw-if-not-resolved=\"False\" />"
+type: "constructor"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

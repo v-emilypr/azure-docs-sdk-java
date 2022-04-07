@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.getByResourceGroupWithResponse*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.getByResourceGroupWithResponse"
+name: "getByResourceGroupWithResponse"
+nameWithType: "PartnerDestinationsImpl.getByResourceGroupWithResponse"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.getByResourceGroupWithResponse(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.getByResourceGroupWithResponse(String resourceGroupName, String partnerDestinationName, Context context)"
+  name: "getByResourceGroupWithResponse(String resourceGroupName, String partnerDestinationName, Context context)"
+  nameWithType: "PartnerDestinationsImpl.getByResourceGroupWithResponse(String resourceGroupName, String partnerDestinationName, Context context)"
+  summary: "Get properties of a partner destination."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "partnerDestinationName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Response<PartnerDestination> getByResourceGroupWithResponse(String resourceGroupName, String partnerDestinationName, Context context)"
+  returns:
+    type: "<xref href=\"com.azure.core.http.rest.Response?alt=com.azure.core.http.rest.Response&text=Response\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.eventgrid.models.PartnerDestination?alt=com.azure.resourcemanager.eventgrid.models.PartnerDestination&text=PartnerDestination\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

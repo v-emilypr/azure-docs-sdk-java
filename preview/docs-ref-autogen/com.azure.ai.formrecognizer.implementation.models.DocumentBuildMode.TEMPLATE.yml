@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.ai.formrecognizer.implementation.models.DocumentBuildMode.TEMPLATE*"
+fullName: "com.azure.ai.formrecognizer.implementation.models.DocumentBuildMode.TEMPLATE"
+name: "TEMPLATE"
+nameWithType: "DocumentBuildMode.TEMPLATE"
+members:
+- uid: "com.azure.ai.formrecognizer.implementation.models.DocumentBuildMode.TEMPLATE"
+  fullName: "com.azure.ai.formrecognizer.implementation.models.DocumentBuildMode.TEMPLATE"
+  name: "TEMPLATE"
+  nameWithType: "DocumentBuildMode.TEMPLATE"
+  summary: "Static value template for DocumentBuildMode."
+  syntax: "public static final DocumentBuildMode TEMPLATE"
+type: "field"
+metadata: {}
+package: "com.azure.ai.formrecognizer.implementation.models"
+artifact: com.azure:azure-ai-formrecognizer:4.0.0-beta.4

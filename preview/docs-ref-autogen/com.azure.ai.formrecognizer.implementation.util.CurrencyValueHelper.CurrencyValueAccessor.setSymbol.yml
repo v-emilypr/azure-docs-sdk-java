@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.ai.formrecognizer.implementation.util.CurrencyValueHelper.CurrencyValueAccessor.setSymbol*"
+fullName: "com.azure.ai.formrecognizer.implementation.util.CurrencyValueHelper.CurrencyValueAccessor.setSymbol"
+name: "setSymbol"
+nameWithType: "CurrencyValueHelper.CurrencyValueAccessor.setSymbol"
+members:
+- uid: "com.azure.ai.formrecognizer.implementation.util.CurrencyValueHelper.CurrencyValueAccessor.setSymbol(com.azure.ai.formrecognizer.models.CurrencyValue,java.lang.String)"
+  fullName: "com.azure.ai.formrecognizer.implementation.util.CurrencyValueHelper.CurrencyValueAccessor.setSymbol(CurrencyValue currencyValue, String currencySymbol)"
+  name: "setSymbol(CurrencyValue currencyValue, String currencySymbol)"
+  nameWithType: "CurrencyValueHelper.CurrencyValueAccessor.setSymbol(CurrencyValue currencyValue, String currencySymbol)"
+  parameters:
+  - name: "currencyValue"
+    type: "<xref href=\"com.azure.ai.formrecognizer.models.CurrencyValue?alt=com.azure.ai.formrecognizer.models.CurrencyValue&text=CurrencyValue\" data-throw-if-not-resolved=\"False\" />"
+  - name: "currencySymbol"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract void setSymbol(CurrencyValue currencyValue, String currencySymbol)"
+type: "method"
+metadata: {}
+package: "com.azure.ai.formrecognizer.implementation.util"
+artifact: com.azure:azure-ai-formrecognizer:4.0.0-beta.4

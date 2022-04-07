@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.servicebus.implementation.ServiceBusDescribedType.ServiceBusDescribedType*"
+fullName: "com.azure.messaging.servicebus.implementation.ServiceBusDescribedType.ServiceBusDescribedType"
+name: "ServiceBusDescribedType"
+nameWithType: "ServiceBusDescribedType.ServiceBusDescribedType"
+members:
+- uid: "com.azure.messaging.servicebus.implementation.ServiceBusDescribedType.ServiceBusDescribedType(java.lang.Object,java.lang.Object)"
+  fullName: "com.azure.messaging.servicebus.implementation.ServiceBusDescribedType.ServiceBusDescribedType(Object descriptor, Object described)"
+  name: "ServiceBusDescribedType(Object descriptor, Object described)"
+  nameWithType: "ServiceBusDescribedType.ServiceBusDescribedType(Object descriptor, Object described)"
+  summary: "Set descriptor and described in described type."
+  parameters:
+  - description: "Amqp symbol to define what kind of described type it is."
+    name: "descriptor"
+    type: "<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />"
+  - description: "real value convert to a primitive type."
+    name: "described"
+    type: "<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ServiceBusDescribedType(Object descriptor, Object described)"
+type: "constructor"
+metadata: {}
+package: "com.azure.messaging.servicebus.implementation"
+artifact: com.azure:azure-messaging-servicebus:7.7.0

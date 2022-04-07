@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosExceptionHelper.setCosmosExceptionAccessor*"
+fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosExceptionHelper.setCosmosExceptionAccessor"
+name: "setCosmosExceptionAccessor"
+nameWithType: "ImplementationBridgeHelpers.CosmosExceptionHelper.setCosmosExceptionAccessor"
+members:
+- uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosExceptionHelper.setCosmosExceptionAccessor(com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosExceptionHelper.CosmosExceptionAccessor)"
+  fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosExceptionHelper.setCosmosExceptionAccessor(ImplementationBridgeHelpers.CosmosExceptionHelper.CosmosExceptionAccessor newAccessor)"
+  name: "setCosmosExceptionAccessor(ImplementationBridgeHelpers.CosmosExceptionHelper.CosmosExceptionAccessor newAccessor)"
+  nameWithType: "ImplementationBridgeHelpers.CosmosExceptionHelper.setCosmosExceptionAccessor(ImplementationBridgeHelpers.CosmosExceptionHelper.CosmosExceptionAccessor newAccessor)"
+  parameters:
+  - name: "newAccessor"
+    type: "<xref href=\"com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosExceptionHelper.CosmosExceptionAccessor?alt=com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosExceptionHelper.CosmosExceptionAccessor&text=CosmosExceptionAccessor\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static void setCosmosExceptionAccessor(ImplementationBridgeHelpers.CosmosExceptionHelper.CosmosExceptionAccessor newAccessor)"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

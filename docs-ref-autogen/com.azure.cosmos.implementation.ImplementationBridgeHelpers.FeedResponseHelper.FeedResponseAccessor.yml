@@ -1,0 +1,13 @@
+### YamlMime:JavaType
+uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.FeedResponseHelper.FeedResponseAccessor"
+fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.FeedResponseHelper.FeedResponseAccessor"
+name: "ImplementationBridgeHelpers.FeedResponseHelper.FeedResponseAccessor"
+nameWithType: "ImplementationBridgeHelpers.FeedResponseHelper.FeedResponseAccessor"
+syntax: "public static interface ImplementationBridgeHelpers.FeedResponseHelper.FeedResponseAccessor"
+methods:
+- "com.azure.cosmos.implementation.ImplementationBridgeHelpers.FeedResponseHelper.FeedResponseAccessor.<T>getNoChanges(com.azure.cosmos.models.FeedResponse<T>)"
+- "com.azure.cosmos.implementation.ImplementationBridgeHelpers.FeedResponseHelper.FeedResponseAccessor.<TNew,T>convertGenericType(com.azure.cosmos.models.FeedResponse<T>,java.util.function.Function<T,TNew>)"
+type: "interface"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

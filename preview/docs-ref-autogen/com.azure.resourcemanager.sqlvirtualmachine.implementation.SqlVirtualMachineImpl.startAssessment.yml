@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl.startAssessment*"
+fullName: "com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl.startAssessment"
+name: "startAssessment"
+nameWithType: "SqlVirtualMachineImpl.startAssessment"
+members:
+- uid: "com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl.startAssessment()"
+  fullName: "com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl.startAssessment()"
+  name: "startAssessment()"
+  nameWithType: "SqlVirtualMachineImpl.startAssessment()"
+  summary: "Starts Assessment on SQL virtual machine."
+  syntax: "public void startAssessment()"
+- uid: "com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl.startAssessment(com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl.startAssessment(Context context)"
+  name: "startAssessment(Context context)"
+  nameWithType: "SqlVirtualMachineImpl.startAssessment(Context context)"
+  summary: "Starts Assessment on SQL virtual machine."
+  parameters:
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void startAssessment(Context context)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.sqlvirtualmachine.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-sqlvirtualmachine:1.0.0-beta.2

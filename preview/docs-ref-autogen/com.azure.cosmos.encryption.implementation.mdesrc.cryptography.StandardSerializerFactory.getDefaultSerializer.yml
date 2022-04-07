@@ -1,0 +1,41 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.StandardSerializerFactory.getDefaultSerializer*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.StandardSerializerFactory.<T>getDefaultSerializer"
+name: "<T>getDefaultSerializer"
+nameWithType: "StandardSerializerFactory.<T>getDefaultSerializer"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.StandardSerializerFactory.<T>getDefaultSerializer(java.lang.Class<?>)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.StandardSerializerFactory.<T>getDefaultSerializer(Class<?> clazz)"
+  name: "<T>getDefaultSerializer(Class<?> clazz)"
+  nameWithType: "StandardSerializerFactory.<T>getDefaultSerializer(Class<?> clazz)"
+  summary: "Gets a default registered serializer for the type."
+  overridden: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.SerializerFactory.<T>getDefaultSerializer(java.lang.Class<?>)"
+  parameters:
+  - description: "The data type to be serialized."
+    name: "clazz"
+    type: "<xref href=\"java.lang.Class?alt=java.lang.Class&text=Class\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"
+  syntax: "public Serializer<T> <T>getDefaultSerializer(Class<?> clazz)"
+  exceptions:
+  - type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException&text=MicrosoftDataEncryptionException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "A default registered serializer for the type."
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer&text=Serializer\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.StandardSerializerFactory.<T>getDefaultSerializer(java.lang.String)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.StandardSerializerFactory.<T>getDefaultSerializer(String name)"
+  name: "<T>getDefaultSerializer(String name)"
+  nameWithType: "StandardSerializerFactory.<T>getDefaultSerializer(String name)"
+  summary: "Gets a default registered serializer for the type."
+  parameters:
+  - description: "The datatype class name."
+    name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Serializer<T> <T>getDefaultSerializer(String name)"
+  exceptions:
+  - type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException&text=MicrosoftDataEncryptionException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "A default registered serializer for the type."
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer&text=Serializer\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

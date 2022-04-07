@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.get*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.get"
+name: "get"
+nameWithType: "InboundEndpointsImpl.get"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.get(java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.get(String resourceGroupName, String dnsResolverName, String inboundEndpointName)"
+  name: "get(String resourceGroupName, String dnsResolverName, String inboundEndpointName)"
+  nameWithType: "InboundEndpointsImpl.get(String resourceGroupName, String dnsResolverName, String inboundEndpointName)"
+  summary: "Gets properties of an inbound endpoint for a DNS resolver."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "dnsResolverName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "inboundEndpointName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public InboundEndpoint get(String resourceGroupName, String dnsResolverName, String inboundEndpointName)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.models.InboundEndpoint?alt=com.azure.resourcemanager.dnsresolver.models.InboundEndpoint&text=InboundEndpoint\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

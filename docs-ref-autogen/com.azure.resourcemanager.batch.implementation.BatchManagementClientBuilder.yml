@@ -1,0 +1,35 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder"
+fullName: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder"
+name: "BatchManagementClientBuilder"
+nameWithType: "BatchManagementClientBuilder"
+summary: "A builder for creating a new instance of the BatchManagementClientImpl type."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class BatchManagementClientBuilder"
+constructors:
+- "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.BatchManagementClientBuilder()"
+methods:
+- "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.buildClient()"
+- "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.defaultPollInterval(java.time.Duration)"
+- "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.endpoint(java.lang.String)"
+- "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.environment(com.azure.core.management.AzureEnvironment)"
+- "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.pipeline(com.azure.core.http.HttpPipeline)"
+- "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.serializerAdapter(com.azure.core.util.serializer.SerializerAdapter)"
+- "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.subscriptionId(java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.resourcemanager.batch.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-batch:1.0.0

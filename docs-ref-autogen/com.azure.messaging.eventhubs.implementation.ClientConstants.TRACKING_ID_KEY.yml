@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.eventhubs.implementation.ClientConstants.TRACKING_ID_KEY*"
+fullName: "com.azure.messaging.eventhubs.implementation.ClientConstants.TRACKING_ID_KEY"
+name: "TRACKING_ID_KEY"
+nameWithType: "ClientConstants.TRACKING_ID_KEY"
+members:
+- uid: "com.azure.messaging.eventhubs.implementation.ClientConstants.TRACKING_ID_KEY"
+  fullName: "com.azure.messaging.eventhubs.implementation.ClientConstants.TRACKING_ID_KEY"
+  name: "TRACKING_ID_KEY"
+  nameWithType: "ClientConstants.TRACKING_ID_KEY"
+  syntax: "public static final String TRACKING_ID_KEY"
+type: "field"
+metadata: {}
+package: "com.azure.messaging.eventhubs.implementation"
+artifact: com.azure:azure-messaging-eventhubs:5.11.1

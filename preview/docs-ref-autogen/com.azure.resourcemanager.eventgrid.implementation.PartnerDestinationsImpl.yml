@@ -1,0 +1,44 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl"
+name: "PartnerDestinationsImpl"
+nameWithType: "PartnerDestinationsImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class PartnerDestinationsImpl implements PartnerDestinations"
+constructors:
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.PartnerDestinationsImpl(com.azure.resourcemanager.eventgrid.fluent.PartnerDestinationsClient,com.azure.resourcemanager.eventgrid.EventGridManager)"
+methods:
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.activate(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.activateWithResponse(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.define(java.lang.String)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.delete(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.deleteById(java.lang.String)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.deleteByIdWithResponse(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.deleteByResourceGroup(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.getById(java.lang.String)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.getByIdWithResponse(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.getByResourceGroup(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.getByResourceGroupWithResponse(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.list()"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.list(java.lang.String,java.lang.Integer,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.listByResourceGroup(java.lang.String)"
+- "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationsImpl.listByResourceGroup(java.lang.String,java.lang.String,java.lang.Integer,com.azure.core.util.Context)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.eventgrid.models.PartnerDestinations?alt=com.azure.resourcemanager.eventgrid.models.PartnerDestinations&text=PartnerDestinations\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

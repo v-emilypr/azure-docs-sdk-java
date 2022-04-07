@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.identity.implementation.IdentityLogOptionsImpl.setLoggingAccountIdentifiersAllowed*"
+fullName: "com.azure.identity.implementation.IdentityLogOptionsImpl.setLoggingAccountIdentifiersAllowed"
+name: "setLoggingAccountIdentifiersAllowed"
+nameWithType: "IdentityLogOptionsImpl.setLoggingAccountIdentifiersAllowed"
+members:
+- uid: "com.azure.identity.implementation.IdentityLogOptionsImpl.setLoggingAccountIdentifiersAllowed(boolean)"
+  fullName: "com.azure.identity.implementation.IdentityLogOptionsImpl.setLoggingAccountIdentifiersAllowed(boolean allowAccountIdentifierLogs)"
+  name: "setLoggingAccountIdentifiersAllowed(boolean allowAccountIdentifierLogs)"
+  nameWithType: "IdentityLogOptionsImpl.setLoggingAccountIdentifiersAllowed(boolean allowAccountIdentifierLogs)"
+  parameters:
+  - name: "allowAccountIdentifierLogs"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public IdentityLogOptionsImpl setLoggingAccountIdentifiersAllowed(boolean allowAccountIdentifierLogs)"
+  returns:
+    type: "<xref href=\"com.azure.identity.implementation.IdentityLogOptionsImpl?alt=com.azure.identity.implementation.IdentityLogOptionsImpl&text=IdentityLogOptionsImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.identity.implementation"
+artifact: com.azure:azure-identity:1.5.0-beta.2

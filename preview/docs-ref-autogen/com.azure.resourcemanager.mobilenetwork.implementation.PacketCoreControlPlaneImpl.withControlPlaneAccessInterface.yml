@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.withControlPlaneAccessInterface*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.withControlPlaneAccessInterface"
+name: "withControlPlaneAccessInterface"
+nameWithType: "PacketCoreControlPlaneImpl.withControlPlaneAccessInterface"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.withControlPlaneAccessInterface(com.azure.resourcemanager.mobilenetwork.models.InterfaceProperties)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.withControlPlaneAccessInterface(InterfaceProperties controlPlaneAccessInterface)"
+  name: "withControlPlaneAccessInterface(InterfaceProperties controlPlaneAccessInterface)"
+  nameWithType: "PacketCoreControlPlaneImpl.withControlPlaneAccessInterface(InterfaceProperties controlPlaneAccessInterface)"
+  summary: "Specifies the controlPlaneAccessInterface property: The control plane interface on the access network. In 5G networks this is called as N2 interface whereas in 4G networks this is called as S1-MME interface.."
+  parameters:
+  - name: "controlPlaneAccessInterface"
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.InterfaceProperties?alt=com.azure.resourcemanager.mobilenetwork.models.InterfaceProperties&text=InterfaceProperties\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PacketCoreControlPlaneImpl withControlPlaneAccessInterface(InterfaceProperties controlPlaneAccessInterface)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl&text=PacketCoreControlPlaneImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

@@ -1,0 +1,14 @@
+### YamlMime:JavaType
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer"
+name: "ISerializer"
+nameWithType: "ISerializer"
+summary: "Contains the methods for serializing and deserializing data objects."
+syntax: "public interface ISerializer"
+methods:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer.deserialize(byte[])"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer.serialize(java.lang.Object)"
+type: "interface"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

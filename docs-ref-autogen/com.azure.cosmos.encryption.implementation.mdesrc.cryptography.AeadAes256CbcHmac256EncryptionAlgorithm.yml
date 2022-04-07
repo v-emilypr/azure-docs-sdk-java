@@ -1,0 +1,35 @@
+### YamlMime:JavaType
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm"
+name: "AeadAes256CbcHmac256EncryptionAlgorithm"
+nameWithType: "AeadAes256CbcHmac256EncryptionAlgorithm"
+summary: "This class implements authenticated encryption with the associated data (AEAD\\_AES\\_256\\_CBC\\_HMAC\\_SHA256) algorithm specified at [ http://tools.ietf.org/html/draft-mcgrew-aead-aes-cbc-hmac-sha2-05][http_tools.ietf.org_html_draft-mcgrew-aead-aes-cbc-hmac-sha2-05]\n\n\n[http_tools.ietf.org_html_draft-mcgrew-aead-aes-cbc-hmac-sha2-05]: http://tools.ietf.org/html/draft-mcgrew-aead-aes-cbc-hmac-sha2-05"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+- "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataProtector\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataProtector.decrypt(byte[])"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataProtector.encrypt(byte[])"
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public class AeadAes256CbcHmac256EncryptionAlgorithm extends DataProtector"
+constructors:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm.AeadAes256CbcHmac256EncryptionAlgorithm(com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey,com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType)"
+methods:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm.decrypt(byte[])"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm.encrypt(byte[])"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm.encryptData(byte[],boolean)"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.AeadAes256CbcHmac256EncryptionAlgorithm.getOrCreate(com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey,com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType)"
+type: "class"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

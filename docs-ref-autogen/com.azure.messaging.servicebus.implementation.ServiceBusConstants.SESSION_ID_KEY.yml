@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.SESSION_ID_KEY*"
+fullName: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.SESSION_ID_KEY"
+name: "SESSION_ID_KEY"
+nameWithType: "ServiceBusConstants.SESSION_ID_KEY"
+members:
+- uid: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.SESSION_ID_KEY"
+  fullName: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.SESSION_ID_KEY"
+  name: "SESSION_ID_KEY"
+  nameWithType: "ServiceBusConstants.SESSION_ID_KEY"
+  summary: "Identifies session id in logs."
+  syntax: "public static final String SESSION_ID_KEY"
+type: "field"
+metadata: {}
+package: "com.azure.messaging.servicebus.implementation"
+artifact: com.azure:azure-messaging-servicebus:7.7.0

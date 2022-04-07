@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.getMetadata*"
+fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.getMetadata"
+name: "getMetadata"
+nameWithType: "SubvolumeInfoImpl.getMetadata"
+members:
+- uid: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.getMetadata()"
+  fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.getMetadata()"
+  name: "getMetadata()"
+  nameWithType: "SubvolumeInfoImpl.getMetadata()"
+  summary: "Get details of the specified subvolume."
+  syntax: "public SubvolumeModel getMetadata()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.netapp.models.SubvolumeModel?alt=com.azure.resourcemanager.netapp.models.SubvolumeModel&text=SubvolumeModel\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.getMetadata(com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.getMetadata(Context context)"
+  name: "getMetadata(Context context)"
+  nameWithType: "SubvolumeInfoImpl.getMetadata(Context context)"
+  summary: "Get details of the specified subvolume."
+  parameters:
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SubvolumeModel getMetadata(Context context)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.netapp.models.SubvolumeModel?alt=com.azure.resourcemanager.netapp.models.SubvolumeModel&text=SubvolumeModel\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.netapp.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-netapp:1.0.0-beta.8

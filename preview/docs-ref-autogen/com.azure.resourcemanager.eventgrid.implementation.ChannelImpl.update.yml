@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.update*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.update"
+name: "update"
+nameWithType: "ChannelImpl.update"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.update()"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.update()"
+  name: "update()"
+  nameWithType: "ChannelImpl.update()"
+  summary: "Begins update for the Channel resource."
+  syntax: "public ChannelImpl update()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.eventgrid.implementation.ChannelImpl?alt=com.azure.resourcemanager.eventgrid.implementation.ChannelImpl&text=ChannelImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

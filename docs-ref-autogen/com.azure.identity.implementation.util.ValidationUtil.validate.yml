@@ -1,0 +1,22 @@
+### YamlMime:JavaMember
+uid: "com.azure.identity.implementation.util.ValidationUtil.validate*"
+fullName: "com.azure.identity.implementation.util.ValidationUtil.validate"
+name: "validate"
+nameWithType: "ValidationUtil.validate"
+members:
+- uid: "com.azure.identity.implementation.util.ValidationUtil.validate(java.lang.String,java.util.Map<java.lang.String,java.lang.Object>,com.azure.core.util.logging.ClientLogger)"
+  fullName: "com.azure.identity.implementation.util.ValidationUtil.validate(String className, Map<String,Object> parameters, ClientLogger logger)"
+  name: "validate(String className, Map<String,Object> parameters, ClientLogger logger)"
+  nameWithType: "ValidationUtil.validate(String className, Map<String,Object> parameters, ClientLogger logger)"
+  parameters:
+  - name: "className"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "parameters"
+    type: "<xref href=\"java.util.Map?alt=java.util.Map&text=Map\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />,<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />&gt;"
+  - name: "logger"
+    type: "<xref href=\"com.azure.core.util.logging.ClientLogger?alt=com.azure.core.util.logging.ClientLogger&text=ClientLogger\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static void validate(String className, Map<String,Object> parameters, ClientLogger logger)"
+type: "method"
+metadata: {}
+package: "com.azure.identity.implementation.util"
+artifact: com.azure:azure-identity:1.5.0

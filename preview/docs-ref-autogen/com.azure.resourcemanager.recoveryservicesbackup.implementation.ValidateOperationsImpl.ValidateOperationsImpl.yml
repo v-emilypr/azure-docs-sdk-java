@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.recoveryservicesbackup.implementation.ValidateOperationsImpl.ValidateOperationsImpl*"
+fullName: "com.azure.resourcemanager.recoveryservicesbackup.implementation.ValidateOperationsImpl.ValidateOperationsImpl"
+name: "ValidateOperationsImpl"
+nameWithType: "ValidateOperationsImpl.ValidateOperationsImpl"
+members:
+- uid: "com.azure.resourcemanager.recoveryservicesbackup.implementation.ValidateOperationsImpl.ValidateOperationsImpl(com.azure.resourcemanager.recoveryservicesbackup.fluent.ValidateOperationsClient,com.azure.resourcemanager.recoveryservicesbackup.RecoveryServicesBackupManager)"
+  fullName: "com.azure.resourcemanager.recoveryservicesbackup.implementation.ValidateOperationsImpl.ValidateOperationsImpl(ValidateOperationsClient innerClient, RecoveryServicesBackupManager serviceManager)"
+  name: "ValidateOperationsImpl(ValidateOperationsClient innerClient, RecoveryServicesBackupManager serviceManager)"
+  nameWithType: "ValidateOperationsImpl.ValidateOperationsImpl(ValidateOperationsClient innerClient, RecoveryServicesBackupManager serviceManager)"
+  parameters:
+  - name: "innerClient"
+    type: "<xref href=\"com.azure.resourcemanager.recoveryservicesbackup.fluent.ValidateOperationsClient?alt=com.azure.resourcemanager.recoveryservicesbackup.fluent.ValidateOperationsClient&text=ValidateOperationsClient\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serviceManager"
+    type: "<xref href=\"com.azure.resourcemanager.recoveryservicesbackup.RecoveryServicesBackupManager?alt=com.azure.resourcemanager.recoveryservicesbackup.RecoveryServicesBackupManager&text=RecoveryServicesBackupManager\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ValidateOperationsImpl(ValidateOperationsClient innerClient, RecoveryServicesBackupManager serviceManager)"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.recoveryservicesbackup.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-recoveryservicesbackup:1.0.0-beta.3

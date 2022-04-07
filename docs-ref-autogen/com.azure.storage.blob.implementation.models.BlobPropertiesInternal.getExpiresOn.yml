@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getExpiresOn*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getExpiresOn"
+name: "getExpiresOn"
+nameWithType: "BlobPropertiesInternal.getExpiresOn"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getExpiresOn()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternal.getExpiresOn()"
+  name: "getExpiresOn()"
+  nameWithType: "BlobPropertiesInternal.getExpiresOn()"
+  syntax: "public abstract OffsetDateTime getExpiresOn()"
+  returns:
+    description: "the time when the blob is going to expire."
+    type: "<xref href=\"java.time.OffsetDateTime?alt=java.time.OffsetDateTime&text=OffsetDateTime\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0

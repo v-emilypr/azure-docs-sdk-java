@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.ai.formrecognizer.implementation.util.DocumentModelOperationErrorHelper.setAccessor*"
+fullName: "com.azure.ai.formrecognizer.implementation.util.DocumentModelOperationErrorHelper.setAccessor"
+name: "setAccessor"
+nameWithType: "DocumentModelOperationErrorHelper.setAccessor"
+members:
+- uid: "com.azure.ai.formrecognizer.implementation.util.DocumentModelOperationErrorHelper.setAccessor(com.azure.ai.formrecognizer.implementation.util.DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor)"
+  fullName: "com.azure.ai.formrecognizer.implementation.util.DocumentModelOperationErrorHelper.setAccessor(DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor documentModelOperationErrorAccessor)"
+  name: "setAccessor(DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor documentModelOperationErrorAccessor)"
+  nameWithType: "DocumentModelOperationErrorHelper.setAccessor(DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor documentModelOperationErrorAccessor)"
+  summary: "The method called from <xref uid=\"com.azure.ai.formrecognizer.administration.models.DocumentModelOperationError\" data-throw-if-not-resolved=\"false\" data-raw-source=\"DocumentModelOperationError\"></xref> to set it's accessor."
+  parameters:
+  - description: "The accessor."
+    name: "documentModelOperationErrorAccessor"
+    type: "<xref href=\"com.azure.ai.formrecognizer.implementation.util.DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor?alt=com.azure.ai.formrecognizer.implementation.util.DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor&text=DocumentModelOperationErrorAccessor\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static void setAccessor(DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor documentModelOperationErrorAccessor)"
+type: "method"
+metadata: {}
+package: "com.azure.ai.formrecognizer.implementation.util"
+artifact: com.azure:azure-ai-formrecognizer:4.0.0-beta.4

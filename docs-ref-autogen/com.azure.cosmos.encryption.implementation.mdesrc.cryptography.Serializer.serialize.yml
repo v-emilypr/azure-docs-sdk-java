@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer.serialize*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer<T>.serialize"
+name: "serialize"
+nameWithType: "Serializer<T>.serialize"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer.serialize(java.lang.Object)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Serializer<T>.serialize(Object value)"
+  name: "serialize(Object value)"
+  nameWithType: "Serializer<T>.serialize(Object value)"
+  summary: "Serializes the provided value."
+  parameters:
+  - description: "The value to be serialized"
+    name: "value"
+    type: "<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract byte[] serialize(Object value)"
+  exceptions:
+  - type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException&text=MicrosoftDataEncryptionException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "The serialized data as a byte array"
+    type: "<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

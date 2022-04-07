@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.BatchManagementClientBuilder*"
+fullName: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.BatchManagementClientBuilder"
+name: "BatchManagementClientBuilder"
+nameWithType: "BatchManagementClientBuilder.BatchManagementClientBuilder"
+members:
+- uid: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.BatchManagementClientBuilder()"
+  fullName: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.BatchManagementClientBuilder()"
+  name: "BatchManagementClientBuilder()"
+  nameWithType: "BatchManagementClientBuilder.BatchManagementClientBuilder()"
+  syntax: "public BatchManagementClientBuilder()"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.batch.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-batch:1.0.0

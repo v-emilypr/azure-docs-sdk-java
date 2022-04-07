@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Type.getCodepage*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Type.getCodepage"
+name: "getCodepage"
+nameWithType: "Type.getCodepage"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Type.getCodepage()"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Type.getCodepage()"
+  name: "getCodepage()"
+  nameWithType: "Type.getCodepage()"
+  summary: "Getter for codepage."
+  syntax: "public String getCodepage()"
+  returns:
+    description: "The code page to represent the value."
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

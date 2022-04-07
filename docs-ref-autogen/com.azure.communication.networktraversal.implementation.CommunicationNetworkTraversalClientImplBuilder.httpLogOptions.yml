@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.httpLogOptions*"
+fullName: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.httpLogOptions"
+name: "httpLogOptions"
+nameWithType: "CommunicationNetworkTraversalClientImplBuilder.httpLogOptions"
+members:
+- uid: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.httpLogOptions(com.azure.core.http.policy.HttpLogOptions)"
+  fullName: "com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder.httpLogOptions(HttpLogOptions httpLogOptions)"
+  name: "httpLogOptions(HttpLogOptions httpLogOptions)"
+  nameWithType: "CommunicationNetworkTraversalClientImplBuilder.httpLogOptions(HttpLogOptions httpLogOptions)"
+  summary: "Sets The logging configuration for HTTP requests and responses."
+  parameters:
+  - description: "the httpLogOptions value."
+    name: "httpLogOptions"
+    type: "<xref href=\"com.azure.core.http.policy.HttpLogOptions?alt=com.azure.core.http.policy.HttpLogOptions&text=HttpLogOptions\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public CommunicationNetworkTraversalClientImplBuilder httpLogOptions(HttpLogOptions httpLogOptions)"
+  returns:
+    description: "the CommunicationNetworkTraversalClientImplBuilder."
+    type: "<xref href=\"com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder?alt=com.azure.communication.networktraversal.implementation.CommunicationNetworkTraversalClientImplBuilder&text=CommunicationNetworkTraversalClientImplBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.communication.networktraversal.implementation"
+artifact: com.azure:azure-communication-networktraversal:1.0.0

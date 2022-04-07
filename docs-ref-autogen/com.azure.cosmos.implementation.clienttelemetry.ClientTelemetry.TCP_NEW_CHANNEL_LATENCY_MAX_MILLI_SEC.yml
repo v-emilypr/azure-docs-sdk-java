@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.clienttelemetry.ClientTelemetry.TCP_NEW_CHANNEL_LATENCY_MAX_MILLI_SEC*"
+fullName: "com.azure.cosmos.implementation.clienttelemetry.ClientTelemetry.TCP_NEW_CHANNEL_LATENCY_MAX_MILLI_SEC"
+name: "TCP_NEW_CHANNEL_LATENCY_MAX_MILLI_SEC"
+nameWithType: "ClientTelemetry.TCP_NEW_CHANNEL_LATENCY_MAX_MILLI_SEC"
+members:
+- uid: "com.azure.cosmos.implementation.clienttelemetry.ClientTelemetry.TCP_NEW_CHANNEL_LATENCY_MAX_MILLI_SEC"
+  fullName: "com.azure.cosmos.implementation.clienttelemetry.ClientTelemetry.TCP_NEW_CHANNEL_LATENCY_MAX_MILLI_SEC"
+  name: "TCP_NEW_CHANNEL_LATENCY_MAX_MILLI_SEC"
+  nameWithType: "ClientTelemetry.TCP_NEW_CHANNEL_LATENCY_MAX_MILLI_SEC"
+  syntax: "public static final int TCP_NEW_CHANNEL_LATENCY_MAX_MILLI_SEC"
+type: "field"
+metadata: {}
+package: "com.azure.cosmos.implementation.clienttelemetry"
+artifact: com.azure:azure-cosmos:4.28.0

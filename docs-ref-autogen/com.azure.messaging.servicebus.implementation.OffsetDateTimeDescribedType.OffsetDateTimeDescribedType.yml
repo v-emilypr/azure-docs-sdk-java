@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.servicebus.implementation.OffsetDateTimeDescribedType.OffsetDateTimeDescribedType*"
+fullName: "com.azure.messaging.servicebus.implementation.OffsetDateTimeDescribedType.OffsetDateTimeDescribedType"
+name: "OffsetDateTimeDescribedType"
+nameWithType: "OffsetDateTimeDescribedType.OffsetDateTimeDescribedType"
+members:
+- uid: "com.azure.messaging.servicebus.implementation.OffsetDateTimeDescribedType.OffsetDateTimeDescribedType(java.time.OffsetDateTime)"
+  fullName: "com.azure.messaging.servicebus.implementation.OffsetDateTimeDescribedType.OffsetDateTimeDescribedType(OffsetDateTime offsetDateTime)"
+  name: "OffsetDateTimeDescribedType(OffsetDateTime offsetDateTime)"
+  nameWithType: "OffsetDateTimeDescribedType.OffsetDateTimeDescribedType(OffsetDateTime offsetDateTime)"
+  summary: "Set descriptor and described to describe data in described type."
+  parameters:
+  - description: "set as described in DescribedType."
+    name: "offsetDateTime"
+    type: "<xref href=\"java.time.OffsetDateTime?alt=java.time.OffsetDateTime&text=OffsetDateTime\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public OffsetDateTimeDescribedType(OffsetDateTime offsetDateTime)"
+type: "constructor"
+metadata: {}
+package: "com.azure.messaging.servicebus.implementation"
+artifact: com.azure:azure-messaging-servicebus:7.7.0

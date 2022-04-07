@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.amqp.implementation.AmqpLoggingUtils.createContextWithConnectionId*"
+fullName: "com.azure.core.amqp.implementation.AmqpLoggingUtils.createContextWithConnectionId"
+name: "createContextWithConnectionId"
+nameWithType: "AmqpLoggingUtils.createContextWithConnectionId"
+members:
+- uid: "com.azure.core.amqp.implementation.AmqpLoggingUtils.createContextWithConnectionId(java.lang.String)"
+  fullName: "com.azure.core.amqp.implementation.AmqpLoggingUtils.createContextWithConnectionId(String connectionId)"
+  name: "createContextWithConnectionId(String connectionId)"
+  nameWithType: "AmqpLoggingUtils.createContextWithConnectionId(String connectionId)"
+  summary: "Creates logging context with connectionId."
+  parameters:
+  - name: "connectionId"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static Map<String,Object> createContextWithConnectionId(String connectionId)"
+  returns:
+    type: "<xref href=\"java.util.Map?alt=java.util.Map&text=Map\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />,<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.core.amqp.implementation"
+artifact: com.azure:azure-core-amqp:2.4.2

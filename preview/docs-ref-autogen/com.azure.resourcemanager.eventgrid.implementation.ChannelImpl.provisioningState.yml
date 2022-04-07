@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.provisioningState*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.provisioningState"
+name: "provisioningState"
+nameWithType: "ChannelImpl.provisioningState"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.provisioningState()"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.provisioningState()"
+  name: "provisioningState()"
+  nameWithType: "ChannelImpl.provisioningState()"
+  summary: "Gets the provisioningState property: Provisioning state of the channel."
+  syntax: "public ChannelProvisioningState provisioningState()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.eventgrid.models.ChannelProvisioningState?alt=com.azure.resourcemanager.eventgrid.models.ChannelProvisioningState&text=ChannelProvisioningState\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

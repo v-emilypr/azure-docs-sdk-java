@@ -1,0 +1,30 @@
+### YamlMime:JavaType
+uid: "com.azure.core.amqp.implementation.AmqpLoggingUtils"
+fullName: "com.azure.core.amqp.implementation.AmqpLoggingUtils"
+name: "AmqpLoggingUtils"
+nameWithType: "AmqpLoggingUtils"
+summary: "Utils for contextual logging."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class AmqpLoggingUtils"
+methods:
+- "com.azure.core.amqp.implementation.AmqpLoggingUtils.addErrorCondition(com.azure.core.util.logging.LoggingEventBuilder,org.apache.qpid.proton.amqp.transport.ErrorCondition)"
+- "com.azure.core.amqp.implementation.AmqpLoggingUtils.addShutdownSignal(com.azure.core.util.logging.LoggingEventBuilder,com.azure.core.amqp.AmqpShutdownSignal)"
+- "com.azure.core.amqp.implementation.AmqpLoggingUtils.addSignalTypeAndResult(com.azure.core.util.logging.LoggingEventBuilder,reactor.core.publisher.SignalType,reactor.core.publisher.Sinks.EmitResult)"
+- "com.azure.core.amqp.implementation.AmqpLoggingUtils.createContextWithConnectionId(java.lang.String)"
+type: "class"
+metadata: {}
+package: "com.azure.core.amqp.implementation"
+artifact: com.azure:azure-core-amqp:2.4.2

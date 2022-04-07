@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withUeAmbr*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withUeAmbr"
+name: "withUeAmbr"
+nameWithType: "SimPolicyImpl.withUeAmbr"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withUeAmbr(com.azure.resourcemanager.mobilenetwork.models.Ambr)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withUeAmbr(Ambr ueAmbr)"
+  name: "withUeAmbr(Ambr ueAmbr)"
+  nameWithType: "SimPolicyImpl.withUeAmbr(Ambr ueAmbr)"
+  summary: "Specifies the ueAmbr property: Aggregate maximum bit rate across all non-GBR QoS flows of all PDU sessions of a given UE. See 3GPP TS23.501 section 5.7.2.6 for a full description of the UE-AMBR.."
+  parameters:
+  - name: "ueAmbr"
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.Ambr?alt=com.azure.resourcemanager.mobilenetwork.models.Ambr&text=Ambr\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SimPolicyImpl withUeAmbr(Ambr ueAmbr)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl&text=SimPolicyImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

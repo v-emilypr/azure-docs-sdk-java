@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPoliciesImpl.SimPoliciesImpl*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPoliciesImpl.SimPoliciesImpl"
+name: "SimPoliciesImpl"
+nameWithType: "SimPoliciesImpl.SimPoliciesImpl"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPoliciesImpl.SimPoliciesImpl(com.azure.resourcemanager.mobilenetwork.fluent.SimPoliciesClient,com.azure.resourcemanager.mobilenetwork.MobileNetworkManager)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPoliciesImpl.SimPoliciesImpl(SimPoliciesClient innerClient, MobileNetworkManager serviceManager)"
+  name: "SimPoliciesImpl(SimPoliciesClient innerClient, MobileNetworkManager serviceManager)"
+  nameWithType: "SimPoliciesImpl.SimPoliciesImpl(SimPoliciesClient innerClient, MobileNetworkManager serviceManager)"
+  parameters:
+  - name: "innerClient"
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.fluent.SimPoliciesClient?alt=com.azure.resourcemanager.mobilenetwork.fluent.SimPoliciesClient&text=SimPoliciesClient\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serviceManager"
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.MobileNetworkManager?alt=com.azure.resourcemanager.mobilenetwork.MobileNetworkManager&text=MobileNetworkManager\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SimPoliciesImpl(SimPoliciesClient innerClient, MobileNetworkManager serviceManager)"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

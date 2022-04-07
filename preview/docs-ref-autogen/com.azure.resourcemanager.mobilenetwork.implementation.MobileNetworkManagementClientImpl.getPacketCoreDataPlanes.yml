@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientImpl.getPacketCoreDataPlanes*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientImpl.getPacketCoreDataPlanes"
+name: "getPacketCoreDataPlanes"
+nameWithType: "MobileNetworkManagementClientImpl.getPacketCoreDataPlanes"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientImpl.getPacketCoreDataPlanes()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientImpl.getPacketCoreDataPlanes()"
+  name: "getPacketCoreDataPlanes()"
+  nameWithType: "MobileNetworkManagementClientImpl.getPacketCoreDataPlanes()"
+  summary: "Gets the PacketCoreDataPlanesClient object to access its operations."
+  syntax: "public PacketCoreDataPlanesClient getPacketCoreDataPlanes()"
+  returns:
+    description: "the PacketCoreDataPlanesClient object."
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.fluent.PacketCoreDataPlanesClient?alt=com.azure.resourcemanager.mobilenetwork.fluent.PacketCoreDataPlanesClient&text=PacketCoreDataPlanesClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

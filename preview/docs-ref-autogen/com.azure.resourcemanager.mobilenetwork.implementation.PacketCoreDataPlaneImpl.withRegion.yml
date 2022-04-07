@@ -1,0 +1,32 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl.withRegion*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl.withRegion"
+name: "withRegion"
+nameWithType: "PacketCoreDataPlaneImpl.withRegion"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl.withRegion(com.azure.core.management.Region)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl.withRegion(Region location)"
+  name: "withRegion(Region location)"
+  nameWithType: "PacketCoreDataPlaneImpl.withRegion(Region location)"
+  summary: "Specifies the region for the resource."
+  parameters:
+  - name: "location"
+    type: "<xref href=\"com.azure.core.management.Region?alt=com.azure.core.management.Region&text=Region\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PacketCoreDataPlaneImpl withRegion(Region location)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl&text=PacketCoreDataPlaneImpl\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl.withRegion(java.lang.String)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl.withRegion(String location)"
+  name: "withRegion(String location)"
+  nameWithType: "PacketCoreDataPlaneImpl.withRegion(String location)"
+  summary: "Specifies the region for the resource."
+  parameters:
+  - name: "location"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PacketCoreDataPlaneImpl withRegion(String location)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlaneImpl&text=PacketCoreDataPlaneImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

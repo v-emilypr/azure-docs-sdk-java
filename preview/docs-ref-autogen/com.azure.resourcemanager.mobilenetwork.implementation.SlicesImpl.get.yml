@@ -1,0 +1,25 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SlicesImpl.get*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SlicesImpl.get"
+name: "get"
+nameWithType: "SlicesImpl.get"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SlicesImpl.get(java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SlicesImpl.get(String resourceGroupName, String mobileNetworkName, String sliceName)"
+  name: "get(String resourceGroupName, String mobileNetworkName, String sliceName)"
+  nameWithType: "SlicesImpl.get(String resourceGroupName, String mobileNetworkName, String sliceName)"
+  summary: "Gets information about the specified mobile network slice."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "mobileNetworkName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "sliceName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Slice get(String resourceGroupName, String mobileNetworkName, String sliceName)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.Slice?alt=com.azure.resourcemanager.mobilenetwork.models.Slice&text=Slice\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

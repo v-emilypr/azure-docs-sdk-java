@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerTopicImpl.withPartnerRegistrationImmutableId*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerTopicImpl.withPartnerRegistrationImmutableId"
+name: "withPartnerRegistrationImmutableId"
+nameWithType: "PartnerTopicImpl.withPartnerRegistrationImmutableId"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerTopicImpl.withPartnerRegistrationImmutableId(java.util.UUID)"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerTopicImpl.withPartnerRegistrationImmutableId(UUID partnerRegistrationImmutableId)"
+  name: "withPartnerRegistrationImmutableId(UUID partnerRegistrationImmutableId)"
+  nameWithType: "PartnerTopicImpl.withPartnerRegistrationImmutableId(UUID partnerRegistrationImmutableId)"
+  summary: "Specifies the partnerRegistrationImmutableId property: The immutableId of the corresponding partner registration.."
+  parameters:
+  - name: "partnerRegistrationImmutableId"
+    type: "<xref href=\"java.util.UUID?alt=java.util.UUID&text=UUID\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PartnerTopicImpl withPartnerRegistrationImmutableId(UUID partnerRegistrationImmutableId)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.eventgrid.implementation.PartnerTopicImpl?alt=com.azure.resourcemanager.eventgrid.implementation.PartnerTopicImpl&text=PartnerTopicImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

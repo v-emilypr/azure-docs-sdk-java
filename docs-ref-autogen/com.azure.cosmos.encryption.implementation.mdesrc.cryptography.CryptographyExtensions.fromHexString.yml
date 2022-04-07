@@ -1,0 +1,36 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromHexString*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromHexString"
+name: "fromHexString"
+nameWithType: "CryptographyExtensions.fromHexString"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromHexString(java.lang.Iterable<java.lang.String>)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromHexString(Iterable<String> source)"
+  name: "fromHexString(Iterable<String> source)"
+  nameWithType: "CryptographyExtensions.fromHexString(Iterable<String> source)"
+  summary: "Converts each String element of source, which encodes binary data as hexidecimal digits, to an equivalent byte array."
+  parameters:
+  - description: "A sequence of strings to convert."
+    name: "source"
+    type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public static Iterable<byte[]> fromHexString(Iterable<String> source)"
+  returns:
+    description: "An Iterable of byte arrays that is equivalent to source."
+    type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]&gt;"
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromHexString(java.lang.String)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.CryptographyExtensions.fromHexString(String source)"
+  name: "fromHexString(String source)"
+  nameWithType: "CryptographyExtensions.fromHexString(String source)"
+  summary: "Converts the string representation of a number in hexidecimal to an equivalent array of bytes."
+  parameters:
+  - description: "The string to convert."
+    name: "source"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static byte[] fromHexString(String source)"
+  returns:
+    description: "An array of bytes that is equivalent to source."
+    type: "<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

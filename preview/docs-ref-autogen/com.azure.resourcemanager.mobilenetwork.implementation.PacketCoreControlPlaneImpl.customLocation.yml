@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.customLocation*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.customLocation"
+name: "customLocation"
+nameWithType: "PacketCoreControlPlaneImpl.customLocation"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.customLocation()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.customLocation()"
+  name: "customLocation()"
+  nameWithType: "PacketCoreControlPlaneImpl.customLocation()"
+  summary: "Gets the customLocation property: Azure ARC custom location where the packet core is deployed."
+  syntax: "public CustomLocationResourceId customLocation()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.CustomLocationResourceId?alt=com.azure.resourcemanager.mobilenetwork.models.CustomLocationResourceId&text=CustomLocationResourceId\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

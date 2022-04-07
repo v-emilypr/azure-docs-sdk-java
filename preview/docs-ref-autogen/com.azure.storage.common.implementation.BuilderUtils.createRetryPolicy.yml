@@ -1,0 +1,24 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.common.implementation.BuilderUtils.createRetryPolicy*"
+fullName: "com.azure.storage.common.implementation.BuilderUtils.createRetryPolicy"
+name: "createRetryPolicy"
+nameWithType: "BuilderUtils.createRetryPolicy"
+members:
+- uid: "com.azure.storage.common.implementation.BuilderUtils.createRetryPolicy(com.azure.storage.common.policy.RequestRetryOptions,com.azure.core.http.policy.RetryOptions,com.azure.core.util.logging.ClientLogger)"
+  fullName: "com.azure.storage.common.implementation.BuilderUtils.createRetryPolicy(RequestRetryOptions retryOptions, RetryOptions coreRetryOptions, ClientLogger logger)"
+  name: "createRetryPolicy(RequestRetryOptions retryOptions, RetryOptions coreRetryOptions, ClientLogger logger)"
+  nameWithType: "BuilderUtils.createRetryPolicy(RequestRetryOptions retryOptions, RetryOptions coreRetryOptions, ClientLogger logger)"
+  parameters:
+  - name: "retryOptions"
+    type: "<xref href=\"com.azure.storage.common.policy.RequestRetryOptions?alt=com.azure.storage.common.policy.RequestRetryOptions&text=RequestRetryOptions\" data-throw-if-not-resolved=\"False\" />"
+  - name: "coreRetryOptions"
+    type: "<xref href=\"com.azure.core.http.policy.RetryOptions?alt=com.azure.core.http.policy.RetryOptions&text=RetryOptions\" data-throw-if-not-resolved=\"False\" />"
+  - name: "logger"
+    type: "<xref href=\"com.azure.core.util.logging.ClientLogger?alt=com.azure.core.util.logging.ClientLogger&text=ClientLogger\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public static RequestRetryPolicy createRetryPolicy(RequestRetryOptions retryOptions, RetryOptions coreRetryOptions, ClientLogger logger)"
+  returns:
+    type: "<xref href=\"com.azure.storage.common.policy.RequestRetryPolicy?alt=com.azure.storage.common.policy.RequestRetryPolicy&text=RequestRetryPolicy\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.common.implementation"
+artifact: com.azure:azure-storage-common:12.15.0-beta.3

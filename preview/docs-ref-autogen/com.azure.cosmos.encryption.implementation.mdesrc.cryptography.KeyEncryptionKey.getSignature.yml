@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.getSignature*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.getSignature"
+name: "getSignature"
+nameWithType: "KeyEncryptionKey.getSignature"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.getSignature()"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.KeyEncryptionKey.getSignature()"
+  name: "getSignature()"
+  nameWithType: "KeyEncryptionKey.getSignature()"
+  summary: "Getter for signature."
+  syntax: "public byte[] getSignature()"
+  returns:
+    description: "signature value."
+    type: "<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

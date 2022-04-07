@@ -1,0 +1,28 @@
+### YamlMime:JavaType
+uid: "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy"
+fullName: "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy"
+name: "BlobPropertiesConstructorProxy"
+nameWithType: "BlobPropertiesConstructorProxy"
+summary: "Helper class to access private values of <xref uid=\"com.azure.storage.blob.models.BlobProperties\" data-throw-if-not-resolved=\"false\" data-raw-source=\"BlobProperties\"></xref> across package boundaries."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class BlobPropertiesConstructorProxy"
+methods:
+- "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy.create(com.azure.storage.blob.implementation.models.BlobPropertiesInternal)"
+- "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy.setAccessor(com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor)"
+type: "class"
+metadata: {}
+package: "com.azure.storage.blob.implementation.accesshelpers"
+artifact: com.azure:azure-storage-blob:12.15.0

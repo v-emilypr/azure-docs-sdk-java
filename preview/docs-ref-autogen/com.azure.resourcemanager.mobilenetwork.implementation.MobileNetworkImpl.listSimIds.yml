@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkImpl.listSimIds*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkImpl.listSimIds"
+name: "listSimIds"
+nameWithType: "MobileNetworkImpl.listSimIds"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkImpl.listSimIds()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkImpl.listSimIds()"
+  name: "listSimIds()"
+  nameWithType: "MobileNetworkImpl.listSimIds()"
+  summary: "List sim ids under a mobile network."
+  syntax: "public SimIdListResult listSimIds()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.SimIdListResult?alt=com.azure.resourcemanager.mobilenetwork.models.SimIdListResult&text=SimIdListResult\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkImpl.listSimIds(com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkImpl.listSimIds(Context context)"
+  name: "listSimIds(Context context)"
+  nameWithType: "MobileNetworkImpl.listSimIds(Context context)"
+  summary: "List sim ids under a mobile network."
+  parameters:
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SimIdListResult listSimIds(Context context)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.SimIdListResult?alt=com.azure.resourcemanager.mobilenetwork.models.SimIdListResult&text=SimIdListResult\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

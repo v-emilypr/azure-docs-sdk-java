@@ -1,0 +1,36 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.query.DocumentQueryExecutionContextBase.getEffectiveFactoryMethod*"
+fullName: "com.azure.cosmos.implementation.query.DocumentQueryExecutionContextBase<T>.<T>getEffectiveFactoryMethod"
+name: "<T>getEffectiveFactoryMethod"
+nameWithType: "DocumentQueryExecutionContextBase<T>.<T>getEffectiveFactoryMethod"
+members:
+- uid: "com.azure.cosmos.implementation.query.DocumentQueryExecutionContextBase.<T>getEffectiveFactoryMethod(com.azure.cosmos.models.CosmosChangeFeedRequestOptions,java.lang.Class<T>)"
+  fullName: "com.azure.cosmos.implementation.query.DocumentQueryExecutionContextBase<T>.<T>getEffectiveFactoryMethod(CosmosChangeFeedRequestOptions cosmosChangeFeedRequestOptions, Class<T> classOfT)"
+  name: "<T>getEffectiveFactoryMethod(CosmosChangeFeedRequestOptions cosmosChangeFeedRequestOptions, Class<T> classOfT)"
+  nameWithType: "DocumentQueryExecutionContextBase<T>.<T>getEffectiveFactoryMethod(CosmosChangeFeedRequestOptions cosmosChangeFeedRequestOptions, Class<T> classOfT)"
+  parameters:
+  - name: "cosmosChangeFeedRequestOptions"
+    type: "<xref href=\"com.azure.cosmos.models.CosmosChangeFeedRequestOptions?alt=com.azure.cosmos.models.CosmosChangeFeedRequestOptions&text=CosmosChangeFeedRequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  - name: "classOfT"
+    type: "<xref href=\"java.lang.Class?alt=java.lang.Class&text=Class\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public static Function<JsonNode,T> <T>getEffectiveFactoryMethod(CosmosChangeFeedRequestOptions cosmosChangeFeedRequestOptions, Class<T> classOfT)"
+  returns:
+    type: "<xref href=\"java.util.function.Function?alt=java.util.function.Function&text=Function\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.fasterxml.jackson.databind.JsonNode?alt=com.fasterxml.jackson.databind.JsonNode&text=JsonNode\" data-throw-if-not-resolved=\"False\" />,<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.cosmos.implementation.query.DocumentQueryExecutionContextBase.<T>getEffectiveFactoryMethod(com.azure.cosmos.models.CosmosQueryRequestOptions,boolean,java.lang.Class<T>)"
+  fullName: "com.azure.cosmos.implementation.query.DocumentQueryExecutionContextBase<T>.<T>getEffectiveFactoryMethod(CosmosQueryRequestOptions cosmosQueryRequestOptions, boolean hasSelectValue, Class<T> classOfT)"
+  name: "<T>getEffectiveFactoryMethod(CosmosQueryRequestOptions cosmosQueryRequestOptions, boolean hasSelectValue, Class<T> classOfT)"
+  nameWithType: "DocumentQueryExecutionContextBase<T>.<T>getEffectiveFactoryMethod(CosmosQueryRequestOptions cosmosQueryRequestOptions, boolean hasSelectValue, Class<T> classOfT)"
+  parameters:
+  - name: "cosmosQueryRequestOptions"
+    type: "<xref href=\"com.azure.cosmos.models.CosmosQueryRequestOptions?alt=com.azure.cosmos.models.CosmosQueryRequestOptions&text=CosmosQueryRequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  - name: "hasSelectValue"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  - name: "classOfT"
+    type: "<xref href=\"java.lang.Class?alt=java.lang.Class&text=Class\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public static Function<JsonNode,T> <T>getEffectiveFactoryMethod(CosmosQueryRequestOptions cosmosQueryRequestOptions, boolean hasSelectValue, Class<T> classOfT)"
+  returns:
+    type: "<xref href=\"java.util.function.Function?alt=java.util.function.Function&text=Function\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.fasterxml.jackson.databind.JsonNode?alt=com.fasterxml.jackson.databind.JsonNode&text=JsonNode\" data-throw-if-not-resolved=\"False\" />,<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation.query"
+artifact: com.azure:azure-cosmos:4.28.0

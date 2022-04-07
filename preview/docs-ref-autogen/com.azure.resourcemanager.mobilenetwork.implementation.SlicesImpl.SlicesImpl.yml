@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SlicesImpl.SlicesImpl*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SlicesImpl.SlicesImpl"
+name: "SlicesImpl"
+nameWithType: "SlicesImpl.SlicesImpl"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SlicesImpl.SlicesImpl(com.azure.resourcemanager.mobilenetwork.fluent.SlicesClient,com.azure.resourcemanager.mobilenetwork.MobileNetworkManager)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SlicesImpl.SlicesImpl(SlicesClient innerClient, MobileNetworkManager serviceManager)"
+  name: "SlicesImpl(SlicesClient innerClient, MobileNetworkManager serviceManager)"
+  nameWithType: "SlicesImpl.SlicesImpl(SlicesClient innerClient, MobileNetworkManager serviceManager)"
+  parameters:
+  - name: "innerClient"
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.fluent.SlicesClient?alt=com.azure.resourcemanager.mobilenetwork.fluent.SlicesClient&text=SlicesClient\" data-throw-if-not-resolved=\"False\" />"
+  - name: "serviceManager"
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.MobileNetworkManager?alt=com.azure.resourcemanager.mobilenetwork.MobileNetworkManager&text=MobileNetworkManager\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SlicesImpl(SlicesClient innerClient, MobileNetworkManager serviceManager)"
+type: "constructor"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

@@ -1,0 +1,38 @@
+### YamlMime:JavaType
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings"
+name: "EncryptionSettings"
+nameWithType: "EncryptionSettings"
+summary: "Contains the settings to configure how encryption operations are performed on data."
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public abstract class EncryptionSettings"
+constructors:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.EncryptionSettings()"
+fields:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.dataEncryptionKey"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.encryptionType"
+methods:
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.equals(java.lang.Object)"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getDataEncryptionKey()"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getDefaultEncryptionType(com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey)"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getEncryptionType()"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.getSerializer()"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.setDataEncryptionKey(com.azure.cosmos.encryption.implementation.mdesrc.cryptography.DataEncryptionKey)"
+- "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionSettings.setEncryptionType(com.azure.cosmos.encryption.implementation.mdesrc.cryptography.EncryptionType)"
+type: "class"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

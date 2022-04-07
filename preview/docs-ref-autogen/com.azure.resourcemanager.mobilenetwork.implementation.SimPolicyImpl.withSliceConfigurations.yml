@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withSliceConfigurations*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withSliceConfigurations"
+name: "withSliceConfigurations"
+nameWithType: "SimPolicyImpl.withSliceConfigurations"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withSliceConfigurations(java.util.List<com.azure.resourcemanager.mobilenetwork.models.SliceConfiguration>)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.withSliceConfigurations(List<SliceConfiguration> sliceConfigurations)"
+  name: "withSliceConfigurations(List<SliceConfiguration> sliceConfigurations)"
+  nameWithType: "SimPolicyImpl.withSliceConfigurations(List<SliceConfiguration> sliceConfigurations)"
+  summary: "Specifies the sliceConfigurations property: The allowed slices and the settings to use for them. The list must not contain duplicate items and must contain at least one item.."
+  parameters:
+  - name: "sliceConfigurations"
+    type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.mobilenetwork.models.SliceConfiguration?alt=com.azure.resourcemanager.mobilenetwork.models.SliceConfiguration&text=SliceConfiguration\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public SimPolicyImpl withSliceConfigurations(List<SliceConfiguration> sliceConfigurations)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl&text=SimPolicyImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

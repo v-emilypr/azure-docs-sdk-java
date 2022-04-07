@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.kusto.implementation.ClusterImpl.withPublicIpType*"
+fullName: "com.azure.resourcemanager.kusto.implementation.ClusterImpl.withPublicIpType"
+name: "withPublicIpType"
+nameWithType: "ClusterImpl.withPublicIpType"
+members:
+- uid: "com.azure.resourcemanager.kusto.implementation.ClusterImpl.withPublicIpType(com.azure.resourcemanager.kusto.models.PublicIpType)"
+  fullName: "com.azure.resourcemanager.kusto.implementation.ClusterImpl.withPublicIpType(PublicIpType publicIpType)"
+  name: "withPublicIpType(PublicIpType publicIpType)"
+  nameWithType: "ClusterImpl.withPublicIpType(PublicIpType publicIpType)"
+  summary: "Specifies the publicIpType property: Indicates what public IP type to create - IPv4 (default), or DualStack (both IPv4 and IPv6)."
+  parameters:
+  - name: "publicIpType"
+    type: "<xref href=\"com.azure.resourcemanager.kusto.models.PublicIpType?alt=com.azure.resourcemanager.kusto.models.PublicIpType&text=PublicIpType\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ClusterImpl withPublicIpType(PublicIpType publicIpType)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.kusto.implementation.ClusterImpl?alt=com.azure.resourcemanager.kusto.implementation.ClusterImpl&text=ClusterImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.kusto.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-kusto:1.0.0-beta.4

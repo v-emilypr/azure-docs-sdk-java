@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.refresh*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.refresh"
+name: "refresh"
+nameWithType: "SimPolicyImpl.refresh"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.refresh()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.refresh()"
+  name: "refresh()"
+  nameWithType: "SimPolicyImpl.refresh()"
+  summary: "Refreshes the resource to sync with Azure."
+  syntax: "public SimPolicy refresh()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.SimPolicy?alt=com.azure.resourcemanager.mobilenetwork.models.SimPolicy&text=SimPolicy\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.refresh(com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimPolicyImpl.refresh(Context context)"
+  name: "refresh(Context context)"
+  nameWithType: "SimPolicyImpl.refresh(Context context)"
+  summary: "Refreshes the resource to sync with Azure."
+  parameters:
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SimPolicy refresh(Context context)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.SimPolicy?alt=com.azure.resourcemanager.mobilenetwork.models.SimPolicy&text=SimPolicy\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

@@ -1,0 +1,29 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.refresh*"
+fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.refresh"
+name: "refresh"
+nameWithType: "SubvolumeInfoImpl.refresh"
+members:
+- uid: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.refresh()"
+  fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.refresh()"
+  name: "refresh()"
+  nameWithType: "SubvolumeInfoImpl.refresh()"
+  summary: "Refreshes the resource to sync with Azure."
+  syntax: "public SubvolumeInfo refresh()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.netapp.models.SubvolumeInfo?alt=com.azure.resourcemanager.netapp.models.SubvolumeInfo&text=SubvolumeInfo\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.refresh(com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.refresh(Context context)"
+  name: "refresh(Context context)"
+  nameWithType: "SubvolumeInfoImpl.refresh(Context context)"
+  summary: "Refreshes the resource to sync with Azure."
+  parameters:
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SubvolumeInfo refresh(Context context)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.netapp.models.SubvolumeInfo?alt=com.azure.resourcemanager.netapp.models.SubvolumeInfo&text=SubvolumeInfo\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.netapp.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-netapp:1.0.0-beta.8

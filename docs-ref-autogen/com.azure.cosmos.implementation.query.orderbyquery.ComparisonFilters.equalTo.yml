@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.query.orderbyquery.ComparisonFilters.equalTo*"
+fullName: "com.azure.cosmos.implementation.query.orderbyquery.ComparisonFilters.equalTo"
+name: "equalTo"
+nameWithType: "ComparisonFilters.equalTo"
+members:
+- uid: "com.azure.cosmos.implementation.query.orderbyquery.ComparisonFilters.equalTo()"
+  fullName: "com.azure.cosmos.implementation.query.orderbyquery.ComparisonFilters.equalTo()"
+  name: "equalTo()"
+  nameWithType: "ComparisonFilters.equalTo()"
+  syntax: "public abstract String equalTo()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation.query.orderbyquery"
+artifact: com.azure:azure-cosmos:4.28.0

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.endpoint*"
+fullName: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.endpoint"
+name: "endpoint"
+nameWithType: "BatchManagementClientBuilder.endpoint"
+members:
+- uid: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.endpoint(java.lang.String)"
+  fullName: "com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder.endpoint(String endpoint)"
+  name: "endpoint(String endpoint)"
+  nameWithType: "BatchManagementClientBuilder.endpoint(String endpoint)"
+  summary: "Sets server parameter."
+  parameters:
+  - description: "the endpoint value."
+    name: "endpoint"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public BatchManagementClientBuilder endpoint(String endpoint)"
+  returns:
+    description: "the BatchManagementClientBuilder."
+    type: "<xref href=\"com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder?alt=com.azure.resourcemanager.batch.implementation.BatchManagementClientBuilder&text=BatchManagementClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.batch.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-batch:1.0.0

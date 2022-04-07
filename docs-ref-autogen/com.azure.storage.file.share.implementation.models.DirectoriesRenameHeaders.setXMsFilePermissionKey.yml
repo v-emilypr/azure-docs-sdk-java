@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.file.share.implementation.models.DirectoriesRenameHeaders.setXMsFilePermissionKey*"
+fullName: "com.azure.storage.file.share.implementation.models.DirectoriesRenameHeaders.setXMsFilePermissionKey"
+name: "setXMsFilePermissionKey"
+nameWithType: "DirectoriesRenameHeaders.setXMsFilePermissionKey"
+members:
+- uid: "com.azure.storage.file.share.implementation.models.DirectoriesRenameHeaders.setXMsFilePermissionKey(java.lang.String)"
+  fullName: "com.azure.storage.file.share.implementation.models.DirectoriesRenameHeaders.setXMsFilePermissionKey(String xMsFilePermissionKey)"
+  name: "setXMsFilePermissionKey(String xMsFilePermissionKey)"
+  nameWithType: "DirectoriesRenameHeaders.setXMsFilePermissionKey(String xMsFilePermissionKey)"
+  summary: "Set the xMsFilePermissionKey property: The x-ms-file-permission-key property."
+  parameters:
+  - description: "the xMsFilePermissionKey value to set."
+    name: "xMsFilePermissionKey"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DirectoriesRenameHeaders setXMsFilePermissionKey(String xMsFilePermissionKey)"
+  returns:
+    description: "the DirectoriesRenameHeaders object itself."
+    type: "<xref href=\"com.azure.storage.file.share.implementation.models.DirectoriesRenameHeaders?alt=com.azure.storage.file.share.implementation.models.DirectoriesRenameHeaders&text=DirectoriesRenameHeaders\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.file.share.implementation.models"
+artifact: com.azure:azure-storage-file-share:12.12.0

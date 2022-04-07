@@ -1,0 +1,38 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlanesImpl.delete*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlanesImpl.delete"
+name: "delete"
+nameWithType: "PacketCoreDataPlanesImpl.delete"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlanesImpl.delete(java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlanesImpl.delete(String resourceGroupName, String packetCoreControlPlaneName, String packetCoreDataPlaneName)"
+  name: "delete(String resourceGroupName, String packetCoreControlPlaneName, String packetCoreDataPlaneName)"
+  nameWithType: "PacketCoreDataPlanesImpl.delete(String resourceGroupName, String packetCoreControlPlaneName, String packetCoreDataPlaneName)"
+  summary: "Deletes the specified packet core data plane."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "packetCoreControlPlaneName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "packetCoreDataPlaneName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void delete(String resourceGroupName, String packetCoreControlPlaneName, String packetCoreDataPlaneName)"
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlanesImpl.delete(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreDataPlanesImpl.delete(String resourceGroupName, String packetCoreControlPlaneName, String packetCoreDataPlaneName, Context context)"
+  name: "delete(String resourceGroupName, String packetCoreControlPlaneName, String packetCoreDataPlaneName, Context context)"
+  nameWithType: "PacketCoreDataPlanesImpl.delete(String resourceGroupName, String packetCoreControlPlaneName, String packetCoreDataPlaneName, Context context)"
+  summary: "Deletes the specified packet core data plane."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "packetCoreControlPlaneName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "packetCoreDataPlaneName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void delete(String resourceGroupName, String packetCoreControlPlaneName, String packetCoreDataPlaneName, Context context)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

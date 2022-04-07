@@ -1,0 +1,42 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.digitaltwins.implementation.TimeSeriesDatabaseConnectionsImpl.delete*"
+fullName: "com.azure.resourcemanager.digitaltwins.implementation.TimeSeriesDatabaseConnectionsImpl.delete"
+name: "delete"
+nameWithType: "TimeSeriesDatabaseConnectionsImpl.delete"
+members:
+- uid: "com.azure.resourcemanager.digitaltwins.implementation.TimeSeriesDatabaseConnectionsImpl.delete(java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.digitaltwins.implementation.TimeSeriesDatabaseConnectionsImpl.delete(String resourceGroupName, String resourceName, String timeSeriesDatabaseConnectionName)"
+  name: "delete(String resourceGroupName, String resourceName, String timeSeriesDatabaseConnectionName)"
+  nameWithType: "TimeSeriesDatabaseConnectionsImpl.delete(String resourceGroupName, String resourceName, String timeSeriesDatabaseConnectionName)"
+  summary: "Delete a time series database connection."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "resourceName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "timeSeriesDatabaseConnectionName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public TimeSeriesDatabaseConnection delete(String resourceGroupName, String resourceName, String timeSeriesDatabaseConnectionName)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.digitaltwins.models.TimeSeriesDatabaseConnection?alt=com.azure.resourcemanager.digitaltwins.models.TimeSeriesDatabaseConnection&text=TimeSeriesDatabaseConnection\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.digitaltwins.implementation.TimeSeriesDatabaseConnectionsImpl.delete(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.digitaltwins.implementation.TimeSeriesDatabaseConnectionsImpl.delete(String resourceGroupName, String resourceName, String timeSeriesDatabaseConnectionName, Context context)"
+  name: "delete(String resourceGroupName, String resourceName, String timeSeriesDatabaseConnectionName, Context context)"
+  nameWithType: "TimeSeriesDatabaseConnectionsImpl.delete(String resourceGroupName, String resourceName, String timeSeriesDatabaseConnectionName, Context context)"
+  summary: "Delete a time series database connection."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "resourceName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "timeSeriesDatabaseConnectionName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public TimeSeriesDatabaseConnection delete(String resourceGroupName, String resourceName, String timeSeriesDatabaseConnectionName, Context context)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.digitaltwins.models.TimeSeriesDatabaseConnection?alt=com.azure.resourcemanager.digitaltwins.models.TimeSeriesDatabaseConnection&text=TimeSeriesDatabaseConnection\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.digitaltwins.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-digitaltwins:1.0.0-beta.2

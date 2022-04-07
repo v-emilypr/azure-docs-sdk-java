@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.ai.formrecognizer.implementation.util.DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor.setMessage*"
+fullName: "com.azure.ai.formrecognizer.implementation.util.DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor.setMessage"
+name: "setMessage"
+nameWithType: "DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor.setMessage"
+members:
+- uid: "com.azure.ai.formrecognizer.implementation.util.DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor.setMessage(com.azure.ai.formrecognizer.administration.models.DocumentModelOperationError,java.lang.String)"
+  fullName: "com.azure.ai.formrecognizer.implementation.util.DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor.setMessage(DocumentModelOperationError documentModelOperationError, String message)"
+  name: "setMessage(DocumentModelOperationError documentModelOperationError, String message)"
+  nameWithType: "DocumentModelOperationErrorHelper.DocumentModelOperationErrorAccessor.setMessage(DocumentModelOperationError documentModelOperationError, String message)"
+  parameters:
+  - name: "documentModelOperationError"
+    type: "<xref href=\"com.azure.ai.formrecognizer.administration.models.DocumentModelOperationError?alt=com.azure.ai.formrecognizer.administration.models.DocumentModelOperationError&text=DocumentModelOperationError\" data-throw-if-not-resolved=\"False\" />"
+  - name: "message"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract void setMessage(DocumentModelOperationError documentModelOperationError, String message)"
+type: "method"
+metadata: {}
+package: "com.azure.ai.formrecognizer.implementation.util"
+artifact: com.azure:azure-ai-formrecognizer:4.0.0-beta.4

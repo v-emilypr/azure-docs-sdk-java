@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.update*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.update"
+name: "update"
+nameWithType: "PacketCoreControlPlaneImpl.update"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.update()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl.update()"
+  name: "update()"
+  nameWithType: "PacketCoreControlPlaneImpl.update()"
+  summary: "Begins update for the PacketCoreControlPlane resource."
+  syntax: "public PacketCoreControlPlaneImpl update()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.PacketCoreControlPlaneImpl&text=PacketCoreControlPlaneImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

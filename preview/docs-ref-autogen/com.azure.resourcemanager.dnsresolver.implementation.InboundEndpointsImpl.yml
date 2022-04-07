@@ -1,0 +1,41 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl"
+name: "InboundEndpointsImpl"
+nameWithType: "InboundEndpointsImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class InboundEndpointsImpl implements InboundEndpoints"
+constructors:
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.InboundEndpointsImpl(com.azure.resourcemanager.dnsresolver.fluent.InboundEndpointsClient,com.azure.resourcemanager.dnsresolver.DnsResolverManager)"
+methods:
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.define(java.lang.String)"
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.delete(java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.delete(java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.delete(java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.deleteById(java.lang.String)"
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.deleteByIdWithResponse(java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.get(java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.getById(java.lang.String)"
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.getByIdWithResponse(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.getWithResponse(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.list(java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.dnsresolver.implementation.InboundEndpointsImpl.list(java.lang.String,java.lang.String,java.lang.Integer,com.azure.core.util.Context)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.dnsresolver.models.InboundEndpoints?alt=com.azure.resourcemanager.dnsresolver.models.InboundEndpoints&text=InboundEndpoints\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

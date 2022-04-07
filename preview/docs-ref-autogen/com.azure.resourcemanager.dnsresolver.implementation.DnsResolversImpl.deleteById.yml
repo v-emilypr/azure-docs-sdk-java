@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolversImpl.deleteById*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolversImpl.deleteById"
+name: "deleteById"
+nameWithType: "DnsResolversImpl.deleteById"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolversImpl.deleteById(java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolversImpl.deleteById(String id)"
+  name: "deleteById(String id)"
+  nameWithType: "DnsResolversImpl.deleteById(String id)"
+  summary: "Deletes a DNS resolver. WARNING: This operation cannot be undone."
+  parameters:
+  - name: "id"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void deleteById(String id)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.setOperationContext*"
+fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.setOperationContext"
+name: "setOperationContext"
+nameWithType: "ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.setOperationContext"
+members:
+- uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.setOperationContext(com.azure.cosmos.models.CosmosChangeFeedRequestOptions,com.azure.cosmos.implementation.spark.OperationContextAndListenerTuple)"
+  fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.setOperationContext(CosmosChangeFeedRequestOptions changeFeedRequestOptions, OperationContextAndListenerTuple operationContext)"
+  name: "setOperationContext(CosmosChangeFeedRequestOptions changeFeedRequestOptions, OperationContextAndListenerTuple operationContext)"
+  nameWithType: "ImplementationBridgeHelpers.CosmosChangeFeedRequestOptionsHelper.CosmosChangeFeedRequestOptionsAccessor.setOperationContext(CosmosChangeFeedRequestOptions changeFeedRequestOptions, OperationContextAndListenerTuple operationContext)"
+  parameters:
+  - name: "changeFeedRequestOptions"
+    type: "<xref href=\"com.azure.cosmos.models.CosmosChangeFeedRequestOptions?alt=com.azure.cosmos.models.CosmosChangeFeedRequestOptions&text=CosmosChangeFeedRequestOptions\" data-throw-if-not-resolved=\"False\" />"
+  - name: "operationContext"
+    type: "<xref href=\"com.azure.cosmos.implementation.spark.OperationContextAndListenerTuple?alt=com.azure.cosmos.implementation.spark.OperationContextAndListenerTuple&text=OperationContextAndListenerTuple\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract void setOperationContext(CosmosChangeFeedRequestOptions changeFeedRequestOptions, OperationContextAndListenerTuple operationContext)"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

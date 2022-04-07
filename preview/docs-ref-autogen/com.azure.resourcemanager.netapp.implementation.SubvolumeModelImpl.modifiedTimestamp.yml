@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.netapp.implementation.SubvolumeModelImpl.modifiedTimestamp*"
+fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumeModelImpl.modifiedTimestamp"
+name: "modifiedTimestamp"
+nameWithType: "SubvolumeModelImpl.modifiedTimestamp"
+members:
+- uid: "com.azure.resourcemanager.netapp.implementation.SubvolumeModelImpl.modifiedTimestamp()"
+  fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumeModelImpl.modifiedTimestamp()"
+  name: "modifiedTimestamp()"
+  nameWithType: "SubvolumeModelImpl.modifiedTimestamp()"
+  summary: "Gets the modifiedTimestamp property: modifiedTimeStamp Most recent modification time and date."
+  syntax: "public OffsetDateTime modifiedTimestamp()"
+  returns:
+    type: "<xref href=\"java.time.OffsetDateTime?alt=java.time.OffsetDateTime&text=OffsetDateTime\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.netapp.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-netapp:1.0.0-beta.8

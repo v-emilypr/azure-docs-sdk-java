@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.update*"
+fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.update"
+name: "update"
+nameWithType: "SubvolumeInfoImpl.update"
+members:
+- uid: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.update()"
+  fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl.update()"
+  name: "update()"
+  nameWithType: "SubvolumeInfoImpl.update()"
+  summary: "Begins update for the SubvolumeInfo resource."
+  syntax: "public SubvolumeInfoImpl update()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl?alt=com.azure.resourcemanager.netapp.implementation.SubvolumeInfoImpl&text=SubvolumeInfoImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.netapp.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-netapp:1.0.0-beta.8

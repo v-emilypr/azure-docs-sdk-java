@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Tuple.Tuple*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Tuple<Y,Z>.Tuple"
+name: "Tuple"
+nameWithType: "Tuple<Y,Z>.Tuple"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Tuple.Tuple(Y,Z)"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.Tuple<Y,Z>.Tuple(Y y, Z z)"
+  name: "Tuple(Y y, Z z)"
+  nameWithType: "Tuple<Y,Z>.Tuple(Y y, Z z)"
+  summary: "Creates an object with two elements."
+  parameters:
+  - description: "element 1"
+    name: "y"
+    type: "<xref href=\"Y?alt=Y&text=Y\" data-throw-if-not-resolved=\"False\" />"
+  - description: "element 2"
+    name: "z"
+    type: "<xref href=\"Z?alt=Z&text=Z\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public Tuple(Y y, Z z)"
+type: "constructor"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0

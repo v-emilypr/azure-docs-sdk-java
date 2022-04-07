@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientBuilder.buildClient*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientBuilder.buildClient"
+name: "buildClient"
+nameWithType: "MobileNetworkManagementClientBuilder.buildClient"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientBuilder.buildClient()"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientBuilder.buildClient()"
+  name: "buildClient()"
+  nameWithType: "MobileNetworkManagementClientBuilder.buildClient()"
+  summary: "Builds an instance of MobileNetworkManagementClientImpl with the provided parameters."
+  syntax: "public MobileNetworkManagementClientImpl buildClient()"
+  returns:
+    description: "an instance of MobileNetworkManagementClientImpl."
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.MobileNetworkManagementClientImpl&text=MobileNetworkManagementClientImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.identity.implementation.IdentityClientBuilder.clientAssertionSupplier*"
+fullName: "com.azure.identity.implementation.IdentityClientBuilder.clientAssertionSupplier"
+name: "clientAssertionSupplier"
+nameWithType: "IdentityClientBuilder.clientAssertionSupplier"
+members:
+- uid: "com.azure.identity.implementation.IdentityClientBuilder.clientAssertionSupplier(java.util.function.Supplier<java.lang.String>)"
+  fullName: "com.azure.identity.implementation.IdentityClientBuilder.clientAssertionSupplier(Supplier<String> clientAssertionSupplier)"
+  name: "clientAssertionSupplier(Supplier<String> clientAssertionSupplier)"
+  nameWithType: "IdentityClientBuilder.clientAssertionSupplier(Supplier<String> clientAssertionSupplier)"
+  summary: "Sets the supplier for client assertion."
+  parameters:
+  - description: "the supplier of client assertion."
+    name: "clientAssertionSupplier"
+    type: "<xref href=\"java.util.function.Supplier?alt=java.util.function.Supplier&text=Supplier\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />&gt;"
+  syntax: "public IdentityClientBuilder clientAssertionSupplier(Supplier<String> clientAssertionSupplier)"
+  returns:
+    description: "the IdentityClientBuilder itself"
+    type: "<xref href=\"com.azure.identity.implementation.IdentityClientBuilder?alt=com.azure.identity.implementation.IdentityClientBuilder&text=IdentityClientBuilder\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.identity.implementation"
+artifact: com.azure:azure-identity:1.5.0

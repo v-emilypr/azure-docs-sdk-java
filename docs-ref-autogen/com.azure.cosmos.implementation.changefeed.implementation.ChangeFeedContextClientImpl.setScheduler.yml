@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.changefeed.implementation.ChangeFeedContextClientImpl.setScheduler*"
+fullName: "com.azure.cosmos.implementation.changefeed.implementation.ChangeFeedContextClientImpl.setScheduler"
+name: "setScheduler"
+nameWithType: "ChangeFeedContextClientImpl.setScheduler"
+members:
+- uid: "com.azure.cosmos.implementation.changefeed.implementation.ChangeFeedContextClientImpl.setScheduler(reactor.core.scheduler.Scheduler)"
+  fullName: "com.azure.cosmos.implementation.changefeed.implementation.ChangeFeedContextClientImpl.setScheduler(Scheduler scheduler)"
+  name: "setScheduler(Scheduler scheduler)"
+  nameWithType: "ChangeFeedContextClientImpl.setScheduler(Scheduler scheduler)"
+  summary: "Sets the internal <xref uid=\"reactor.core.scheduler.Scheduler\" data-throw-if-not-resolved=\"false\" data-raw-source=\"Scheduler\"></xref> that hosts a pool of ExecutorService-based workers for any change feed processor related tasks."
+  parameters:
+  - name: "scheduler"
+    type: "<xref href=\"reactor.core.scheduler.Scheduler?alt=reactor.core.scheduler.Scheduler&text=Scheduler\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void setScheduler(Scheduler scheduler)"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation.changefeed.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

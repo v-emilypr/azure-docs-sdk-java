@@ -1,0 +1,42 @@
+### YamlMime:JavaType
+uid: "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl"
+fullName: "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl"
+name: "SubvolumesImpl"
+nameWithType: "SubvolumesImpl"
+inheritances:
+- "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
+inheritedMembers:
+- "java.lang.Object.clone()"
+- "java.lang.Object.equals(java.lang.Object)"
+- "java.lang.Object.finalize()"
+- "java.lang.Object.getClass()"
+- "java.lang.Object.hashCode()"
+- "java.lang.Object.notify()"
+- "java.lang.Object.notifyAll()"
+- "java.lang.Object.toString()"
+- "java.lang.Object.wait()"
+- "java.lang.Object.wait(long)"
+- "java.lang.Object.wait(long,int)"
+syntax: "public final class SubvolumesImpl implements Subvolumes"
+constructors:
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.SubvolumesImpl(com.azure.resourcemanager.netapp.fluent.SubvolumesClient,com.azure.resourcemanager.netapp.NetAppFilesManager)"
+methods:
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.define(java.lang.String)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.delete(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.delete(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.deleteById(java.lang.String)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.deleteByIdWithResponse(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.get(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.getById(java.lang.String)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.getByIdWithResponse(java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.getMetadata(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.getMetadata(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.getWithResponse(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.listByVolume(java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+- "com.azure.resourcemanager.netapp.implementation.SubvolumesImpl.listByVolume(java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+type: "class"
+implements:
+- "<xref href=\"com.azure.resourcemanager.netapp.models.Subvolumes?alt=com.azure.resourcemanager.netapp.models.Subvolumes&text=Subvolumes\" data-throw-if-not-resolved=\"False\" />"
+metadata: {}
+package: "com.azure.resourcemanager.netapp.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-netapp:1.0.0-beta.8

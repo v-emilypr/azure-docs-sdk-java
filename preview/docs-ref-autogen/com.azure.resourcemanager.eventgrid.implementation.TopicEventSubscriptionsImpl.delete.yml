@@ -1,0 +1,38 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.TopicEventSubscriptionsImpl.delete*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.TopicEventSubscriptionsImpl.delete"
+name: "delete"
+nameWithType: "TopicEventSubscriptionsImpl.delete"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.TopicEventSubscriptionsImpl.delete(java.lang.String,java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.TopicEventSubscriptionsImpl.delete(String resourceGroupName, String topicName, String eventSubscriptionName)"
+  name: "delete(String resourceGroupName, String topicName, String eventSubscriptionName)"
+  nameWithType: "TopicEventSubscriptionsImpl.delete(String resourceGroupName, String topicName, String eventSubscriptionName)"
+  summary: "Delete an existing event subscription for a topic."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "topicName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "eventSubscriptionName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void delete(String resourceGroupName, String topicName, String eventSubscriptionName)"
+- uid: "com.azure.resourcemanager.eventgrid.implementation.TopicEventSubscriptionsImpl.delete(java.lang.String,java.lang.String,java.lang.String,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.TopicEventSubscriptionsImpl.delete(String resourceGroupName, String topicName, String eventSubscriptionName, Context context)"
+  name: "delete(String resourceGroupName, String topicName, String eventSubscriptionName, Context context)"
+  nameWithType: "TopicEventSubscriptionsImpl.delete(String resourceGroupName, String topicName, String eventSubscriptionName, Context context)"
+  summary: "Delete an existing event subscription for a topic."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "topicName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "eventSubscriptionName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void delete(String resourceGroupName, String topicName, String eventSubscriptionName, Context context)"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.RetryContext.RetryContext*"
+fullName: "com.azure.cosmos.implementation.RetryContext.RetryContext"
+name: "RetryContext"
+nameWithType: "RetryContext.RetryContext"
+members:
+- uid: "com.azure.cosmos.implementation.RetryContext.RetryContext()"
+  fullName: "com.azure.cosmos.implementation.RetryContext.RetryContext()"
+  name: "RetryContext()"
+  nameWithType: "RetryContext.RetryContext()"
+  syntax: "public RetryContext()"
+- uid: "com.azure.cosmos.implementation.RetryContext.RetryContext(com.azure.cosmos.implementation.RetryContext)"
+  fullName: "com.azure.cosmos.implementation.RetryContext.RetryContext(RetryContext toBeCloned)"
+  name: "RetryContext(RetryContext toBeCloned)"
+  nameWithType: "RetryContext.RetryContext(RetryContext toBeCloned)"
+  parameters:
+  - name: "toBeCloned"
+    type: "<xref href=\"com.azure.cosmos.implementation.RetryContext?alt=com.azure.cosmos.implementation.RetryContext&text=RetryContext\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public RetryContext(RetryContext toBeCloned)"
+type: "constructor"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

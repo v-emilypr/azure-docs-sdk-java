@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.apimanagement.implementation.ApiManagementClientImpl.getResourceProviders*"
+fullName: "com.azure.resourcemanager.apimanagement.implementation.ApiManagementClientImpl.getResourceProviders"
+name: "getResourceProviders"
+nameWithType: "ApiManagementClientImpl.getResourceProviders"
+members:
+- uid: "com.azure.resourcemanager.apimanagement.implementation.ApiManagementClientImpl.getResourceProviders()"
+  fullName: "com.azure.resourcemanager.apimanagement.implementation.ApiManagementClientImpl.getResourceProviders()"
+  name: "getResourceProviders()"
+  nameWithType: "ApiManagementClientImpl.getResourceProviders()"
+  summary: "Gets the ResourceProvidersClient object to access its operations."
+  syntax: "public ResourceProvidersClient getResourceProviders()"
+  returns:
+    description: "the ResourceProvidersClient object."
+    type: "<xref href=\"com.azure.resourcemanager.apimanagement.fluent.ResourceProvidersClient?alt=com.azure.resourcemanager.apimanagement.fluent.ResourceProvidersClient&text=ResourceProvidersClient\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.apimanagement.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-apimanagement:1.0.0-beta.3

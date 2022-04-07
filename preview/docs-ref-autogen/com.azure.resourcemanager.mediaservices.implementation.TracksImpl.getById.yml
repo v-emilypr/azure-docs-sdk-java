@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mediaservices.implementation.TracksImpl.getById*"
+fullName: "com.azure.resourcemanager.mediaservices.implementation.TracksImpl.getById"
+name: "getById"
+nameWithType: "TracksImpl.getById"
+members:
+- uid: "com.azure.resourcemanager.mediaservices.implementation.TracksImpl.getById(java.lang.String)"
+  fullName: "com.azure.resourcemanager.mediaservices.implementation.TracksImpl.getById(String id)"
+  name: "getById(String id)"
+  nameWithType: "TracksImpl.getById(String id)"
+  summary: "Get the details of a Track in the Asset."
+  parameters:
+  - name: "id"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public AssetTrack getById(String id)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mediaservices.models.AssetTrack?alt=com.azure.resourcemanager.mediaservices.models.AssetTrack&text=AssetTrack\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mediaservices.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mediaservices:1.1.0-beta.3

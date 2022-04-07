@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.withSimPolicy*"
+fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.withSimPolicy"
+name: "withSimPolicy"
+nameWithType: "SimImpl.withSimPolicy"
+members:
+- uid: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.withSimPolicy(com.azure.resourcemanager.mobilenetwork.models.SimPolicyResourceId)"
+  fullName: "com.azure.resourcemanager.mobilenetwork.implementation.SimImpl.withSimPolicy(SimPolicyResourceId simPolicy)"
+  name: "withSimPolicy(SimPolicyResourceId simPolicy)"
+  nameWithType: "SimImpl.withSimPolicy(SimPolicyResourceId simPolicy)"
+  summary: "Specifies the simPolicy property: The simPolicy used by this sim.."
+  parameters:
+  - name: "simPolicy"
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.models.SimPolicyResourceId?alt=com.azure.resourcemanager.mobilenetwork.models.SimPolicyResourceId&text=SimPolicyResourceId\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SimImpl withSimPolicy(SimPolicyResourceId simPolicy)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.mobilenetwork.implementation.SimImpl?alt=com.azure.resourcemanager.mobilenetwork.implementation.SimImpl&text=SimImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.mobilenetwork.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-mobilenetwork:1.0.0-beta.2

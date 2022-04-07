@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.channelType*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.channelType"
+name: "channelType"
+nameWithType: "ChannelImpl.channelType"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.channelType()"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.ChannelImpl.channelType()"
+  name: "channelType()"
+  nameWithType: "ChannelImpl.channelType()"
+  summary: "Gets the channelType property: The type of the event channel which represents the direction flow of events."
+  syntax: "public ChannelType channelType()"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.eventgrid.models.ChannelType?alt=com.azure.resourcemanager.eventgrid.models.ChannelType&text=ChannelType\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

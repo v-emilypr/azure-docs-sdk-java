@@ -1,0 +1,12 @@
+### YamlMime:JavaType
+uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosAsyncClientEncryptionKeyHelper.CosmosAsyncClientEncryptionKeyAccessor"
+fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosAsyncClientEncryptionKeyHelper.CosmosAsyncClientEncryptionKeyAccessor"
+name: "ImplementationBridgeHelpers.CosmosAsyncClientEncryptionKeyHelper.CosmosAsyncClientEncryptionKeyAccessor"
+nameWithType: "ImplementationBridgeHelpers.CosmosAsyncClientEncryptionKeyHelper.CosmosAsyncClientEncryptionKeyAccessor"
+syntax: "public static interface ImplementationBridgeHelpers.CosmosAsyncClientEncryptionKeyHelper.CosmosAsyncClientEncryptionKeyAccessor"
+methods:
+- "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosAsyncClientEncryptionKeyHelper.CosmosAsyncClientEncryptionKeyAccessor.readClientEncryptionKey(com.azure.cosmos.CosmosAsyncClientEncryptionKey,com.azure.cosmos.implementation.RequestOptions)"
+type: "interface"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

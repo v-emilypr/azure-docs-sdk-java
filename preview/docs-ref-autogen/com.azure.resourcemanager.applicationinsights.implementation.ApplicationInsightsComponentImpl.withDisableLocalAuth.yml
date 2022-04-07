@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.applicationinsights.implementation.ApplicationInsightsComponentImpl.withDisableLocalAuth*"
+fullName: "com.azure.resourcemanager.applicationinsights.implementation.ApplicationInsightsComponentImpl.withDisableLocalAuth"
+name: "withDisableLocalAuth"
+nameWithType: "ApplicationInsightsComponentImpl.withDisableLocalAuth"
+members:
+- uid: "com.azure.resourcemanager.applicationinsights.implementation.ApplicationInsightsComponentImpl.withDisableLocalAuth(java.lang.Boolean)"
+  fullName: "com.azure.resourcemanager.applicationinsights.implementation.ApplicationInsightsComponentImpl.withDisableLocalAuth(Boolean disableLocalAuth)"
+  name: "withDisableLocalAuth(Boolean disableLocalAuth)"
+  nameWithType: "ApplicationInsightsComponentImpl.withDisableLocalAuth(Boolean disableLocalAuth)"
+  summary: "Specifies the disableLocalAuth property: Disable Non-AAD based Auth.."
+  parameters:
+  - name: "disableLocalAuth"
+    type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ApplicationInsightsComponentImpl withDisableLocalAuth(Boolean disableLocalAuth)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.applicationinsights.implementation.ApplicationInsightsComponentImpl?alt=com.azure.resourcemanager.applicationinsights.implementation.ApplicationInsightsComponentImpl&text=ApplicationInsightsComponentImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.applicationinsights.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-applicationinsights:1.0.0-beta.4

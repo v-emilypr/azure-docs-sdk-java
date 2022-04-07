@@ -1,0 +1,40 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointsImpl.list*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointsImpl.list"
+name: "list"
+nameWithType: "OutboundEndpointsImpl.list"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointsImpl.list(java.lang.String,java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointsImpl.list(String resourceGroupName, String dnsResolverName)"
+  name: "list(String resourceGroupName, String dnsResolverName)"
+  nameWithType: "OutboundEndpointsImpl.list(String resourceGroupName, String dnsResolverName)"
+  summary: "Lists outbound endpoints for a DNS resolver."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "dnsResolverName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PagedIterable<OutboundEndpoint> list(String resourceGroupName, String dnsResolverName)"
+  returns:
+    type: "<xref href=\"com.azure.core.http.rest.PagedIterable?alt=com.azure.core.http.rest.PagedIterable&text=PagedIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.dnsresolver.models.OutboundEndpoint?alt=com.azure.resourcemanager.dnsresolver.models.OutboundEndpoint&text=OutboundEndpoint\" data-throw-if-not-resolved=\"False\" />&gt;"
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointsImpl.list(java.lang.String,java.lang.String,java.lang.Integer,com.azure.core.util.Context)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.OutboundEndpointsImpl.list(String resourceGroupName, String dnsResolverName, Integer top, Context context)"
+  name: "list(String resourceGroupName, String dnsResolverName, Integer top, Context context)"
+  nameWithType: "OutboundEndpointsImpl.list(String resourceGroupName, String dnsResolverName, Integer top, Context context)"
+  summary: "Lists outbound endpoints for a DNS resolver."
+  parameters:
+  - name: "resourceGroupName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "dnsResolverName"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  - name: "top"
+    type: "<xref href=\"java.lang.Integer?alt=java.lang.Integer&text=Integer\" data-throw-if-not-resolved=\"False\" />"
+  - name: "context"
+    type: "<xref href=\"com.azure.core.util.Context?alt=com.azure.core.util.Context&text=Context\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PagedIterable<OutboundEndpoint> list(String resourceGroupName, String dnsResolverName, Integer top, Context context)"
+  returns:
+    type: "<xref href=\"com.azure.core.http.rest.PagedIterable?alt=com.azure.core.http.rest.PagedIterable&text=PagedIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.dnsresolver.models.OutboundEndpoint?alt=com.azure.resourcemanager.dnsresolver.models.OutboundEndpoint&text=OutboundEndpoint\" data-throw-if-not-resolved=\"False\" />&gt;"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

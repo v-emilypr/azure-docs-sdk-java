@@ -1,0 +1,13 @@
+### YamlMime:JavaType
+uid: "com.azure.storage.blob.implementation.accesshelpers.BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor"
+fullName: "com.azure.storage.blob.implementation.accesshelpers.BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor"
+name: "BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor"
+nameWithType: "BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor"
+summary: "Type defining the methods to set the non-public properties of a <xref uid=\"\" data-throw-if-not-resolved=\"false\" data-raw-source=\"BlobDownloadHeadersConstructorAccessor\"></xref> instance."
+syntax: "public static interface BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor"
+methods:
+- "com.azure.storage.blob.implementation.accesshelpers.BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor.create(com.azure.storage.blob.implementation.models.BlobsDownloadHeaders)"
+type: "interface"
+metadata: {}
+package: "com.azure.storage.blob.implementation.accesshelpers"
+artifact: com.azure:azure-storage-blob:12.15.0

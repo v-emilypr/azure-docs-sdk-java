@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl.withEndpointServiceContext*"
+fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl.withEndpointServiceContext"
+name: "withEndpointServiceContext"
+nameWithType: "PartnerDestinationImpl.withEndpointServiceContext"
+members:
+- uid: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl.withEndpointServiceContext(java.lang.String)"
+  fullName: "com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl.withEndpointServiceContext(String endpointServiceContext)"
+  name: "withEndpointServiceContext(String endpointServiceContext)"
+  nameWithType: "PartnerDestinationImpl.withEndpointServiceContext(String endpointServiceContext)"
+  summary: "Specifies the endpointServiceContext property: Endpoint context associated with this partner destination.."
+  parameters:
+  - name: "endpointServiceContext"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public PartnerDestinationImpl withEndpointServiceContext(String endpointServiceContext)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl?alt=com.azure.resourcemanager.eventgrid.implementation.PartnerDestinationImpl&text=PartnerDestinationImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.eventgrid.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-eventgrid:1.2.0-beta.1

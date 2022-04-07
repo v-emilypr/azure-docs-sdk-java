@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.ai.formrecognizer.implementation.util.CurrencyValueHelper.CurrencyValueAccessor.setAmount*"
+fullName: "com.azure.ai.formrecognizer.implementation.util.CurrencyValueHelper.CurrencyValueAccessor.setAmount"
+name: "setAmount"
+nameWithType: "CurrencyValueHelper.CurrencyValueAccessor.setAmount"
+members:
+- uid: "com.azure.ai.formrecognizer.implementation.util.CurrencyValueHelper.CurrencyValueAccessor.setAmount(com.azure.ai.formrecognizer.models.CurrencyValue,double)"
+  fullName: "com.azure.ai.formrecognizer.implementation.util.CurrencyValueHelper.CurrencyValueAccessor.setAmount(CurrencyValue currencyValue, double amount)"
+  name: "setAmount(CurrencyValue currencyValue, double amount)"
+  nameWithType: "CurrencyValueHelper.CurrencyValueAccessor.setAmount(CurrencyValue currencyValue, double amount)"
+  parameters:
+  - name: "currencyValue"
+    type: "<xref href=\"com.azure.ai.formrecognizer.models.CurrencyValue?alt=com.azure.ai.formrecognizer.models.CurrencyValue&text=CurrencyValue\" data-throw-if-not-resolved=\"False\" />"
+  - name: "amount"
+    type: "<xref href=\"double?alt=double&text=double\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract void setAmount(CurrencyValue currencyValue, double amount)"
+type: "method"
+metadata: {}
+package: "com.azure.ai.formrecognizer.implementation.util"
+artifact: com.azure:azure-ai-formrecognizer:4.0.0-beta.4

@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.accesshelpers.BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor.create*"
+fullName: "com.azure.storage.blob.implementation.accesshelpers.BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor.create"
+name: "create"
+nameWithType: "BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor.create"
+members:
+- uid: "com.azure.storage.blob.implementation.accesshelpers.BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor.create(com.azure.storage.blob.implementation.models.BlobsDownloadHeaders)"
+  fullName: "com.azure.storage.blob.implementation.accesshelpers.BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor.create(BlobsDownloadHeaders internalHeaders)"
+  name: "create(BlobsDownloadHeaders internalHeaders)"
+  nameWithType: "BlobDownloadHeadersConstructorProxy.BlobDownloadHeadersConstructorAccessor.create(BlobsDownloadHeaders internalHeaders)"
+  summary: "Creates a new instance of <xref uid=\"com.azure.storage.blob.models.BlobDownloadHeaders\" data-throw-if-not-resolved=\"false\" data-raw-source=\"BlobDownloadHeaders\"></xref> backed by an internal instance of <xref uid=\"com.azure.storage.blob.implementation.models.BlobsDownloadHeaders\" data-throw-if-not-resolved=\"false\" data-raw-source=\"BlobsDownloadHeaders\"></xref>."
+  parameters:
+  - description: "The internal headers."
+    name: "internalHeaders"
+    type: "<xref href=\"com.azure.storage.blob.implementation.models.BlobsDownloadHeaders?alt=com.azure.storage.blob.implementation.models.BlobsDownloadHeaders&text=BlobsDownloadHeaders\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract BlobDownloadHeaders create(BlobsDownloadHeaders internalHeaders)"
+  returns:
+    description: "A new instance of <xref uid=\"com.azure.storage.blob.models.BlobDownloadHeaders\" data-throw-if-not-resolved=\"false\" data-raw-source=\"BlobDownloadHeaders\"></xref>."
+    type: "<xref href=\"com.azure.storage.blob.models.BlobDownloadHeaders?alt=com.azure.storage.blob.models.BlobDownloadHeaders&text=BlobDownloadHeaders\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.accesshelpers"
+artifact: com.azure:azure-storage-blob:12.15.0

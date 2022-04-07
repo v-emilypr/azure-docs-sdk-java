@@ -1,0 +1,16 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.DISPOSITION_STATUS_KEY*"
+fullName: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.DISPOSITION_STATUS_KEY"
+name: "DISPOSITION_STATUS_KEY"
+nameWithType: "ServiceBusConstants.DISPOSITION_STATUS_KEY"
+members:
+- uid: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.DISPOSITION_STATUS_KEY"
+  fullName: "com.azure.messaging.servicebus.implementation.ServiceBusConstants.DISPOSITION_STATUS_KEY"
+  name: "DISPOSITION_STATUS_KEY"
+  nameWithType: "ServiceBusConstants.DISPOSITION_STATUS_KEY"
+  summary: "Identifies disposition status in logs."
+  syntax: "public static final String DISPOSITION_STATUS_KEY"
+type: "field"
+metadata: {}
+package: "com.azure.messaging.servicebus.implementation"
+artifact: com.azure:azure-messaging-servicebus:7.7.0

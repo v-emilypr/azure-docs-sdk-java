@@ -1,0 +1,32 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl.withRegion*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl.withRegion"
+name: "withRegion"
+nameWithType: "DnsResolverImpl.withRegion"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl.withRegion(com.azure.core.management.Region)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl.withRegion(Region location)"
+  name: "withRegion(Region location)"
+  nameWithType: "DnsResolverImpl.withRegion(Region location)"
+  summary: "Specifies the region for the resource."
+  parameters:
+  - name: "location"
+    type: "<xref href=\"com.azure.core.management.Region?alt=com.azure.core.management.Region&text=Region\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DnsResolverImpl withRegion(Region location)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl?alt=com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl&text=DnsResolverImpl\" data-throw-if-not-resolved=\"False\" />"
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl.withRegion(java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl.withRegion(String location)"
+  name: "withRegion(String location)"
+  nameWithType: "DnsResolverImpl.withRegion(String location)"
+  summary: "Specifies the region for the resource."
+  parameters:
+  - name: "location"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DnsResolverImpl withRegion(String location)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl?alt=com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl&text=DnsResolverImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1

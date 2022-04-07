@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getContentLanguage*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getContentLanguage"
+name: "getContentLanguage"
+nameWithType: "BlobPropertiesInternalGetProperties.getContentLanguage"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getContentLanguage()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getContentLanguage()"
+  name: "getContentLanguage()"
+  nameWithType: "BlobPropertiesInternalGetProperties.getContentLanguage()"
+  syntax: "public String getContentLanguage()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0

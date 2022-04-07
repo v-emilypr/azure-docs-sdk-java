@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosContainerPropertiesHelper.CosmosContainerPropertiesAccessor.setSelfLink*"
+fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosContainerPropertiesHelper.CosmosContainerPropertiesAccessor.setSelfLink"
+name: "setSelfLink"
+nameWithType: "ImplementationBridgeHelpers.CosmosContainerPropertiesHelper.CosmosContainerPropertiesAccessor.setSelfLink"
+members:
+- uid: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosContainerPropertiesHelper.CosmosContainerPropertiesAccessor.setSelfLink(com.azure.cosmos.models.CosmosContainerProperties,java.lang.String)"
+  fullName: "com.azure.cosmos.implementation.ImplementationBridgeHelpers.CosmosContainerPropertiesHelper.CosmosContainerPropertiesAccessor.setSelfLink(CosmosContainerProperties cosmosContainerProperties, String selfLink)"
+  name: "setSelfLink(CosmosContainerProperties cosmosContainerProperties, String selfLink)"
+  nameWithType: "ImplementationBridgeHelpers.CosmosContainerPropertiesHelper.CosmosContainerPropertiesAccessor.setSelfLink(CosmosContainerProperties cosmosContainerProperties, String selfLink)"
+  parameters:
+  - name: "cosmosContainerProperties"
+    type: "<xref href=\"com.azure.cosmos.models.CosmosContainerProperties?alt=com.azure.cosmos.models.CosmosContainerProperties&text=CosmosContainerProperties\" data-throw-if-not-resolved=\"False\" />"
+  - name: "selfLink"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public abstract void setSelfLink(CosmosContainerProperties cosmosContainerProperties, String selfLink)"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.implementation"
+artifact: com.azure:azure-cosmos:4.28.0

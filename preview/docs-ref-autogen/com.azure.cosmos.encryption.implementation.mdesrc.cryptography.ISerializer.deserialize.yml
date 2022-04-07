@@ -1,0 +1,26 @@
+### YamlMime:JavaMember
+uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer.deserialize*"
+fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer.deserialize"
+name: "deserialize"
+nameWithType: "ISerializer.deserialize"
+members:
+- uid: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer.deserialize(byte[])"
+  fullName: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography.ISerializer.deserialize(byte[] bytes)"
+  name: "deserialize(byte[] bytes)"
+  nameWithType: "ISerializer.deserialize(byte[] bytes)"
+  summary: "Deserializes the provided bytes"
+  parameters:
+  - description: "The data to be deserialized"
+    name: "bytes"
+    type: "<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]"
+  syntax: "public abstract Object deserialize(byte[] bytes)"
+  exceptions:
+  - description: "on error"
+    type: "<xref href=\"com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException?alt=com.azure.cosmos.encryption.implementation.mdesrc.cryptography.MicrosoftDataEncryptionException&text=MicrosoftDataEncryptionException\" data-throw-if-not-resolved=\"False\" />"
+  returns:
+    description: "The serialized data"
+    type: "<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.cosmos.encryption.implementation.mdesrc.cryptography"
+artifact: com.azure:azure-cosmos-encryption:1.0.0-beta.10

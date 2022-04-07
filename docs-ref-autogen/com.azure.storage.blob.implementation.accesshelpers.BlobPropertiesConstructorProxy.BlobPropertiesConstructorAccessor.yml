@@ -1,0 +1,13 @@
+### YamlMime:JavaType
+uid: "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor"
+fullName: "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor"
+name: "BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor"
+nameWithType: "BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor"
+summary: "Interface defining the methods that access non-public APIs of a <xref uid=\"com.azure.storage.blob.models.BlobProperties\" data-throw-if-not-resolved=\"false\" data-raw-source=\"BlobProperties\"></xref> instance."
+syntax: "public static interface BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor"
+methods:
+- "com.azure.storage.blob.implementation.accesshelpers.BlobPropertiesConstructorProxy.BlobPropertiesConstructorAccessor.create(com.azure.storage.blob.implementation.models.BlobPropertiesInternal)"
+type: "interface"
+metadata: {}
+package: "com.azure.storage.blob.implementation.accesshelpers"
+artifact: com.azure:azure-storage-blob:12.15.0

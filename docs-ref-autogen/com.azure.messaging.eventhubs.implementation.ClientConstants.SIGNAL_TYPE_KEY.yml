@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.messaging.eventhubs.implementation.ClientConstants.SIGNAL_TYPE_KEY*"
+fullName: "com.azure.messaging.eventhubs.implementation.ClientConstants.SIGNAL_TYPE_KEY"
+name: "SIGNAL_TYPE_KEY"
+nameWithType: "ClientConstants.SIGNAL_TYPE_KEY"
+members:
+- uid: "com.azure.messaging.eventhubs.implementation.ClientConstants.SIGNAL_TYPE_KEY"
+  fullName: "com.azure.messaging.eventhubs.implementation.ClientConstants.SIGNAL_TYPE_KEY"
+  name: "SIGNAL_TYPE_KEY"
+  nameWithType: "ClientConstants.SIGNAL_TYPE_KEY"
+  syntax: "public static final String SIGNAL_TYPE_KEY"
+type: "field"
+metadata: {}
+package: "com.azure.messaging.eventhubs.implementation"
+artifact: com.azure:azure-messaging-eventhubs:5.11.1

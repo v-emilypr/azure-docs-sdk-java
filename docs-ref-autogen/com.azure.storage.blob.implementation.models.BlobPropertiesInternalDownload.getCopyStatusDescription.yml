@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalDownload.getCopyStatusDescription*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalDownload.getCopyStatusDescription"
+name: "getCopyStatusDescription"
+nameWithType: "BlobPropertiesInternalDownload.getCopyStatusDescription"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalDownload.getCopyStatusDescription()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalDownload.getCopyStatusDescription()"
+  name: "getCopyStatusDescription()"
+  nameWithType: "BlobPropertiesInternalDownload.getCopyStatusDescription()"
+  syntax: "public String getCopyStatusDescription()"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0

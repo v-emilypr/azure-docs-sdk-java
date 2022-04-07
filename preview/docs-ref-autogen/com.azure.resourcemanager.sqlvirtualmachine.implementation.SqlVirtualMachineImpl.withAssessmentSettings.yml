@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl.withAssessmentSettings*"
+fullName: "com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl.withAssessmentSettings"
+name: "withAssessmentSettings"
+nameWithType: "SqlVirtualMachineImpl.withAssessmentSettings"
+members:
+- uid: "com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl.withAssessmentSettings(com.azure.resourcemanager.sqlvirtualmachine.models.AssessmentSettings)"
+  fullName: "com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl.withAssessmentSettings(AssessmentSettings assessmentSettings)"
+  name: "withAssessmentSettings(AssessmentSettings assessmentSettings)"
+  nameWithType: "SqlVirtualMachineImpl.withAssessmentSettings(AssessmentSettings assessmentSettings)"
+  summary: "Specifies the assessmentSettings property: Assessment Settings.."
+  parameters:
+  - name: "assessmentSettings"
+    type: "<xref href=\"com.azure.resourcemanager.sqlvirtualmachine.models.AssessmentSettings?alt=com.azure.resourcemanager.sqlvirtualmachine.models.AssessmentSettings&text=AssessmentSettings\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public SqlVirtualMachineImpl withAssessmentSettings(AssessmentSettings assessmentSettings)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl?alt=com.azure.resourcemanager.sqlvirtualmachine.implementation.SqlVirtualMachineImpl&text=SqlVirtualMachineImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.sqlvirtualmachine.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-sqlvirtualmachine:1.0.0-beta.2

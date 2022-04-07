@@ -1,0 +1,17 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getLastModified*"
+fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getLastModified"
+name: "getLastModified"
+nameWithType: "BlobPropertiesInternalGetProperties.getLastModified"
+members:
+- uid: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getLastModified()"
+  fullName: "com.azure.storage.blob.implementation.models.BlobPropertiesInternalGetProperties.getLastModified()"
+  name: "getLastModified()"
+  nameWithType: "BlobPropertiesInternalGetProperties.getLastModified()"
+  syntax: "public OffsetDateTime getLastModified()"
+  returns:
+    type: "<xref href=\"java.time.OffsetDateTime?alt=java.time.OffsetDateTime&text=OffsetDateTime\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0

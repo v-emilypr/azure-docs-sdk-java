@@ -1,0 +1,23 @@
+### YamlMime:JavaMember
+uid: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setXMsVersion*"
+fullName: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setXMsVersion"
+name: "setXMsVersion"
+nameWithType: "ContainersFilterBlobsHeaders.setXMsVersion"
+members:
+- uid: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setXMsVersion(java.lang.String)"
+  fullName: "com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders.setXMsVersion(String xMsVersion)"
+  name: "setXMsVersion(String xMsVersion)"
+  nameWithType: "ContainersFilterBlobsHeaders.setXMsVersion(String xMsVersion)"
+  summary: "Set the xMsVersion property: The x-ms-version property."
+  parameters:
+  - description: "the xMsVersion value to set."
+    name: "xMsVersion"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public ContainersFilterBlobsHeaders setXMsVersion(String xMsVersion)"
+  returns:
+    description: "the ContainersFilterBlobsHeaders object itself."
+    type: "<xref href=\"com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders?alt=com.azure.storage.blob.implementation.models.ContainersFilterBlobsHeaders&text=ContainersFilterBlobsHeaders\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.storage.blob.implementation.models"
+artifact: com.azure:azure-storage-blob:12.15.0

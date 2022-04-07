@@ -1,0 +1,15 @@
+### YamlMime:JavaMember
+uid: "com.azure.core.amqp.implementation.ClientConstants.HOSTNAME_KEY*"
+fullName: "com.azure.core.amqp.implementation.ClientConstants.HOSTNAME_KEY"
+name: "HOSTNAME_KEY"
+nameWithType: "ClientConstants.HOSTNAME_KEY"
+members:
+- uid: "com.azure.core.amqp.implementation.ClientConstants.HOSTNAME_KEY"
+  fullName: "com.azure.core.amqp.implementation.ClientConstants.HOSTNAME_KEY"
+  name: "HOSTNAME_KEY"
+  nameWithType: "ClientConstants.HOSTNAME_KEY"
+  syntax: "public static final String HOSTNAME_KEY"
+type: "field"
+metadata: {}
+package: "com.azure.core.amqp.implementation"
+artifact: com.azure:azure-core-amqp:2.4.2

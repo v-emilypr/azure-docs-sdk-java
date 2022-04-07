@@ -1,0 +1,21 @@
+### YamlMime:JavaMember
+uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl.withIfMatch*"
+fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl.withIfMatch"
+name: "withIfMatch"
+nameWithType: "DnsResolverImpl.withIfMatch"
+members:
+- uid: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl.withIfMatch(java.lang.String)"
+  fullName: "com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl.withIfMatch(String ifMatch)"
+  name: "withIfMatch(String ifMatch)"
+  nameWithType: "DnsResolverImpl.withIfMatch(String ifMatch)"
+  summary: "Specifies the ifMatch property: ETag of the resource. Omit this value to always overwrite the current resource. Specify the last-seen ETag value to prevent accidentally overwriting any concurrent changes.."
+  parameters:
+  - name: "ifMatch"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public DnsResolverImpl withIfMatch(String ifMatch)"
+  returns:
+    type: "<xref href=\"com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl?alt=com.azure.resourcemanager.dnsresolver.implementation.DnsResolverImpl&text=DnsResolverImpl\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.resourcemanager.dnsresolver.implementation"
+artifact: com.azure.resourcemanager:azure-resourcemanager-dnsresolver:1.0.0-beta.1
