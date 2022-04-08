@@ -1,9 +1,0 @@
-### YamlMime:JavaPackage
-uid: "com.azure.cosmos.encryption.implementation.keyprovider"
-fullName: "com.azure.cosmos.encryption.implementation.keyprovider"
-name: "com.azure.cosmos.encryption.implementation.keyprovider"
-classes:
-- "com.azure.cosmos.encryption.implementation.keyprovider.EncryptionKeyStoreProviderImpl"
-metadata: {}
-package: "com.azure.cosmos.encryption.implementation.keyprovider"
-artifact: com.azure:azure-cosmos-encryption:1.0.0
